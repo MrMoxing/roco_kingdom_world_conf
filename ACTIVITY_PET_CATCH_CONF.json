@@ -1,7 +1,6 @@
 [
   {
     "id": 700001,
-    "editor_name": "第1期捕捉活动",
     "first_task_id": 91000045,
     "unlock_task_id": 91000045,
     "points_max": 12600,
@@ -84,7 +83,6 @@
   },
   {
     "id": 700002,
-    "editor_name": "第2期捕捉活动",
     "first_task_id": 91000045,
     "unlock_task_id": 91000045,
     "points_max": 12600,
@@ -167,7 +165,6 @@
   },
   {
     "id": 700003,
-    "editor_name": "第3期捕捉活动",
     "first_task_id": 91000045,
     "unlock_task_id": 91000045,
     "points_max": 12600,
@@ -250,7 +247,6 @@
   },
   {
     "id": 700004,
-    "editor_name": "第4期捕捉活动",
     "first_task_id": 91000045,
     "unlock_task_id": 91000045,
     "points_max": 12600,
@@ -333,7 +329,6 @@
   },
   {
     "id": 700005,
-    "editor_name": "第5期捕捉活动",
     "first_task_id": 91000045,
     "unlock_task_id": 91000045,
     "points_max": 12600,
@@ -416,7 +411,6 @@
   },
   {
     "id": 700006,
-    "editor_name": "第6期捕捉活动",
     "first_task_id": 91000045,
     "unlock_task_id": 91000045,
     "points_max": 12600,
@@ -499,7 +493,6 @@
   },
   {
     "id": 700007,
-    "editor_name": "第7期捕捉活动",
     "first_task_id": 91000045,
     "unlock_task_id": 91000045,
     "points_max": 12600,
@@ -582,7 +575,6 @@
   },
   {
     "id": 700008,
-    "editor_name": "第8期捕捉活动",
     "first_task_id": 91000045,
     "unlock_task_id": 91000045,
     "points_max": 12600,
@@ -665,7 +657,6 @@
   },
   {
     "id": 700009,
-    "editor_name": "第9期捕捉活动",
     "first_task_id": 91000045,
     "unlock_task_id": 91000045,
     "points_max": 12600,

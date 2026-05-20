@@ -185,41 +185,154 @@
     "chapter_type": 1,
     "chapter_num": 1,
     "next_chapter": 10202,
-    "chapter_name": "S2第一章",
-    "chapter_story_name": "S2第一章",
-    "chapter_story": "S2第一章",
-    "chapter_picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_Cha1_liansuo.ZS1_Cha1_liansuo'",
+    "chapter_name": "狂欢第一夜",
+    "chapter_story_name": "奇趣马戏团",
+    "chapter_story": "由传说精灵机幕方舟率领的神秘马戏团出现在交汇镇，听说只有真正热爱马戏的洛克才能从那奇怪的海报进入其中。\n马戏团中有各种新奇的精灵和各类神奇的藏品，快去一探究竟吧！",
+    "chapter_picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_c01.s2_c01'",
     "progress_text": "章节进度",
-    "rewards": 19501,
-    "pre_task": 60125010,
+    "rewards": 19531,
+    "pre_task": 70006018,
     "tasks": [
-      53501101,
-      53501102,
-      53501103
+      53503101,
+      53503102,
+      53503103,
+      53503104,
+      53503105,
+      53503106
     ],
-    "chapter_finish_task_num": 1
+    "chapter_finish_task_num": 3,
+    "open_at_season_start": [
+      53503101,
+      53503102,
+      53503103,
+      53503104,
+      53503105,
+      53503106
+    ]
   },
   {
     "id": 10202,
     "group_id": 102,
-    "chapter_type": 2,
+    "chapter_type": 1,
     "chapter_num": 2,
-    "chapter_name": "S2第二章",
-    "chapter_story_name": "S2第二章",
-    "chapter_story": "S2第二章",
-    "chapter_picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_Cha2_xingge.ZS1_Cha2_xingge'",
-    "progress_text": "徽章进度",
+    "next_chapter": 10203,
+    "chapter_name": "狂欢第二夜",
+    "chapter_story_name": "奇遇惊喜盒",
+    "chapter_story": "机幕方舟用其引以为傲的创造能力建立了马戏团，它四处招募团员、排练节目，但偶尔也会搞砸。\n一些调皮的精灵躲进了马戏团的盒子之中，那些原本为洛克带来惊喜的盒子四处散落，也许里面有我从未见过的精灵？",
+    "chapter_picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_c02.s2_c02'",
+    "progress_text": "章节进度",
+    "rewards": 19532,
+    "pre_task": 70007018,
     "tasks": [
-      53501201,
-      53501202,
-      53501203,
-      53501204
+      53503201,
+      53503202,
+      53503203,
+      53503204,
+      53503205,
+      53503206
+    ],
+    "chapter_finish_task_num": 4,
+    "open_at_season_start": [
+      53503201,
+      53503202,
+      53503203,
+      53503204,
+      53503205,
+      53503206
+    ]
+  },
+  {
+    "id": 10203,
+    "group_id": 102,
+    "chapter_type": 1,
+    "chapter_num": 3,
+    "next_chapter": 10204,
+    "chapter_name": "狂欢第三夜",
+    "chapter_story_name": "奇怪节目单",
+    "chapter_story": "马戏团中聚集了许多可爱的精灵们，它们各有绝活，期望为到访的洛克带来前所未有的欢乐。\n有些熟悉的洛克已经出现在了马戏团之中，也许他们来到这里的目的并不单纯。",
+    "chapter_picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_c03.s2_c03'",
+    "progress_text": "章节进度",
+    "rewards": 19533,
+    "pre_task": 70008005,
+    "tasks": [
+      53503301,
+      53503302,
+      53503303,
+      53503304,
+      53503305,
+      53503306
+    ],
+    "chapter_finish_task_num": 5,
+    "open_at_season_start": [
+      53503301,
+      53503302,
+      53503303,
+      53503304,
+      53503305,
+      53503306
+    ]
+  },
+  {
+    "id": 10204,
+    "group_id": 102,
+    "chapter_type": 1,
+    "chapter_num": 4,
+    "next_chapter": 10205,
+    "chapter_name": "狂欢第四夜",
+    "chapter_story_name": "奇幻谢幕曲",
+    "chapter_story": "帮助希洛与机幕方舟让马戏团重获了活力，不久之后他们将踏上正式的巡演之路。\n我也因此得到了机幕方舟的认可，与传说精灵建立契约的机会就在眼前了，这么好的机会我可不会错过！",
+    "chapter_picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_c04.s2_c04'",
+    "progress_text": "章节进度",
+    "rewards": 19534,
+    "pre_task": 70009015,
+    "tasks": [
+      53503401,
+      53503402,
+      53503403,
+      53503404,
+      53503405,
+      53503406
+    ],
+    "chapter_finish_task_num": 5,
+    "open_at_season_start": [
+      53503401,
+      53503402,
+      53503403,
+      53503404,
+      53503405,
+      53503406
+    ]
+  },
+  {
+    "id": 10205,
+    "group_id": 102,
+    "chapter_type": 2,
+    "chapter_num": 5,
+    "chapter_name": "狂欢最终夜",
+    "chapter_story_name": "奇妙果实树",
+    "chapter_story": "关于「心」的故事还在继续。\n一颗洋溢热情的心，一颗渴望友情的心，一颗满怀勇气的心……\n究竟是「心」让精灵更特别？还是特别的精灵拥有了「心」？\n这个问题并不会出现在魔法学院的课堂上，也许该由我自己寻找答案。",
+    "chapter_picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_c05.s2_c05'",
+    "progress_text": "徽章进度",
+    "pre_task": 53503005,
+    "tasks": [
+      53503650,
+      53503651,
+      53503652,
+      53503653,
+      53503654,
+      53503655,
+      53503656,
+      53503657
     ],
     "open_at_season_start": [
-      53501201,
-      53501202,
-      53501203,
-      53501204
+      53503650,
+      53503651,
+      53503652,
+      53503653,
+      53503654,
+      53503655,
+      53503656,
+      53503657
     ]
   }
 ]

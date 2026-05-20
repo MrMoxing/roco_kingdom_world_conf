@@ -1,8 +1,7 @@
 [
   {
     "id": 1,
-    "name": "初始头发1",
-    "editor_name": "初始头发1",
+    "name": "初始发型1",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
@@ -12,12 +11,13 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 2,
-    "name": "初始头发1",
-    "editor_name": "初始头发1",
+    "name": "初始发型1",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
@@ -27,12 +27,13 @@
     ],
     "texture_id": 2,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 3,
-    "name": "初始头发1",
-    "editor_name": "初始头发1",
+    "name": "初始发型1",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
@@ -42,12 +43,13 @@
     ],
     "texture_id": 3,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 4,
-    "name": "初始头发1",
-    "editor_name": "初始头发1",
+    "name": "初始发型1",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
@@ -57,12 +59,13 @@
     ],
     "texture_id": 4,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 5,
-    "name": "初始头发1",
-    "editor_name": "初始头发1",
+    "name": "初始发型1",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
@@ -72,12 +75,13 @@
     ],
     "texture_id": 5,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 6,
-    "name": "初始头发2",
-    "editor_name": "初始头发2",
+    "name": "初始发型2",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11002003.11002003'",
@@ -87,12 +91,13 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 7,
-    "name": "初始头发2",
-    "editor_name": "初始头发2",
+    "name": "初始发型2",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11002003.11002003'",
@@ -102,12 +107,13 @@
     ],
     "texture_id": 2,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 8,
-    "name": "初始头发2",
-    "editor_name": "初始头发2",
+    "name": "初始发型2",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11002003.11002003'",
@@ -117,12 +123,13 @@
     ],
     "texture_id": 3,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 9,
-    "name": "初始头发2",
-    "editor_name": "初始头发2",
+    "name": "初始发型2",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11002003.11002003'",
@@ -132,12 +139,13 @@
     ],
     "texture_id": 4,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 10,
-    "name": "初始头发2",
-    "editor_name": "初始头发2",
+    "name": "初始发型2",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11002003.11002003'",
@@ -147,12 +155,13 @@
     ],
     "texture_id": 5,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 11,
-    "name": "初始头发3",
-    "editor_name": "初始头发3",
+    "name": "初始发型3",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11003004.11003004'",
@@ -162,12 +171,13 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 12,
-    "name": "初始头发3",
-    "editor_name": "初始头发3",
+    "name": "初始发型3",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11003004.11003004'",
@@ -177,12 +187,13 @@
     ],
     "texture_id": 2,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 13,
-    "name": "初始头发3",
-    "editor_name": "初始头发3",
+    "name": "初始发型3",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11003004.11003004'",
@@ -192,12 +203,13 @@
     ],
     "texture_id": 3,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 14,
-    "name": "初始头发3",
-    "editor_name": "初始头发3",
+    "name": "初始发型3",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11003004.11003004'",
@@ -207,12 +219,13 @@
     ],
     "texture_id": 4,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 15,
-    "name": "初始头发3",
-    "editor_name": "初始头发3",
+    "name": "初始发型3",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11003004.11003004'",
@@ -222,12 +235,13 @@
     ],
     "texture_id": 5,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 16,
     "name": "圣骑士发型-默认色",
-    "editor_name": "圣骑士发型-默认色",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11005006.11005006'",
@@ -237,12 +251,13 @@
     ],
     "texture_id": 1,
     "is_present_colour": true,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 17,
     "name": "圣骑士发型-星光狮印象",
-    "editor_name": "圣骑士发型-星光狮印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100502.10100502'",
@@ -253,12 +268,13 @@
       "#c9882d"
     ],
     "texture_id": 2,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 18,
     "name": "圣骑士发型-烈火守护印象",
-    "editor_name": "圣骑士发型-烈火守护印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100503.10100503'",
@@ -269,12 +285,13 @@
       "#e4e1e2"
     ],
     "texture_id": 3,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 19,
     "name": "圣骑士发型-皇家狮鹫印象",
-    "editor_name": "圣骑士发型-皇家狮鹫印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100504.10100504'",
@@ -285,12 +302,13 @@
       "#fbdb6d"
     ],
     "texture_id": 4,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 20,
     "name": "游侠发型-默认色",
-    "editor_name": "游侠发型-默认色",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11012013.11012013'",
@@ -300,12 +318,13 @@
     ],
     "texture_id": 1,
     "is_present_colour": true,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 21,
     "name": "游侠发型-音速犬印象",
-    "editor_name": "游侠发型-音速犬印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101202.10101202'",
@@ -316,12 +335,13 @@
       "#c37659"
     ],
     "texture_id": 2,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 22,
     "name": "游侠发型-岚鸟印象",
-    "editor_name": "游侠发型-岚鸟印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101203.10101203'",
@@ -332,12 +352,13 @@
       "#ffffff"
     ],
     "texture_id": 3,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 23,
     "name": "游侠发型-厉毒修萝印象",
-    "editor_name": "游侠发型-厉毒修萝印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101204.10101204'",
@@ -348,12 +369,13 @@
       "#99925e"
     ],
     "texture_id": 4,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 24,
     "name": "舞会发型-默认色",
-    "editor_name": "舞会发型-默认色",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11013014.11013014'",
@@ -363,12 +385,13 @@
     ],
     "texture_id": 1,
     "is_present_colour": true,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 25,
     "name": "舞会发型-翠顶夫人印象",
-    "editor_name": "舞会发型-翠顶夫人印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101302.10101302'",
@@ -379,12 +402,13 @@
       "#f2e5e1"
     ],
     "texture_id": 2,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 26,
     "name": "舞会发型-花魁蜂后印象",
-    "editor_name": "舞会发型-花魁蜂后印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101303.10101303'",
@@ -395,12 +419,13 @@
       "#f3c950"
     ],
     "texture_id": 3,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 27,
     "name": "舞会发型-卡洛儿印象",
-    "editor_name": "舞会发型-卡洛儿印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101304.10101304'",
@@ -411,12 +436,13 @@
       "#e5a4c6"
     ],
     "texture_id": 4,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 28,
     "name": "雪山发型-默认色",
-    "editor_name": "雪山发型-默认色",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11004005.11004005'",
@@ -426,12 +452,13 @@
     ],
     "texture_id": 1,
     "is_present_colour": true,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 29,
     "name": "雪山发型-圣代甜甜印象",
-    "editor_name": "雪山发型-圣代甜甜印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100402.10100402'",
@@ -442,12 +469,13 @@
       "#f6ebe8"
     ],
     "texture_id": 2,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 30,
     "name": "雪山发型-獠牙猪印象",
-    "editor_name": "雪山发型-獠牙猪印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100403.10100403'",
@@ -458,12 +486,13 @@
       "#f7faea"
     ],
     "texture_id": 3,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 31,
     "name": "雪山发型-蒲公英娃娃印象",
-    "editor_name": "雪山发型-蒲公英娃娃印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100404.10100404'",
@@ -474,12 +503,13 @@
       "#fef3af"
     ],
     "texture_id": 4,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 32,
     "name": "雪山发型-雪灵印象",
-    "editor_name": "雪山发型-雪灵印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100405.10100405'",
@@ -490,12 +520,13 @@
       "#a2c2df"
     ],
     "texture_id": 5,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 33,
     "name": "眉毛1",
-    "editor_name": "眉毛1",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12000001.12000001'",
@@ -505,12 +536,12 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 34,
     "name": "眉毛1",
-    "editor_name": "眉毛1",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12000001.12000001'",
@@ -520,12 +551,12 @@
     ],
     "texture_id": 2,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 35,
     "name": "眉毛1",
-    "editor_name": "眉毛1",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12000001.12000001'",
@@ -535,12 +566,12 @@
     ],
     "texture_id": 3,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 36,
     "name": "眉毛1",
-    "editor_name": "眉毛1",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12000001.12000001'",
@@ -550,12 +581,12 @@
     ],
     "texture_id": 4,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 37,
     "name": "眉毛1",
-    "editor_name": "眉毛1",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12000001.12000001'",
@@ -565,12 +596,12 @@
     ],
     "texture_id": 5,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 38,
     "name": "眉毛2",
-    "editor_name": "眉毛2",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12001001.12001001'",
@@ -580,12 +611,12 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 39,
     "name": "眉毛2",
-    "editor_name": "眉毛2",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12001001.12001001'",
@@ -595,12 +626,12 @@
     ],
     "texture_id": 2,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 40,
     "name": "眉毛2",
-    "editor_name": "眉毛2",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12001001.12001001'",
@@ -610,12 +641,12 @@
     ],
     "texture_id": 3,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 41,
     "name": "眉毛2",
-    "editor_name": "眉毛2",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12001001.12001001'",
@@ -625,12 +656,12 @@
     ],
     "texture_id": 4,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 42,
     "name": "眉毛2",
-    "editor_name": "眉毛2",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12001001.12001001'",
@@ -640,12 +671,12 @@
     ],
     "texture_id": 5,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 43,
     "name": "眉毛3",
-    "editor_name": "眉毛3",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12002001.12002001'",
@@ -655,12 +686,12 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 44,
     "name": "眉毛3",
-    "editor_name": "眉毛3",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12002001.12002001'",
@@ -670,12 +701,12 @@
     ],
     "texture_id": 2,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 45,
     "name": "眉毛3",
-    "editor_name": "眉毛3",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12002001.12002001'",
@@ -685,12 +716,12 @@
     ],
     "texture_id": 3,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 46,
     "name": "眉毛3",
-    "editor_name": "眉毛3",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12002001.12002001'",
@@ -700,12 +731,12 @@
     ],
     "texture_id": 4,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 47,
     "name": "眉毛3",
-    "editor_name": "眉毛3",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12002001.12002001'",
@@ -715,12 +746,12 @@
     ],
     "texture_id": 5,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 48,
     "name": "眉毛4",
-    "editor_name": "眉毛4",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12003001.12003001'",
@@ -730,12 +761,12 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 49,
     "name": "眉毛4",
-    "editor_name": "眉毛4",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12003001.12003001'",
@@ -745,12 +776,12 @@
     ],
     "texture_id": 2,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 50,
     "name": "眉毛4",
-    "editor_name": "眉毛4",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12003001.12003001'",
@@ -760,12 +791,12 @@
     ],
     "texture_id": 3,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 51,
     "name": "眉毛4",
-    "editor_name": "眉毛4",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12003001.12003001'",
@@ -775,12 +806,12 @@
     ],
     "texture_id": 4,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 52,
     "name": "眉毛4",
-    "editor_name": "眉毛4",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12003001.12003001'",
@@ -790,12 +821,12 @@
     ],
     "texture_id": 5,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 53,
     "name": "眉毛5",
-    "editor_name": "眉毛5",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12004001.12004001'",
@@ -805,12 +836,12 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 54,
     "name": "眉毛5",
-    "editor_name": "眉毛5",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12004001.12004001'",
@@ -820,12 +851,12 @@
     ],
     "texture_id": 2,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 55,
     "name": "眉毛5",
-    "editor_name": "眉毛5",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12004001.12004001'",
@@ -835,12 +866,12 @@
     ],
     "texture_id": 3,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 56,
     "name": "眉毛5",
-    "editor_name": "眉毛5",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12004001.12004001'",
@@ -850,12 +881,12 @@
     ],
     "texture_id": 4,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 57,
     "name": "眉毛5",
-    "editor_name": "眉毛5",
     "gender": 1,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12004001.12004001'",
@@ -865,193 +896,193 @@
     ],
     "texture_id": 5,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 58,
-    "name": "眼睛形状1",
-    "editor_name": "眼睛形状1",
+    "name": "眼型1",
     "gender": 1,
     "type": 3,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13000000.13000000'",
     "avatar_id": 13000000,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 59,
-    "name": "眼睛形状2",
-    "editor_name": "眼睛形状2",
+    "name": "眼型2",
     "gender": 1,
     "type": 3,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13001000.13001000'",
     "avatar_id": 13001000,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 60,
-    "name": "眼睛形状3",
-    "editor_name": "眼睛形状3",
+    "name": "眼型3",
     "gender": 1,
     "type": 3,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13002000.13002000'",
     "avatar_id": 13002000,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 61,
-    "name": "睫毛-翠顶夫人印象",
-    "editor_name": "睫毛-翠顶夫人印象",
+    "name": "眼型-翠顶夫人印象",
     "gender": 1,
     "type": 3,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13003000.13003000'",
     "avatar_id": 13003000,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true
   },
   {
     "id": 62,
-    "name": "睫毛-花魁蜂后印象",
-    "editor_name": "睫毛-花魁蜂后印象",
+    "name": "眼型-花魁蜂后印象",
     "gender": 1,
     "type": 3,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13004000.13004000'",
     "avatar_id": 13004000,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true
   },
   {
     "id": 63,
-    "name": "睫毛-卡洛儿印象",
-    "editor_name": "睫毛-卡洛儿印象",
+    "name": "眼型-卡洛儿印象",
     "gender": 1,
     "type": 3,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13005000.13005000'",
     "avatar_id": 13005000,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true
   },
   {
     "id": 64,
-    "name": "贴花1",
-    "editor_name": "贴花1",
+    "name": "面妆1",
     "gender": 1,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000001.15000001'",
     "avatar_id": 15000001,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 65,
-    "name": "贴花2",
-    "editor_name": "贴花2",
+    "name": "面妆2",
     "gender": 1,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000002.15000002'",
     "avatar_id": 15000002,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 67,
-    "name": "贴花4",
-    "editor_name": "贴花4",
+    "name": "面妆3",
     "gender": 1,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000004.15000004'",
     "avatar_id": 15000004,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 68,
-    "name": "贴花5",
-    "editor_name": "贴花5",
+    "name": "面妆4",
     "gender": 1,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000005.15000005'",
     "avatar_id": 15000005,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 69,
-    "name": "贴花6",
-    "editor_name": "贴花6",
+    "name": "面妆5",
     "gender": 1,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000006.15000006'",
     "avatar_id": 15000006,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 70,
-    "name": "贴花7",
-    "editor_name": "贴花7",
+    "name": "面妆6",
     "gender": 1,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000007.15000007'",
     "avatar_id": 15000007,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 72,
-    "name": "贴花9",
-    "editor_name": "贴花9",
+    "name": "面妆7",
     "gender": 1,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000009.15000009'",
     "avatar_id": 15000009,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 73,
-    "name": "贴花10",
-    "editor_name": "贴花10",
+    "name": "面妆8",
     "gender": 1,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000010.15000010'",
     "avatar_id": 15000010,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 74,
     "name": "面妆-星光狮印象",
-    "editor_name": "面妆-星光狮印象",
     "gender": 1,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000011.25000011'",
     "avatar_id": 15000011,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true
   },
   {
     "id": 75,
     "name": "面妆-烈火守护印象",
-    "editor_name": "面妆-烈火守护印象",
     "gender": 1,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000012.25000012'",
     "avatar_id": 15000012,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true
   },
   {
     "id": 76,
     "name": "面妆-皇家狮鹫印象",
-    "editor_name": "面妆-皇家狮鹫印象",
     "gender": 1,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000013.25000013'",
     "avatar_id": 15000013,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true
   },
   {
     "id": 77,
-    "name": "初始头发1",
-    "editor_name": "初始头发1",
+    "name": "初始发型1",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21000001.21000001'",
@@ -1061,12 +1092,13 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 78,
-    "name": "初始头发1",
-    "editor_name": "初始头发1",
+    "name": "初始发型1",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21000001.21000001'",
@@ -1076,12 +1108,13 @@
     ],
     "texture_id": 2,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 79,
-    "name": "初始头发1",
-    "editor_name": "初始头发1",
+    "name": "初始发型1",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21000001.21000001'",
@@ -1091,12 +1124,13 @@
     ],
     "texture_id": 3,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 80,
-    "name": "初始头发1",
-    "editor_name": "初始头发1",
+    "name": "初始发型1",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21000001.21000001'",
@@ -1106,12 +1140,13 @@
     ],
     "texture_id": 4,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 81,
-    "name": "初始头发1",
-    "editor_name": "初始头发1",
+    "name": "初始发型1",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21000001.21000001'",
@@ -1121,12 +1156,13 @@
     ],
     "texture_id": 5,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 82,
-    "name": "初始头发2",
-    "editor_name": "初始头发2",
+    "name": "初始发型2",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21003004.21003004'",
@@ -1136,12 +1172,13 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 83,
-    "name": "初始头发2",
-    "editor_name": "初始头发2",
+    "name": "初始发型2",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21003004.21003004'",
@@ -1151,12 +1188,13 @@
     ],
     "texture_id": 2,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 84,
-    "name": "初始头发2",
-    "editor_name": "初始头发2",
+    "name": "初始发型2",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21003004.21003004'",
@@ -1166,12 +1204,13 @@
     ],
     "texture_id": 3,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 85,
-    "name": "初始头发2",
-    "editor_name": "初始头发2",
+    "name": "初始发型2",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21003004.21003004'",
@@ -1181,12 +1220,13 @@
     ],
     "texture_id": 4,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 86,
-    "name": "初始头发2",
-    "editor_name": "初始头发2",
+    "name": "初始发型2",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21003004.21003004'",
@@ -1196,12 +1236,13 @@
     ],
     "texture_id": 5,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 87,
-    "name": "初始头发3",
-    "editor_name": "初始头发3",
+    "name": "初始发型3",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21007008.21007008'",
@@ -1211,12 +1252,13 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 88,
-    "name": "初始头发3",
-    "editor_name": "初始头发3",
+    "name": "初始发型3",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21007008.21007008'",
@@ -1226,12 +1268,13 @@
     ],
     "texture_id": 2,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 89,
-    "name": "初始头发3",
-    "editor_name": "初始头发3",
+    "name": "初始发型3",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21007008.21007008'",
@@ -1241,12 +1284,13 @@
     ],
     "texture_id": 3,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 90,
-    "name": "初始头发3",
-    "editor_name": "初始头发3",
+    "name": "初始发型3",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21007008.21007008'",
@@ -1256,12 +1300,13 @@
     ],
     "texture_id": 4,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 91,
-    "name": "初始头发3",
-    "editor_name": "初始头发3",
+    "name": "初始发型3",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21007008.21007008'",
@@ -1271,12 +1316,13 @@
     ],
     "texture_id": 5,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 92,
     "name": "圣骑士发型-默认色",
-    "editor_name": "圣骑士发型-默认色",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21005006.21005006'",
@@ -1286,12 +1332,13 @@
     ],
     "texture_id": 1,
     "is_present_colour": true,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 93,
     "name": "圣骑士发型-星光狮印象",
-    "editor_name": "圣骑士发型-星光狮印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100502.20100502'",
@@ -1302,12 +1349,13 @@
       "#c9882d"
     ],
     "texture_id": 2,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 94,
     "name": "圣骑士发型-烈火守护印象",
-    "editor_name": "圣骑士发型-烈火守护印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100503.20100503'",
@@ -1318,12 +1366,13 @@
       "#e4e1e2"
     ],
     "texture_id": 3,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 95,
     "name": "圣骑士发型-皇家狮鹫印象",
-    "editor_name": "圣骑士发型-皇家狮鹫印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100504.20100504'",
@@ -1334,12 +1383,13 @@
       "#fbdb6d"
     ],
     "texture_id": 4,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 96,
     "name": "游侠发型-默认色",
-    "editor_name": "游侠发型-默认色",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21012013.21012013'",
@@ -1349,12 +1399,13 @@
     ],
     "texture_id": 1,
     "is_present_colour": true,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 97,
     "name": "游侠发型-音速犬印象",
-    "editor_name": "游侠发型-音速犬印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101202.20101202'",
@@ -1365,12 +1416,13 @@
       "#c37659"
     ],
     "texture_id": 2,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 98,
     "name": "游侠发型-岚鸟印象",
-    "editor_name": "游侠发型-岚鸟印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101203.20101203'",
@@ -1381,12 +1433,13 @@
       "#ffffff"
     ],
     "texture_id": 3,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 99,
     "name": "游侠发型-厉毒修萝印象",
-    "editor_name": "游侠发型-厉毒修萝印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101204.20101204'",
@@ -1397,12 +1450,13 @@
       "#99925e"
     ],
     "texture_id": 4,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 100,
     "name": "舞会发型-默认色",
-    "editor_name": "舞会发型-默认色",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21013014.21013014'",
@@ -1412,12 +1466,13 @@
     ],
     "texture_id": 1,
     "is_present_colour": true,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 101,
     "name": "舞会发型-翠顶夫人印象",
-    "editor_name": "舞会发型-翠顶夫人印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101302.20101302'",
@@ -1428,12 +1483,13 @@
       "#f2e5e1"
     ],
     "texture_id": 2,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 102,
     "name": "舞会发型-花魁蜂后印象",
-    "editor_name": "舞会发型-花魁蜂后印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101303.20101303'",
@@ -1444,12 +1500,13 @@
       "#f3c950"
     ],
     "texture_id": 3,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 103,
     "name": "舞会发型-卡洛儿印象",
-    "editor_name": "舞会发型-卡洛儿印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101304.20101304'",
@@ -1460,12 +1517,13 @@
       "#e5a4c6"
     ],
     "texture_id": 4,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 104,
     "name": "雪山发型-默认色",
-    "editor_name": "雪山发型-默认色",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21004005.21004005'",
@@ -1475,12 +1533,13 @@
     ],
     "texture_id": 1,
     "is_present_colour": true,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 105,
     "name": "雪山发型-圣代甜甜印象",
-    "editor_name": "雪山发型-圣代甜甜印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100402.20100402'",
@@ -1491,12 +1550,13 @@
       "#f6ebe8"
     ],
     "texture_id": 2,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 106,
     "name": "雪山发型-獠牙猪印象",
-    "editor_name": "雪山发型-獠牙猪印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100403.20100403'",
@@ -1507,12 +1567,13 @@
       "#f7faea"
     ],
     "texture_id": 3,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 107,
     "name": "雪山发型-蒲公英娃娃印象",
-    "editor_name": "雪山发型-蒲公英娃娃印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100404.20100404'",
@@ -1523,12 +1584,13 @@
       "#fef3af"
     ],
     "texture_id": 4,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 108,
     "name": "雪山发型-雪灵印象",
-    "editor_name": "雪山发型-雪灵印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100405.20100405'",
@@ -1539,12 +1601,13 @@
       "#a2c2df"
     ],
     "texture_id": 5,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 109,
     "name": "眉毛1",
-    "editor_name": "眉毛1",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22000001.22000001'",
@@ -1554,12 +1617,12 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 110,
     "name": "眉毛1",
-    "editor_name": "眉毛1",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22000001.22000001'",
@@ -1569,12 +1632,12 @@
     ],
     "texture_id": 2,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 111,
     "name": "眉毛1",
-    "editor_name": "眉毛1",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22000001.22000001'",
@@ -1584,12 +1647,12 @@
     ],
     "texture_id": 3,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 112,
     "name": "眉毛1",
-    "editor_name": "眉毛1",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22000001.22000001'",
@@ -1599,12 +1662,12 @@
     ],
     "texture_id": 4,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 113,
     "name": "眉毛1",
-    "editor_name": "眉毛1",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22000001.22000001'",
@@ -1614,12 +1677,12 @@
     ],
     "texture_id": 5,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 114,
     "name": "眉毛2",
-    "editor_name": "眉毛2",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22001001.22001001'",
@@ -1629,12 +1692,12 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 115,
     "name": "眉毛2",
-    "editor_name": "眉毛2",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22001001.22001001'",
@@ -1644,12 +1707,12 @@
     ],
     "texture_id": 2,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 116,
     "name": "眉毛2",
-    "editor_name": "眉毛2",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22001001.22001001'",
@@ -1659,12 +1722,12 @@
     ],
     "texture_id": 3,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 117,
     "name": "眉毛2",
-    "editor_name": "眉毛2",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22001001.22001001'",
@@ -1674,12 +1737,12 @@
     ],
     "texture_id": 4,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 118,
     "name": "眉毛2",
-    "editor_name": "眉毛2",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22001001.22001001'",
@@ -1689,12 +1752,12 @@
     ],
     "texture_id": 5,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 119,
     "name": "眉毛3",
-    "editor_name": "眉毛3",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22002001.22002001'",
@@ -1704,12 +1767,12 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 120,
     "name": "眉毛3",
-    "editor_name": "眉毛3",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22002001.22002001'",
@@ -1719,12 +1782,12 @@
     ],
     "texture_id": 2,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 121,
     "name": "眉毛3",
-    "editor_name": "眉毛3",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22002001.22002001'",
@@ -1734,12 +1797,12 @@
     ],
     "texture_id": 3,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 122,
     "name": "眉毛3",
-    "editor_name": "眉毛3",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22002001.22002001'",
@@ -1749,12 +1812,12 @@
     ],
     "texture_id": 4,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 123,
     "name": "眉毛3",
-    "editor_name": "眉毛3",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22002001.22002001'",
@@ -1764,12 +1827,12 @@
     ],
     "texture_id": 5,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 124,
     "name": "眉毛4",
-    "editor_name": "眉毛4",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22003001.22003001'",
@@ -1779,12 +1842,12 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 125,
     "name": "眉毛4",
-    "editor_name": "眉毛4",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22003001.22003001'",
@@ -1794,12 +1857,12 @@
     ],
     "texture_id": 2,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 126,
     "name": "眉毛4",
-    "editor_name": "眉毛4",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22003001.22003001'",
@@ -1809,12 +1872,12 @@
     ],
     "texture_id": 3,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 127,
     "name": "眉毛4",
-    "editor_name": "眉毛4",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22003001.22003001'",
@@ -1824,12 +1887,12 @@
     ],
     "texture_id": 4,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 128,
     "name": "眉毛4",
-    "editor_name": "眉毛4",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22003001.22003001'",
@@ -1839,12 +1902,12 @@
     ],
     "texture_id": 5,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 129,
     "name": "眉毛5",
-    "editor_name": "眉毛5",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22004001.22004001'",
@@ -1854,12 +1917,12 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 130,
     "name": "眉毛5",
-    "editor_name": "眉毛5",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22004001.22004001'",
@@ -1869,12 +1932,12 @@
     ],
     "texture_id": 2,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 131,
     "name": "眉毛5",
-    "editor_name": "眉毛5",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22004001.22004001'",
@@ -1884,12 +1947,12 @@
     ],
     "texture_id": 3,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 132,
     "name": "眉毛5",
-    "editor_name": "眉毛5",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22004001.22004001'",
@@ -1899,12 +1962,12 @@
     ],
     "texture_id": 4,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 133,
     "name": "眉毛5",
-    "editor_name": "眉毛5",
     "gender": 2,
     "type": 2,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22004001.22004001'",
@@ -1914,223 +1977,223 @@
     ],
     "texture_id": 5,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 134,
-    "name": "眼睛形状1",
-    "editor_name": "眼睛形状1",
+    "name": "眼型1",
     "gender": 2,
     "type": 3,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23000000.23000000'",
     "avatar_id": 23000000,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 135,
-    "name": "眼睛形状2",
-    "editor_name": "眼睛形状2",
+    "name": "眼型2",
     "gender": 2,
     "type": 3,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23001000.23001000'",
     "avatar_id": 23001000,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 136,
-    "name": "眼睛形状3",
-    "editor_name": "眼睛形状3",
+    "name": "眼型3",
     "gender": 2,
     "type": 3,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23002000.23002000'",
     "avatar_id": 23002000,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 137,
-    "name": "睫毛-翠顶夫人印象",
-    "editor_name": "睫毛-翠顶夫人印象",
+    "name": "眼型-翠顶夫人印象",
     "gender": 2,
     "type": 3,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23003000.23003000'",
     "avatar_id": 23003000,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true
   },
   {
     "id": 138,
-    "name": "睫毛-花魁蜂后印象",
-    "editor_name": "睫毛-花魁蜂后印象",
+    "name": "眼型-花魁蜂后印象",
     "gender": 2,
     "type": 3,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23004000.23004000'",
     "avatar_id": 23004000,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true
   },
   {
     "id": 139,
-    "name": "睫毛-卡洛儿印象",
-    "editor_name": "睫毛-卡洛儿印象",
+    "name": "眼型-卡洛儿印象",
     "gender": 2,
     "type": 3,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23005000.23005000'",
     "avatar_id": 23005000,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true
   },
   {
     "id": 140,
-    "name": "贴花1",
-    "editor_name": "贴花1",
+    "name": "面妆1",
     "gender": 2,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000001.25000001'",
     "avatar_id": 25000001,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 141,
-    "name": "贴花2",
-    "editor_name": "贴花2",
+    "name": "面妆2",
     "gender": 2,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000002.25000002'",
     "avatar_id": 25000002,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 143,
-    "name": "贴花4",
-    "editor_name": "贴花4",
+    "name": "面妆3",
     "gender": 2,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000004.25000004'",
     "avatar_id": 25000004,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 144,
-    "name": "贴花5",
-    "editor_name": "贴花5",
+    "name": "面妆4",
     "gender": 2,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000005.25000005'",
     "avatar_id": 25000005,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 145,
-    "name": "贴花6",
-    "editor_name": "贴花6",
+    "name": "面妆5",
     "gender": 2,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000006.25000006'",
     "avatar_id": 25000006,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 146,
-    "name": "贴花7",
-    "editor_name": "贴花7",
+    "name": "面妆6",
     "gender": 2,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000007.25000007'",
     "avatar_id": 25000007,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 148,
-    "name": "贴花9",
-    "editor_name": "贴花9",
+    "name": "面妆7",
     "gender": 2,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000009.25000009'",
     "avatar_id": 25000009,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 149,
-    "name": "贴花10",
-    "editor_name": "贴花10",
+    "name": "面妆8",
     "gender": 2,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000010.25000010'",
     "avatar_id": 25000010,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 150,
     "name": "面妆-星光狮印象",
-    "editor_name": "面妆-星光狮印象",
     "gender": 2,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000011.25000011'",
     "avatar_id": 25000011,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true
   },
   {
     "id": 151,
     "name": "面妆-烈火守护印象",
-    "editor_name": "面妆-烈火守护印象",
     "gender": 2,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000012.25000012'",
     "avatar_id": 25000012,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true
   },
   {
     "id": 152,
     "name": "面妆-皇家狮鹫印象",
-    "editor_name": "面妆-皇家狮鹫印象",
     "gender": 2,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000013.25000013'",
     "avatar_id": 25000013,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true
   },
   {
     "id": 153,
-    "name": "肤色1自然色",
-    "editor_name": "自然色",
+    "name": "肤色1",
     "gender": 3,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000001.30000001'",
     "avatar_id": 30000001,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 154,
-    "name": "肤色2小麦色",
-    "editor_name": "小麦色",
+    "name": "肤色2",
     "gender": 3,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000002.30000002'",
     "avatar_id": 30000002,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 155,
-    "name": "肤色3粉白色",
-    "editor_name": "粉白色",
+    "name": "肤色3",
     "gender": 3,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000003.30000003'",
     "avatar_id": 30000003,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 157,
     "name": "瞳孔1",
-    "editor_name": "瞳孔1",
     "gender": 3,
     "type": 4,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000001.34000001'",
@@ -2140,12 +2203,12 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 162,
     "name": "瞳孔2",
-    "editor_name": "瞳孔2",
     "gender": 3,
     "type": 4,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000002.34000002'",
@@ -2155,12 +2218,12 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 167,
     "name": "瞳孔3",
-    "editor_name": "瞳孔3",
     "gender": 3,
     "type": 4,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000003.34000003'",
@@ -2170,12 +2233,12 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 172,
     "name": "瞳孔4",
-    "editor_name": "瞳孔4",
     "gender": 3,
     "type": 4,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000004.34000004'",
@@ -2185,12 +2248,12 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 177,
     "name": "瞳孔5",
-    "editor_name": "瞳孔5",
     "gender": 3,
     "type": 4,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000005.34000005'",
@@ -2200,12 +2263,12 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 182,
     "name": "瞳孔6",
-    "editor_name": "瞳孔6",
     "gender": 3,
     "type": 4,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000006.34000006'",
@@ -2215,12 +2278,12 @@
     ],
     "texture_id": 1,
     "is_free_item": true,
-    "item_quality": 3
+    "item_quality": 3,
+    "launch_item": true
   },
   {
     "id": 183,
     "name": "童话发型-默认色",
-    "editor_name": "童话发型-默认色",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11014015.11014015'",
@@ -2230,12 +2293,13 @@
     ],
     "texture_id": 1,
     "is_present_colour": true,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 184,
     "name": "童话发型-花衣蝶印象",
-    "editor_name": "童话发型-花衣蝶印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101402.10101402'",
@@ -2246,12 +2310,13 @@
       "#d4de6b"
     ],
     "texture_id": 2,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 185,
     "name": "童话发型-红绒十字印象",
-    "editor_name": "童话发型-红绒十字印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101403.10101403'",
@@ -2262,12 +2327,13 @@
       "#b72920"
     ],
     "texture_id": 3,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 186,
     "name": "童话发型-白金独角兽印象",
-    "editor_name": "童话发型-白金独角兽印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101404.10101404'",
@@ -2278,12 +2344,13 @@
       "#c8eff1"
     ],
     "texture_id": 4,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 187,
     "name": "童话发型-默认色",
-    "editor_name": "童话发型-默认色",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21014015.21014015'",
@@ -2293,12 +2360,13 @@
     ],
     "texture_id": 1,
     "is_present_colour": true,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 188,
     "name": "童话发型-花衣蝶印象",
-    "editor_name": "童话发型-花衣蝶印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101402.20101402'",
@@ -2309,12 +2377,13 @@
       "#d4de6b"
     ],
     "texture_id": 2,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 189,
     "name": "童话发型-红绒十字印象",
-    "editor_name": "童话发型-红绒十字印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101403.20101403'",
@@ -2325,12 +2394,13 @@
       "#b72920"
     ],
     "texture_id": 3,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 190,
     "name": "童话发型-白金独角兽印象",
-    "editor_name": "童话发型-白金独角兽印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101404.20101404'",
@@ -2341,22 +2411,23 @@
       "#c8eff1"
     ],
     "texture_id": 4,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 191,
-    "name": "睫毛-花衣蝶印象",
-    "editor_name": "睫毛-花衣蝶印象",
+    "name": "眼型-花衣蝶印象",
     "gender": 1,
     "type": 3,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13006000.13006000'",
     "avatar_id": 13006000,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true
   },
   {
     "id": 192,
     "name": "瞳孔-白金独角兽印象",
-    "editor_name": "瞳孔-白金独角兽印象",
     "gender": 3,
     "type": 4,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000011.34000011'",
@@ -2365,22 +2436,22 @@
       "#563027FF"
     ],
     "texture_id": 1,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true
   },
   {
     "id": 193,
-    "name": "睫毛-花衣蝶印象",
-    "editor_name": "睫毛-花衣蝶印象",
+    "name": "眼型-花衣蝶印象",
     "gender": 2,
     "type": 3,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23006000.23006000'",
     "avatar_id": 23006000,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true
   },
   {
     "id": 195,
     "name": "考察队发型-默认色",
-    "editor_name": "考察队发型-默认色",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11001002.11001002'",
@@ -2390,12 +2461,13 @@
     ],
     "texture_id": 1,
     "is_present_colour": true,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 196,
     "name": "考察队发型-魔草巫灵印象",
-    "editor_name": "考察队发型-魔草巫灵印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100102.10100102'",
@@ -2406,12 +2478,13 @@
       "#348553"
     ],
     "texture_id": 2,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 197,
     "name": "考察队发型-奇丽花印象",
-    "editor_name": "考察队发型-奇丽花印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100103.10100103'",
@@ -2422,12 +2495,13 @@
       "#42623c"
     ],
     "texture_id": 3,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 198,
     "name": "考察队发型-高脚鹬印象",
-    "editor_name": "考察队发型-高脚鹬印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100104.10100104'",
@@ -2438,12 +2512,13 @@
       "#312438"
     ],
     "texture_id": 4,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 199,
     "name": "考察队发型-魔眷鸟印象",
-    "editor_name": "考察队发型-魔眷鸟印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100105.10100105'",
@@ -2454,12 +2529,13 @@
       "#f59895"
     ],
     "texture_id": 5,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 200,
     "name": "考察队发型-默认色",
-    "editor_name": "考察队发型-默认色",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21001002.21001002'",
@@ -2469,12 +2545,13 @@
     ],
     "texture_id": 1,
     "is_present_colour": true,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 201,
     "name": "考察队发型-魔草巫灵印象",
-    "editor_name": "考察队发型-魔草巫灵印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100102.20100102'",
@@ -2485,12 +2562,13 @@
       "#348553"
     ],
     "texture_id": 2,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 202,
     "name": "考察队发型-奇丽花印象",
-    "editor_name": "考察队发型-奇丽花印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100103.20100103'",
@@ -2501,12 +2579,13 @@
       "#42623c"
     ],
     "texture_id": 3,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 203,
     "name": "考察队发型-高脚鹬印象",
-    "editor_name": "考察队发型-高脚鹬印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100104.20100104'",
@@ -2517,12 +2596,13 @@
       "#312438"
     ],
     "texture_id": 4,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 204,
     "name": "考察队发型-魔眷鸟印象",
-    "editor_name": "考察队发型-魔眷鸟印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100105.20100105'",
@@ -2533,12 +2613,13 @@
       "#f59895"
     ],
     "texture_id": 5,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 205,
     "name": "睡衣派对发型-默认色",
-    "editor_name": "睡衣派对发型-默认色",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11015016.11015016'",
@@ -2548,12 +2629,13 @@
     ],
     "texture_id": 1,
     "is_present_colour": true,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 206,
     "name": "睡衣派对发型-梦悠悠印象",
-    "editor_name": "睡衣派对发型-梦悠悠印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101502.10101502'",
@@ -2564,12 +2646,13 @@
       "#e9c5f1"
     ],
     "texture_id": 2,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 207,
     "name": "睡衣派对发型-电球咩咩印象",
-    "editor_name": "睡衣派对发型-电球咩咩印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101503.10101503'",
@@ -2580,12 +2663,13 @@
       "#fefce7"
     ],
     "texture_id": 3,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 208,
     "name": "睡衣派对发型-雪影娃娃印象",
-    "editor_name": "睡衣派对发型-雪影娃娃印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101504.10101504'",
@@ -2596,12 +2680,13 @@
       "#57a5fd"
     ],
     "texture_id": 4,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 209,
     "name": "睡衣派对发型-幽冥眼印象",
-    "editor_name": "睡衣派对发型-幽冥眼印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101505.10101505'",
@@ -2612,12 +2697,13 @@
       "#e989d4"
     ],
     "texture_id": 5,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 210,
     "name": "睡衣派对发型-默认色",
-    "editor_name": "睡衣派对发型-默认色",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21015016.21015016'",
@@ -2627,12 +2713,13 @@
     ],
     "texture_id": 1,
     "is_present_colour": true,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 211,
     "name": "睡衣派对发型-梦悠悠印象",
-    "editor_name": "睡衣派对发型-梦悠悠印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101502.20101502'",
@@ -2643,12 +2730,13 @@
       "#e9c5f1"
     ],
     "texture_id": 2,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 212,
     "name": "睡衣派对发型-电球咩咩印象",
-    "editor_name": "睡衣派对发型-电球咩咩印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101503.20101503'",
@@ -2659,12 +2747,13 @@
       "#fefce7"
     ],
     "texture_id": 3,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 213,
     "name": "睡衣派对发型-雪影娃娃印象",
-    "editor_name": "睡衣派对发型-雪影娃娃印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101504.20101504'",
@@ -2675,12 +2764,13 @@
       "#57a5fd"
     ],
     "texture_id": 4,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 214,
     "name": "睡衣派对发型-幽冥眼印象",
-    "editor_name": "睡衣派对发型-幽冥眼印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101505.20101505'",
@@ -2691,16 +2781,18 @@
       "#e989d4"
     ],
     "texture_id": 5,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 215,
-    "name": "肤色5页游色",
-    "editor_name": "页游色",
+    "name": "肤色-页游色",
     "gender": 3,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000007.30000007'",
     "avatar_id": 30000007,
-    "item_quality": 4
+    "item_quality": 4,
+    "launch_item": true
   },
   {
     "id": 216,
@@ -2714,7 +2806,9 @@
     ],
     "texture_id": 1,
     "is_present_colour": true,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 217,
@@ -2729,7 +2823,9 @@
       "#f5e6c1"
     ],
     "texture_id": 2,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 218,
@@ -2744,7 +2840,9 @@
       "#f3d9c0"
     ],
     "texture_id": 3,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 219,
@@ -2759,7 +2857,9 @@
       "#f7b988"
     ],
     "texture_id": 4,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 220,
@@ -2773,7 +2873,9 @@
     ],
     "texture_id": 1,
     "is_present_colour": true,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 221,
@@ -2788,7 +2890,9 @@
       "#f5e6c1"
     ],
     "texture_id": 2,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 222,
@@ -2803,7 +2907,9 @@
       "#f3d9c0"
     ],
     "texture_id": 3,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 223,
@@ -2818,32 +2924,33 @@
       "#f7b988"
     ],
     "texture_id": 4,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 224,
     "name": "面妆-蹦蹦花印象",
-    "editor_name": "面妆-蹦蹦花印象",
     "gender": 1,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000014.15000014'",
     "avatar_id": 15000014,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true
   },
   {
     "id": 225,
     "name": "面妆-蹦蹦花印象",
-    "editor_name": "面妆-蹦蹦花印象",
     "gender": 2,
     "type": 5,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000014.25000014'",
     "avatar_id": 25000014,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true
   },
   {
     "id": 226,
     "name": "炼金药剂发型-默认色",
-    "editor_name": "炼金药剂发型-默认色",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11017018.11017018'",
@@ -2853,12 +2960,13 @@
     ],
     "texture_id": 1,
     "is_present_colour": true,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 227,
     "name": "炼金药剂发型-默认色",
-    "editor_name": "炼金药剂发型-默认色",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21017018.21017018'",
@@ -2868,12 +2976,13 @@
     ],
     "texture_id": 1,
     "is_present_colour": true,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 228,
     "name": "炼金药剂发型-嘟嘟锅印象",
-    "editor_name": "炼金药剂发型-嘟嘟锅印象",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101702.10101702'",
@@ -2884,12 +2993,13 @@
       "#d2355d"
     ],
     "texture_id": 2,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 229,
     "name": "炼金药剂发型-嘟嘟锅印象",
-    "editor_name": "炼金药剂发型-嘟嘟锅印象",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101702.20101702'",
@@ -2900,12 +3010,13 @@
       "#d2355d"
     ],
     "texture_id": 2,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 230,
     "name": "炼金药剂发型-琉璃水母",
-    "editor_name": "炼金药剂发型-琉璃水母",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101703.10101703'",
@@ -2916,12 +3027,13 @@
       "#f4c9ff"
     ],
     "texture_id": 3,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 231,
     "name": "炼金药剂发型-琉璃水母",
-    "editor_name": "炼金药剂发型-琉璃水母",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101703.20101703'",
@@ -2932,12 +3044,13 @@
       "#f4c9ff"
     ],
     "texture_id": 3,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 232,
     "name": "炼金药剂发型-九幽菇",
-    "editor_name": "炼金药剂发型-九幽菇",
     "gender": 1,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101704.10101704'",
@@ -2948,12 +3061,13 @@
       "#24674e"
     ],
     "texture_id": 4,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
   },
   {
     "id": 233,
     "name": "炼金药剂发型-九幽菇",
-    "editor_name": "炼金药剂发型-九幽菇",
     "gender": 2,
     "type": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101704.20101704'",
@@ -2964,6 +3078,626 @@
       "#24674e"
     ],
     "texture_id": 4,
-    "item_quality": 5
+    "item_quality": 5,
+    "launch_item": true,
+    "hair_lock": true
+  },
+  {
+    "id": 234,
+    "name": "吟游诗人发型-默认色",
+    "gender": 1,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101601.10101601'",
+    "avatar_id": 11016017,
+    "colour_id": [
+      "#563027FF"
+    ],
+    "texture_id": 1,
+    "is_present_colour": true,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 235,
+    "name": "吟游诗人发型-默认色",
+    "gender": 2,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101601.20101601'",
+    "avatar_id": 21016017,
+    "colour_id": [
+      "#563027FF"
+    ],
+    "texture_id": 1,
+    "is_present_colour": true,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 236,
+    "name": "吟游诗人发型-圆号鱼",
+    "gender": 1,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101602.10101602'",
+    "avatar_id": 11016017,
+    "colour_type": 1,
+    "colour_id": [
+      "#da6f0f",
+      "#7b330b"
+    ],
+    "texture_id": 2,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 237,
+    "name": "吟游诗人发型-圆号鱼",
+    "gender": 2,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101602.20101602'",
+    "avatar_id": 21016017,
+    "colour_type": 1,
+    "colour_id": [
+      "#da6f0f",
+      "#7b330b"
+    ],
+    "texture_id": 2,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 238,
+    "name": "吟游诗人发型-蹦床松鼠",
+    "gender": 1,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101603.10101603'",
+    "avatar_id": 11016017,
+    "colour_type": 2,
+    "colour_id": [
+      "#fecbb8",
+      "#fffcaf"
+    ],
+    "texture_id": 3,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 239,
+    "name": "吟游诗人发型-蹦床松鼠",
+    "gender": 2,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101603.20101603'",
+    "avatar_id": 21016017,
+    "colour_type": 2,
+    "colour_id": [
+      "#fecbb8",
+      "#fffcaf"
+    ],
+    "texture_id": 3,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 240,
+    "name": "吟游诗人发型-卡瓦重",
+    "gender": 1,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101604.10101604'",
+    "avatar_id": 11016017,
+    "colour_type": 1,
+    "colour_id": [
+      "#b8be98",
+      "#b0cf46"
+    ],
+    "texture_id": 4,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 241,
+    "name": "吟游诗人发型-卡瓦重",
+    "gender": 2,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101604.20101604'",
+    "avatar_id": 21016017,
+    "colour_type": 1,
+    "colour_id": [
+      "#b8be98",
+      "#b0cf46"
+    ],
+    "texture_id": 4,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 242,
+    "name": "吟游诗人发型-里拉鳐",
+    "gender": 1,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101605.10101605'",
+    "avatar_id": 11016017,
+    "colour_type": 2,
+    "colour_id": [
+      "#f8cce3",
+      "#7fbedd"
+    ],
+    "texture_id": 5,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 243,
+    "name": "吟游诗人发型-里拉鳐",
+    "gender": 2,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101605.20101605'",
+    "avatar_id": 21016017,
+    "colour_type": 2,
+    "colour_id": [
+      "#f8cce3",
+      "#7fbedd"
+    ],
+    "texture_id": 5,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 244,
+    "name": "梦境流浪者发型-默认发色",
+    "gender": 1,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102101.10102101'",
+    "avatar_id": 11021022,
+    "colour_id": [
+      "#563027FF"
+    ],
+    "texture_id": 1,
+    "is_present_colour": true,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 245,
+    "name": "梦境流浪者发型-默认发色",
+    "gender": 2,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102101.20102101'",
+    "avatar_id": 21021022,
+    "colour_id": [
+      "#563027FF"
+    ],
+    "texture_id": 1,
+    "is_present_colour": true,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 246,
+    "name": "梦境流浪者发型-幻影灵菇",
+    "gender": 1,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102102.10102102'",
+    "avatar_id": 11021022,
+    "colour_type": 2,
+    "colour_id": [
+      "#9564e2",
+      "#341c66"
+    ],
+    "texture_id": 2,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 247,
+    "name": "梦境流浪者发型-幻影灵菇",
+    "gender": 2,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102102.20102102'",
+    "avatar_id": 21021022,
+    "colour_type": 1,
+    "colour_id": [
+      "#351d67",
+      "#8153d0"
+    ],
+    "texture_id": 2,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 248,
+    "name": "梦境流浪者发型-怖哭菇",
+    "gender": 1,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102103.10102103'",
+    "avatar_id": 11021022,
+    "colour_type": 1,
+    "colour_id": [
+      "#e6eaf3",
+      "#bbbbd5"
+    ],
+    "texture_id": 3,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 249,
+    "name": "梦境流浪者发型-怖哭菇",
+    "gender": 2,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102103.20102103'",
+    "avatar_id": 21021022,
+    "colour_type": 1,
+    "colour_id": [
+      "#ebebf3",
+      "#acafd0"
+    ],
+    "texture_id": 3,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 250,
+    "name": "梦境流浪者发型-流浪鼠",
+    "gender": 1,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102104.10102104'",
+    "avatar_id": 11021022,
+    "colour_type": 1,
+    "colour_id": [
+      "#d8814c",
+      "#f1b56c"
+    ],
+    "texture_id": 4,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 251,
+    "name": "梦境流浪者发型-流浪鼠",
+    "gender": 2,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102104.20102104'",
+    "avatar_id": 21021022,
+    "colour_type": 1,
+    "colour_id": [
+      "#efb468",
+      "#d67c48"
+    ],
+    "texture_id": 4,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 252,
+    "name": "瞳孔-怖哭菇印象",
+    "gender": 3,
+    "type": 4,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000014.34000014'",
+    "avatar_id": 34000014,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 253,
+    "name": "魔法嘉年华-默认发色",
+    "gender": 1,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101901.10101901'",
+    "avatar_id": 11019020,
+    "colour_id": [
+      "#563027FF"
+    ],
+    "texture_id": 1,
+    "is_present_colour": true,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 254,
+    "name": "魔法嘉年华-默认发色",
+    "gender": 2,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101901.20101901'",
+    "avatar_id": 21019020,
+    "colour_id": [
+      "#563027FF"
+    ],
+    "texture_id": 1,
+    "is_present_colour": true,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 255,
+    "name": "魔法嘉年华发型-咕德帽帽",
+    "gender": 1,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101902.10101902'",
+    "avatar_id": 11019020,
+    "colour_type": 2,
+    "colour_id": [
+      "#b6b6b6",
+      "#e6e6e6"
+    ],
+    "texture_id": 2,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 256,
+    "name": "魔法嘉年华发型-咕德帽帽",
+    "gender": 2,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101902.20101902'",
+    "avatar_id": 21019020,
+    "colour_type": 2,
+    "colour_id": [
+      "#b6b6b6",
+      "#e6e6e7"
+    ],
+    "texture_id": 2,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 257,
+    "name": "魔法嘉年华发型-巨鼓象",
+    "gender": 1,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101903.10101903'",
+    "avatar_id": 11019020,
+    "colour_type": 2,
+    "colour_id": [
+      "#db3239",
+      "#4f9fe8"
+    ],
+    "texture_id": 3,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 258,
+    "name": "魔法嘉年华发型-巨鼓象",
+    "gender": 2,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101903.20101903'",
+    "avatar_id": 21019020,
+    "colour_type": 2,
+    "colour_id": [
+      "#db3239",
+      "#4f9fe8"
+    ],
+    "texture_id": 3,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 259,
+    "name": "魔法嘉年华发型-烟花伯爵",
+    "gender": 1,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101904.10101904'",
+    "avatar_id": 11019020,
+    "colour_type": 2,
+    "colour_id": [
+      "#b19796",
+      "#e0dbc6"
+    ],
+    "texture_id": 4,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 260,
+    "name": "魔法嘉年华发型-烟花伯爵",
+    "gender": 2,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101904.20101904'",
+    "avatar_id": 21019020,
+    "colour_type": 2,
+    "colour_id": [
+      "#b19796",
+      "#e0dbc6"
+    ],
+    "texture_id": 4,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 261,
+    "name": "魔法嘉年华发型-小丑公爵",
+    "gender": 1,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101905.10101905'",
+    "avatar_id": 11019020,
+    "colour_type": 2,
+    "colour_id": [
+      "#e360a4",
+      "#81bcc4"
+    ],
+    "texture_id": 5,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 262,
+    "name": "魔法嘉年华发型-小丑公爵",
+    "gender": 2,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101905.20101905'",
+    "avatar_id": 21019020,
+    "colour_type": 2,
+    "colour_id": [
+      "#e360a4",
+      "#81bcc4"
+    ],
+    "texture_id": 5,
+    "item_quality": 4,
+    "launch_item": true
+  },
+  {
+    "id": 263,
+    "name": "面妆-千棘盔印象",
+    "gender": 1,
+    "type": 5,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000015.15000015'",
+    "avatar_id": 15000015,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 264,
+    "name": "面妆-千棘盔印象",
+    "gender": 2,
+    "type": 5,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000015.25000015'",
+    "avatar_id": 25000015,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 265,
+    "name": "眼型-迷迷箱怪印象",
+    "gender": 1,
+    "type": 3,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13009000.13009000'",
+    "avatar_id": 13009000,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 266,
+    "name": "眼型-迷迷箱怪印象",
+    "gender": 2,
+    "type": 3,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23009000.23009000'",
+    "avatar_id": 23009000,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 267,
+    "name": "深海的馈赠发型-默认发色",
+    "gender": 1,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102301.10102301'",
+    "avatar_id": 11023024,
+    "colour_id": [
+      "#563027FF"
+    ],
+    "texture_id": 1,
+    "is_present_colour": true,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 268,
+    "name": "深海的馈赠发型-默认发色",
+    "gender": 2,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102301.20102301'",
+    "avatar_id": 21023024,
+    "colour_id": [
+      "#563027FF"
+    ],
+    "texture_id": 1,
+    "is_present_colour": true,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 269,
+    "name": "深海的馈赠发型-海豹船长",
+    "gender": 1,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102302.10102302'",
+    "avatar_id": 11023024,
+    "colour_type": 2,
+    "colour_id": [
+      "#c93d5a",
+      "#84c8d2"
+    ],
+    "texture_id": 2,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 270,
+    "name": "深海的馈赠发型-海豹船长",
+    "gender": 2,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102302.20102302'",
+    "avatar_id": 21023024,
+    "colour_type": 2,
+    "colour_id": [
+      "#c93d5a",
+      "#84c8d2"
+    ],
+    "texture_id": 2,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 271,
+    "name": "深海的馈赠发型-千棘盔",
+    "gender": 1,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102303.10102303'",
+    "avatar_id": 11023024,
+    "colour_type": 2,
+    "colour_id": [
+      "#dadbc3",
+      "#716964"
+    ],
+    "texture_id": 3,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 272,
+    "name": "深海的馈赠发型-千棘盔",
+    "gender": 2,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102303.20102303'",
+    "avatar_id": 21023024,
+    "colour_type": 2,
+    "colour_id": [
+      "#dadbc3",
+      "#716964"
+    ],
+    "texture_id": 3,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 273,
+    "name": "深海的馈赠发型-迷迷箱怪",
+    "gender": 1,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102304.10102304'",
+    "avatar_id": 11023024,
+    "colour_type": 2,
+    "colour_id": [
+      "#d1b574",
+      "#7791fe"
+    ],
+    "texture_id": 4,
+    "item_quality": 5,
+    "launch_item": true
+  },
+  {
+    "id": 274,
+    "name": "深海的馈赠发型-迷迷箱怪",
+    "gender": 2,
+    "type": 1,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102304.20102304'",
+    "avatar_id": 21023024,
+    "colour_type": 2,
+    "colour_id": [
+      "#d1b574",
+      "#7791fe"
+    ],
+    "texture_id": 4,
+    "item_quality": 5,
+    "launch_item": true
   }
 ]

@@ -151,5 +151,113 @@
     "refresh_reset_param1": "1 4:00:00",
     "refresh_reset_param2": "2025-02-24 04:00:00",
     "refresh_limit_text": "本周剩余："
+  },
+  {
+    "id": 10018,
+    "exchange_periodic_limit": 1,
+    "exchange_manufacture_times": 1,
+    "refresh_reset_type": 4,
+    "refresh_reset_param1": "1 4:00:00",
+    "refresh_reset_param2": "2025-02-24 04:00:00",
+    "refresh_limit_text": "本日剩余："
+  },
+  {
+    "id": 10019,
+    "exchange_periodic_limit": 1,
+    "exchange_manufacture_times": 1,
+    "refresh_reset_type": 4,
+    "refresh_reset_param1": "1 4:00:00",
+    "refresh_reset_param2": "2025-02-24 04:00:00",
+    "refresh_limit_text": "本日剩余："
+  },
+  {
+    "id": 10020,
+    "exchange_periodic_limit": 1,
+    "exchange_manufacture_times": 1,
+    "refresh_reset_type": 4,
+    "refresh_reset_param1": "1 4:00:00",
+    "refresh_reset_param2": "2025-02-24 04:00:00",
+    "refresh_limit_text": "本日剩余："
+  },
+  {
+    "id": 10021,
+    "exchange_periodic_limit": 1,
+    "exchange_manufacture_times": 1,
+    "refresh_reset_type": 4,
+    "refresh_reset_param1": "1 4:00:00",
+    "refresh_reset_param2": "2025-02-24 04:00:00",
+    "refresh_limit_text": "本日剩余："
+  },
+  {
+    "id": 10022,
+    "exchange_periodic_limit": 1,
+    "exchange_manufacture_times": 1,
+    "refresh_reset_type": 4,
+    "refresh_reset_param1": "1 4:00:00",
+    "refresh_reset_param2": "2025-02-24 04:00:00",
+    "refresh_limit_text": "本日剩余："
+  },
+  {
+    "id": 10023,
+    "exchange_periodic_limit": 1,
+    "exchange_manufacture_times": 1,
+    "refresh_reset_type": 4,
+    "refresh_reset_param1": "1 4:00:00",
+    "refresh_reset_param2": "2025-02-24 04:00:00",
+    "refresh_limit_text": "本日剩余："
+  },
+  {
+    "id": 10024,
+    "exchange_periodic_limit": 1,
+    "exchange_manufacture_times": 1,
+    "refresh_reset_type": 4,
+    "refresh_reset_param1": "1 4:00:00",
+    "refresh_reset_param2": "2025-02-24 04:00:00",
+    "refresh_limit_text": "本日剩余："
+  },
+  {
+    "id": 10025,
+    "exchange_periodic_limit": 1,
+    "exchange_manufacture_times": 1,
+    "refresh_reset_type": 4,
+    "refresh_reset_param1": "1 4:00:00",
+    "refresh_reset_param2": "2025-02-24 04:00:00",
+    "refresh_limit_text": "本日剩余："
+  },
+  {
+    "id": 10026,
+    "exchange_periodic_limit": 1,
+    "exchange_manufacture_times": 1,
+    "refresh_reset_type": 4,
+    "refresh_reset_param1": "1 4:00:00",
+    "refresh_reset_param2": "2025-02-24 04:00:00",
+    "refresh_limit_text": "本日剩余："
+  },
+  {
+    "id": 10027,
+    "exchange_periodic_limit": 1,
+    "exchange_manufacture_times": 1,
+    "refresh_reset_type": 4,
+    "refresh_reset_param1": "1 4:00:00",
+    "refresh_reset_param2": "2025-02-24 04:00:00",
+    "refresh_limit_text": "本日剩余："
+  },
+  {
+    "id": 10028,
+    "exchange_periodic_limit": 1,
+    "exchange_manufacture_times": 1,
+    "refresh_reset_type": 4,
+    "refresh_reset_param1": "1 4:00:00",
+    "refresh_reset_param2": "2025-02-24 04:00:00",
+    "refresh_limit_text": "本日剩余："
+  },
+  {
+    "id": 10029,
+    "exchange_periodic_limit": 1,
+    "exchange_manufacture_times": 1,
+    "refresh_reset_type": 4,
+    "refresh_reset_param1": "1 4:00:00",
+    "refresh_reset_param2": "2025-02-24 04:00:00",
+    "refresh_limit_text": "本日剩余："
   }
 ]

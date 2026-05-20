@@ -554,10 +554,10 @@
       {
         "bg": "img_114_1.img_114_1",
         "title": "捕捉后的小惊喜！",
-        "text": "每当你成功捕获一只精灵，都有概率额外刷新出一只新精灵！\n刷新出的新精灵，可能是本赛季的新伙伴，也可能是罕见的噩梦精灵、稀有精灵，甚至是传说中的异色精灵！",
+        "text": "每当你成功捕获一只精灵，都有概率额外刷新出一只或多只新精灵！\n刷新出的新精灵，可能是本赛季的新伙伴，也可能是罕见的噩梦精灵、稀有精灵，甚至是传说中的异色精灵！\n而且每个赛季的刷新方式有可能不一样，记得多多查看赛季手册哦~",
         "bg_PC": "img_114_1.img_114_1",
         "title_PC": "捕捉后的小惊喜！",
-        "text_PC": "每当你成功捕获一只精灵，都有概率额外刷新出一只新精灵！\n刷新出的新精灵，可能是本赛季的新伙伴，也可能是罕见的噩梦精灵、稀有精灵，甚至是传说中的异色精灵！"
+        "text_PC": "每当你成功捕获一只精灵，都有概率额外刷新出一只或多只新精灵！\n刷新出的新精灵，可能是本赛季的新伙伴，也可能是罕见的噩梦精灵、稀有精灵，甚至是传说中的异色精灵！\n而且每个赛季的刷新方式有可能不一样，记得多多查看赛季手册哦~"
       },
       {
         "bg": "img_114_2.img_114_2",
@@ -664,7 +664,7 @@
         "unlock_condition": 15,
         "unlock_condition_parameter": [
           71008317,
-          1
+          0
         ],
         "priority": 1
       }
@@ -1336,6 +1336,16 @@
           8,
           1
         ],
+        "unlock_group": 1,
+        "priority": 1
+      },
+      {
+        "unlock_condition": 24,
+        "unlock_condition_parameter": [
+          23,
+          1
+        ],
+        "unlock_group": 2,
         "priority": 1
       }
     ],
@@ -1474,20 +1484,23 @@
     ],
     "unlock_conditions": [
       {
-        "unlock_condition": 1,
+        "unlock_condition": 15,
+        "unlock_condition_parameter": [
+          105002,
+          1
+        ],
         "priority": 1
       }
     ],
     "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon1_png.img_icon1_png'",
     "unlock_text_main": "精灵伪装",
     "unlock_text_sub": "关于精灵",
-    "unlock_remind": true,
     "unlock_remind_priority": 1
   },
   {
     "id": 220,
     "list_type": 6,
-    "list_des": "可丽希亚教学图",
+    "list_des": "可丽希亚教学图（不会进教学手册）",
     "guide_struct": [
       {
         "bg": "img_TeachingBg3_1.img_TeachingBg3_1",
@@ -1518,7 +1531,7 @@
   {
     "id": 221,
     "list_type": 6,
-    "list_des": "恩佐教学图",
+    "list_des": "恩佐教学图（不会进教学手册）",
     "guide_struct": [
       {
         "bg": "img_TeachingBg1_1.img_TeachingBg1_1",
@@ -1549,7 +1562,7 @@
   {
     "id": 222,
     "list_type": 6,
-    "list_des": "易西教学图",
+    "list_des": "易西教学图（不会进教学手册）",
     "guide_struct": [
       {
         "bg": "img_TeachingBg2_1.img_TeachingBg2_1",
@@ -1580,7 +1593,7 @@
   {
     "id": 223,
     "list_type": 6,
-    "list_des": "魔法师手册教学图",
+    "list_des": "魔法师手册教学图（不会进教学手册）",
     "guide_struct": [
       {
         "bg": "img_TeachingBg5_1.img_TeachingBg5_1",
@@ -1603,7 +1616,7 @@
   {
     "id": 224,
     "list_type": 6,
-    "list_des": "首领和稀兽花种",
+    "list_des": "首领和稀兽花种（不会进教学手册）",
     "guide_struct": [
       {
         "bg": "img_TeachingBg4_1.img_TeachingBg4_1",
@@ -1766,10 +1779,10 @@
       {
         "bg": "xingguang_4.xingguang_4",
         "title": "奖励规则",
-        "text": "你必须<span color=\"#ffc65f\">击败对手</>才能获得对应欢的呼声的奖励，魔法师阶级越高，挑战难度越高，欢呼声奖励也更丰厚，因此在提升队伍强度的同时也别忘记提高队伍的欢呼声哦",
+        "text": "你必须<span color=\"#ffc65f\">击败对手</>才能获得对应欢呼声的奖励，魔法师阶级越高，挑战难度越高，欢呼声奖励也更丰厚，因此在提升队伍强度的同时也别忘记提高队伍的欢呼声哦",
         "bg_PC": "xingguang_4.xingguang_4",
         "title_PC": "奖励规则",
-        "text_PC": "你必须<span color=\"#ffc65f\">击败对手</>才能获得对应欢的呼声的奖励，魔法师阶级越高，挑战难度越高，欢呼声奖励也更丰厚，因此在提升队伍强度的同时也别忘记提高队伍的欢呼声哦"
+        "text_PC": "你必须<span color=\"#ffc65f\">击败对手</>才能获得对应欢呼声的奖励，魔法师阶级越高，挑战难度越高，欢呼声奖励也更丰厚，因此在提升队伍强度的同时也别忘记提高队伍的欢呼声哦"
       },
       {
         "bg": "xingguang_7.xingguang_7",
@@ -2138,34 +2151,6 @@
     "unlock_remind_priority": 1
   },
   {
-    "id": 310,
-    "list_type": 3,
-    "list_des": "进行切磋",
-    "guide_struct": [
-      {
-        "bg": "img_412_1.img_412_1",
-        "title": "各种各样的对手",
-        "text": "在冒险过程中，你可能会遇到想与你进行战斗的洛克。他们可能是你的同学、毕业的学长、当地的居民，甚至是……不怀好意的敌人。",
-        "bg_PC": "img_412_1.img_412_1",
-        "title_PC": "各种各样的对手",
-        "text_PC": "在冒险过程中，你可能会遇到想与你进行战斗的洛克。他们可能是你的同学、毕业的学长、当地的居民，甚至是……不怀好意的敌人。"
-      },
-      {
-        "bg": "img_412_2.img_412_2",
-        "title": "我记住你了！",
-        "text": "你遇到过的对手会被记录在地图上。可以通过放大地图比例来清晰地看见他们的位置。",
-        "bg_PC": "img_412_2.img_412_2",
-        "title_PC": "我记住你了！",
-        "text_PC": "你遇到过的对手会被记录在地图上。可以通过放大地图比例来清晰地看见他们的位置。"
-      }
-    ],
-    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon4_png.img_icon4_png'",
-    "unlock_text_main": "进行切磋",
-    "unlock_text_sub": "关于战斗",
-    "unlock_remind": true,
-    "unlock_remind_priority": 1
-  },
-  {
     "id": 311,
     "list_type": 3,
     "list_des": "魔法师对战规则",
@@ -2425,276 +2410,6 @@
     "unlock_remind_priority": 1
   },
   {
-    "id": 319,
-    "list_type": 3,
-    "list_des": "系别克制：草系、火系、水系",
-    "guide_struct": [
-      {
-        "bg": "img_319_1.img_319_1",
-        "title": "草系",
-        "text": "作为攻击方：\n对火、龙、毒、虫、翼、机械系造成0.5倍伤害，对光、地、水系造成2倍伤害。\n作为被攻击方：\n受到水、光、地、电系的0.5倍伤害，受到火、冰、毒、虫、翼系的2倍伤害",
-        "bg_PC": "img_319_1.img_319_1",
-        "title_PC": "草系",
-        "text_PC": "作为攻击方：\n对火、龙、毒、虫、翼、机械系造成0.5倍伤害，对光、地、水系造成2倍伤害。\n作为被攻击方：\n受到水、光、地、电系的0.5倍伤害，受到火、冰、毒、虫、翼系的2倍伤害"
-      },
-      {
-        "bg": "img_319_2.img_319_2",
-        "title": "火系",
-        "text": "作为攻击方：\n对水、地、龙系造成0.5倍伤害，对草、冰、虫、机械系造成2倍伤害。\n作为被攻击方：\n受到草、冰、萌、虫、机械系的0.5倍伤害，受到水、地系的2倍伤害 。",
-        "bg_PC": "img_319_2.img_319_2",
-        "title_PC": "火系",
-        "text_PC": "作为攻击方：\n对水、地、龙系造成0.5倍伤害，对草、冰、虫、机械系造成2倍伤害。\n作为被攻击方：\n受到草、冰、萌、虫、机械系的0.5倍伤害，受到水、地系的2倍伤害 。"
-      },
-      {
-        "bg": "img_319_3.img_319_3",
-        "title": "水系",
-        "text": "作为攻击方：\n对草、冰、龙系造成0.5倍伤害，对火、地、机械系造成2倍伤害。\n作为被攻击方：\n受到火、机械系的0.5倍伤害，受到草、电系的2倍伤害。",
-        "bg_PC": "img_319_3.img_319_3",
-        "title_PC": "水系",
-        "text_PC": "作为攻击方：\n对草、冰、龙系造成0.5倍伤害，对火、地、机械系造成2倍伤害。\n作为被攻击方：\n受到火、机械系的0.5倍伤害，受到草、电系的2倍伤害。"
-      }
-    ],
-    "unlock_conditions": [
-      {
-        "unlock_condition": 15,
-        "unlock_condition_parameter": [
-          71008011,
-          0
-        ],
-        "priority": 1
-      }
-    ],
-    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon4_png.img_icon4_png'",
-    "unlock_text_main": "系别克制",
-    "unlock_text_sub": "关于战斗",
-    "unlock_remind_priority": 1
-  },
-  {
-    "id": 320,
-    "list_type": 3,
-    "list_des": "系别克制：光系、地系、冰系",
-    "guide_struct": [
-      {
-        "bg": "img_320_1.img_320_1",
-        "title": "光系",
-        "text": "作为攻击方：\n对草、冰系造成0.5倍伤害，对幽、恶系造成2倍伤害。\n作为被攻击方：\n受到幻、恶系的0.5倍伤害，受到草、幽系的2倍伤害。",
-        "bg_PC": "img_320_1.img_320_1",
-        "title_PC": "光系",
-        "text_PC": "作为攻击方：\n对草、冰系造成0.5倍伤害，对幽、恶系造成2倍伤害。\n作为被攻击方：\n受到幻、恶系的0.5倍伤害，受到草、幽系的2倍伤害。"
-      },
-      {
-        "bg": "img_320_2.img_320_2",
-        "title": "地系",
-        "text": "作为攻击方：\n对草、武系造成0.5倍伤害，对火、冰、电、毒系造成2倍伤害。\n作为被攻击方：\n受到普、火、电、毒、翼系的0.5倍伤害，受到草、水、冰、武、机械系的2倍伤害。",
-        "bg_PC": "img_320_2.img_320_2",
-        "title_PC": "地系",
-        "text_PC": "作为攻击方：\n对草、武系造成0.5倍伤害，对火、冰、电、毒系造成2倍伤害。\n作为被攻击方：\n受到普、火、电、毒、翼系的0.5倍伤害，受到草、水、冰、武、机械系的2倍伤害。"
-      },
-      {
-        "bg": "img_320_3.img_320_3",
-        "title": "冰系",
-        "text": "作为攻击方：\n对火、冰、机械系造成0.5倍伤害，对草、地、龙、翼系造成2倍伤害。\n作为被攻击方：\n受到水、光、冰系的0.5倍伤害，受到火、地、武、机械系的2倍伤害。",
-        "bg_PC": "img_320_3.img_320_3",
-        "title_PC": "冰系",
-        "text_PC": "作为攻击方：\n对火、冰、机械系造成0.5倍伤害，对草、地、龙、翼系造成2倍伤害。\n作为被攻击方：\n受到水、光、冰系的0.5倍伤害，受到火、地、武、机械系的2倍伤害。"
-      }
-    ],
-    "unlock_conditions": [
-      {
-        "unlock_condition": 15,
-        "unlock_condition_parameter": [
-          71008011,
-          0
-        ],
-        "priority": 1
-      }
-    ],
-    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon4_png.img_icon4_png'",
-    "unlock_text_main": "系别克制",
-    "unlock_text_sub": "关于战斗",
-    "unlock_remind_priority": 1
-  },
-  {
-    "id": 321,
-    "list_type": 3,
-    "list_des": "系别克制：龙系、电系、毒系",
-    "guide_struct": [
-      {
-        "bg": "img_321_1.img_321_1",
-        "title": "龙系",
-        "text": "作为攻击方：\n对机械系造成0.5倍伤害，对龙系造成2倍伤害。\n作为被攻击方：\n受到草、火、水、电、翼系的0.5倍伤害，受到冰、龙、萌系的2倍伤害。",
-        "bg_PC": "img_321_1.img_321_1",
-        "title_PC": "龙系",
-        "text_PC": "作为攻击方：\n对机械系造成0.5倍伤害，对龙系造成2倍伤害。\n作为被攻击方：\n受到草、火、水、电、翼系的0.5倍伤害，受到冰、龙、萌系的2倍伤害。"
-      },
-      {
-        "bg": "img_321_2.img_321_2",
-        "title": "电系",
-        "text": "作为攻击方：\n对草、地、龙、电系造成0.5倍伤害，对水、翼系造成2倍伤害。\n作为被攻击方：\n受到电、翼、机械系的0.5倍伤害，受到地系的2倍伤害。",
-        "bg_PC": "img_321_2.img_321_2",
-        "title_PC": "电系",
-        "text_PC": "作为攻击方：\n对草、地、龙、电系造成0.5倍伤害，对水、翼系造成2倍伤害。\n作为被攻击方：\n受到电、翼、机械系的0.5倍伤害，受到地系的2倍伤害。"
-      },
-      {
-        "bg": "img_321_3.img_321_3",
-        "title": "毒系",
-        "text": "作为攻击方：\n对地、毒、幽、机械系造成0.5倍伤害，对草、萌系造成2倍伤害。\n作为被攻击方：\n受到草、毒、虫、武、萌系的0.5倍伤害，受到地、幻、恶系的2倍伤害。",
-        "bg_PC": "img_321_3.img_321_3",
-        "title_PC": "毒系",
-        "text_PC": "作为攻击方：\n对地、毒、幽、机械系造成0.5倍伤害，对草、萌系造成2倍伤害。\n作为被攻击方：\n受到草、毒、虫、武、萌系的0.5倍伤害，受到地、幻、恶系的2倍伤害。"
-      }
-    ],
-    "unlock_conditions": [
-      {
-        "unlock_condition": 15,
-        "unlock_condition_parameter": [
-          71008011,
-          0
-        ],
-        "priority": 1
-      }
-    ],
-    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon4_png.img_icon4_png'",
-    "unlock_text_main": "系别克制",
-    "unlock_text_sub": "关于战斗",
-    "unlock_remind_priority": 1
-  },
-  {
-    "id": 322,
-    "list_type": 3,
-    "list_des": "系别克制：虫系、武系、翼系",
-    "guide_struct": [
-      {
-        "bg": "img_322_1.img_322_1",
-        "title": "虫系",
-        "text": "作为攻击方：\n对火、毒、武、翼、萌、幽、机械系造成0.5倍伤害，对草、幻、恶系造成2倍伤害。\n作为被攻击方：\n受到草、武系的0.5倍伤害，受到翼、火系的2倍伤害。",
-        "bg_PC": "img_322_1.img_322_1",
-        "title_PC": "虫系",
-        "text_PC": "作为攻击方：\n对火、毒、武、翼、萌、幽、机械系造成0.5倍伤害，对草、幻、恶系造成2倍伤害。\n作为被攻击方：\n受到草、武系的0.5倍伤害，受到翼、火系的2倍伤害。"
-      },
-      {
-        "bg": "img_322_2.img_322_2",
-        "title": "武系",
-        "text": "作为攻击方：\n对毒、虫、翼、萌、幽、幻系造成0.5倍伤害，对普、地、冰、恶、机械系造成2倍伤害。\n作为被攻击方：\n受到地、虫、恶系的0.5倍伤害，受到萌、翼、幻系的2倍伤害。",
-        "bg_PC": "img_322_2.img_322_2",
-        "title_PC": "武系",
-        "text_PC": "作为攻击方：\n对毒、虫、翼、萌、幽、幻系造成0.5倍伤害，对普、地、冰、恶、机械系造成2倍伤害。\n作为被攻击方：\n受到地、虫、恶系的0.5倍伤害，受到萌、翼、幻系的2倍伤害。"
-      },
-      {
-        "bg": "img_322_3.img_322_3",
-        "title": "翼系",
-        "text": "作为攻击方：\n对地、龙、电、机械系造成0.5倍伤害，对草、虫、武系造成2倍伤害。\n作为被攻击方：\n受到草、虫、武系的0.5倍伤害，受到电、冰系的2倍伤害。",
-        "bg_PC": "img_322_3.img_322_3",
-        "title_PC": "翼系",
-        "text_PC": "作为攻击方：\n对地、龙、电、机械系造成0.5倍伤害，对草、虫、武系造成2倍伤害。\n作为被攻击方：\n受到草、虫、武系的0.5倍伤害，受到电、冰系的2倍伤害。"
-      }
-    ],
-    "unlock_conditions": [
-      {
-        "unlock_condition": 15,
-        "unlock_condition_parameter": [
-          71008011,
-          0
-        ],
-        "priority": 1
-      }
-    ],
-    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon4_png.img_icon4_png'",
-    "unlock_text_main": "系别克制",
-    "unlock_text_sub": "关于战斗",
-    "unlock_remind_priority": 1
-  },
-  {
-    "id": 323,
-    "list_type": 3,
-    "list_des": "系别克制：萌系、幽系、机械系",
-    "guide_struct": [
-      {
-        "bg": "img_323_1.img_323_1",
-        "title": "萌系",
-        "text": "作为攻击方：\n对火、毒、机械系造成0.5倍伤害，对龙、武、恶系造成2倍伤害。\n作为被攻击方：\n受到虫、武系的0.5倍伤害，受到恶、毒、机械系的2倍伤害。",
-        "bg_PC": "img_323_1.img_323_1",
-        "title_PC": "萌系",
-        "text_PC": "作为攻击方：\n对火、毒、机械系造成0.5倍伤害，对龙、武、恶系造成2倍伤害。\n作为被攻击方：\n受到虫、武系的0.5倍伤害，受到恶、毒、机械系的2倍伤害。"
-      },
-      {
-        "bg": "img_323_2.img_323_2",
-        "title": "幽系",
-        "text": "作为攻击方：\n对普、恶系造成0.5倍伤害，对光、幽、幻系造成2倍伤害。\n作为被攻击方：\n受到普、毒、虫、武系的0.5倍伤害，受到光、幽、恶系的2倍伤害。",
-        "bg_PC": "img_323_2.img_323_2",
-        "title_PC": "幽系",
-        "text_PC": "作为攻击方：\n对普、恶系造成0.5倍伤害，对光、幽、幻系造成2倍伤害。\n作为被攻击方：\n受到普、毒、虫、武系的0.5倍伤害，受到光、幽、恶系的2倍伤害。"
-      },
-      {
-        "bg": "img_324_3.img_324_3",
-        "title": "机械系",
-        "text": "作为攻击方：\n对火、水、电、机械系造成0.5倍伤害，对地、冰、萌系造成2倍伤害。\n作为被攻击方：\n受到普、毒、冰、翼、虫、萌、草、机械、龙、幻系的0.5倍伤害，受到火、水、武系的2倍伤害。",
-        "bg_PC": "img_324_3.img_324_3",
-        "title_PC": "机械系",
-        "text_PC": "作为攻击方：\n对火、水、电、机械系造成0.5倍伤害，对地、冰、萌系造成2倍伤害。\n作为被攻击方：\n受到普、毒、冰、翼、虫、萌、草、机械、龙、幻系的0.5倍伤害，受到火、水、武系的2倍伤害。"
-      }
-    ],
-    "unlock_conditions": [
-      {
-        "unlock_condition": 15,
-        "unlock_condition_parameter": [
-          71008011,
-          0
-        ],
-        "priority": 1
-      }
-    ],
-    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon4_png.img_icon4_png'",
-    "unlock_text_main": "系别克制",
-    "unlock_text_sub": "关于战斗",
-    "unlock_remind_priority": 1
-  },
-  {
-    "id": 324,
-    "list_type": 3,
-    "list_des": "系别克制：普通系、幻系、恶系",
-    "guide_struct": [
-      {
-        "bg": "img_324_1.img_324_1",
-        "title": "普通系",
-        "text": "作为攻击方：\n对地、幽、机械系造成0.5倍伤害。\n作为被攻击方：\n受到幽系的0.5倍伤害，受到武系的2倍伤害。",
-        "bg_PC": "img_324_1.img_324_1",
-        "title_PC": "普通系",
-        "text_PC": "作为攻击方：\n对地、幽、机械系造成0.5倍伤害。\n作为被攻击方：\n受到幽系的0.5倍伤害，受到武系的2倍伤害。"
-      },
-      {
-        "bg": "img_324_2.img_324_2",
-        "title": "幻系",
-        "text": "作为攻击方：\n对光、幻、机械系造成0.5倍伤害，对毒、武系造成2倍伤害。\n作为被攻击方：\n受到武、幻系的0.5倍伤害，受到幽、虫系的2倍伤害。",
-        "bg_PC": "img_324_2.img_324_2",
-        "title_PC": "幻系",
-        "text_PC": "作为攻击方：\n对光、幻、机械系造成0.5倍伤害，对毒、武系造成2倍伤害。\n作为被攻击方：\n受到武、幻系的0.5倍伤害，受到幽、虫系的2倍伤害。"
-      },
-      {
-        "bg": "img_323_3.img_323_3",
-        "title": "恶系",
-        "text": "作为攻击方：\n对光、武、恶系造成0.5倍伤害，对毒、幽、萌系造成2倍伤害。\n作为被攻击方：\n受到幽、恶系的0.5倍伤害，受到光、武、虫、萌系的2倍伤害。",
-        "bg_PC": "img_323_3.img_323_3",
-        "title_PC": "恶系",
-        "text_PC": "作为攻击方：\n对光、武、恶系造成0.5倍伤害，对毒、幽、萌系造成2倍伤害。\n作为被攻击方：\n受到幽、恶系的0.5倍伤害，受到光、武、虫、萌系的2倍伤害。"
-      }
-    ],
-    "unlock_conditions": [
-      {
-        "unlock_condition": 15,
-        "unlock_condition_parameter": [
-          71008011,
-          0
-        ],
-        "priority": 1
-      }
-    ],
-    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon4_png.img_icon4_png'",
-    "unlock_text_main": "系别克制",
-    "unlock_text_sub": "关于战斗",
-    "unlock_remind_priority": 1
-  },
-  {
     "id": 325,
     "list_type": 3,
     "list_des": "关于「黑巫师」",
@@ -2812,25 +2527,6 @@
     "unlock_text_main": "互动基础",
     "unlock_text_sub": "关于探索",
     "unlock_remind": true,
-    "unlock_remind_priority": 1
-  },
-  {
-    "id": 402,
-    "list_type": 4,
-    "list_des": "系别宝箱",
-    "guide_struct": [
-      {
-        "bg": "img_402_1.img_402_1",
-        "title": "不能直接打开的宝箱……",
-        "text": "遇到这种宝箱时，仔细观察宝箱上的系别图标，然后试试向它投掷同属性的精灵吧！",
-        "bg_PC": "img_402_1.img_402_1",
-        "title_PC": "不能直接打开的宝箱……",
-        "text_PC": "遇到这种宝箱时，仔细观察宝箱上的系别图标，然后试试向它投掷同属性的精灵吧！"
-      }
-    ],
-    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon2_png.img_icon2_png'",
-    "unlock_text_main": "系别宝箱",
-    "unlock_text_sub": "关于探索",
     "unlock_remind_priority": 1
   },
   {
@@ -3277,10 +2973,10 @@
       {
         "bg": "img_415_2.img_415_2",
         "title": "暖和起来！",
-        "text": "如果你觉得冷，请尽快前往火炬之类可用于取暖的物体附近，或者叫上你的火系精灵伙伴！这样可以帮助你从寒冷状态中恢复过来。",
+        "text": "如果你觉得冷，请尽快前往火炬之类可用于取暖的物体附近，这样可以帮助你从寒冷状态中恢复过来。此外，靠近一些火系精灵伙伴也有同样的效果。至于哪些火系精灵伙伴有这样的能力，就让小洛克们自己去发现吧！",
         "bg_PC": "img_415_2.img_415_2",
         "title_PC": "暖和起来！",
-        "text_PC": "如果你觉得冷，请尽快前往火炬之类可用于取暖的物体附近，或者叫上你的火系精灵伙伴！这样可以帮助你从寒冷状态中恢复过来。"
+        "text_PC": "如果你觉得冷，请尽快前往火炬之类可用于取暖的物体附近，这样可以帮助你从寒冷状态中恢复过来。此外，靠近一些火系精灵伙伴也有同样的效果。至于哪些火系精灵伙伴有这样的能力，就让小洛克们自己去发现吧！"
       },
       {
         "bg": "img_415_3.img_415_3",
@@ -3326,7 +3022,8 @@
         "unlock_condition_parameter": [
           105002,
           1
-        ]
+        ],
+        "priority": 1
       }
     ],
     "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon2_png.img_icon2_png'",
@@ -3892,34 +3589,6 @@
     "unlock_remind_priority": 1
   },
   {
-    "id": 503,
-    "list_type": 5,
-    "list_des": "时间调整",
-    "guide_struct": [
-      {
-        "bg": "img_503_1.img_503_1",
-        "title": "打发时间的方法",
-        "text": "魔力之源处可以调整当前的时间。某些任务只能在特定的时间段进行。此外，有些特殊的精灵只会在固定的时间段出现，请活用这一功能丰富你的图鉴吧！",
-        "bg_PC": "img_503_1.img_503_1",
-        "title_PC": "打发时间的方法",
-        "text_PC": "魔力之源处可以调整当前的时间。某些任务只能在特定的时间段进行。此外，有些特殊的精灵只会在固定的时间段出现，请活用这一功能丰富你的图鉴吧！"
-      }
-    ],
-    "unlock_conditions": [
-      {
-        "unlock_condition": 15,
-        "unlock_condition_parameter": [
-          71008010,
-          0
-        ]
-      }
-    ],
-    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon5_png.img_icon5_png'",
-    "unlock_text_main": "时间调整",
-    "unlock_text_sub": "关于功能",
-    "unlock_remind_priority": 1
-  },
-  {
     "id": 504,
     "list_type": 5,
     "list_des": "精灵图鉴",
@@ -4007,7 +3676,7 @@
       {
         "unlock_condition": 15,
         "unlock_condition_parameter": [
-          71008011,
+          71008317,
           0
         ],
         "unlock_group": 1,
@@ -4293,7 +3962,7 @@
   {
     "id": 514,
     "list_type": 4,
-    "list_des": "「露天对战」",
+    "list_des": "露天对战",
     "guide_struct": [
       {
         "bg": "img_514_1.img_514_1",
@@ -4392,7 +4061,7 @@
       {
         "unlock_condition": 15,
         "unlock_condition_parameter": [
-          71008011,
+          71008317,
           0
         ],
         "priority": 1
@@ -4528,7 +4197,7 @@
       {
         "unlock_condition": 15,
         "unlock_condition_parameter": [
-          71008011,
+          71008317,
           0
         ],
         "priority": 1
@@ -4548,9 +4217,9 @@
         "bg": "img_TeachingBg_PetTeam.img_TeachingBg_PetTeam",
         "title": "快捷切换精灵列表",
         "text": "选择投掷精灵时，按住投掷按钮不放，滑动手指即可切换精灵列表，快速锁定出场精灵！",
-        "bg_PC": "img_TeachingBg_PetTeam_Pc.img_TeachingBg_PetTeam_Pc",
+        "bg_PC": "img_TeachingBg_PetTeam.img_TeachingBg_PetTeam",
         "title_PC": "快捷切换精灵列表",
-        "text_PC": "选择投掷精灵时，呼出鼠标按住投掷按钮，再滑动滚轮，就能轻松切换精灵列表，快速锁定出场精灵！"
+        "text_PC": "选择投掷精灵时，按住投掷按钮，再滑动滚轮，就能轻松切换精灵列表，快速锁定出场精灵！"
       },
       {
         "bg": "img_TeachingBg_GollumBall.img_TeachingBg_GollumBall",
@@ -4558,7 +4227,7 @@
         "text": "同理，选择投掷咕噜球时，按住投掷按钮后滑动手指，就能快速切换不同类型的咕噜球。",
         "bg_PC": "img_TeachingBg_GollumBall_Pc.img_TeachingBg_GollumBall_Pc",
         "title_PC": "快捷切换咕噜球列表",
-        "text_PC": "同理，选择投掷咕噜球时，呼出鼠标按住投掷按钮，再滑动滚轮，就能快速切换不同类型的咕噜球。"
+        "text_PC": "同理，选择投掷咕噜球时，按住投掷按钮，再滑动滚轮，就能快速切换不同类型的咕噜球。"
       }
     ],
     "unlock_conditions": [

@@ -1,19 +1,16 @@
 [
   {
     "id": 1,
-    "editor_name": "衣柜与便捷换装界面",
     "goods_type": 2,
     "goods_id": 40
   },
   {
     "id": 2,
-    "editor_name": "时装升级界面",
     "goods_type": 2,
     "goods_id": 40
   },
   {
     "id": 3,
-    "editor_name": "华丽徽章界面",
     "goods_type": 2,
     "goods_id": 40
   }

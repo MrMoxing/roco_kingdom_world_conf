@@ -232,14 +232,21 @@
     "text": "BagModuleCmd.OpenCulturalActivitiesTips"
   },
   {
+    "id": 10059,
+    "text": "ActivityModuleCmd.OpenChallengeProgressRewardPanel"
+  },
+  {
+    "id": 10060,
+    "text": "BigMapModuleCmd.SendZoneNpcTraceCollectibles"
+  },
+  {
     "id": 10110,
     "text": "MagicManualModuleCmd.OpenMagicManualByIndex",
     "param1": "MMT_MAGIC_ASSIGNMENT"
   },
   {
     "id": 10111,
-    "text": "MagicManualModuleCmd.OpenMagicManualByIndex",
-    "param1": "1"
+    "text": "MagicManualModuleCmd.OpenMagicManualByIndex"
   },
   {
     "id": 10112,
@@ -294,27 +301,27 @@
   {
     "id": 10130,
     "text": "ShopModuleCmd.OpenMainPanel",
-    "param1": "1"
+    "param1": "MT_TOPUP"
   },
   {
     "id": 10131,
     "text": "ShopModuleCmd.OpenMainPanel",
-    "param1": "2"
+    "param1": "MT_GIFTPACK"
   },
   {
     "id": 10132,
     "text": "ShopModuleCmd.OpenMainPanel",
-    "param1": "3"
+    "param1": "MT_CREDIT"
   },
   {
     "id": 10133,
     "text": "ShopModuleCmd.OpenMainPanel",
-    "param1": "4"
+    "param1": "MT_MONTHLY_PASS"
   },
   {
     "id": 10134,
     "text": "ShopModuleCmd.OpenMainPanel",
-    "param1": "5"
+    "param1": "MT_FASHION"
   },
   {
     "id": 10135,
@@ -343,6 +350,19 @@
     "id": 10214,
     "text": "BigMapModuleCmd.SendZoneNpcTraceQueryReq",
     "param1": "[10065]"
+  },
+  {
+    "id": 10215,
+    "text": "ActivityModuleCmd.OpenObservationNotesPanel"
+  },
+  {
+    "id": 10216,
+    "text": "HandbookModuleCmd.OpenHandbookAchievementRewardByRewardItemId",
+    "param1": "AREA_HANDBOOK  图鉴id"
+  },
+  {
+    "id": 10217,
+    "text": "PVEModuleCmd.OpenPveTalentPanel"
   },
   {
     "id": 10218,
@@ -375,5 +395,26 @@
     "id": 52005,
     "text": "TaskModuleCmd.TraceParagraphOpenTaskPanel",
     "param1": "[10046,10047,10048,10049,10050]"
+  },
+  {
+    "id": 60001,
+    "text": "BattleRogueModuleCmd.OpenChooseEnemyPanel"
+  },
+  {
+    "id": 60002,
+    "text": "BattleRogueModuleCmd.TryChangeState",
+    "param1": "1"
+  },
+  {
+    "id": 60003,
+    "text": "BattleRogueModuleCmd.EnterTrialScene"
+  },
+  {
+    "id": 70001,
+    "text": "PetUIModuleCmd.OpenPetBoxPanelFromBag"
+  },
+  {
+    "id": 70002,
+    "text": "HandbookModuleCmd.OpenSeasonPetPhotoRewardPanel"
   }
 ]

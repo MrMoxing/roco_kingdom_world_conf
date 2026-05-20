@@ -14,7 +14,21 @@
     "rank_unchanged": true,
     "rank_up_add": 1,
     "rank_up": 1,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi6.qizi6'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi6.qizi6'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi6.qizi6'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi6.qizi6'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 2,
@@ -24,12 +38,26 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
     "star_total": 2,
-    "reset": 2,
+    "reset": 1,
     "robot": true,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 1,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 3,
@@ -40,12 +68,26 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
     "star_num": 1,
     "star_total": 2,
-    "reset": 3,
+    "reset": 1,
     "robot": true,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 1,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 4,
@@ -56,13 +98,27 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
     "star_num": 2,
     "star_total": 2,
-    "reset": 4,
+    "reset": 1,
     "robot": true,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up_add": 1,
     "rank_up": 1,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 5,
@@ -72,12 +128,26 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
     "star_total": 3,
-    "reset": 5,
+    "reset": 1,
     "robot": true,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 1,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 6,
@@ -88,12 +158,26 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 6,
+    "reset": 1,
     "robot": true,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 1,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 7,
@@ -104,12 +188,26 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 7,
+    "reset": 1,
     "robot": true,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 1,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 8,
@@ -120,13 +218,27 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 8,
+    "reset": 1,
     "robot": true,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up_add": 1,
     "rank_up": 1,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 9,
@@ -136,12 +248,26 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
     "star_total": 3,
-    "reset": 9,
+    "reset": 1,
     "robot": true,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 1,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 10,
@@ -152,12 +278,26 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 10,
+    "reset": 1,
     "robot": true,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 1,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 11,
@@ -168,12 +308,26 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 11,
+    "reset": 1,
     "robot": true,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 1,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 12,
@@ -184,28 +338,56 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 12,
+    "reset": 1,
     "robot": true,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up_add": 1,
     "rank_up": 1,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 13,
     "name": "<span color=\"#999182\">见习决斗家V</>",
     "name_only": "见习决斗家V",
     "icon": "jianxi-5",
-    "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_5_png'",
+    "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
     "star_total": 3,
-    "reset": 13,
+    "reset": 1,
     "robot": true,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 1,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 14,
@@ -216,12 +398,26 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 14,
+    "reset": 1,
     "robot": true,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 1,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 15,
@@ -232,12 +428,26 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 15,
+    "reset": 1,
     "robot": true,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 1,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 16,
@@ -248,13 +458,27 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 16,
+    "reset": 1,
     "robot": true,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up_add": 1,
     "rank_up": 1,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 17,
@@ -264,11 +488,25 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi001.S2qizi001'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 18,
@@ -279,11 +517,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi001.S2qizi001'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 19,
@@ -294,11 +546,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi001.S2qizi001'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 20,
@@ -309,12 +575,26 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up_add": 1,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi001.S2qizi001'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 21,
@@ -324,11 +604,25 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi002.S2qizi002'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 22,
@@ -339,11 +633,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi002.S2qizi002'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 23,
@@ -354,11 +662,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi002.S2qizi002'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 24,
@@ -369,12 +691,26 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up_add": 1,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi002.S2qizi002'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 25,
@@ -384,11 +720,25 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi003.S2qizi003'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 26,
@@ -399,11 +749,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi003.S2qizi003'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 27,
@@ -414,11 +778,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi003.S2qizi003'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 28,
@@ -429,12 +807,26 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up_add": 1,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi003.S2qizi003'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 29,
@@ -444,11 +836,25 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi004.S2qizi004'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 30,
@@ -459,11 +865,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi004.S2qizi004'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 31,
@@ -474,11 +894,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi004.S2qizi004'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 32,
@@ -489,12 +923,26 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up_add": 1,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi004.S2qizi004'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 33,
@@ -504,11 +952,25 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi005.S2qizi005'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 34,
@@ -519,11 +981,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi005.S2qizi005'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 35,
@@ -534,11 +1010,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi005.S2qizi005'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 36,
@@ -549,12 +1039,26 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 17,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up_add": 1,
     "rank_up": 2,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi005.S2qizi005'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 37,
@@ -564,11 +1068,25 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi006.S2qizi006'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 38,
@@ -579,10 +1097,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi006.S2qizi006'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 39,
@@ -593,10 +1125,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi006.S2qizi006'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 40,
@@ -607,11 +1153,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up_add": 1,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi006.S2qizi006'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 41,
@@ -621,11 +1181,25 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi007.S2qizi007'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 42,
@@ -636,10 +1210,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi007.S2qizi007'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 43,
@@ -650,10 +1238,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi007.S2qizi007'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 44,
@@ -664,11 +1266,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up_add": 1,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi007.S2qizi007'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 45,
@@ -678,11 +1294,25 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi008.S2qizi008'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 46,
@@ -693,10 +1323,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi008.S2qizi008'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 47,
@@ -707,10 +1351,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi008.S2qizi008'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 48,
@@ -721,11 +1379,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up_add": 1,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi008.S2qizi008'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 49,
@@ -735,11 +1407,25 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi009.S2qizi009'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 50,
@@ -750,10 +1436,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi009.S2qizi009'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 51,
@@ -764,10 +1464,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi009.S2qizi009'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 52,
@@ -778,11 +1492,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up_add": 1,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi009.S2qizi009'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 53,
@@ -792,11 +1520,25 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi010.S2qizi010'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 54,
@@ -807,10 +1549,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi010.S2qizi010'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 55,
@@ -821,10 +1577,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi010.S2qizi010'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 56,
@@ -835,11 +1605,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up_add": 1,
     "rank_up": 3,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi010.S2qizi010'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 57,
@@ -849,11 +1633,25 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi011.S2qizi011'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 58,
@@ -864,10 +1662,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi011.S2qizi011'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 59,
@@ -878,10 +1690,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi011.S2qizi011'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 60,
@@ -892,11 +1718,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up_add": 1,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi011.S2qizi011'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 61,
@@ -906,10 +1746,24 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi012.S2qizi012'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 62,
@@ -920,10 +1774,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi012.S2qizi012'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 63,
@@ -934,10 +1802,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi012.S2qizi012'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 64,
@@ -948,11 +1830,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up_add": 1,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi012.S2qizi012'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 65,
@@ -962,10 +1858,24 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi013.S2qizi013'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 66,
@@ -976,10 +1886,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi013.S2qizi013'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 67,
@@ -990,10 +1914,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi013.S2qizi013'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 68,
@@ -1004,11 +1942,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up_add": 1,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi013.S2qizi013'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 69,
@@ -1018,10 +1970,24 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi014.S2qizi014'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 70,
@@ -1032,10 +1998,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi014.S2qizi014'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 71,
@@ -1046,10 +2026,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi014.S2qizi014'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 72,
@@ -1060,11 +2054,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up_add": 1,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi014.S2qizi014'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 73,
@@ -1074,10 +2082,24 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi015.S2qizi015'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 74,
@@ -1088,10 +2110,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi015.S2qizi015'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 75,
@@ -1102,10 +2138,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi015.S2qizi015'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 76,
@@ -1116,11 +2166,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 37,
+    "reset": 1,
     "win_streak": true,
     "rank_up_add": 1,
     "rank_up": 4,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi015.S2qizi015'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 77,
@@ -1130,11 +2194,25 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_unchanged": true,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi016.S2qizi016'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 78,
@@ -1145,10 +2223,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi016.S2qizi016'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 79,
@@ -1159,10 +2251,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi016.S2qizi016'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 80,
@@ -1173,11 +2279,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up_add": 1,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi016.S2qizi016'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 81,
@@ -1187,10 +2307,24 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi017.S2qizi017'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 82,
@@ -1201,10 +2335,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi017.S2qizi017'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 83,
@@ -1215,10 +2363,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi017.S2qizi017'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 84,
@@ -1229,11 +2391,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up_add": 1,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi017.S2qizi017'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 85,
@@ -1243,10 +2419,24 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi018.S2qizi018'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 86,
@@ -1257,10 +2447,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi018.S2qizi018'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 87,
@@ -1271,10 +2475,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi018.S2qizi018'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 88,
@@ -1285,11 +2503,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up_add": 1,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi018.S2qizi018'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 89,
@@ -1299,10 +2531,24 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi019.S2qizi019'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 90,
@@ -1313,10 +2559,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi019.S2qizi019'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 91,
@@ -1327,10 +2587,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi019.S2qizi019'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 92,
@@ -1341,11 +2615,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up_add": 1,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi019.S2qizi019'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 93,
@@ -1355,10 +2643,24 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi020.S2qizi020'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 94,
@@ -1369,10 +2671,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi020.S2qizi020'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 95,
@@ -1383,10 +2699,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi020.S2qizi020'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 96,
@@ -1397,11 +2727,25 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "win_streak": true,
     "rank_up_add": 1,
     "rank_up": 5,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi020.S2qizi020'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 97,
@@ -1411,10 +2755,24 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_unchanged": true,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi021.S2qizi021'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 98,
@@ -1425,9 +2783,23 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi021.S2qizi021'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 99,
@@ -1438,9 +2810,23 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi021.S2qizi021'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 100,
@@ -1451,10 +2837,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up_add": 1,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi021.S2qizi021'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 101,
@@ -1464,9 +2864,23 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi022.S2qizi022'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 102,
@@ -1477,9 +2891,23 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi022.S2qizi022'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 103,
@@ -1490,9 +2918,23 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi022.S2qizi022'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 104,
@@ -1503,10 +2945,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up_add": 1,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi022.S2qizi022'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 105,
@@ -1516,9 +2972,23 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi023.S2qizi023'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 106,
@@ -1529,9 +2999,23 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi023.S2qizi023'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 107,
@@ -1542,9 +3026,23 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi023.S2qizi023'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 108,
@@ -1555,10 +3053,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up_add": 1,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi023.S2qizi023'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 109,
@@ -1568,9 +3080,23 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi024.S2qizi024'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 110,
@@ -1581,9 +3107,23 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi024.S2qizi024'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 111,
@@ -1594,9 +3134,23 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi024.S2qizi024'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 112,
@@ -1607,10 +3161,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up_add": 1,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi024.S2qizi024'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 113,
@@ -1620,9 +3188,23 @@
     "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi025.S2qizi025'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 114,
@@ -1633,9 +3215,23 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_num": 1,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi025.S2qizi025'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 115,
@@ -1646,9 +3242,23 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_num": 2,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi025.S2qizi025'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 116,
@@ -1659,10 +3269,24 @@
     "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
     "star_num": 3,
     "star_total": 3,
-    "reset": 57,
+    "reset": 37,
     "rank_up_add": 1,
     "rank_up": 6,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi025.S2qizi025'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   },
   {
     "id": 117,
@@ -1676,6 +3300,20 @@
     "rank_unchanged": true,
     "rank_up": 7,
     "is_show_enemy_pet": true,
-    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi34.qizi34'"
+    "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi34.qizi34'",
+    "rank_list": [
+      {
+        "season": 9,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_huang_png.img_duanwei_huang_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi34.qizi34'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+      },
+      {
+        "season": 10,
+        "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_006_png.img_duanweuS2_006_png'",
+        "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi026.S2qizi026'",
+        "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+      }
+    ]
   }
 ]

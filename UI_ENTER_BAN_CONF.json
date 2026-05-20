@@ -340,24 +340,6 @@
     ]
   },
   {
-    "id": 23,
-    "editor_name": "传闻图鉴入口",
-    "function_entrance": 23,
-    "change_reason": [
-      100,
-      101
-    ],
-    "unlock_cond_list": [
-      {
-        "unlock_type": 2,
-        "unlock_param": [
-          "9882"
-        ],
-        "ban_text": "图鉴尚未解锁"
-      }
-    ]
-  },
-  {
     "id": 24,
     "editor_name": "A1图鉴入口",
     "function_entrance": 24,
@@ -490,19 +472,6 @@
     ]
   },
   {
-    "id": 59,
-    "editor_name": "一星魔法师前，远行商人不能解锁",
-    "function_entrance": 79,
-    "unlock_cond_list": [
-      {
-        "unlock_type": 2,
-        "unlock_param": [
-          "54000001"
-        ]
-      }
-    ]
-  },
-  {
     "id": 77,
     "editor_name": "战斗中聊天入口",
     "function_entrance": 77,
@@ -528,6 +497,63 @@
           "9926"
         ],
         "ban_text": "好友功能尚未解锁"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "editor_name": "一星魔法师前，远行商人不能解锁",
+    "function_entrance": 79,
+    "unlock_cond_list": [
+      {
+        "unlock_type": 2,
+        "unlock_param": [
+          "54000001"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "editor_name": "RP界面自定义换装入口",
+    "function_entrance": 84,
+    "function_Ban_Type": 124,
+    "is_hide_entrance": true,
+    "unlock_cond_list": [
+      {
+        "unlock_type": 2,
+        "unlock_param": [
+          "9900"
+        ],
+        "ban_text": "便捷换装功能尚未解锁"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "editor_name": "S1赛季合影入口",
+    "function_entrance": 86,
+    "unlock_cond_list": [
+      {
+        "unlock_type": 2,
+        "unlock_param": [
+          "9933"
+        ],
+        "ban_text": "图鉴尚未解锁"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "editor_name": "S2赛季合影入口",
+    "function_entrance": 87,
+    "unlock_cond_list": [
+      {
+        "unlock_type": 2,
+        "unlock_param": [
+          "9934"
+        ],
+        "ban_text": "图鉴尚未解锁"
       }
     ]
   },

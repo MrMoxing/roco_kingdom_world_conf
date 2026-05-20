@@ -2063,6 +2063,16 @@
         "topic_desc": "使用2次暗箱操作",
         "topic_cnt": 2,
         "topic_reward": 206005
+      },
+      {
+        "topic_Id": 9,
+        "topic_type": 20,
+        "topic_data_1": [
+          1
+        ],
+        "topic_desc": "捕捉1只异色突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202009
       }
     ]
   },
@@ -2359,6 +2369,16 @@
         "topic_desc": "使用1次彗星",
         "topic_cnt": 1,
         "topic_reward": 205014
+      },
+      {
+        "topic_Id": 9,
+        "topic_type": 20,
+        "topic_data_1": [
+          1
+        ],
+        "topic_desc": "捕捉1只异色突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202009
       }
     ]
   },
@@ -3596,6 +3616,16 @@
         "topic_desc": "使用2次剧毒",
         "topic_cnt": 2,
         "topic_reward": 206012
+      },
+      {
+        "topic_Id": 9,
+        "topic_type": 20,
+        "topic_data_1": [
+          1
+        ],
+        "topic_desc": "捕捉1只异色突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202009
       }
     ]
   },
@@ -5338,6 +5368,16 @@
         "topic_desc": "使用1次击鼓传花",
         "topic_cnt": 1,
         "topic_reward": 205032
+      },
+      {
+        "topic_Id": 8,
+        "topic_type": 20,
+        "topic_data_1": [
+          1
+        ],
+        "topic_desc": "捕捉1只异色突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202009
       }
     ]
   },
@@ -5862,6 +5902,16 @@
         "topic_desc": "使用2次隐藏条款",
         "topic_cnt": 2,
         "topic_reward": 206023
+      },
+      {
+        "topic_Id": 9,
+        "topic_type": 20,
+        "topic_data_1": [
+          1
+        ],
+        "topic_desc": "捕捉1只异色突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202009
       }
     ]
   },
@@ -7013,6 +7063,12 @@
         "petbase_id": [
           3016
         ]
+      },
+      {
+        "petbase_id": [
+          5053,
+          13000169
+        ]
       }
     ],
     "belong_area_handbook": [
@@ -7093,6 +7149,13 @@
         "topic_desc": "使用2次力量吞噬",
         "topic_cnt": 2,
         "topic_reward": 206030
+      },
+      {
+        "topic_Id": 9,
+        "topic_type": 19,
+        "topic_desc": "使用进化之力，将精灵进化为首领",
+        "topic_cnt": 1,
+        "topic_reward": 202005
       }
     ]
   },
@@ -7729,6 +7792,16 @@
         "topic_desc": "使用2次漫反射",
         "topic_cnt": 2,
         "topic_reward": 205049
+      },
+      {
+        "topic_Id": 9,
+        "topic_type": 20,
+        "topic_data_1": [
+          1
+        ],
+        "topic_desc": "捕捉1只异色突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202009
       }
     ]
   },
@@ -9752,6 +9825,16 @@
         "topic_desc": "使用2次易燃物质",
         "topic_cnt": 2,
         "topic_reward": 206039
+      },
+      {
+        "topic_Id": 9,
+        "topic_type": 20,
+        "topic_data_1": [
+          1
+        ],
+        "topic_desc": "捕捉1只异色突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202009
       }
     ]
   },
@@ -10467,6 +10550,16 @@
         "topic_desc": "使用1次摇篮曲",
         "topic_cnt": 1,
         "topic_reward": 206040
+      },
+      {
+        "topic_Id": 9,
+        "topic_type": 20,
+        "topic_data_1": [
+          1
+        ],
+        "topic_desc": "捕捉1只异色突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202009
       }
     ]
   },
@@ -12364,7 +12457,7 @@
         "topic_data_1": [
           1
         ],
-        "topic_desc": "确认2种不同样子的棋齐垒",
+        "topic_desc": "确认2种不同样子的棋祈督",
         "topic_cnt": 2,
         "topic_reward": 202003
       },
@@ -12477,7 +12570,7 @@
         "topic_data_1": [
           1
         ],
-        "topic_desc": "确认2种不同样子的棋齐垒",
+        "topic_desc": "确认2种不同样子的棋绮后",
         "topic_cnt": 2,
         "topic_reward": 202003
       },
@@ -15021,6 +15114,12 @@
         "petbase_id": [
           3252
         ]
+      },
+      {
+        "petbase_id": [
+          5054,
+          13000170
+        ]
       }
     ],
     "belong_area_handbook": [
@@ -15091,6 +15190,13 @@
         "topic_desc": "使用2次锐利眼神",
         "topic_cnt": 2,
         "topic_reward": 205096
+      },
+      {
+        "topic_Id": 8,
+        "topic_type": 19,
+        "topic_desc": "使用进化之力，将精灵进化为首领",
+        "topic_cnt": 1,
+        "topic_reward": 202005
       }
     ]
   },
@@ -22068,6 +22174,1620 @@
         "topic_desc": "使用1次风隐",
         "topic_cnt": 1,
         "topic_reward": 205150
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "name": "钨丝贝贝",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3733
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "独轮车精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.0,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 10,
+        "topic_desc": "使精灵成功进化1次",
+        "topic_cnt": 1,
+        "topic_reward": 202002
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "name": "辉光幕机",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3734
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "独轮车精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 0.85,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 10,
+        "topic_desc": "使精灵成功进化1次",
+        "topic_cnt": 1,
+        "topic_reward": 202002
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "name": "机幕方舟",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3735
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "马戏团精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 0.75,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 20,
+        "topic_data_1": [
+          8
+        ],
+        "topic_desc": "捕捉1只炫彩突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202008
+      },
+      {
+        "topic_Id": 4,
+        "topic_type": 21,
+        "topic_data_1": [
+          1003
+        ],
+        "topic_desc": "获得「命定勇者」奖牌",
+        "topic_cnt": 1,
+        "topic_reward": 202004
+      },
+      {
+        "topic_Id": 5,
+        "topic_type": 4,
+        "topic_data_1": [
+          7070280
+        ],
+        "topic_desc": "使用2次微型斥候",
+        "topic_cnt": 2,
+        "topic_reward": 204151
+      },
+      {
+        "topic_Id": 6,
+        "topic_type": 4,
+        "topic_data_1": [
+          7070270
+        ],
+        "topic_desc": "使用2次相位移动",
+        "topic_cnt": 2,
+        "topic_reward": 205151
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "name": "凡雀",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3392
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "平凡精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.2,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 10,
+        "topic_desc": "使精灵成功进化1次",
+        "topic_cnt": 1,
+        "topic_reward": 202002
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "name": "紫翎鹰",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3393
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "不屈精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.0,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 10,
+        "topic_desc": "使精灵成功进化1次",
+        "topic_cnt": 1,
+        "topic_reward": 202002
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "name": "凡鹰",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3394
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "非凡精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 0.8,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 20,
+        "topic_data_1": [
+          8
+        ],
+        "topic_desc": "捕捉1只炫彩突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202008
+      },
+      {
+        "topic_Id": 4,
+        "topic_type": 21,
+        "topic_data_1": [
+          1003
+        ],
+        "topic_desc": "获得「命定勇者」奖牌",
+        "topic_cnt": 1,
+        "topic_reward": 202004
+      },
+      {
+        "topic_Id": 5,
+        "topic_type": 4,
+        "topic_data_1": [
+          7150380
+        ],
+        "topic_desc": "使用2次飞箭",
+        "topic_cnt": 2,
+        "topic_reward": 204152
+      },
+      {
+        "topic_Id": 6,
+        "topic_type": 4,
+        "topic_data_1": [
+          7150390
+        ],
+        "topic_desc": "使用2次俯冲",
+        "topic_cnt": 2,
+        "topic_reward": 205152
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "name": "小雪人",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3531
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "小雪球精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.2,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 10,
+        "topic_desc": "使精灵成功进化1次",
+        "topic_cnt": 1,
+        "topic_reward": 202002
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "name": "雪怪",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3532
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "大雪球精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.0,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 20,
+        "topic_data_1": [
+          8
+        ],
+        "topic_desc": "捕捉1只炫彩突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202008
+      },
+      {
+        "topic_Id": 4,
+        "topic_type": 21,
+        "topic_data_1": [
+          1003
+        ],
+        "topic_desc": "获得「命定勇者」奖牌",
+        "topic_cnt": 1,
+        "topic_reward": 202004
+      },
+      {
+        "topic_Id": 5,
+        "topic_type": 4,
+        "topic_data_1": [
+          7090430
+        ],
+        "topic_desc": "使用2次冰封",
+        "topic_cnt": 2,
+        "topic_reward": 204153
+      },
+      {
+        "topic_Id": 6,
+        "topic_type": 4,
+        "topic_data_1": [
+          7090440
+        ],
+        "topic_desc": "使用2次寒潮",
+        "topic_cnt": 2,
+        "topic_reward": 205153
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "name": "爆焰仔",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3572
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "小火球精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.2,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 10,
+        "topic_desc": "使精灵成功进化1次",
+        "topic_cnt": 1,
+        "topic_reward": 202002
+      }
+    ]
+  },
+  {
+    "id": 357,
+    "name": "爆焰喷喷",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3573
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "大火球精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.0,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 20,
+        "topic_data_1": [
+          8
+        ],
+        "topic_desc": "捕捉1只炫彩突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202008
+      },
+      {
+        "topic_Id": 4,
+        "topic_type": 21,
+        "topic_data_1": [
+          1003
+        ],
+        "topic_desc": "获得「命定勇者」奖牌",
+        "topic_cnt": 1,
+        "topic_reward": 202004
+      },
+      {
+        "topic_Id": 5,
+        "topic_type": 4,
+        "topic_data_1": [
+          7100320
+        ],
+        "topic_desc": "使用2次守护咒",
+        "topic_cnt": 2,
+        "topic_reward": 204154
+      },
+      {
+        "topic_Id": 6,
+        "topic_type": 4,
+        "topic_data_1": [
+          7040680
+        ],
+        "topic_desc": "使用2次焚尽",
+        "topic_cnt": 2,
+        "topic_reward": 205154
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "name": "猴麦仔",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3729
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "吼猴精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.2,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 10,
+        "topic_desc": "使精灵成功进化1次",
+        "topic_cnt": 1,
+        "topic_reward": 202002
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "name": "音碟吼",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3730
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "唱片精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.0,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 20,
+        "topic_data_1": [
+          8
+        ],
+        "topic_desc": "捕捉1只炫彩突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202008
+      },
+      {
+        "topic_Id": 4,
+        "topic_type": 20,
+        "topic_data_1": [
+          1
+        ],
+        "topic_desc": "捕捉1只异色突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202009
+      },
+      {
+        "topic_Id": 5,
+        "topic_type": 21,
+        "topic_data_1": [
+          1003
+        ],
+        "topic_desc": "获得「命定勇者」奖牌",
+        "topic_cnt": 1,
+        "topic_reward": 202004
+      },
+      {
+        "topic_Id": 6,
+        "topic_type": 4,
+        "topic_data_1": [
+          7021220
+        ],
+        "topic_desc": "使用2次同频",
+        "topic_cnt": 2,
+        "topic_reward": 204155
+      },
+      {
+        "topic_Id": 7,
+        "topic_type": 4,
+        "topic_data_1": [
+          7070240
+        ],
+        "topic_desc": "使用1次铁蒺藜",
+        "topic_cnt": 1,
+        "topic_reward": 205155
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "name": "加油海葵",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3659
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "海葵精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.2,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 10,
+        "topic_desc": "使精灵成功进化1次",
+        "topic_cnt": 1,
+        "topic_reward": 202002
+      }
+    ]
+  },
+  {
+    "id": 361,
+    "name": "加油蟹",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3660
+        ]
+      },
+      {
+        "petbase_id": [
+          3743
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "螃蟹精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.0,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 20,
+        "topic_data_1": [
+          8
+        ],
+        "topic_desc": "捕捉1只炫彩突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202008
+      },
+      {
+        "topic_Id": 4,
+        "topic_type": 20,
+        "topic_data_1": [
+          1
+        ],
+        "topic_desc": "捕捉1只异色突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202009
+      },
+      {
+        "topic_Id": 5,
+        "topic_type": 5,
+        "topic_data_1": [
+          1
+        ],
+        "topic_desc": "确认2种不同样子的加油蟹",
+        "topic_cnt": 2,
+        "topic_reward": 202003
+      },
+      {
+        "topic_Id": 6,
+        "topic_type": 21,
+        "topic_data_1": [
+          1003
+        ],
+        "topic_desc": "获得「命定勇者」奖牌",
+        "topic_cnt": 1,
+        "topic_reward": 202004
+      },
+      {
+        "topic_Id": 7,
+        "topic_type": 4,
+        "topic_data_1": [
+          7050510
+        ],
+        "topic_desc": "使用2次清洗",
+        "topic_cnt": 2,
+        "topic_reward": 204156
+      },
+      {
+        "topic_Id": 8,
+        "topic_type": 4,
+        "topic_data_1": [
+          7160380
+        ],
+        "topic_desc": "使用3次加油",
+        "topic_cnt": 3,
+        "topic_reward": 205156
+      }
+    ]
+  },
+  {
+    "id": 362,
+    "name": "小丑豆豆",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3487
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "小丑精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.2,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 10,
+        "topic_desc": "使精灵成功进化1次",
+        "topic_cnt": 1,
+        "topic_reward": 202002
+      }
+    ]
+  },
+  {
+    "id": 363,
+    "name": "小丑兔",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3488
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "小丑精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.0,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 10,
+        "topic_desc": "使精灵成功进化1次",
+        "topic_cnt": 1,
+        "topic_reward": 202002
+      }
+    ]
+  },
+  {
+    "id": 364,
+    "name": "小丑公爵",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3489
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "小丑精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.0,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 20,
+        "topic_data_1": [
+          8
+        ],
+        "topic_desc": "捕捉1只炫彩突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202008
+      },
+      {
+        "topic_Id": 4,
+        "topic_type": 20,
+        "topic_data_1": [
+          1
+        ],
+        "topic_desc": "捕捉1只异色突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202009
+      },
+      {
+        "topic_Id": 5,
+        "topic_type": 21,
+        "topic_data_1": [
+          1003
+        ],
+        "topic_desc": "获得「命定勇者」奖牌",
+        "topic_cnt": 1,
+        "topic_reward": 202004
+      },
+      {
+        "topic_Id": 6,
+        "topic_type": 4,
+        "topic_data_1": [
+          7180430
+        ],
+        "topic_desc": "使用2次杂耍",
+        "topic_cnt": 2,
+        "topic_reward": 204157
+      },
+      {
+        "topic_Id": 7,
+        "topic_type": 4,
+        "topic_data_1": [
+          7180440
+        ],
+        "topic_desc": "使用2次假冒",
+        "topic_cnt": 2,
+        "topic_reward": 205157
+      }
+    ]
+  },
+  {
+    "id": 365,
+    "name": "烟花团",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3677
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "烟花精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.2,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 10,
+        "topic_desc": "使精灵成功进化1次",
+        "topic_cnt": 1,
+        "topic_reward": 202002
+      }
+    ]
+  },
+  {
+    "id": 366,
+    "name": "烟花伯爵",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3678
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "烟花精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.0,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 20,
+        "topic_data_1": [
+          8
+        ],
+        "topic_desc": "捕捉1只炫彩突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202008
+      },
+      {
+        "topic_Id": 4,
+        "topic_type": 20,
+        "topic_data_1": [
+          1
+        ],
+        "topic_desc": "捕捉1只异色突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202009
+      },
+      {
+        "topic_Id": 5,
+        "topic_type": 21,
+        "topic_data_1": [
+          1003
+        ],
+        "topic_desc": "获得「命定勇者」奖牌",
+        "topic_cnt": 1,
+        "topic_reward": 202004
+      },
+      {
+        "topic_Id": 6,
+        "topic_type": 4,
+        "topic_data_1": [
+          7120300
+        ],
+        "topic_desc": "使用2次毒肽",
+        "topic_cnt": 2,
+        "topic_reward": 204158
+      },
+      {
+        "topic_Id": 7,
+        "topic_type": 4,
+        "topic_data_1": [
+          7120290
+        ],
+        "topic_desc": "使用2次重金属粉尘",
+        "topic_cnt": 2,
+        "topic_reward": 205158
+      }
+    ]
+  },
+  {
+    "id": 367,
+    "name": "咕咕帽",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3683
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "鸽子精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.2,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 10,
+        "topic_desc": "使精灵成功进化1次",
+        "topic_cnt": 1,
+        "topic_reward": 202002
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "name": "咕德帽帽",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3684
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "魔术师精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.0,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 20,
+        "topic_data_1": [
+          8
+        ],
+        "topic_desc": "捕捉1只炫彩突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202008
+      },
+      {
+        "topic_Id": 4,
+        "topic_type": 20,
+        "topic_data_1": [
+          1
+        ],
+        "topic_desc": "捕捉1只异色突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202009
+      },
+      {
+        "topic_Id": 5,
+        "topic_type": 21,
+        "topic_data_1": [
+          1003
+        ],
+        "topic_desc": "获得「命定勇者」奖牌",
+        "topic_cnt": 1,
+        "topic_reward": 202004
+      },
+      {
+        "topic_Id": 6,
+        "topic_type": 4,
+        "topic_data_1": [
+          7170290
+        ],
+        "topic_desc": "使用1次撞鬼",
+        "topic_cnt": 1,
+        "topic_reward": 204159
+      },
+      {
+        "topic_Id": 7,
+        "topic_type": 4,
+        "topic_data_1": [
+          7170300
+        ],
+        "topic_desc": "使用2次入梦",
+        "topic_cnt": 2,
+        "topic_reward": 205159
+      }
+    ]
+  },
+  {
+    "id": 369,
+    "name": "炫光迪迪",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3736
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "灯球精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.2,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 10,
+        "topic_desc": "使精灵成功进化1次",
+        "topic_cnt": 1,
+        "topic_reward": 202002
+      }
+    ]
+  },
+  {
+    "id": 370,
+    "name": "​​霹雳迪迪",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3737
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "迪斯科精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 0.85,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 20,
+        "topic_data_1": [
+          8
+        ],
+        "topic_desc": "捕捉1只炫彩突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202008
+      },
+      {
+        "topic_Id": 4,
+        "topic_type": 20,
+        "topic_data_1": [
+          1
+        ],
+        "topic_desc": "捕捉1只异色突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202009
+      },
+      {
+        "topic_Id": 5,
+        "topic_type": 21,
+        "topic_data_1": [
+          1003
+        ],
+        "topic_desc": "获得「命定勇者」奖牌",
+        "topic_cnt": 1,
+        "topic_reward": 202004
+      },
+      {
+        "topic_Id": 6,
+        "topic_type": 4,
+        "topic_data_1": [
+          7060270
+        ],
+        "topic_desc": "使用1次色散",
+        "topic_cnt": 1,
+        "topic_reward": 204160
+      },
+      {
+        "topic_Id": 7,
+        "topic_type": 4,
+        "topic_data_1": [
+          7110460
+        ],
+        "topic_desc": "使用2次踏雷",
+        "topic_cnt": 2,
+        "topic_reward": 205160
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "name": "小鼓象",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3708
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "象精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.0,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 10,
+        "topic_desc": "使精灵成功进化1次",
+        "topic_cnt": 1,
+        "topic_reward": 202002
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "name": "巨鼓象",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3709
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "象精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.0,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 20,
+        "topic_data_1": [
+          8
+        ],
+        "topic_desc": "捕捉1只炫彩突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202008
+      },
+      {
+        "topic_Id": 4,
+        "topic_type": 20,
+        "topic_data_1": [
+          1
+        ],
+        "topic_desc": "捕捉1只异色突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202009
+      },
+      {
+        "topic_Id": 5,
+        "topic_type": 21,
+        "topic_data_1": [
+          1003
+        ],
+        "topic_desc": "获得「命定勇者」奖牌",
+        "topic_cnt": 1,
+        "topic_reward": 202004
+      },
+      {
+        "topic_Id": 6,
+        "topic_type": 4,
+        "topic_data_1": [
+          7070250
+        ],
+        "topic_desc": "使用3次减压阀",
+        "topic_cnt": 3,
+        "topic_reward": 204161
+      },
+      {
+        "topic_Id": 7,
+        "topic_type": 4,
+        "topic_data_1": [
+          7070260
+        ],
+        "topic_desc": "使用2次排气",
+        "topic_cnt": 2,
+        "topic_reward": 205161
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "name": "牵线木偶",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3234
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "愉悦精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.2,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 10,
+        "topic_desc": "使精灵成功进化1次",
+        "topic_cnt": 1,
+        "topic_reward": 202002
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "name": "帅帅魔偶",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3235
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "傀儡精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.2,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 20,
+        "topic_data_1": [
+          8
+        ],
+        "topic_desc": "捕捉1只炫彩突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202008
+      },
+      {
+        "topic_Id": 4,
+        "topic_type": 20,
+        "topic_data_1": [
+          1
+        ],
+        "topic_desc": "捕捉1只异色突变的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202009
+      },
+      {
+        "topic_Id": 5,
+        "topic_type": 21,
+        "topic_data_1": [
+          1003
+        ],
+        "topic_desc": "获得「命定勇者」奖牌",
+        "topic_cnt": 1,
+        "topic_reward": 202004
+      },
+      {
+        "topic_Id": 6,
+        "topic_type": 4,
+        "topic_data_1": [
+          7190430
+        ],
+        "topic_desc": "使用2次叠加态",
+        "topic_cnt": 2,
+        "topic_reward": 204162
+      },
+      {
+        "topic_Id": 7,
+        "topic_type": 4,
+        "topic_data_1": [
+          7190440
+        ],
+        "topic_desc": "使用1次天体吸积",
+        "topic_cnt": 1,
+        "topic_reward": 205162
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "name": "学院呱呱",
+    "include_petbase_id": [
+      {
+        "petbase_id": [
+          3620
+        ]
+      }
+    ],
+    "belong_area_handbook": [
+      1
+    ],
+    "type_desc": "兔兔精灵",
+    "description_habitat": "行踪神秘",
+    "roco_scale": 1.0,
+    "pet_topic": [
+      {
+        "topic_Id": 1,
+        "topic_type": 1,
+        "topic_desc": "捕捉1只精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202001
+      },
+      {
+        "topic_Id": 2,
+        "topic_type": 9,
+        "topic_desc": "捕捉1只了不起天分的精灵",
+        "topic_cnt": 1,
+        "topic_reward": 202006
+      },
+      {
+        "topic_Id": 3,
+        "topic_type": 21,
+        "topic_data_1": [
+          1003
+        ],
+        "topic_desc": "获得「命定勇者」奖牌",
+        "topic_cnt": 1,
+        "topic_reward": 202004
       }
     ]
   }

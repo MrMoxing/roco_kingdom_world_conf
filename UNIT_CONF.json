@@ -18,6 +18,12 @@
     "unit_background2": "PaperSprite'/Game/NewRoco/Modules/System/Task/Raw/NewTask1/Frames/img_saijixianshi_png.img_saijixianshi_png'"
   },
   {
+    "id": 10016,
+    "title": "传说中的马戏团",
+    "unit_background": "什么图片都不是",
+    "unit_background2": "记得改这里捏"
+  },
+  {
     "id": 10097,
     "title": "【下架任务】"
   },
@@ -95,7 +101,7 @@
   },
   {
     "id": 23006,
-    "title": "学院呱呱的故事"
+    "title": "玄玉的交换生"
   },
   {
     "id": 23007,
@@ -108,6 +114,10 @@
   {
     "id": 23009,
     "title": "莫里亚克的委托"
+  },
+  {
+    "id": 23010,
+    "title": "珍稀精灵调查团"
   },
   {
     "id": 23011,
@@ -124,6 +134,10 @@
   {
     "id": 23702,
     "title": "你的目光所及"
+  },
+  {
+    "id": 23703,
+    "title": "云端上的怪客"
   },
   {
     "id": 70001,
@@ -155,6 +169,6 @@
   },
   {
     "id": 93004,
-    "title": "【下架】购买高级咕噜球"
+    "title": "欢迎回到洛克王国"
   }
 ]

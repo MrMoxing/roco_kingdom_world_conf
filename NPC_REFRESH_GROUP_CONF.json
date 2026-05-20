@@ -1,12 +1,6 @@
 [
   {
     "id": 101,
-    "editor_name": "稀兽花种_商店街周边",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       140276,
       140277,
@@ -30,12 +24,6 @@
   },
   {
     "id": 102,
-    "editor_name": "稀兽花种_聆风塔地",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       140294,
       140295,
@@ -59,12 +47,6 @@
   },
   {
     "id": 103,
-    "editor_name": "稀兽花种_月牙湖岸",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       140312,
       140313,
@@ -88,12 +70,6 @@
   },
   {
     "id": 104,
-    "editor_name": "稀兽花种_奥贝斯坦湖",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       140426,
       140427,
@@ -117,12 +93,6 @@
   },
   {
     "id": 105,
-    "editor_name": "稀兽花种_风息山口",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       140444,
       140445,
@@ -146,12 +116,6 @@
   },
   {
     "id": 106,
-    "editor_name": "稀兽花种_旧飞艇航道",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       140462,
       140463,
@@ -175,12 +139,6 @@
   },
   {
     "id": 107,
-    "editor_name": "稀兽花种_挽风屏障",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       140480,
       140481,
@@ -204,12 +162,6 @@
   },
   {
     "id": 108,
-    "editor_name": "稀兽花种_叽叽喳喳台地",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       140498,
       140499,
@@ -233,12 +185,6 @@
   },
   {
     "id": 109,
-    "editor_name": "稀兽花种_岚语峰西侧",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       140516,
       140517,
@@ -262,12 +208,6 @@
   },
   {
     "id": 110,
-    "editor_name": "稀兽花种_星霜崖地",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       140534,
       140535,
@@ -291,12 +231,6 @@
   },
   {
     "id": 111,
-    "editor_name": "稀兽花种_魇兽之森",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       140552,
       140553,
@@ -320,12 +254,6 @@
   },
   {
     "id": 112,
-    "editor_name": "稀兽花种2_商店街周边",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2100001,
       2100002,
@@ -349,12 +277,6 @@
   },
   {
     "id": 113,
-    "editor_name": "稀兽花种2_月牙湖岸",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2100019,
       2100020,
@@ -378,12 +300,6 @@
   },
   {
     "id": 114,
-    "editor_name": "稀兽花种2_奥贝斯坦湖",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2100037,
       2100038,
@@ -407,12 +323,6 @@
   },
   {
     "id": 115,
-    "editor_name": "稀兽花种2_聆风塔地",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2100055,
       2100056,
@@ -436,12 +346,6 @@
   },
   {
     "id": 116,
-    "editor_name": "稀兽花种2_风息山口",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2100073,
       2100074,
@@ -465,12 +369,6 @@
   },
   {
     "id": 117,
-    "editor_name": "稀兽花种2_挽风屏障",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2100091,
       2100092,
@@ -494,12 +392,6 @@
   },
   {
     "id": 118,
-    "editor_name": "稀兽花种2_叽叽喳喳台地",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2100109,
       2100110,
@@ -523,12 +415,6 @@
   },
   {
     "id": 119,
-    "editor_name": "稀兽花种2_岚语峰西侧",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2100127,
       2100128,
@@ -552,12 +438,6 @@
   },
   {
     "id": 120,
-    "editor_name": "稀兽花种2_星霜崖地",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2100145,
       2100146,
@@ -581,12 +461,6 @@
   },
   {
     "id": 121,
-    "editor_name": "稀兽花种2_魇兽之森",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2100163,
       2100164,
@@ -610,12 +484,6 @@
   },
   {
     "id": 122,
-    "editor_name": "稀兽花种2_旧飞艇航道",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2100181,
       2100182,
@@ -639,12 +507,6 @@
   },
   {
     "id": 123,
-    "editor_name": "稀兽花种_风眠领地",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2100380,
       2100381,
@@ -668,12 +530,6 @@
   },
   {
     "id": 124,
-    "editor_name": "稀兽花种2_风眠领地",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2100398,
       2100399,
@@ -697,12 +553,6 @@
   },
   {
     "id": 125,
-    "editor_name": "稀兽花种_轻风山",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652577,
       652578,
@@ -726,12 +576,6 @@
   },
   {
     "id": 126,
-    "editor_name": "稀兽花种2_轻风山",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652595,
       652596,
@@ -755,12 +599,6 @@
   },
   {
     "id": 201,
-    "editor_name": "稀兽花种-沉船漩涡",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652055,
       652056,
@@ -784,12 +622,6 @@
   },
   {
     "id": 202,
-    "editor_name": "稀兽花种-沉船漩涡",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652073,
       652074,
@@ -813,12 +645,6 @@
   },
   {
     "id": 203,
-    "editor_name": "稀兽花种-咸水湾",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652433,
       652434,
@@ -842,12 +668,6 @@
   },
   {
     "id": 204,
-    "editor_name": "稀兽花种-咸水湾",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652451,
       652452,
@@ -871,12 +691,6 @@
   },
   {
     "id": 205,
-    "editor_name": "稀兽花种-圣所前哨",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652397,
       652398,
@@ -900,12 +714,6 @@
   },
   {
     "id": 206,
-    "editor_name": "稀兽花种-圣所前哨",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652415,
       652416,
@@ -929,12 +737,6 @@
   },
   {
     "id": 207,
-    "editor_name": "稀兽花种-回填山涧",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652253,
       652254,
@@ -958,12 +760,6 @@
   },
   {
     "id": 208,
-    "editor_name": "稀兽花种-回填山涧",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652271,
       652272,
@@ -987,12 +783,6 @@
   },
   {
     "id": 209,
-    "editor_name": "稀兽花种-采邑地",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652019,
       652020,
@@ -1016,12 +806,6 @@
   },
   {
     "id": 210,
-    "editor_name": "稀兽花种-采邑地",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652037,
       652038,
@@ -1045,12 +829,6 @@
   },
   {
     "id": 211,
-    "editor_name": "稀兽花种-独角兽领地",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652001,
       652002,
@@ -1074,12 +852,6 @@
   },
   {
     "id": 212,
-    "editor_name": "稀兽花种-甜水农庄",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652505,
       652506,
@@ -1103,12 +875,6 @@
   },
   {
     "id": 213,
-    "editor_name": "稀兽花种-甜水农庄",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652523,
       652524,
@@ -1132,12 +898,6 @@
   },
   {
     "id": 214,
-    "editor_name": "稀兽花种-恶水沼泽",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652127,
       652128,
@@ -1161,12 +921,6 @@
   },
   {
     "id": 215,
-    "editor_name": "稀兽花种-恶水沼泽",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652145,
       652146,
@@ -1190,12 +944,6 @@
   },
   {
     "id": 216,
-    "editor_name": "稀兽花种-黑水峡",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652163,
       652164,
@@ -1219,12 +967,6 @@
   },
   {
     "id": 217,
-    "editor_name": "稀兽花种-黑水峡",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652181,
       652182,
@@ -1248,12 +990,6 @@
   },
   {
     "id": 218,
-    "editor_name": "稀兽花种-咕嘟咕嘟浅滩",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652217,
       652218,
@@ -1277,12 +1013,6 @@
   },
   {
     "id": 219,
-    "editor_name": "稀兽花种-咕嘟咕嘟浅滩",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652235,
       652236,
@@ -1306,12 +1036,6 @@
   },
   {
     "id": 220,
-    "editor_name": "稀兽花种-银蛇河口",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652541,
       652542,
@@ -1335,12 +1059,6 @@
   },
   {
     "id": 221,
-    "editor_name": "稀兽花种-银蛇河口",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652559,
       652560,
@@ -1364,12 +1082,6 @@
   },
   {
     "id": 222,
-    "editor_name": "稀兽花种-监管区",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652379,
       652380,
@@ -1393,12 +1105,6 @@
   },
   {
     "id": 223,
-    "editor_name": "稀兽花种-晨曦山",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652091,
       652092,
@@ -1422,12 +1128,6 @@
   },
   {
     "id": 224,
-    "editor_name": "稀兽花种-晨曦山",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652109,
       652110,
@@ -1451,12 +1151,6 @@
   },
   {
     "id": 225,
-    "editor_name": "稀兽花种-拾荒港口",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652361,
       652362,
@@ -1480,12 +1174,6 @@
   },
   {
     "id": 226,
-    "editor_name": "稀兽花种-望风半岛",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652469,
       652470,
@@ -1509,12 +1197,6 @@
   },
   {
     "id": 227,
-    "editor_name": "稀兽花种-望风半岛",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652487,
       652488,
@@ -1538,12 +1220,6 @@
   },
   {
     "id": 228,
-    "editor_name": "稀兽花种-港口驻地",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652325,
       652326,
@@ -1567,12 +1243,6 @@
   },
   {
     "id": 229,
-    "editor_name": "稀兽花种-港口驻地",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652343,
       652344,
@@ -1596,12 +1266,6 @@
   },
   {
     "id": 230,
-    "editor_name": "稀兽花种-向日葵海岸",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652289,
       652290,
@@ -1625,12 +1289,6 @@
   },
   {
     "id": 231,
-    "editor_name": "稀兽花种-向日葵海岸",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652307,
       652308,
@@ -1654,12 +1312,6 @@
   },
   {
     "id": 232,
-    "editor_name": "稀兽花种-金叶原",
-    "member_choose_type": 2,
-    "member_choose_total": 18,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       652199,
       652200,
@@ -1683,12 +1335,6 @@
   },
   {
     "id": 1001,
-    "editor_name": "嘟嘟煲/锅随机",
-    "member_choose_type": 2,
-    "member_choose_total": 8,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       141697,
       141698,
@@ -1702,12 +1348,6 @@
   },
   {
     "id": 1007,
-    "editor_name": "灵狐随机组2",
-    "member_choose_type": 2,
-    "member_choose_total": 5,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       141754,
       141755,
@@ -1718,12 +1358,6 @@
   },
   {
     "id": 1010,
-    "editor_name": "毛毛爬爬随机组",
-    "member_choose_type": 2,
-    "member_choose_total": 13,
-    "member_choose_param": [
-      4
-    ],
     "content_id": [
       2603992,
       2603993,
@@ -1742,12 +1376,6 @@
   },
   {
     "id": 1013,
-    "editor_name": "恶魔狼星霜崖地组",
-    "member_choose_type": 2,
-    "member_choose_total": 6,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       142447,
       142448,
@@ -1759,12 +1387,6 @@
   },
   {
     "id": 1014,
-    "editor_name": "恶魔狼圣羽祭台组",
-    "member_choose_type": 2,
-    "member_choose_total": 5,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       6700054,
       6701168,
@@ -1775,7 +1397,6 @@
   },
   {
     "id": 1016,
-    "editor_name": "月兔暗港矮脚爬爬组",
     "content_id": [
       142485,
       142486
@@ -1783,7 +1404,6 @@
   },
   {
     "id": 1017,
-    "editor_name": "月兔暗港古钟蛇组",
     "content_id": [
       142487,
       142488
@@ -1791,7 +1411,6 @@
   },
   {
     "id": 1018,
-    "editor_name": "月兔暗港恶魔叮组",
     "content_id": [
       142081,
       142079
@@ -1799,7 +1418,6 @@
   },
   {
     "id": 1019,
-    "editor_name": "月兔暗港缇塔组",
     "content_id": [
       142086,
       142087,
@@ -1809,7 +1427,6 @@
   },
   {
     "id": 1020,
-    "editor_name": "月兔暗港小箱怪组",
     "content_id": [
       142489,
       142490,
@@ -1819,7 +1436,6 @@
   },
   {
     "id": 1021,
-    "editor_name": "研究员组",
     "content_id": [
       5400128,
       5400129
@@ -1827,7 +1443,6 @@
   },
   {
     "id": 1022,
-    "editor_name": "黑衣人组",
     "content_id": [
       5400281,
       5400282,
@@ -1835,13 +1450,28 @@
     ]
   },
   {
+    "id": 1023,
+    "content_id": [
+      142588,
+      142589,
+      142590,
+      142591,
+      142592,
+      142593,
+      142594,
+      142595,
+      142596,
+      142597,
+      142598,
+      142599,
+      142600,
+      142601,
+      142602,
+      142603
+    ]
+  },
+  {
     "id": 2001,
-    "editor_name": "影狸噩梦刷新组",
-    "member_choose_type": 2,
-    "member_choose_total": 48,
-    "member_choose_param": [
-      4
-    ],
     "content_id": [
       112196,
       112197,
@@ -1895,7 +1525,6 @@
   },
   {
     "id": 8001,
-    "editor_name": "魔法学院 - 1组",
     "content_id": [
       801444,
       801445,
@@ -1905,7 +1534,6 @@
   },
   {
     "id": 8002,
-    "editor_name": "魔法学院 - 2组",
     "content_id": [
       801448,
       801449,
@@ -1915,7 +1543,6 @@
   },
   {
     "id": 8003,
-    "editor_name": "魔法学院 - 3组",
     "content_id": [
       801452,
       801453,
@@ -1925,7 +1552,6 @@
   },
   {
     "id": 8004,
-    "editor_name": "魔法学院 - 4组",
     "content_id": [
       801456,
       801457,
@@ -1935,7 +1561,6 @@
   },
   {
     "id": 8005,
-    "editor_name": "魔法学院 - 5组",
     "content_id": [
       801460,
       801461,
@@ -1945,7 +1570,6 @@
   },
   {
     "id": 8006,
-    "editor_name": "魔法学院 - 6组",
     "content_id": [
       801464,
       801465,
@@ -1955,7 +1579,6 @@
   },
   {
     "id": 8007,
-    "editor_name": "魔法学院 - 7组",
     "content_id": [
       801468,
       801469,
@@ -1965,7 +1588,6 @@
   },
   {
     "id": 8008,
-    "editor_name": "魔法学院 - 8组",
     "content_id": [
       801472,
       801473,
@@ -1975,7 +1597,6 @@
   },
   {
     "id": 8009,
-    "editor_name": "魔法学院 - 9组",
     "content_id": [
       801476,
       801477,
@@ -1985,7 +1606,6 @@
   },
   {
     "id": 8010,
-    "editor_name": "魔法学院 - 10组",
     "content_id": [
       801480,
       801481,
@@ -1995,295 +1615,234 @@
   },
   {
     "id": 10001,
-    "editor_name": "自选花种-甜田螺进化链",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       900001
     ]
   },
   {
     "id": 10002,
-    "editor_name": "自选花种-布鲁斯进化链",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       900002
     ]
   },
   {
     "id": 10003,
-    "editor_name": "第二期自选花种-小五",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       900003
     ]
   },
   {
     "id": 10004,
-    "editor_name": "第二期自选花种-小六",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       900004
     ]
   },
   {
     "id": 10005,
-    "editor_name": "第二期自选花种-小八",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       900005
     ]
   },
   {
     "id": 10006,
-    "editor_name": "第三期自选花种-春团",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       900006
     ]
   },
   {
     "id": 10007,
-    "editor_name": "第三期自选花种-幽星光",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       900007
     ]
   },
   {
     "id": 10008,
-    "editor_name": "第四期自选花种-火尾瓦特",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       900008
     ]
   },
   {
     "id": 10009,
-    "editor_name": "第四期自选花种-烈钻鸟",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       900009
     ]
   },
   {
     "id": 30001,
-    "editor_name": "高难花种挑战活动--高山地皇家狮鹫",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       910001
     ]
   },
   {
     "id": 30002,
-    "editor_name": "命定花种-花衣蝶",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2605698
     ]
   },
   {
     "id": 30003,
-    "editor_name": "命定花种-红绒十字",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2605699
     ]
   },
   {
     "id": 30004,
-    "editor_name": "命定花种-白金独角兽",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2605700
     ]
   },
   {
     "id": 30005,
-    "editor_name": "命定花种-魔草巫灵",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2605703
     ]
   },
   {
     "id": 30006,
-    "editor_name": "命定花种-奇丽花",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2605704
     ]
   },
   {
     "id": 30007,
-    "editor_name": "命定花种-高脚鹬",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2605705
     ]
   },
   {
     "id": 30008,
-    "editor_name": "命定花种-魔眷鸟",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2605706
     ]
   },
   {
     "id": 30009,
-    "editor_name": "命定花种-梦悠悠",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2606058
     ]
   },
   {
     "id": 30010,
-    "editor_name": "命定花种-电球咩咩",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2606059
     ]
   },
   {
     "id": 30011,
-    "editor_name": "命定花种-雪影娃娃",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2606060
     ]
   },
   {
     "id": 30012,
-    "editor_name": "命定花种-幽冥眼",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2606061
     ]
   },
   {
     "id": 30013,
-    "editor_name": "命定花种-嘟嘟锅",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2606062
     ]
   },
   {
     "id": 30014,
-    "editor_name": "命定花种-琉璃水母",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2606063
     ]
   },
   {
     "id": 30015,
-    "editor_name": "命定花种-九幽菇",
-    "member_choose_type": 2,
-    "member_choose_total": 1,
-    "member_choose_param": [
-      1
-    ],
     "content_id": [
       2606064
     ]
   },
   {
+    "id": 30016,
+    "content_id": [
+      2606217
+    ]
+  },
+  {
+    "id": 30017,
+    "content_id": [
+      2606218
+    ]
+  },
+  {
+    "id": 30018,
+    "content_id": [
+      2606219
+    ]
+  },
+  {
+    "id": 30019,
+    "content_id": [
+      2606220
+    ]
+  },
+  {
+    "id": 30020,
+    "content_id": [
+      2606221
+    ]
+  },
+  {
+    "id": 30021,
+    "content_id": [
+      2606222
+    ]
+  },
+  {
+    "id": 30022,
+    "content_id": [
+      2606223
+    ]
+  },
+  {
+    "id": 30023,
+    "content_id": [
+      2606224
+    ]
+  },
+  {
+    "id": 30024,
+    "content_id": [
+      2606225
+    ]
+  },
+  {
+    "id": 30025,
+    "content_id": [
+      2606226
+    ]
+  },
+  {
+    "id": 30026,
+    "content_id": [
+      2606227
+    ]
+  },
+  {
+    "id": 30027,
+    "content_id": [
+      2606228
+    ]
+  },
+  {
+    "id": 30028,
+    "content_id": [
+      2606229
+    ]
+  },
+  {
+    "id": 30029,
+    "content_id": [
+      2606230
+    ]
+  },
+  {
     "id": 1003001,
-    "editor_name": "仅供小游戏001使用",
     "content_id": [
       680103,
       680104,
@@ -2304,7 +1863,6 @@
   },
   {
     "id": 1003002,
-    "editor_name": "仅供小游戏002使用",
     "content_id": [
       680203,
       680204,
@@ -2320,7 +1878,6 @@
   },
   {
     "id": 1003003,
-    "editor_name": "仅供小游戏003使用",
     "content_id": [
       680303,
       680304,
@@ -2331,7 +1888,6 @@
   },
   {
     "id": 1003004,
-    "editor_name": "仅供小游戏004使用",
     "content_id": [
       680403,
       680404,
@@ -2342,7 +1898,6 @@
   },
   {
     "id": 1003005,
-    "editor_name": "仅供小游戏005使用",
     "content_id": [
       680503,
       680504,
@@ -2360,7 +1915,6 @@
   },
   {
     "id": 1003006,
-    "editor_name": "仅供小游戏006使用",
     "content_id": [
       680603,
       680604,
@@ -2380,7 +1934,6 @@
   },
   {
     "id": 1003007,
-    "editor_name": "仅供小游戏007使用",
     "content_id": [
       680703,
       680704,
@@ -2401,7 +1954,6 @@
   },
   {
     "id": 1003008,
-    "editor_name": "仅供小游戏008使用",
     "content_id": [
       680803,
       680804,
@@ -2412,7 +1964,6 @@
   },
   {
     "id": 1003009,
-    "editor_name": "仅供小游戏009使用",
     "content_id": [
       680903,
       680904,
@@ -2423,7 +1974,6 @@
   },
   {
     "id": 1003010,
-    "editor_name": "仅供小游戏010使用",
     "content_id": [
       681003,
       681004,
@@ -2444,7 +1994,6 @@
   },
   {
     "id": 1003011,
-    "editor_name": "仅供小游戏011使用",
     "content_id": [
       681103,
       681104,
@@ -2461,7 +2010,6 @@
   },
   {
     "id": 1003012,
-    "editor_name": "仅供小游戏012使用",
     "content_id": [
       681203,
       681204,
@@ -2478,7 +2026,6 @@
   },
   {
     "id": 1003013,
-    "editor_name": "仅供小游戏013使用",
     "content_id": [
       681303,
       681304,
@@ -2489,7 +2036,6 @@
   },
   {
     "id": 1003014,
-    "editor_name": "仅供小游戏014使用",
     "content_id": [
       681403,
       681404,
@@ -2500,7 +2046,6 @@
   },
   {
     "id": 1003015,
-    "editor_name": "仅供A2小游戏001使用",
     "content_id": [
       681503,
       681504,
@@ -2517,7 +2062,6 @@
   },
   {
     "id": 1003016,
-    "editor_name": "仅供A2小游戏002使用",
     "content_id": [
       681603,
       681604,
@@ -2528,7 +2072,6 @@
   },
   {
     "id": 1003017,
-    "editor_name": "仅供A2小游戏003使用",
     "content_id": [
       681703,
       681704,
@@ -2545,7 +2088,6 @@
   },
   {
     "id": 1003018,
-    "editor_name": "仅供A2小游戏004使用",
     "content_id": [
       681803,
       681804,
@@ -2556,7 +2098,6 @@
   },
   {
     "id": 1003019,
-    "editor_name": "仅供A2小游戏005使用",
     "content_id": [
       681903,
       681904,
@@ -2577,7 +2118,6 @@
   },
   {
     "id": 1003020,
-    "editor_name": "仅供A2小游戏006使用",
     "content_id": [
       682003,
       682004,
@@ -2594,7 +2134,6 @@
   },
   {
     "id": 1003021,
-    "editor_name": "仅供A2小游戏007使用",
     "content_id": [
       682103,
       682104,
@@ -2611,7 +2150,6 @@
   },
   {
     "id": 1003022,
-    "editor_name": "仅供A2小游戏008使用",
     "content_id": [
       682203,
       682204,
@@ -2627,7 +2165,6 @@
   },
   {
     "id": 1003023,
-    "editor_name": "仅供A2小游戏009使用",
     "content_id": [
       682303,
       682304,
@@ -2638,7 +2175,6 @@
   },
   {
     "id": 1003024,
-    "editor_name": "仅供A2小游戏010使用",
     "content_id": [
       682403,
       682404,
@@ -2654,7 +2190,6 @@
   },
   {
     "id": 1003025,
-    "editor_name": "仅供A2小游戏011使用",
     "content_id": [
       682503,
       682504,
@@ -2672,7 +2207,6 @@
   },
   {
     "id": 1003026,
-    "editor_name": "仅供A2小游戏012使用",
     "content_id": [
       682603,
       682604,
@@ -2689,7 +2223,6 @@
   },
   {
     "id": 1003027,
-    "editor_name": "仅供A2小游戏013使用",
     "content_id": [
       682703,
       682704,
@@ -2700,7 +2233,6 @@
   },
   {
     "id": 1003028,
-    "editor_name": "仅供A2小游戏014使用",
     "content_id": [
       682803,
       682804,
@@ -2717,7 +2249,6 @@
   },
   {
     "id": 1003029,
-    "editor_name": "仅供A2小游戏015使用",
     "content_id": [
       682903,
       682904,
@@ -2735,7 +2266,6 @@
   },
   {
     "id": 1003030,
-    "editor_name": "仅供A2小游戏016使用",
     "content_id": [
       683003,
       683004,
@@ -2751,7 +2281,6 @@
   },
   {
     "id": 1003031,
-    "editor_name": "噩梦空间-黑巫师之影",
     "content_id": [
       1000147,
       1200860,
@@ -2762,7 +2291,6 @@
   },
   {
     "id": 1003032,
-    "editor_name": "TQ06",
     "content_id": [
       2201486,
       2201487,
@@ -2773,7 +2301,6 @@
   },
   {
     "id": 1003033,
-    "editor_name": "噩梦空间一号（初级）",
     "content_id": [
       1000325,
       1000729,
@@ -2782,7 +2309,6 @@
   },
   {
     "id": 1003034,
-    "editor_name": "噩梦空间二号（初级）",
     "content_id": [
       1000327,
       1000734,
@@ -2791,7 +2317,6 @@
   },
   {
     "id": 1003035,
-    "editor_name": "噩梦空间三号（初级）",
     "content_id": [
       1000732,
       1000730,
@@ -2800,7 +2325,6 @@
   },
   {
     "id": 1003036,
-    "editor_name": "噩梦空间-圣羽祭台",
     "content_id": [
       3700177,
       3700213,
@@ -2813,7 +2337,6 @@
   },
   {
     "id": 1003037,
-    "editor_name": "噩梦空间一号（中级）",
     "content_id": [
       1001590,
       1001584,
@@ -2822,7 +2345,6 @@
   },
   {
     "id": 1003038,
-    "editor_name": "噩梦空间一号（高级）",
     "content_id": [
       1001591,
       1001585,
@@ -2831,7 +2353,6 @@
   },
   {
     "id": 1003039,
-    "editor_name": "噩梦空间二号（中级）",
     "content_id": [
       1001597,
       1001593,
@@ -2840,7 +2361,6 @@
   },
   {
     "id": 1003040,
-    "editor_name": "噩梦空间二号（高级）",
     "content_id": [
       1001598,
       1001594,
@@ -2849,7 +2369,6 @@
   },
   {
     "id": 1003041,
-    "editor_name": "噩梦空间三号（中级）",
     "content_id": [
       1001604,
       1001600,
@@ -2858,7 +2377,6 @@
   },
   {
     "id": 1003042,
-    "editor_name": "噩梦空间三号（高级）",
     "content_id": [
       1001605,
       1001601,
@@ -2867,7 +2385,6 @@
   },
   {
     "id": 1003043,
-    "editor_name": "噩梦空间四号（初级）",
     "content_id": [
       1001609,
       1001612,
@@ -2876,7 +2393,6 @@
   },
   {
     "id": 1003044,
-    "editor_name": "噩梦空间四号（中级）",
     "content_id": [
       1001610,
       1001613,
@@ -2885,7 +2401,6 @@
   },
   {
     "id": 1003045,
-    "editor_name": "噩梦空间四号（高级）",
     "content_id": [
       1001611,
       1001614,
@@ -2894,7 +2409,6 @@
   },
   {
     "id": 1003046,
-    "editor_name": "噩梦空间五号（初级）",
     "content_id": [
       1001620,
       1001623,
@@ -2903,7 +2417,6 @@
   },
   {
     "id": 1003047,
-    "editor_name": "噩梦空间五号（中级）",
     "content_id": [
       1001621,
       1001624,
@@ -2912,7 +2425,6 @@
   },
   {
     "id": 1003048,
-    "editor_name": "噩梦空间五号（高级）",
     "content_id": [
       1001622,
       1001625,
@@ -2921,7 +2433,6 @@
   },
   {
     "id": 1003049,
-    "editor_name": "噩梦空间六号（初级）",
     "content_id": [
       1001631,
       1001634,
@@ -2930,7 +2441,6 @@
   },
   {
     "id": 1003050,
-    "editor_name": "噩梦空间六号（中级）",
     "content_id": [
       1001632,
       1001635,
@@ -2939,7 +2449,6 @@
   },
   {
     "id": 1003051,
-    "editor_name": "噩梦空间六号（高级）",
     "content_id": [
       1001633,
       1001636,
@@ -2948,7 +2457,6 @@
   },
   {
     "id": 1003052,
-    "editor_name": "噩梦空间七号（初级）",
     "content_id": [
       1001642,
       1001645,
@@ -2957,7 +2465,6 @@
   },
   {
     "id": 1003053,
-    "editor_name": "噩梦空间七号（中级）",
     "content_id": [
       1001643,
       1001646,
@@ -2966,7 +2473,6 @@
   },
   {
     "id": 1003054,
-    "editor_name": "噩梦空间七号（高级）",
     "content_id": [
       1001644,
       1001647,
@@ -2975,7 +2481,6 @@
   },
   {
     "id": 1003055,
-    "editor_name": "噩梦空间八号（初级）",
     "content_id": [
       1001653,
       1001656,
@@ -2984,7 +2489,6 @@
   },
   {
     "id": 1003056,
-    "editor_name": "噩梦空间八号（中级）",
     "content_id": [
       1001654,
       1001657,
@@ -2993,7 +2497,6 @@
   },
   {
     "id": 1003057,
-    "editor_name": "噩梦空间八号（高级）",
     "content_id": [
       1001655,
       1001658,
@@ -3002,7 +2505,6 @@
   },
   {
     "id": 1003058,
-    "editor_name": "噩梦空间九号（初级）",
     "content_id": [
       1001664,
       1001667,
@@ -3011,7 +2513,6 @@
   },
   {
     "id": 1003059,
-    "editor_name": "噩梦空间九号（中级）",
     "content_id": [
       1001665,
       1001668,
@@ -3020,7 +2521,6 @@
   },
   {
     "id": 1003060,
-    "editor_name": "噩梦空间九号（高级）",
     "content_id": [
       1001666,
       1001669,
@@ -3029,7 +2529,6 @@
   },
   {
     "id": 1003061,
-    "editor_name": "仅供A2小游戏017使用",
     "content_id": [
       683103,
       683104,
@@ -3040,7 +2539,6 @@
   },
   {
     "id": 1003062,
-    "editor_name": "仅供A2小游戏018使用",
     "content_id": [
       683303,
       683304,
@@ -3057,7 +2555,6 @@
   },
   {
     "id": 1003063,
-    "editor_name": "仅供B1小游戏019使用（主线）",
     "content_id": [
       4300644,
       4300645,
@@ -3112,96 +2609,78 @@
   },
   {
     "id": 1003064,
-    "editor_name": "魔法学院叶冕魔力猫挑战",
     "content_id": [
       1002626
     ]
   },
   {
     "id": 1003065,
-    "editor_name": "魔法学院圣水守护挑战",
     "content_id": [
       1002627
     ]
   },
   {
     "id": 1003066,
-    "editor_name": "魔法学院烈火战神挑战",
     "content_id": [
       1002628
     ]
   },
   {
     "id": 1003067,
-    "editor_name": "仅供B1小游戏020使用（主线）",
     "content_id": [
       4300817
     ]
   },
   {
     "id": 1003068,
-    "editor_name": "B1魔法学院噩梦情景1（主线阶段玩法）",
     "content_id": [
       4900108
     ]
   },
   {
     "id": 1003069,
-    "editor_name": "B1魔法学院噩梦情景2（主线阶段玩法）",
     "content_id": [
       4900110
     ]
   },
   {
     "id": 1003070,
-    "editor_name": "B1魔法学院噩梦情景3（主线阶段玩法）",
     "content_id": [
       4900112
     ]
   },
   {
     "id": 1003071,
-    "editor_name": "B1魔法学院噩梦情景4（主线阶段玩法）",
     "content_id": [
       4900116
     ]
   },
   {
     "id": 1003072,
-    "editor_name": "B1魔法学院噩梦情景5（主线阶段玩法）",
     "content_id": [
       4900118
     ]
   },
   {
     "id": 1003073,
-    "editor_name": "B1魔法学院噩梦情景6（主线阶段玩法）",
     "content_id": [
       4900120
     ]
   },
   {
     "id": 1003074,
-    "editor_name": "B1魔法学院噩梦情景7（主线阶段玩法）",
     "content_id": [
       4900122
     ]
   },
   {
     "id": 1003075,
-    "editor_name": "B1魔法学院噩梦情景8（主线阶段玩法）",
     "content_id": [
       4900124
     ]
   },
   {
     "id": 1004001,
-    "editor_name": "噩梦精灵刷新测试",
-    "member_choose_type": 3,
-    "member_choose_param": [
-      1,
-      6
-    ],
     "content_id": [
       1001122,
       1001123,
@@ -3213,7 +2692,6 @@
   },
   {
     "id": 1004002,
-    "editor_name": "魔力猫技能NPC组召唤测试",
     "content_id": [
       1200848,
       1200849,
@@ -3231,7 +2709,6 @@
   },
   {
     "id": 2001001,
-    "editor_name": "水之道副本小游戏01",
     "content_id": [
       1301074,
       1301075,
@@ -3243,7 +2720,6 @@
   },
   {
     "id": 2001002,
-    "editor_name": "水之道副本小游戏02",
     "content_id": [
       1301080,
       1301081,
@@ -3255,7 +2731,6 @@
   },
   {
     "id": 2001003,
-    "editor_name": "星落船遗副本小游戏",
     "content_id": [
       2900367,
       2900368,
@@ -3271,7 +2746,6 @@
   },
   {
     "id": 2001004,
-    "editor_name": "觅踪花园副本小游戏01",
     "content_id": [
       1301103,
       1301104,
@@ -3282,7 +2756,6 @@
   },
   {
     "id": 2001005,
-    "editor_name": "觅踪花园副本小游戏02",
     "content_id": [
       1301118,
       1301119,
@@ -3293,7 +2766,6 @@
   },
   {
     "id": 2001006,
-    "editor_name": "眠星风阵副本小游戏01",
     "content_id": [
       2900683,
       2900684,
@@ -3310,7 +2782,6 @@
   },
   {
     "id": 2001007,
-    "editor_name": "眠星风阵副本小游戏02",
     "content_id": [
       2900688,
       2900689,
@@ -3332,7 +2803,6 @@
   },
   {
     "id": 2001008,
-    "editor_name": "沙漠之星副本小游戏01",
     "content_id": [
       1301296,
       1301297,
@@ -3346,7 +2816,6 @@
   },
   {
     "id": 2001009,
-    "editor_name": "沙漠之星副本小游戏02",
     "content_id": [
       1301302,
       1301303,
@@ -3357,7 +2826,6 @@
   },
   {
     "id": 3001001,
-    "editor_name": "测试用",
     "content_id": [
       2201546,
       2201547,
@@ -3369,7 +2837,6 @@
   },
   {
     "id": 3002001,
-    "editor_name": "魔法学院星星魔法初级挑战",
     "content_id": [
       1002008,
       1002009,
@@ -3378,7 +2845,6 @@
   },
   {
     "id": 3003001,
-    "editor_name": "魔法学院星星魔法初级挑战",
     "content_id": [
       1002020,
       1002021,
@@ -3387,7 +2853,6 @@
   },
   {
     "id": 5500001,
-    "editor_name": "叮叮恶魔守护地-噩梦精灵",
     "content_id": [
       5500257,
       5500260,
@@ -3396,7 +2861,6 @@
   },
   {
     "id": 5500002,
-    "editor_name": "雪灵守护地-噩梦精灵",
     "content_id": [
       5500243,
       5500244,
@@ -3410,7 +2874,6 @@
   },
   {
     "id": 5500003,
-    "editor_name": "九幽菇守护地-噩梦精灵",
     "content_id": [
       5500264,
       5500265,
@@ -3424,7 +2887,6 @@
   },
   {
     "id": 5500004,
-    "editor_name": "怖哭菇守护地-噩梦精灵",
     "content_id": [
       5500272,
       5500273,
@@ -3438,12 +2900,6 @@
   },
   {
     "id": 5500005,
-    "editor_name": "火尾瓦特进化链组",
-    "member_choose_type": 1,
-    "member_choose_total": 20,
-    "member_choose_param": [
-      10
-    ],
     "content_id": [
       5501807,
       5501808,
@@ -3469,7 +2925,6 @@
   },
   {
     "id": 5500006,
-    "editor_name": "仅供魔法学院小游戏01使用",
     "content_id": [
       5501866,
       5501867,
@@ -3485,7 +2940,6 @@
   },
   {
     "id": 5500007,
-    "editor_name": "仅供魔法学院小游戏02使用",
     "content_id": [
       5501877,
       5501878,
@@ -3498,6 +2952,39 @@
       5501894,
       5501895,
       5501898
+    ]
+  },
+  {
+    "id": 246031000,
+    "content_id": [
+      14200001,
+      14200002,
+      14200003,
+      14200004,
+      14200005,
+      14200006
+    ]
+  },
+  {
+    "id": 246031001,
+    "content_id": [
+      14200007,
+      14200008,
+      14200009,
+      14200010,
+      14200011,
+      14200012
+    ]
+  },
+  {
+    "id": 246031002,
+    "content_id": [
+      14200013,
+      14200014,
+      14200015,
+      14200016,
+      14200017,
+      14200018
     ]
   }
 ]

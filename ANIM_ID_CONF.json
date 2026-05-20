@@ -2166,5 +2166,161 @@
   {
     "id": 542,
     "anim_name": "PrayLoop"
+  },
+  {
+    "id": 543,
+    "anim_name": "JXHZCallOut"
+  },
+  {
+    "id": 544,
+    "anim_name": "Prize"
+  },
+  {
+    "id": 545,
+    "anim_name": "PrizeStart"
+  },
+  {
+    "id": 546,
+    "anim_name": "PrizeEnd"
+  },
+  {
+    "id": 547,
+    "anim_name": "Hit1Add_0"
+  },
+  {
+    "id": 548,
+    "anim_name": "NiuDanJi"
+  },
+  {
+    "id": 549,
+    "anim_name": "PrizeOpen"
+  },
+  {
+    "id": 550,
+    "anim_name": "PrizeDie"
+  },
+  {
+    "id": 551,
+    "anim_name": "Out"
+  },
+  {
+    "id": 552,
+    "anim_name": "OutQuick"
+  },
+  {
+    "id": 553,
+    "anim_name": "PAnger"
+  },
+  {
+    "id": 554,
+    "anim_name": "PIdle"
+  },
+  {
+    "id": 555,
+    "anim_name": "PSad"
+  },
+  {
+    "id": 556,
+    "anim_name": "PShock"
+  },
+  {
+    "id": 557,
+    "anim_name": "PKXAnger"
+  },
+  {
+    "id": 558,
+    "anim_name": "PKXHappy"
+  },
+  {
+    "id": 559,
+    "anim_name": "PKXIdle"
+  },
+  {
+    "id": 560,
+    "anim_name": "PKXSad"
+  },
+  {
+    "id": 561,
+    "anim_name": "PKXShock"
+  },
+  {
+    "id": 562,
+    "anim_name": "KouXingAnger"
+  },
+  {
+    "id": 563,
+    "anim_name": "KouXingHappy"
+  },
+  {
+    "id": 564,
+    "anim_name": "KouXingIdle"
+  },
+  {
+    "id": 565,
+    "anim_name": "KouXingSad"
+  },
+  {
+    "id": 566,
+    "anim_name": "KouXingShock"
+  },
+  {
+    "id": 567,
+    "anim_name": "PEyeAnger"
+  },
+  {
+    "id": 568,
+    "anim_name": "PEyeClose"
+  },
+  {
+    "id": 569,
+    "anim_name": "PEyeHappy"
+  },
+  {
+    "id": 570,
+    "anim_name": "PEyeIdle"
+  },
+  {
+    "id": 571,
+    "anim_name": "PEyeSad"
+  },
+  {
+    "id": 572,
+    "anim_name": "PEyeShock"
+  },
+  {
+    "id": 573,
+    "anim_name": "RolePlayNo"
+  },
+  {
+    "id": 574,
+    "anim_name": "RolePlaySeek"
+  },
+  {
+    "id": 575,
+    "anim_name": "RolePlayShh"
+  },
+  {
+    "id": 576,
+    "anim_name": "RolePlayThanks"
+  },
+  {
+    "id": 577,
+    "anim_name": "Fight_BossSkill_1_Start"
+  },
+  {
+    "id": 578,
+    "anim_name": "Fight_BossSkill_1_Loop"
+  },
+  {
+    "id": 579,
+    "anim_name": "Fight_BossSkill_1_End"
+  },
+  {
+    "id": 580,
+    "anim_name": "Prize1"
+  },
+  {
+    "id": 581,
+    "anim_name": "PrizeStart1"
   }
 ]

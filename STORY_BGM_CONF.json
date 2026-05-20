@@ -38,5 +38,495 @@
     "id": 8,
     "story_bgm_state": "Task_State;Task_A1_EndWar_Phase2",
     "text": "B1-JQ09中断晚会-BGM"
+  },
+  {
+    "id": 9,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_castle_circum_day_01\n",
+    "text": "光的金黄"
+  },
+  {
+    "id": 10,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_castle_circum_day_02",
+    "text": "奔涌而下"
+  },
+  {
+    "id": 11,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_castle_circum_night_01",
+    "text": "夜的斑斓"
+  },
+  {
+    "id": 12,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_castle_circum_night_02\n",
+    "text": "无畏地向前流淌"
+  },
+  {
+    "id": 13,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_island_day_01\n",
+    "text": "岛屿假期"
+  },
+  {
+    "id": 14,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_island_day_02",
+    "text": "向日葵转转"
+  },
+  {
+    "id": 15,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_island_day_0",
+    "text": "命运的轮盘"
+  },
+  {
+    "id": 16,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_island_day_04",
+    "text": "新生枝叶"
+  },
+  {
+    "id": 17,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_island_night_01\n",
+    "text": "宁静栖息"
+  },
+  {
+    "id": 18,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_island_night_02",
+    "text": "星星悄悄话"
+  },
+  {
+    "id": 19,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_island_night_03",
+    "text": "遗落在寂静的角落"
+  },
+  {
+    "id": 20,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_island_night_04",
+    "text": "风中摇曳"
+  },
+  {
+    "id": 21,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_nature_day_01\n",
+    "text": "誓约回响"
+  },
+  {
+    "id": 22,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_nature_day_02",
+    "text": "毛绒植被和青苔"
+  },
+  {
+    "id": 23,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_nature_day_03",
+    "text": "圣所前哨的清晨"
+  },
+  {
+    "id": 24,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_nature_day_04",
+    "text": "树影的怀抱"
+  },
+  {
+    "id": 25,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_nature_day_05",
+    "text": "林中漫步"
+  },
+  {
+    "id": 26,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_nature_night_01",
+    "text": "信仰不曾随着岁月变迁"
+  },
+  {
+    "id": 27,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_nature_night_02",
+    "text": "大地的温柔呼吸"
+  },
+  {
+    "id": 28,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_nature_night_03",
+    "text": "圣所前哨的夜晚"
+  },
+  {
+    "id": 29,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_nature_night_04",
+    "text": "独角兽的梦境"
+  },
+  {
+    "id": 30,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_nature_night_05",
+    "text": "幽林谧境"
+  },
+  {
+    "id": 31,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_ocean_day_01",
+    "text": "咸涩的晨风"
+  },
+  {
+    "id": 32,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_ocean_day_02",
+    "text": "冰与盐的交响"
+  },
+  {
+    "id": 33,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_ocean_day_03",
+    "text": "海浪奏响乐章"
+  },
+  {
+    "id": 34,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_ocean_night_01",
+    "text": "抚摸着每一块礁石的棱角"
+  },
+  {
+    "id": 35,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_ocean_night_02",
+    "text": "帆船的缆绳挂着水珠串串"
+  },
+  {
+    "id": 36,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_ocean_night_03",
+    "text": "白沙把梦铺展"
+  },
+  {
+    "id": 37,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_wetland_day_01\n",
+    "text": "雾霭的咏叹"
+  },
+  {
+    "id": 38,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;a2_wetland_night_01",
+    "text": "幽影的呼唤"
+  },
+  {
+    "id": 39,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;CaiDieXian_Day",
+    "text": "彩蝶鲨的嬉戏"
+  },
+  {
+    "id": 40,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;CaiDieXian_Night",
+    "text": "虹彩之鳍的轻舞"
+  },
+  {
+    "id": 41,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;CaiYiDi_Manor_Day",
+    "text": "丰收的颂歌"
+  },
+  {
+    "id": 42,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;CaiYiDi_Manor_Night",
+    "text": "夜色正酣，炉火正旺"
+  },
+  {
+    "id": 43,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;ChenXi_MountainBody",
+    "text": "光的信仰"
+  },
+  {
+    "id": 44,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;forest_day_01",
+    "text": "荒林和台地遥遥相望"
+  },
+  {
+    "id": 45,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;forest_day_02",
+    "text": "孩童偷偷向着荒林奔走"
+  },
+  {
+    "id": 46,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;orest_night_01",
+    "text": "风声诉说着危险"
+  },
+  {
+    "id": 47,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;forest_night_02",
+    "text": "只有古旧雕像静静等候"
+  },
+  {
+    "id": 48,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;HaiDao_Cave",
+    "text": "放轻松，月光下无人知你名"
+  },
+  {
+    "id": 49,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;JiaoHui_Town_Day",
+    "text": "冷硬与柔软在此交汇"
+  },
+  {
+    "id": 50,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;JiaoHui_Town_Night",
+    "text": "守卫共荣的小镇"
+  },
+  {
+    "id": 51,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;lake_day_01",
+    "text": "自月牙湖畔悠然走过"
+  },
+  {
+    "id": 52,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;lake_day_02",
+    "text": "吹响风笛，草籽沾上衣角"
+  },
+  {
+    "id": 53,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;lake_night_01",
+    "text": "幽蓝湖水带来远方的味道"
+  },
+  {
+    "id": 54,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;lake_night_02",
+    "text": "湖畔的遗迹，岁月的见证者"
+  },
+  {
+    "id": 55,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;LaoChuan_Town_Day",
+    "text": "残骸诉说往昔"
+  },
+  {
+    "id": 56,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;LaoChuan_Town_Night",
+    "text": "思念和大海一样又深又长"
+  },
+  {
+    "id": 57,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;LiBai_Church",
+    "text": "愿白树女神赐福于你"
+  },
+  {
+    "id": 58,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;LingFeng_Tableland_Day",
+    "text": "跟着晨风的指引"
+  },
+  {
+    "id": 59,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;LingFeng_Tableland_Night",
+    "text": "伴着晚风的轻抚"
+  },
+  {
+    "id": 60,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;Market_Street_Day",
+    "text": "阳光倾洒商店街"
+  },
+  {
+    "id": 61,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;Market_Street_Night",
+    "text": "月光祝福商店街"
+  },
+  {
+    "id": 62,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;Market_Street_Periphery_Day",
+    "text": "启程时刻"
+  },
+  {
+    "id": 63,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;Market_Street_Periphery_Night",
+    "text": "倦归时分"
+  },
+  {
+    "id": 64,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;MengShou_Forest_Day",
+    "text": "梦兽之森的幻想曲"
+  },
+  {
+    "id": 65,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;MengShou_Forest_Night",
+    "text": "梦兽之森的幽梦谣"
+  },
+  {
+    "id": 66,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;mountain_day_01",
+    "text": "风之精灵低吟着"
+  },
+  {
+    "id": 67,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;mountain_day_02",
+    "text": "旧飞艇是驶向幻想的小船"
+  },
+  {
+    "id": 68,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;mountain_day_03",
+    "text": "直至曙光轻吻孩童的眉梢"
+  },
+  {
+    "id": 69,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;mountain_night_01",
+    "text": "莫要撩动梦的帷幔"
+  },
+  {
+    "id": 70,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;mountain_night_02",
+    "text": "星星是精灵的眼"
+  },
+  {
+    "id": 71,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;mountain_night_03",
+    "text": "猫头鹰会守护夜的安然"
+  },
+  {
+    "id": 72,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;ocean_day_01",
+    "text": "浪尖的黎明"
+  },
+  {
+    "id": 73,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;ocean_night_01",
+    "text": "沉睡的波涛"
+  },
+  {
+    "id": 74,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;Peter_Avenue_CommercialArea_Day",
+    "text": "巡演熙熙攘攘"
+  },
+  {
+    "id": 75,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;Peter_Avenue_CommercialArea_Night",
+    "text": "无尽疯狂的罗网"
+  },
+  {
+    "id": 76,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;Peter_Avenue_PierArea_Day",
+    "text": "机械轰隆轰隆"
+  },
+  {
+    "id": 77,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;Peter_Avenue_PierArea_Night",
+    "text": "打工者的梦就在前方"
+  },
+  {
+    "id": 78,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;Peter_Avenue_RichArea_Day",
+    "text": "洛克贝叮叮当当"
+  },
+  {
+    "id": 79,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;Peter_Avenue_RichArea_Night",
+    "text": "幻梦迷迷茫茫"
+  },
+  {
+    "id": 80,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;ShengTai_Group",
+    "text": "奇花异草的呢喃"
+  },
+  {
+    "id": 81,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;ShengTai_Square_Day",
+    "text": "先贤传颂的箴言"
+  },
+  {
+    "id": 82,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;ShengTai_Square_Night",
+    "text": "星芒编织的命运"
+  },
+  {
+    "id": 83,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;SheTuan_Square_Day",
+    "text": "来吧，年轻的魔法师"
+  },
+  {
+    "id": 84,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;SheTuan_Square_Night",
+    "text": "快加入我们的社团"
+  },
+  {
+    "id": 85,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;snow_day_01",
+    "text": "幻光中的晨霜"
+  },
+  {
+    "id": 86,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;snow_day_02",
+    "text": "冰雪消弭"
+  },
+  {
+    "id": 87,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;snow_night_01",
+    "text": "极光下的冰凌"
+  },
+  {
+    "id": 88,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;snow_night_02",
+    "text": "悲伤凝结"
+  },
+  {
+    "id": 89,
+    "story_bgm_state": "TTask_State;Task_StoryBGM;Story_BGM;ongYong_Classroom",
+    "text": "求知的辉光"
+  },
+  {
+    "id": 90,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;towns_day_01",
+    "text": "晨晖的祈愿"
+  },
+  {
+    "id": 91,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;towns_day_02",
+    "text": "原野的风车"
+  },
+  {
+    "id": 92,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;towns_night_01",
+    "text": "石桥的风霜"
+  },
+  {
+    "id": 93,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;towns_night_02",
+    "text": "暮色的灯塔"
+  },
+  {
+    "id": 94,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;WangGuo_Castle_CastleArea_Day",
+    "text": "荣耀的火种"
+  },
+  {
+    "id": 95,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;WangGuo_Castle_CastleArea_Night",
+    "text": "飘扬的旗帜"
+  },
+  {
+    "id": 96,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;WangGuo_Castle_CommercialArea_Day",
+    "text": "繁荣的贸易"
+  },
+  {
+    "id": 97,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;WangGuo_Castle_CommercialArea_Night",
+    "text": "公正的裁决"
+  },
+  {
+    "id": 98,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;WangGuo_Castle_NobleArea_Day",
+    "text": "贵族的誓言"
+  },
+  {
+    "id": 99,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;WangGuo_Castle_NobleArea_Night",
+    "text": "英雄的足迹"
+  },
+  {
+    "id": 100,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;XinGuaiTan_Group",
+    "text": "障眼法"
+  },
+  {
+    "id": 101,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;XueYuan_Lobby_Day",
+    "text": "魔法之匙"
+  },
+  {
+    "id": 102,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;XueYuan_Lobby_Night",
+    "text": "符文闪烁"
+  },
+  {
+    "id": 103,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;XueYuan_Square_Day",
+    "text": "脚步匆匆奔赴课堂"
+  },
+  {
+    "id": 104,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;XueYuan_Square_Night",
+    "text": "魔法学院星辰高悬"
+  },
+  {
+    "id": 105,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;YaJiJi_Territory_Day",
+    "text": "鸭吉吉王国欢迎您"
+  },
+  {
+    "id": 106,
+    "story_bgm_state": "Task_State;Task_StoryBGM;Story_BGM;YaJiJi_Territory_Night",
+    "text": "记得上缴过路费鸭"
   }
 ]

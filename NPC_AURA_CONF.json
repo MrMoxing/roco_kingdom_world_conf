@@ -6,10 +6,6 @@
     "aura_distance": [
       1
     ],
-    "aura_target_type": 2,
-    "aura_target": [
-      15002
-    ],
     "aura_effect": [
       {
         "aura_effect_type": 1,
@@ -17,8 +13,7 @@
           7000190
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10002,
@@ -27,10 +22,6 @@
     "aura_distance": [
       1
     ],
-    "aura_target_type": 2,
-    "aura_target": [
-      15003
-    ],
     "aura_effect": [
       {
         "aura_effect_type": 1,
@@ -38,8 +29,7 @@
           7000190
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10003,
@@ -48,10 +38,6 @@
     "aura_distance": [
       1
     ],
-    "aura_target_type": 2,
-    "aura_target": [
-      15004
-    ],
     "aura_effect": [
       {
         "aura_effect_type": 1,
@@ -59,8 +45,7 @@
           7000190
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10004,
@@ -69,11 +54,6 @@
     "aura_distance": [
       80000
     ],
-    "aura_target_type": 2,
-    "aura_target": [
-      10047,
-      60028
-    ],
     "aura_effect": [
       {
         "aura_effect_type": 1,
@@ -81,8 +61,7 @@
           7000190
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10005,
@@ -91,10 +70,6 @@
     "aura_distance": [
       80000
     ],
-    "aura_target_type": 2,
-    "aura_target": [
-      15007
-    ],
     "aura_effect": [
       {
         "aura_effect_type": 1,
@@ -102,8 +77,7 @@
           7000190
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10006,
@@ -112,10 +86,6 @@
     "aura_distance": [
       80000
     ],
-    "aura_target_type": 2,
-    "aura_target": [
-      10058
-    ],
     "aura_effect": [
       {
         "aura_effect_type": 1,
@@ -123,8 +93,7 @@
           7000190
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10007,
@@ -135,11 +104,9 @@
       2000,
       5000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {}
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10008,
@@ -150,11 +117,9 @@
       4000,
       10000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {}
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10011,
@@ -164,7 +129,6 @@
     "aura_distance": [
       200
     ],
-    "aura_target_type": 3,
     "time_last": 10000,
     "aura_effect": [
       {
@@ -176,9 +140,7 @@
           -25
         ]
       }
-    ],
-    "bound_create_actor": true,
-    "remove_aura_distance": 3000
+    ]
   },
   {
     "id": 10013,
@@ -188,7 +150,6 @@
     "aura_distance": [
       200
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 10009,
@@ -196,8 +157,7 @@
           10001
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10014,
@@ -207,7 +167,6 @@
     "aura_distance": [
       1800
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 9,
@@ -215,8 +174,7 @@
           30
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10015,
@@ -226,7 +184,6 @@
     "aura_distance": [
       300
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 7,
@@ -234,8 +191,7 @@
           5
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10016,
@@ -245,7 +201,6 @@
     "aura_distance": [
       300
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 7,
@@ -253,8 +208,7 @@
           10
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10017,
@@ -264,7 +218,6 @@
     "aura_distance": [
       300
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 7,
@@ -272,8 +225,7 @@
           25
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10018,
@@ -283,7 +235,6 @@
     "aura_distance": [
       300
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 7,
@@ -291,10 +242,6 @@
           -10
         ]
       }
-    ],
-    "bound_create_actor": true,
-    "delete_aura_effect": [
-      10003
     ]
   },
   {
@@ -305,7 +252,6 @@
     "aura_distance": [
       300
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 7,
@@ -313,10 +259,6 @@
           -25
         ]
       }
-    ],
-    "bound_create_actor": true,
-    "delete_aura_effect": [
-      10003
     ]
   },
   {
@@ -327,7 +269,6 @@
     "aura_distance": [
       300
     ],
-    "aura_target_type": 3,
     "time_last": 20000,
     "aura_effect": [
       {
@@ -339,10 +280,7 @@
           -25
         ]
       }
-    ],
-    "bound_create_actor": true,
-    "remove_aura_distance": 3000,
-    "result_area": 13
+    ]
   },
   {
     "id": 10027,
@@ -352,17 +290,6 @@
     "aura_distance": [
       80000
     ],
-    "aura_target_type": 2,
-    "aura_target": [
-      13111,
-      13053,
-      10060,
-      10046,
-      10093,
-      13056,
-      10013,
-      10024
-    ],
     "aura_effect": [
       {
         "aura_effect_type": 1,
@@ -370,8 +297,7 @@
           7000210
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10028,
@@ -382,7 +308,6 @@
       200,
       1500
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -394,8 +319,7 @@
           1250
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10029,
@@ -406,7 +330,6 @@
       200,
       500
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -418,8 +341,7 @@
           1250
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10030,
@@ -430,7 +352,6 @@
       200,
       2000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -442,8 +363,7 @@
           1250
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10031,
@@ -454,7 +374,6 @@
       200,
       1000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -466,8 +385,7 @@
           1250
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10032,
@@ -478,7 +396,6 @@
       200,
       1500
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -490,8 +407,7 @@
           1250
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10033,
@@ -501,7 +417,6 @@
     "aura_distance": [
       1000
     ],
-    "aura_target_type": 3,
     "time_last": 86400000,
     "aura_effect": [
       {
@@ -513,10 +428,7 @@
           -25
         ]
       }
-    ],
-    "bound_create_actor": true,
-    "remove_aura_distance": 3000,
-    "result_area": 13
+    ]
   },
   {
     "id": 10034,
@@ -527,7 +439,6 @@
       100,
       1500
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -539,8 +450,7 @@
           1250
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10035,
@@ -551,7 +461,6 @@
       300,
       2500
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -563,8 +472,7 @@
           1250
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10036,
@@ -575,7 +483,6 @@
       3000,
       3000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 7,
@@ -583,8 +490,7 @@
           64
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10037,
@@ -595,7 +501,6 @@
       3000,
       3000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 7,
@@ -603,8 +508,7 @@
           -64
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 10038,
@@ -614,9 +518,7 @@
     "aura_distance": [
       400
     ],
-    "aura_target_type": 3,
     "time_last": 5000,
-    "next_aura_id": 10039,
     "aura_effect": [
       {
         "aura_effect_type": 10003
@@ -627,10 +529,7 @@
           64
         ]
       }
-    ],
-    "bound_create_actor": true,
-    "remove_aura_distance": 3000,
-    "result_area": 15
+    ]
   },
   {
     "id": 10039,
@@ -640,15 +539,12 @@
     "aura_distance": [
       400
     ],
-    "aura_target_type": 3,
     "time_last": 5000,
     "aura_effect": [
       {
         "aura_effect_type": 10004
       }
-    ],
-    "bound_create_actor": true,
-    "remove_aura_distance": 3000
+    ]
   },
   {
     "id": 10040,
@@ -658,9 +554,7 @@
     "aura_distance": [
       750
     ],
-    "aura_target_type": 3,
     "time_last": 10000,
-    "next_aura_id": 10041,
     "aura_effect": [
       {
         "aura_effect_type": 10003
@@ -671,10 +565,7 @@
           64
         ]
       }
-    ],
-    "bound_create_actor": true,
-    "remove_aura_distance": 3000,
-    "result_area": 15
+    ]
   },
   {
     "id": 10041,
@@ -684,15 +575,12 @@
     "aura_distance": [
       750
     ],
-    "aura_target_type": 3,
     "time_last": 5000,
     "aura_effect": [
       {
         "aura_effect_type": 10004
       }
-    ],
-    "bound_create_actor": true,
-    "remove_aura_distance": 3000
+    ]
   },
   {
     "id": 10042,
@@ -702,7 +590,6 @@
     "aura_distance": [
       750
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 9,
@@ -710,8 +597,7 @@
           30
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 20001,
@@ -721,7 +607,6 @@
     "aura_distance": [
       1000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 9,
@@ -729,8 +614,7 @@
           50
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 20002,
@@ -740,13 +624,11 @@
     "aura_distance": [
       500
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 10
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 20003,
@@ -756,13 +638,11 @@
     "aura_distance": [
       800
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 10
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 20004,
@@ -772,13 +652,11 @@
     "aura_distance": [
       1400
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 10
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 20005,
@@ -788,13 +666,11 @@
     "aura_distance": [
       2000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 10
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 20006,
@@ -804,13 +680,11 @@
     "aura_distance": [
       150
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 10
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 20007,
@@ -820,13 +694,11 @@
     "aura_distance": [
       300
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 10
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 20008,
@@ -836,13 +708,11 @@
     "aura_distance": [
       500
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 10
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 20009,
@@ -852,13 +722,11 @@
     "aura_distance": [
       800
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 10
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 20010,
@@ -868,13 +736,11 @@
     "aura_distance": [
       500
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 10
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 30001,
@@ -885,7 +751,6 @@
       300,
       2500
     ],
-    "aura_target_type": 3,
     "time_last": 60000,
     "aura_effect": [
       {
@@ -899,9 +764,7 @@
         ]
       }
     ],
-    "max_count": 3,
-    "bound_create_actor": true,
-    "remove_aura_distance": 200000
+    "max_count": 3
   },
   {
     "id": 30004,
@@ -912,7 +775,6 @@
       350,
       1900
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -924,8 +786,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 30005,
@@ -936,7 +797,6 @@
       2000,
       500
     ],
-    "aura_target_type": 1,
     "aura_effect": [
       {
         "aura_effect_type": 10009,
@@ -944,8 +804,7 @@
           10002
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 30006,
@@ -956,7 +815,6 @@
       3000,
       1000
     ],
-    "aura_target_type": 1,
     "aura_effect": [
       {
         "aura_effect_type": 10009,
@@ -964,8 +822,7 @@
           10002
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 30007,
@@ -976,7 +833,6 @@
       500,
       500
     ],
-    "aura_target_type": 1,
     "aura_effect": [
       {
         "aura_effect_type": 10009,
@@ -984,8 +840,7 @@
           10001
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 30012,
@@ -996,7 +851,6 @@
       300,
       3500
     ],
-    "aura_target_type": 3,
     "time_last": 60000,
     "aura_effect": [
       {
@@ -1010,9 +864,7 @@
         ]
       }
     ],
-    "max_count": 3,
-    "bound_create_actor": true,
-    "remove_aura_distance": 200000
+    "max_count": 3
   },
   {
     "id": 30013,
@@ -1023,7 +875,6 @@
       300,
       3500
     ],
-    "aura_target_type": 3,
     "time_last": 60000,
     "aura_effect": [
       {
@@ -1037,9 +888,7 @@
         ]
       }
     ],
-    "max_count": 3,
-    "bound_create_actor": true,
-    "remove_aura_distance": 200000
+    "max_count": 3
   },
   {
     "id": 30014,
@@ -1050,7 +899,6 @@
       250,
       1900
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1062,8 +910,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 30015,
@@ -1074,7 +921,6 @@
       250,
       2000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1086,8 +932,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 30016,
@@ -1098,7 +943,6 @@
       250,
       2400
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1110,8 +954,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 38101,
@@ -1121,7 +964,6 @@
     "aura_distance": [
       500
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 9,
@@ -1129,8 +971,7 @@
           110
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 38102,
@@ -1140,7 +981,6 @@
     "aura_distance": [
       600
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 7,
@@ -1148,8 +988,7 @@
           16
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 38103,
@@ -1159,7 +998,6 @@
     "aura_distance": [
       300
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 7,
@@ -1167,8 +1005,7 @@
           64
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 38104,
@@ -1178,7 +1015,6 @@
     "aura_distance": [
       750
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 7,
@@ -1189,9 +1025,7 @@
       {
         "aura_effect_type": 10004
       }
-    ],
-    "bound_create_actor": true,
-    "remove_aura_distance": 3000
+    ]
   },
   {
     "id": 38105,
@@ -1201,7 +1035,6 @@
     "aura_distance": [
       300
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 7,
@@ -1209,8 +1042,7 @@
           0
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 38106,
@@ -1220,7 +1052,6 @@
     "aura_distance": [
       600
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 7,
@@ -1228,8 +1059,7 @@
           -5
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 38107,
@@ -1239,7 +1069,6 @@
     "aura_distance": [
       300
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 7,
@@ -1247,8 +1076,7 @@
           -25
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 38108,
@@ -1258,7 +1086,6 @@
     "aura_distance": [
       550
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 7,
@@ -1266,8 +1093,7 @@
           -4
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 38109,
@@ -1277,7 +1103,6 @@
     "aura_distance": [
       500
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 10003
@@ -1288,8 +1113,7 @@
           110
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 38110,
@@ -1299,7 +1123,6 @@
     "aura_distance": [
       500
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 10006
@@ -1310,8 +1133,7 @@
           0
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 38111,
@@ -1322,7 +1144,6 @@
       4500,
       1800
     ],
-    "aura_target_type": 1,
     "aura_effect": [
       {
         "aura_effect_type": 10009,
@@ -1330,8 +1151,7 @@
           10002
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 38112,
@@ -1342,7 +1162,6 @@
       200,
       2000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1354,8 +1173,7 @@
           1250
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 160001,
@@ -1365,13 +1183,11 @@
     "aura_distance": [
       2000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 10
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 160002,
@@ -1381,7 +1197,6 @@
     "aura_distance": [
       10000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 9,
@@ -1389,8 +1204,7 @@
           30
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000000,
@@ -1401,7 +1215,6 @@
       200,
       600
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 9,
@@ -1409,8 +1222,7 @@
           85
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000001,
@@ -1421,7 +1233,6 @@
       3000,
       22000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1433,9 +1244,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true,
-    "remove_aura_distance": 200000
+    ]
   },
   {
     "id": 120000002,
@@ -1446,7 +1255,6 @@
       3000,
       3000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 9,
@@ -1454,8 +1262,7 @@
           35
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000003,
@@ -1466,7 +1273,6 @@
       300,
       3800
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1478,8 +1284,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000004,
@@ -1490,7 +1295,6 @@
       300,
       4300
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1502,8 +1306,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000005,
@@ -1514,7 +1317,6 @@
       1000,
       4500
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1526,8 +1328,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000006,
@@ -1538,7 +1339,6 @@
       300,
       1800
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1550,8 +1350,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000007,
@@ -1562,7 +1361,6 @@
       550,
       6500
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1574,8 +1372,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000008,
@@ -1586,7 +1383,6 @@
       300,
       12000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1598,8 +1394,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000009,
@@ -1610,7 +1405,6 @@
       300,
       12000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1622,8 +1416,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000010,
@@ -1634,7 +1427,6 @@
       300,
       6000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1646,8 +1438,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000011,
@@ -1658,7 +1449,6 @@
       300,
       8000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1670,8 +1460,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000012,
@@ -1682,7 +1471,6 @@
       300,
       2800
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1694,8 +1482,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000013,
@@ -1706,7 +1493,6 @@
       300,
       5000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1718,8 +1504,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000014,
@@ -1730,7 +1515,6 @@
       300,
       4000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1742,8 +1526,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000015,
@@ -1754,7 +1537,6 @@
       300,
       1300
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1766,8 +1548,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000016,
@@ -1778,7 +1559,6 @@
       300,
       1300
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1790,8 +1570,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000017,
@@ -1802,7 +1581,6 @@
       300,
       4000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1814,8 +1592,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000018,
@@ -1826,7 +1603,6 @@
       300,
       2000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1838,8 +1614,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000019,
@@ -1850,7 +1625,6 @@
       300,
       2000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1862,8 +1636,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000020,
@@ -1874,7 +1647,6 @@
       300,
       1700
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1886,8 +1658,7 @@
           700
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000021,
@@ -1898,7 +1669,6 @@
       300,
       2400
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1910,8 +1680,7 @@
           700
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000022,
@@ -1922,7 +1691,6 @@
       1500,
       1500
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 9,
@@ -1930,8 +1698,7 @@
           35
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000023,
@@ -1942,7 +1709,6 @@
       2000,
       2000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 9,
@@ -1950,8 +1716,7 @@
           35
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000024,
@@ -1962,7 +1727,6 @@
       1500,
       1500
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 9,
@@ -1970,8 +1734,7 @@
           35
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000025,
@@ -1982,7 +1745,6 @@
       300,
       3000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -1994,8 +1756,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000026,
@@ -2006,7 +1767,6 @@
       300,
       2500
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -2018,8 +1778,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000027,
@@ -2030,7 +1789,6 @@
       300,
       2000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -2042,8 +1800,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000028,
@@ -2054,7 +1811,6 @@
       3000,
       3000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 9,
@@ -2062,8 +1818,7 @@
           35
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000029,
@@ -2074,7 +1829,6 @@
       99999,
       12000
     ],
-    "aura_target_type": 1,
     "aura_effect": [
       {
         "aura_effect_type": 10009,
@@ -2082,8 +1836,7 @@
           10002
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000030,
@@ -2094,7 +1847,6 @@
       15000,
       25000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -2107,8 +1859,7 @@
         ]
       }
     ],
-    "max_count": 99,
-    "bound_create_actor": true
+    "max_count": 99
   },
   {
     "id": 120000031,
@@ -2119,7 +1870,6 @@
       300,
       7000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -2131,8 +1881,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000032,
@@ -2143,7 +1892,6 @@
       300,
       3000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -2155,8 +1903,7 @@
           700
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000033,
@@ -2167,7 +1914,6 @@
       3000,
       15000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -2180,8 +1926,7 @@
         ]
       }
     ],
-    "max_count": 99,
-    "bound_create_actor": true
+    "max_count": 99
   },
   {
     "id": 120000034,
@@ -2192,7 +1937,6 @@
       300,
       20000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -2204,8 +1948,7 @@
           1000
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000035,
@@ -2216,7 +1959,6 @@
       400,
       1000
     ],
-    "aura_target_type": 3,
     "time_last": 8000,
     "aura_effect": [
       {
@@ -2229,8 +1971,7 @@
           700
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000036,
@@ -2241,7 +1982,6 @@
       300,
       5000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -2253,8 +1993,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000037,
@@ -2265,7 +2004,6 @@
       300,
       1500
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -2277,8 +2015,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 120000038,
@@ -2289,7 +2026,6 @@
       300,
       8000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 11,
@@ -2301,8 +2037,7 @@
           1500
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   },
   {
     "id": 550000001,
@@ -2312,7 +2047,6 @@
     "aura_distance": [
       10000
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 9,
@@ -2320,8 +2054,25 @@
           30
         ]
       }
+    ]
+  },
+  {
+    "id": 550000002,
+    "aura_type": 6,
+    "editor_name": "除骑乘特定petbase外直接死亡",
+    "aura_area_type": 2,
+    "aura_distance": [
+      2800,
+      150
     ],
-    "bound_create_actor": true
+    "aura_effect": [
+      {
+        "aura_effect_type": 10009,
+        "params": [
+          50077
+        ]
+      }
+    ]
   },
   {
     "id": 600000001,
@@ -2331,7 +2082,6 @@
     "aura_distance": [
       300
     ],
-    "aura_target_type": 3,
     "aura_effect": [
       {
         "aura_effect_type": 9,
@@ -2339,7 +2089,6 @@
           50
         ]
       }
-    ],
-    "bound_create_actor": true
+    ]
   }
 ]

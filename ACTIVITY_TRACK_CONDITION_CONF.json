@@ -21,5 +21,23 @@
     ],
     "petbase_id": 3168,
     "lottery_reward_id": 1001
+  },
+  {
+    "id": 3500002,
+    "star_rewards": [
+      {
+        "condition_reward_id": 1600099
+      },
+      {
+        "condition_reward_id": 1600100,
+        "reset_type": 1
+      },
+      {
+        "condition_reward_id": 1600101,
+        "reset_type": 2
+      }
+    ],
+    "petbase_id": 3168,
+    "stage_reward_group_id": 3500002
   }
 ]

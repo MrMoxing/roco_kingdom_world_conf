@@ -2223,6 +2223,188 @@
     "talent_color": "272727FF"
   },
   {
+    "id": 100103,
+    "editor_name1": "便捷测试",
+    "name": "S2赛季特长测试",
+    "desc": "采集和挖矿时，100%概率获得2倍产出，50%概率变为4倍",
+    "condition_group": [
+      {
+        "talent_condition": 2
+      }
+    ],
+    "can_add": 1,
+    "effect_group": [
+      {
+        "effect": 1,
+        "effect_param": 100104
+      },
+      {
+        "effect": 1,
+        "effect_param": 100105
+      }
+    ],
+    "talent_color": "272727FF"
+  },
+  {
+    "id": 100104,
+    "editor_name1": "便捷测试",
+    "name": "S2赛季特长测试",
+    "desc": "采集和挖矿时，100%概率获得2倍产出，50%概率变为4倍",
+    "condition_group": [
+      {
+        "talent_condition": 3,
+        "talent_condition_param": [
+          5000
+        ]
+      }
+    ],
+    "can_add": 1,
+    "effect_group": [
+      {
+        "effect": 9,
+        "effect_param": 20000
+      },
+      {
+        "effect": 10,
+        "effect_param": 20000
+      }
+    ]
+  },
+  {
+    "id": 100105,
+    "editor_name1": "便捷测试",
+    "name": "S2赛季特长测试",
+    "desc": "采集和挖矿时，100%概率获得2倍产出，50%概率变为4倍",
+    "condition_group": [
+      {
+        "talent_condition": 3,
+        "talent_condition_param": [
+          10000
+        ]
+      }
+    ],
+    "can_add": 1,
+    "effect_group": [
+      {
+        "effect": 9,
+        "effect_param": 40000
+      },
+      {
+        "effect": 10,
+        "effect_param": 40000
+      }
+    ]
+  },
+  {
+    "id": 100106,
+    "editor_name1": "便捷测试",
+    "name": "叠层A",
+    "desc": "采集和挖矿时，100%概率获得2倍产出，叠2层",
+    "condition_group": [
+      {
+        "talent_condition": 3,
+        "talent_condition_param": [
+          10000
+        ]
+      }
+    ],
+    "can_add": 2,
+    "effect_group": [
+      {
+        "effect": 9,
+        "effect_param": 20000
+      },
+      {
+        "effect": 10,
+        "effect_param": 20000
+      }
+    ]
+  },
+  {
+    "id": 100107,
+    "editor_name1": "便捷测试",
+    "name": "叠层B",
+    "desc": "采集和挖矿时，100%概率获得3倍产出，叠1层",
+    "condition_group": [
+      {
+        "talent_condition": 3,
+        "talent_condition_param": [
+          10000
+        ]
+      }
+    ],
+    "can_add": 1,
+    "effect_group": [
+      {
+        "effect": 9,
+        "effect_param": 30000
+      },
+      {
+        "effect": 10,
+        "effect_param": 30000
+      }
+    ]
+  },
+  {
+    "id": 100108,
+    "editor_name1": "便捷测试",
+    "name": "叠层C",
+    "desc": "采集和挖矿时，50%概率获得3倍产出，叠1层",
+    "condition_group": [
+      {
+        "talent_condition": 3,
+        "talent_condition_param": [
+          5000
+        ]
+      }
+    ],
+    "can_add": 1,
+    "effect_group": [
+      {
+        "effect": 9,
+        "effect_param": 30000
+      },
+      {
+        "effect": 10,
+        "effect_param": 30000
+      }
+    ]
+  },
+  {
+    "id": 100109,
+    "editor_name1": "便捷测试",
+    "name": "复合特长else",
+    "desc": "采集和挖矿时，100%概率获得2倍产出，叠2层",
+    "can_add": 1,
+    "effect_group": [
+      {
+        "effect": 1,
+        "effect_param": 100108
+      },
+      {
+        "effect": 1,
+        "effect_param": 100106
+      }
+    ]
+  },
+  {
+    "id": 100110,
+    "editor_name1": "便捷测试",
+    "name": "复合特长both",
+    "desc": "采集和挖矿时，100%概率获得2倍产出，叠2层",
+    "can_add": 2,
+    "effect_group": [
+      {
+        "effect": 1,
+        "effect_param": 100108
+      },
+      {
+        "effect": 1,
+        "effect_param": 100106
+      }
+    ]
+  },
+  {
     "id": 100111,
     "editor_name1": "便捷测试",
     "name": "亲和变抵触",

@@ -70,20 +70,19 @@
     "param_name": "炫彩"
   },
   {
-    "id": 1001,
-    "enum_ReportCoinRatio": 5,
-    "enum_param": 1000,
-    "enum_ratio": 100000,
-    "enum_name": "外观",
-    "param_name": "黑白"
-  },
-  {
     "id": 1002,
     "enum_ReportCoinRatio": 5,
-    "enum_param": 1,
     "enum_ratio": 100000,
     "enum_name": "外观",
-    "param_name": "暗夜拾光"
+    "param_name": "稀有炫彩"
+  },
+  {
+    "id": 5001,
+    "enum_ReportCoinRatio": 6,
+    "enum_param": 24,
+    "enum_ratio": 50000,
+    "enum_name": "血脉",
+    "param_name": "奇异"
   },
   {
     "id": 10004,

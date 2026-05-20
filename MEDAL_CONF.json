@@ -787,5 +787,33 @@
         "ui_param2": "fcb641ff;PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_jibai_huang_png.img_jibai_huang_png';PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_jibailiang_huang_png.img_jibailiang_huang_png'"
       }
     ]
+  },
+  {
+    "id": 5003,
+    "name": "烈火卷卷",
+    "quality": 2,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_MedalIcon_Fire.img_MedalIcon_Fire'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/img_MedalIcon_Fire.img_MedalIcon_Fire'",
+    "desc": "狂欢通行证中，选择盛夏主题",
+    "medal_type": 2,
+    "medal_source": 2,
+    "is_not_give_peer_pet": true,
+    "is_show_redpoint": 1,
+    "prefix_text": "滚烫的",
+    "fx_res": "Fire"
+  },
+  {
+    "id": 5004,
+    "name": "暴雪团团",
+    "quality": 2,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_MedalIcon_Ice.img_MedalIcon_Ice'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/img_MedalIcon_Ice.img_MedalIcon_Ice'",
+    "desc": "狂欢通行证中，选择严冬主题",
+    "medal_type": 2,
+    "medal_source": 2,
+    "is_not_give_peer_pet": true,
+    "is_show_redpoint": 1,
+    "prefix_text": "冰冷的",
+    "fx_res": "Ice"
   }
 ]

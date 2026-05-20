@@ -46,6 +46,7 @@
     "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
     "pet_settled_basic_amplify": 15000,
+    "world_level_reward_show": 120000052,
     "promote_desc": [
       {
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
@@ -102,6 +103,7 @@
     "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
     "pet_settled_basic_amplify": 15000,
+    "world_level_reward_show": 120000053,
     "promote_desc": [
       {
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
@@ -158,6 +160,7 @@
     "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
     "pet_settled_basic_amplify": 15000,
+    "world_level_reward_show": 120000054,
     "promote_desc": [
       {
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
@@ -214,6 +217,7 @@
     "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
     "pet_settled_basic_amplify": 15000,
+    "world_level_reward_show": 120000063,
     "promote_desc": [
       {
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
@@ -269,6 +273,7 @@
     "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
     "pet_settled_basic_amplify": 15000,
+    "world_level_reward_show": 120000064,
     "promote_desc": [
       {
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
@@ -319,6 +324,7 @@
     "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
     "pet_settled_basic_amplify": 15000,
+    "world_level_reward_show": 120000065,
     "promote_desc": [
       {
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
@@ -369,6 +375,7 @@
     "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
     "pet_settled_basic_amplify": 15000,
+    "world_level_reward_show": 120000066,
     "promote_desc": [
       {
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
@@ -419,6 +426,7 @@
     "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
     "pet_settled_basic_amplify": 15000,
+    "world_level_reward_show": 120000067,
     "promote_desc": [
       {
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
@@ -469,6 +477,7 @@
     "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
     "pet_settled_basic_amplify": 15000,
+    "world_level_reward_show": 120000068,
     "promote_desc": [
       {
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",

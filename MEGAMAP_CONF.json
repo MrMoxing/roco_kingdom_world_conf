@@ -133,7 +133,7 @@
   },
   {
     "id": 18,
-    "genre": "对战NPC",
+    "genre": "露天对战",
     "class": 9,
     "display_level_min": "1",
     "display_level_max": "10000",
@@ -149,7 +149,7 @@
   },
   {
     "id": 20,
-    "genre": "对战NPC（特殊）",
+    "genre": "隐藏对战",
     "class": 9,
     "display_level_min": "1",
     "display_level_max": "10000",
@@ -3277,7 +3277,7 @@
   },
   {
     "id": 412,
-    "genre": "古齿帝牙",
+    "genre": "冰晶古齿虎",
     "class": 7,
     "display_level_min": "1",
     "display_level_max": "10000",
@@ -6477,7 +6477,7 @@
   },
   {
     "id": 812,
-    "genre": "猴唛仔",
+    "genre": "猴麦仔",
     "class": 7,
     "display_level_min": "1",
     "display_level_max": "10000",
@@ -6525,7 +6525,7 @@
   },
   {
     "id": 818,
-    "genre": "机墓方舟",
+    "genre": "机幕方舟",
     "class": 7,
     "display_level_min": "1",
     "display_level_max": "10000",
@@ -6565,7 +6565,7 @@
   },
   {
     "id": 823,
-    "genre": "方方狐",
+    "genre": "宝藏小狐",
     "class": 7,
     "display_level_min": "1",
     "display_level_max": "10000",
@@ -6573,7 +6573,7 @@
   },
   {
     "id": 824,
-    "genre": "狐脸擦擦",
+    "genre": "宝藏沙狐",
     "class": 7,
     "display_level_min": "1",
     "display_level_max": "10000",
@@ -6602,5 +6602,13 @@
     "display_level_min": "1",
     "display_level_max": "10000",
     "icon": "3745"
+  },
+  {
+    "id": 828,
+    "genre": "赛季对战",
+    "class": 9,
+    "display_level_min": "1",
+    "display_level_max": "10000",
+    "icon": "img_season1_battle"
   }
 ]

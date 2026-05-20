@@ -200,6 +200,98 @@
     "revive_point": 506
   },
   {
+    "id": 15000601,
+    "dungeon_id": 150006,
+    "stage_name": "高空钢索表演-STG1",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000088
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000089
+      ]
+    },
+    "revive_point": 1401
+  },
+  {
+    "id": 15000602,
+    "dungeon_id": 150006,
+    "stage_name": "高空钢索表演-STG2",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000089
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000090
+      ]
+    },
+    "revive_point": 1402
+  },
+  {
+    "id": 15000603,
+    "dungeon_id": 150006,
+    "stage_name": "高空钢索表演-STG3",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000090
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000091
+      ]
+    },
+    "revive_point": 1403
+  },
+  {
+    "id": 15000604,
+    "dungeon_id": 150006,
+    "stage_name": "高空钢索表演-STG4",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000091
+      ]
+    },
+    "finish_condition": {},
+    "revive_point": 1404
+  },
+  {
+    "id": 15000901,
+    "dungeon_id": 150009,
+    "stage_name": "电力恢复-STG1",
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        555090013
+      ]
+    },
+    "finish_condition": {
+      "type": 6,
+      "data1": [
+        60424
+      ]
+    },
+    "revive_point": 1405
+  },
+  {
+    "id": 15000902,
+    "dungeon_id": 150009,
+    "stage_name": "电力恢复-STG2",
+    "start_condition": {},
+    "finish_condition": {}
+  },
+  {
     "id": 21010101,
     "dungeon_id": 210101,
     "stage_name": "- 九幽菇的守护地结束 -",
@@ -569,43 +661,6 @@
     },
     "reset_type": 16,
     "revive_point": 98
-  },
-  {
-    "id": 21011301,
-    "dungeon_id": 210113,
-    "stage_name": "- 传送魔镜已完成 -",
-    "has_stage_finish_ui": true,
-    "start_condition": {
-      "type": 2,
-      "data1": [
-        13322
-      ]
-    },
-    "finish_condition": {
-      "type": 2,
-      "data1": [
-        29074
-      ]
-    },
-    "stage_content": [
-      2900988,
-      1300736,
-      2900987,
-      2901383,
-      2901385,
-      2901406,
-      2901384,
-      2901416
-    ],
-    "stage_combination": [
-      60263,
-      60264,
-      60294,
-      60295
-    ],
-    "reset_type": 16,
-    "revive_point": 104,
-    "version": 1
   },
   {
     "id": 21011401,

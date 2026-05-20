@@ -12,16 +12,6 @@
     "trigger1_data": 71008317
   },
   {
-    "id": 102,
-    "reacall_list_name": "想要…变得特别！",
-    "reacall_list_picture": "PaperSprite'/Game/NewRoco/Modules/System/MagicManual/Raw/DailySurvey/Frames/img_tab_shizhuang_png.img_tab_shizhuang_png'",
-    "main_terms_id1": 21001,
-    "main_terms_id2": 21002,
-    "main_terms_id3": 21003,
-    "reacallt_list_unlock_trigger1": 1,
-    "trigger1_data": 22105008
-  },
-  {
     "id": 103,
     "reacall_list_name": "想要…更多精灵！",
     "reacall_list_picture": "PaperSprite'/Game/NewRoco/Modules/System/MagicManual/Raw/DailySurvey/Frames/img_tab_jingling_png.img_tab_jingling_png'",
@@ -43,38 +33,6 @@
     "trigger1_data": 22105012
   },
   {
-    "id": 105,
-    "reacall_list_name": "想要…战胜强大对手！",
-    "reacall_list_picture": "PaperSprite'/Game/NewRoco/Modules/System/MagicManual/Raw/DailySurvey/Frames/img_tab_jiaopengyou_png.img_tab_jiaopengyou_png'",
-    "main_terms_id1": 22001,
-    "main_terms_id2": 24002,
-    "main_terms_id3": 24003,
-    "reacallt_list_unlock_trigger1": 1,
-    "trigger1_data": 22105014
-  },
-  {
-    "id": 106,
-    "reacall_list_name": "想要…提升魔法等级！",
-    "reacall_list_picture": "PaperSprite'/Game/NewRoco/Modules/System/MagicManual/Raw/DailySurvey/Frames/img_tab_shizhuang_png.img_tab_shizhuang_png'",
-    "main_terms_id1": 25001,
-    "main_terms_id2": 25002,
-    "main_terms_id3": 25003,
-    "reacallt_list_unlock_trigger1": 1,
-    "trigger1_data": 22105015
-  },
-  {
-    "id": 107,
-    "reacall_list_name": "想要…最特别的精灵！",
-    "reacall_list_picture": "PaperSprite'/Game/NewRoco/Modules/System/MagicManual/Raw/DailySurvey/Frames/img_tab_jingling_png.img_tab_jingling_png'",
-    "main_terms_id1": 26001,
-    "main_terms_id2": 26002,
-    "main_terms_id3": 26003,
-    "sub_terms_id1": 26004,
-    "sub_terms_id2": 26005,
-    "reacallt_list_unlock_trigger1": 1,
-    "trigger1_data": 22105017
-  },
-  {
     "id": 201,
     "reacall_list_name": "想要…掌握星光对决！",
     "reacall_list_picture": "PaperSprite'/Game/NewRoco/Modules/System/MagicManual/Raw/DailySurvey/Frames/img_tab_shizhuang_png.img_tab_shizhuang_png'",
@@ -82,26 +40,6 @@
     "main_terms_id2": 31002,
     "reacallt_list_unlock_trigger1": 1,
     "trigger1_data": 22105019
-  },
-  {
-    "id": 202,
-    "reacall_list_name": "想要…掌握闪耀大赛！",
-    "reacall_list_picture": "PaperSprite'/Game/NewRoco/Modules/System/MagicManual/Raw/DailySurvey/Frames/img_tab_jiaopengyou_png.img_tab_jiaopengyou_png'",
-    "main_terms_id1": 32001,
-    "main_terms_id2": 32002,
-    "reacallt_list_unlock_trigger1": 1,
-    "trigger1_data": 22105021
-  },
-  {
-    "id": 203,
-    "reacall_list_name": "想要…帮助他人！",
-    "reacall_list_picture": "PaperSprite'/Game/NewRoco/Modules/System/MagicManual/Raw/DailySurvey/Frames/img_tab_kuailejiabei_png.img_tab_kuailejiabei_png'",
-    "main_terms_id1": 33001,
-    "main_terms_id2": 33002,
-    "main_terms_id3": 33003,
-    "sub_terms_id1": 33004,
-    "reacallt_list_unlock_trigger1": 1,
-    "trigger1_data": 22105022
   },
   {
     "id": 204,
@@ -200,7 +138,7 @@
   },
   {
     "id": 2003,
-    "reacall_list_name": "想要…击败强大的对手！",
+    "reacall_list_name": "想要…击败强大对手！",
     "reacall_list_picture": "PaperSprite'/Game/NewRoco/Modules/System/MagicManual/Raw/DailySurvey/Frames/img_tab_jingling_png.img_tab_jingling_png'",
     "main_terms_id1": 22001,
     "main_terms_id2": 24002,

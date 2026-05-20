@@ -154,7 +154,7 @@
     "id": 23,
     "sort_id": 1000501,
     "displayName": "热力勋印",
-    "discription": "用于在拾光通行证中提升等级。",
+    "discription": "用于在赛季通行证中提升等级。",
     "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_BPjiangli.img_BPjiangli'",
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_BPjiangli.img_BPjiangli'",
     "item_quality": 4
@@ -163,7 +163,7 @@
     "id": 25,
     "sort_id": 1000502,
     "displayName": "热力勋印",
-    "discription": "用于在拾光通行证中提升等级。",
+    "discription": "用于在赛季通行证中提升等级。",
     "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_BPjiangli.img_BPjiangli'",
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_BPjiangli.img_BPjiangli'",
     "item_quality": 4
@@ -230,7 +230,7 @@
     "id": 35,
     "sort_id": 1000303,
     "displayName": "凝练印记",
-    "discription": "参与挑战领取奖励的必要凭证，使用后能获得双倍奖励。",
+    "discription": "参与挑战领取奖励的必要凭证，使用后能获得双倍基础奖励。",
     "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/17.17'",
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/17.17'",
     "item_quality": 5,
@@ -552,5 +552,49 @@
         "acquire_way_text": "完成图鉴课题获得"
       }
     ]
+  },
+  {
+    "id": 51,
+    "displayName": "非凡之羽",
+    "discription": "「凡羽掠影」活动中兑换代币。\n可在非凡商店中兑换各种限定奖励，活动结束后会被自动转换为洛克贝。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100921.100921'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100921.100921'",
+    "item_quality": 4,
+    "type_desc": "活动货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "「翼启新程」活动获得"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "sort_id": 1000303,
+    "displayName": "狂欢代币",
+    "discription": "响应魔力波动后可以获得的神奇魔法通货。\n可在赛季代币商店中兑换各种限定奖励。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100942.100942'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100942.100942'",
+    "item_quality": 4,
+    "type_desc": "赛季货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "完成赛季作业获得"
+      },
+      {
+        "acquire_way_text": "赢得赛季露天对战获得"
+      },
+      {
+        "acquire_way_text": "参加闪耀大赛、星光对决获得"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "displayName": "重逢手册经验",
+    "discription": "用于在“重逢契约”回流活动中的“契约手册”提升等级",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100937.100937'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100937.100937'",
+    "item_quality": 4,
+    "type_desc": "活动货币"
   }
 ]

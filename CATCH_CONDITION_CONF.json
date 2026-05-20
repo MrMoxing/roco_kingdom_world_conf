@@ -5,7 +5,6 @@
     "des": "被攻击",
     "res_id": "Sad",
     "flavor_text": "%s很伤心！",
-    "max_trigger_time": 99,
     "effect_order": 11
   },
   {
@@ -14,7 +13,6 @@
     "des": "更换宠物时，捕捉阈值提升X。",
     "res_id": "Happy",
     "flavor_text": "%s看起来非常高兴",
-    "max_trigger_time": 2,
     "effect_order": 5,
     "condition_param": [
       {
@@ -29,7 +27,6 @@
     "name": "爱吃",
     "res_id": "Happy",
     "flavor_text": "%s最爱甜食！",
-    "max_trigger_time": 1,
     "effect_order": 6,
     "condition_param": [
       {
@@ -44,7 +41,6 @@
     "name": "不爱吃",
     "res_id": "Sad",
     "flavor_text": "这不是%s想要的……",
-    "max_trigger_time": 100,
     "effect_order": 6,
     "condition_param": [
       {
@@ -59,7 +55,6 @@
     "name": "一般",
     "res_id": "Alert",
     "flavor_text": "%s想吃更好吃的",
-    "max_trigger_time": 100,
     "effect_order": 6,
     "condition_param": [
       {
@@ -74,7 +69,6 @@
     "name": "爱吃",
     "res_id": "Happy",
     "flavor_text": "%觉得好吃！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -89,7 +83,6 @@
     "name": "一般",
     "res_id": "Becute",
     "flavor_text": "%s觉得一般",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -104,7 +97,6 @@
     "name": "一般",
     "res_id": "Becute",
     "flavor_text": "%s觉得还行",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -120,7 +112,6 @@
     "des": "玩家指定系别宠物登场",
     "res_id": "Becute",
     "flavor_text": "玩家指定系别宠物登场",
-    "max_trigger_time": 1,
     "effect_order": 1,
     "condition_param": [
       {
@@ -136,7 +127,6 @@
     "des": "玩家使用的技能和上回合是否一样",
     "res_id": "Becute",
     "flavor_text": "玩家使用的技能和上回合是否一样",
-    "max_trigger_time": 1,
     "effect_order": 2,
     "condition_param": [
       {
@@ -157,7 +147,6 @@
     "des": "野怪受到指定种类伤害",
     "res_id": "Becute",
     "flavor_text": "野怪受到指定种类伤害",
-    "max_trigger_time": 1,
     "effect_order": 3,
     "condition_param": [
       {
@@ -173,7 +162,6 @@
     "des": "玩家拥有指定类型场地buff",
     "res_id": "Becute",
     "flavor_text": "玩家拥有指定类型场地buff",
-    "max_trigger_time": 1,
     "effect_order": 4,
     "condition_param": [
       {
@@ -189,7 +177,6 @@
     "des": "玩家使用指定类型的技能",
     "res_id": "Becute",
     "flavor_text": "玩家使用指定类型的技能",
-    "max_trigger_time": 1,
     "effect_order": 7,
     "condition_param": [
       {
@@ -215,7 +202,6 @@
     "des": "玩家魔力增加",
     "res_id": "Becute",
     "flavor_text": "玩家魔力增加",
-    "max_trigger_time": 1,
     "effect_order": 8
   },
   {
@@ -224,7 +210,6 @@
     "des": "玩家获得指定类型buff",
     "res_id": "Becute",
     "flavor_text": "玩家获得指定类型buff",
-    "max_trigger_time": 1,
     "effect_order": 9,
     "condition_param": [
       {
@@ -245,7 +230,6 @@
     "des": "野怪护盾减少",
     "res_id": "Becute",
     "flavor_text": "野怪护盾减少",
-    "max_trigger_time": 1,
     "effect_order": 10
   },
   {
@@ -254,7 +238,6 @@
     "des": "野怪魔力减少",
     "res_id": "Becute",
     "flavor_text": "野怪魔力减少",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -263,7 +246,6 @@
     "des": "玩家背包宠物类型和数量",
     "res_id": "Becute",
     "flavor_text": "玩家背包宠物类型和数量",
-    "max_trigger_time": 1,
     "effect_order": 12,
     "condition_param": [
       {
@@ -289,7 +271,6 @@
     "des": "玩家能量值",
     "res_id": "Becute",
     "flavor_text": "玩家能量值",
-    "max_trigger_time": 1,
     "effect_order": 13,
     "condition_param": [
       {
@@ -305,7 +286,6 @@
     "des": "多个trigger条件组合",
     "res_id": "Becute",
     "flavor_text": "多个trigger条件组合",
-    "max_trigger_time": 1,
     "effect_order": 14,
     "condition_param": [
       {
@@ -324,7 +304,6 @@
     "id": 40010301,
     "name": "南瓜头",
     "des": "甜",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -338,7 +317,6 @@
     "id": 40010302,
     "name": "南瓜头",
     "des": "苦",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -352,7 +330,6 @@
     "id": 40010303,
     "name": "南瓜头",
     "des": "辣",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -368,7 +345,6 @@
     "des": "喜欢甜",
     "res_id": "Becute",
     "flavor_text": "%s很爱吃！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -384,7 +360,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s想吃更好吃的",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -400,7 +375,6 @@
     "des": "辣讨厌",
     "res_id": "Sad",
     "flavor_text": "这不是%s想要的……",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -416,7 +390,6 @@
     "des": "喜欢苦",
     "res_id": "Happy",
     "flavor_text": "%s吃光了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -432,7 +405,6 @@
     "des": "甜还行",
     "res_id": "Alert",
     "flavor_text": "%s很期待下一个果子",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -448,7 +420,6 @@
     "des": "辣还行",
     "res_id": "Alert",
     "flavor_text": "%s很期待下一个果子",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -464,7 +435,6 @@
     "des": "魔攻技能",
     "res_id": "Becute",
     "flavor_text": "%s想学这一招",
-    "max_trigger_time": 10,
     "effect_order": 7,
     "condition_param": [
       {
@@ -490,7 +460,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s满意地飘飘荡荡",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -506,7 +475,6 @@
     "des": "苦一般",
     "res_id": "Becute",
     "flavor_text": "%s平静地转着圈儿",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -522,7 +490,6 @@
     "des": "辣讨厌",
     "res_id": "Sad",
     "flavor_text": "%s反感地上下摆动",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -538,7 +505,6 @@
     "des": "喜欢甜",
     "res_id": "Happy",
     "flavor_text": "%s开心地转圈致意",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -554,7 +520,6 @@
     "des": "苦一般",
     "res_id": "Alert",
     "flavor_text": "%s平静地抖了抖毛",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -570,7 +535,6 @@
     "des": "辣讨厌",
     "res_id": "Sad",
     "flavor_text": "%s为难地啄了几口",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -586,7 +550,6 @@
     "des": "喜欢场地",
     "res_id": "Happy",
     "flavor_text": "%s想要飞的更远",
-    "max_trigger_time": 1,
     "effect_order": 4
   },
   {
@@ -595,7 +558,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -604,7 +566,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -613,7 +574,6 @@
     "des": "喜欢甜",
     "res_id": "Becute",
     "flavor_text": "%s很爱吃！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -629,7 +589,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s想吃更好吃的",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -645,7 +604,6 @@
     "des": "辣讨厌",
     "res_id": "Sad",
     "flavor_text": "这不是%s想要的……",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -661,7 +619,6 @@
     "des": "甜喜欢",
     "res_id": "Becute",
     "flavor_text": "%s充满了水流之力",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -677,7 +634,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s不满地鼓起脸颊",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -693,7 +649,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s泄气地躺在地上",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -709,7 +664,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -718,7 +672,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -727,7 +680,6 @@
     "des": "辣喜欢",
     "res_id": "Show",
     "flavor_text": "%s火力全开！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -743,7 +695,6 @@
     "des": "苦一般",
     "res_id": "Happy",
     "flavor_text": "%s有点燃起来了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -759,7 +710,6 @@
     "des": "甜讨厌",
     "res_id": "Fear",
     "flavor_text": "%s怏怏地揉揉眼睛",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -775,7 +725,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s光速吃光了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -791,7 +740,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s能吃苦！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -807,7 +755,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s被辣得竖起尾巴",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -823,7 +770,6 @@
     "des": "甜喜欢",
     "res_id": "Becute",
     "flavor_text": "%s充满了水流之力",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -839,7 +785,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s不满地鼓起脸颊",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -855,7 +800,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s泄气地躺在地上",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -871,7 +815,6 @@
     "des": "辣喜欢",
     "res_id": "Show",
     "flavor_text": "%s火力全开！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -887,7 +830,6 @@
     "des": "苦一般",
     "res_id": "Happy",
     "flavor_text": "%s有点燃起来了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -903,7 +845,6 @@
     "des": "甜讨厌",
     "res_id": "Fear",
     "flavor_text": "%s怏怏地揉揉眼睛",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -919,7 +860,6 @@
     "des": "被克制",
     "res_id": "Happy",
     "flavor_text": "%s对你十分认同",
-    "max_trigger_time": 10,
     "effect_order": 3,
     "condition_param": [
       {
@@ -935,7 +875,6 @@
     "des": "喜欢甜",
     "res_id": "Becute",
     "flavor_text": "%s全吃掉了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -951,7 +890,6 @@
     "des": "苦一般",
     "res_id": "Alert",
     "flavor_text": "%s没吃完",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -967,7 +905,6 @@
     "des": "辣讨厌",
     "res_id": "Sad",
     "flavor_text": "%s很失望",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -983,14 +920,12 @@
     "des": "喜欢被打",
     "res_id": "Happy",
     "flavor_text": "%s喜欢挑战！",
-    "max_trigger_time": 99,
     "effect_order": 11
   },
   {
     "id": 41000901,
     "name": "南瓜头",
     "des": "甜",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1004,7 +939,6 @@
     "id": 41000902,
     "name": "南瓜头",
     "des": "苦",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1018,7 +952,6 @@
     "id": 41000903,
     "name": "南瓜头",
     "des": "辣",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1034,7 +967,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s满足地扑扇翅膀",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1050,7 +982,6 @@
     "des": "辣一般",
     "res_id": "Becute",
     "flavor_text": "%s绅士力充能一半",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1066,7 +997,6 @@
     "des": "甜一般",
     "res_id": "Becute",
     "flavor_text": "%s绅士力充能一半",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1082,7 +1012,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s畅快地长啸一声",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1098,7 +1027,6 @@
     "des": "甜一般",
     "res_id": "Becute",
     "flavor_text": "%s平静地抖抖耳朵",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1114,7 +1042,6 @@
     "des": "辣一般",
     "res_id": "Becute",
     "flavor_text": "%s平静地抖抖耳朵",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1130,7 +1057,6 @@
     "des": "喜欢吼叫",
     "res_id": "Happy",
     "flavor_text": "%s觉得很好听！",
-    "max_trigger_time": 10,
     "effect_order": 5,
     "condition_param": [
       {
@@ -1146,7 +1072,6 @@
     "des": "喜欢苦",
     "res_id": "Happy",
     "flavor_text": "%s觉得好吃！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1162,7 +1087,6 @@
     "des": "甜还行",
     "res_id": "Becute",
     "flavor_text": "%s觉得一般",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1178,7 +1102,6 @@
     "des": "辣还行",
     "res_id": "Becute",
     "flavor_text": "%s觉得还行",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1194,7 +1117,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s夸赞是顶级粪球",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1210,7 +1132,6 @@
     "des": "甜一般",
     "res_id": "Sad",
     "flavor_text": "%s感觉不如粪球",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1226,7 +1147,6 @@
     "des": "辣一般",
     "res_id": "Sad",
     "flavor_text": "%s感觉不如粪球",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1242,7 +1162,6 @@
     "des": "喜欢辣",
     "res_id": "Becute",
     "flavor_text": "……",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1258,7 +1177,6 @@
     "des": "苦一般",
     "res_id": "Alert",
     "flavor_text": "……...",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1274,7 +1192,6 @@
     "des": "甜讨厌",
     "res_id": "Sad",
     "flavor_text": "……",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1290,7 +1207,6 @@
     "des": "不耐烦",
     "res_id": "Sad",
     "flavor_text": ".",
-    "max_trigger_time": 99,
     "effect_order": 15,
     "condition_param": [
       {
@@ -1306,7 +1222,6 @@
     "des": "喜欢辣",
     "res_id": "Becute",
     "flavor_text": "……",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1322,7 +1237,6 @@
     "des": "苦一般",
     "res_id": "Alert",
     "flavor_text": "……...",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1338,7 +1252,6 @@
     "des": "甜讨厌",
     "res_id": "Sad",
     "flavor_text": "……",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1354,7 +1267,6 @@
     "des": "喜欢辣",
     "res_id": "Becute",
     "flavor_text": "……",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1370,7 +1282,6 @@
     "des": "苦一般",
     "res_id": "Alert",
     "flavor_text": "……...",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1386,7 +1297,6 @@
     "des": "甜讨厌",
     "res_id": "Sad",
     "flavor_text": "……",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1402,7 +1312,6 @@
     "des": "喜欢甜",
     "res_id": "Happy",
     "flavor_text": "很合%s的口味！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1418,7 +1327,6 @@
     "des": "苦一般",
     "res_id": "Becute",
     "flavor_text": "%s期待更好吃的",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1434,7 +1342,6 @@
     "des": "辣讨厌",
     "res_id": "Relax",
     "flavor_text": "%s被辣晕了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1450,7 +1357,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -1459,7 +1365,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -1468,7 +1373,6 @@
     "des": "喜欢甜",
     "res_id": "Happy",
     "flavor_text": "很合%s的口味！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1484,7 +1388,6 @@
     "des": "苦一般",
     "res_id": "Becute",
     "flavor_text": "%s期待更好吃的",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1500,7 +1403,6 @@
     "des": "辣讨厌",
     "res_id": "Relax",
     "flavor_text": "%s被辣晕了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1516,7 +1418,6 @@
     "des": "喜欢甜",
     "res_id": "Happy",
     "flavor_text": "很合%s的口味！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1532,7 +1433,6 @@
     "des": "苦一般",
     "res_id": "Becute",
     "flavor_text": "%s期待更好吃的",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1548,7 +1448,6 @@
     "des": "辣讨厌",
     "res_id": "Relax",
     "flavor_text": "%s被辣晕了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1564,7 +1463,6 @@
     "des": "甜一般",
     "res_id": "Becute",
     "flavor_text": "%s用门牙轻啃了几口",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1580,7 +1478,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s喜欢得合不上嘴",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1596,7 +1493,6 @@
     "des": "辣一般",
     "res_id": "Becute",
     "flavor_text": "%s用门牙咬了两下",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1612,7 +1508,6 @@
     "des": "甜一般",
     "res_id": "Becute",
     "flavor_text": "%s用门牙轻啃了几口",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1628,7 +1523,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s喜欢得合不上嘴",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1644,7 +1538,6 @@
     "des": "辣一般",
     "res_id": "Becute",
     "flavor_text": "%s用门牙咬了两下",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1660,7 +1553,6 @@
     "des": "甜一般",
     "res_id": "Becute",
     "flavor_text": "%s用门牙轻啃了几口",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1676,7 +1568,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s喜欢得合不上嘴",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1692,7 +1583,6 @@
     "des": "辣一般",
     "res_id": "Becute",
     "flavor_text": "%s用门牙咬了两下",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1708,7 +1598,6 @@
     "des": "甜讨厌",
     "res_id": "Anger",
     "flavor_text": "%s不屑吃甜食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1724,7 +1613,6 @@
     "des": "苦一般",
     "res_id": "Becute",
     "flavor_text": "%s用翅膀擦擦嘴",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1740,7 +1628,6 @@
     "des": "辣喜欢",
     "res_id": "Happy",
     "flavor_text": "%s兴奋得火力加倍！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1756,7 +1643,6 @@
     "des": "甜讨厌",
     "res_id": "Anger",
     "flavor_text": "%s不屑吃甜食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1772,7 +1658,6 @@
     "des": "苦一般",
     "res_id": "Becute",
     "flavor_text": "%s用翅膀擦擦嘴",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1788,7 +1673,6 @@
     "des": "辣喜欢",
     "res_id": "Happy",
     "flavor_text": "%s兴奋得火力加倍！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1804,7 +1688,6 @@
     "des": "喜欢甜",
     "res_id": "Happy",
     "flavor_text": "%s乐开了花！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1820,7 +1703,6 @@
     "des": "苦一般",
     "res_id": "Fear",
     "flavor_text": "%s拒绝了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1836,7 +1718,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s受到了冲击",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1852,7 +1733,6 @@
     "des": "爱场地",
     "res_id": "Show",
     "flavor_text": "%s很羡慕",
-    "max_trigger_time": 10,
     "effect_order": 4,
     "condition_param": [
       {
@@ -1868,7 +1748,6 @@
     "des": "喜欢甜",
     "res_id": "Happy",
     "flavor_text": "%s乐开了花！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1884,7 +1763,6 @@
     "des": "苦一般",
     "res_id": "Fear",
     "flavor_text": "%s拒绝了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1900,7 +1778,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s受到了冲击",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1916,7 +1793,6 @@
     "des": "喜欢甜",
     "res_id": "Happy",
     "flavor_text": "%s乐开了花！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1932,7 +1808,6 @@
     "des": "苦一般",
     "res_id": "Fear",
     "flavor_text": "%s拒绝了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1948,7 +1823,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s受到了冲击",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1964,7 +1838,6 @@
     "des": "辣喜欢",
     "res_id": "Show",
     "flavor_text": "%s火力全开！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1980,7 +1853,6 @@
     "des": "苦一般",
     "res_id": "Happy",
     "flavor_text": "%s有点燃起来了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -1996,7 +1868,6 @@
     "des": "甜讨厌",
     "res_id": "Fear",
     "flavor_text": "%s怏怏地揉揉眼睛",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2012,7 +1883,6 @@
     "des": "甜喜欢",
     "res_id": "Becute",
     "flavor_text": "%s充满了水流之力",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2028,7 +1898,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s不满地鼓起脸颊",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2044,7 +1913,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s泄气地躺在地上",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2060,7 +1928,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s开心地转圈圈",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2076,7 +1943,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s分三份吃完了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2092,7 +1958,6 @@
     "des": "辣讨厌",
     "res_id": "Sad",
     "flavor_text": "%s辣出了眼泪",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2108,7 +1973,6 @@
     "des": "喜欢苦",
     "res_id": "Happy",
     "flavor_text": "%s吃光了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2124,7 +1988,6 @@
     "des": "甜还行",
     "res_id": "Alert",
     "flavor_text": "%s很期待下一个果子",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2140,7 +2003,6 @@
     "des": "辣还行",
     "res_id": "Alert",
     "flavor_text": "%s很期待下一个果子",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2156,7 +2018,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -2165,7 +2026,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -2174,7 +2034,6 @@
     "des": "喜欢唱歌",
     "res_id": "Happy",
     "flavor_text": "%s觉得很好听！",
-    "max_trigger_time": 10,
     "effect_order": 5,
     "condition_param": [
       {
@@ -2190,7 +2049,6 @@
     "des": "喜欢苦",
     "res_id": "Happy",
     "flavor_text": "%s觉得好吃！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2206,7 +2064,6 @@
     "des": "甜还行",
     "res_id": "Becute",
     "flavor_text": "%s觉得一般",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2222,7 +2079,6 @@
     "des": "辣还行",
     "res_id": "Becute",
     "flavor_text": "%s觉得还行",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2238,7 +2094,6 @@
     "des": "喜欢甜",
     "res_id": "Happy",
     "flavor_text": "%s开心地转圈致意",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2254,7 +2109,6 @@
     "des": "苦一般",
     "res_id": "Alert",
     "flavor_text": "%s平静地抖了抖毛",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2270,7 +2124,6 @@
     "des": "辣讨厌",
     "res_id": "Sad",
     "flavor_text": "%s为难地啄了几口",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2286,7 +2139,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s夸赞是顶级粪球",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2302,7 +2154,6 @@
     "des": "甜一般",
     "res_id": "Sad",
     "flavor_text": "%s感觉不如粪球",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2318,7 +2169,6 @@
     "des": "辣一般",
     "res_id": "Sad",
     "flavor_text": "%s感觉不如粪球",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2334,7 +2184,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s满足地扑扇翅膀",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2350,7 +2199,6 @@
     "des": "辣一般",
     "res_id": "Becute",
     "flavor_text": "%s绅士力充能一半",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2366,7 +2214,6 @@
     "des": "甜一般",
     "res_id": "Becute",
     "flavor_text": "%s绅士力充能一半",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2382,7 +2229,6 @@
     "des": "甜喜欢",
     "res_id": "Becute",
     "flavor_text": "%s不挑食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2398,7 +2244,6 @@
     "des": "苦喜欢",
     "res_id": "Becute",
     "flavor_text": "%s不挑食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2414,7 +2259,6 @@
     "des": "辣喜欢",
     "res_id": "Becute",
     "flavor_text": "%s不挑食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2430,7 +2274,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -2439,7 +2282,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -2448,7 +2290,6 @@
     "des": "甜喜欢",
     "res_id": "Becute",
     "flavor_text": "%s不挑食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2464,7 +2305,6 @@
     "des": "苦喜欢",
     "res_id": "Becute",
     "flavor_text": "%s不挑食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2480,7 +2320,6 @@
     "des": "辣喜欢",
     "res_id": "Becute",
     "flavor_text": "%s不挑食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2496,7 +2335,6 @@
     "des": "甜喜欢",
     "res_id": "Becute",
     "flavor_text": "%s不挑食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2512,7 +2350,6 @@
     "des": "苦喜欢",
     "res_id": "Becute",
     "flavor_text": "%s不挑食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2528,7 +2365,6 @@
     "des": "辣喜欢",
     "res_id": "Becute",
     "flavor_text": "%s不挑食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2544,7 +2380,6 @@
     "des": "喜欢甜",
     "res_id": "Happy",
     "flavor_text": "%s对你表示过感谢",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2560,7 +2395,6 @@
     "des": "苦一般",
     "res_id": "Alert",
     "flavor_text": "%s不是很感兴趣",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2576,7 +2410,6 @@
     "des": "辣讨厌",
     "res_id": "Fear",
     "flavor_text": "%s脸都辣红了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2592,7 +2425,6 @@
     "des": "喜欢加血",
     "res_id": "Sad",
     "flavor_text": "%s很羡慕",
-    "max_trigger_time": 10,
     "effect_order": 8
   },
   {
@@ -2601,7 +2433,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -2610,7 +2441,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -2619,7 +2449,6 @@
     "des": "喜欢甜",
     "res_id": "Happy",
     "flavor_text": "%s对你表示过感谢",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2635,7 +2464,6 @@
     "des": "苦一般",
     "res_id": "Alert",
     "flavor_text": "%s不是很感兴趣",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2651,7 +2479,6 @@
     "des": "辣讨厌",
     "res_id": "Fear",
     "flavor_text": "%s脸都辣红了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2667,7 +2494,6 @@
     "des": "喜欢苦",
     "res_id": "Happy",
     "flavor_text": "%s很喜欢这个味道",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2683,7 +2509,6 @@
     "des": "甜还行",
     "res_id": "Relax",
     "flavor_text": "%s吃了两口",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2699,7 +2524,6 @@
     "des": "辣还行",
     "res_id": "Relax",
     "flavor_text": "%s吃了两口",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2715,7 +2539,6 @@
     "des": "喜欢草场",
     "res_id": "Becute",
     "flavor_text": "%s饿得咩咩叫",
-    "max_trigger_time": 10,
     "effect_order": 4,
     "condition_param": [
       {
@@ -2731,7 +2554,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -2740,7 +2562,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -2749,7 +2570,6 @@
     "des": "喜欢苦",
     "res_id": "Happy",
     "flavor_text": "%s很喜欢这个味道",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2765,7 +2585,6 @@
     "des": "甜还行",
     "res_id": "Relax",
     "flavor_text": "%s吃了两口",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2781,7 +2600,6 @@
     "des": "辣还行",
     "res_id": "Relax",
     "flavor_text": "%s吃了两口",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2797,7 +2615,6 @@
     "des": "喜欢苦",
     "res_id": "Happy",
     "flavor_text": "%s很喜欢这个味道",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2813,7 +2630,6 @@
     "des": "甜还行",
     "res_id": "Relax",
     "flavor_text": "%s吃了两口",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2829,7 +2645,6 @@
     "des": "辣还行",
     "res_id": "Relax",
     "flavor_text": "%s吃了两口",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2845,7 +2660,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s光速吃光了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2861,7 +2675,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s能吃苦！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2877,7 +2690,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s被辣得竖起尾巴",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2893,7 +2705,6 @@
     "des": "甜一般",
     "res_id": "happy",
     "flavor_text": "%s来者不拒！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2909,7 +2720,6 @@
     "des": "苦一般",
     "res_id": "happy",
     "flavor_text": "%s来者不拒！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2925,7 +2735,6 @@
     "des": "辣一般",
     "res_id": "happy",
     "flavor_text": "%s来者不拒！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2941,7 +2750,6 @@
     "des": "不吃果子",
     "res_id": "Alert",
     "flavor_text": "%s已经尝不出味道了。",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2957,7 +2765,6 @@
     "des": "不吃果子",
     "res_id": "Alert",
     "flavor_text": "%s已经尝不出味道了。",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2973,7 +2780,6 @@
     "des": "不吃果子",
     "res_id": "Alert",
     "flavor_text": "%s已经尝不出味道了。",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -2989,7 +2795,6 @@
     "des": "喜欢加BUFF",
     "res_id": "Happy",
     "flavor_text": "%s想与你一起冒险",
-    "max_trigger_time": 10,
     "effect_order": 9,
     "condition_param": [
       {
@@ -3005,7 +2810,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s光速吃光了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3021,7 +2825,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s能吃苦！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3037,7 +2840,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s被辣得竖起尾巴",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3053,7 +2855,6 @@
     "des": "喜欢苦",
     "res_id": "Happy",
     "flavor_text": "%s冷静了下来",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3069,7 +2870,6 @@
     "des": "甜还行",
     "res_id": "Alert",
     "flavor_text": "%s觉得很热",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3085,7 +2885,6 @@
     "des": "辣还行",
     "res_id": "Alert",
     "flavor_text": "%s觉得很热",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3101,7 +2900,6 @@
     "des": "喜欢锐利眼神",
     "res_id": "Becute",
     "flavor_text": "%s在努力地不要眨眼",
-    "max_trigger_time": 10,
     "effect_order": 5,
     "condition_param": [
       {
@@ -3117,7 +2915,6 @@
     "des": "喜欢苦",
     "res_id": "Happy",
     "flavor_text": "%s冷静了下来",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3133,7 +2930,6 @@
     "des": "甜还行",
     "res_id": "Alert",
     "flavor_text": "%s觉得很热",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3149,7 +2945,6 @@
     "des": "辣还行",
     "res_id": "Alert",
     "flavor_text": "%s觉得很热",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3165,7 +2960,6 @@
     "des": "喜欢苦",
     "res_id": "Happy",
     "flavor_text": "%s冷静了下来",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3181,7 +2975,6 @@
     "des": "甜还行",
     "res_id": "Alert",
     "flavor_text": "%s觉得很热",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3197,7 +2990,6 @@
     "des": "辣还行",
     "res_id": "Alert",
     "flavor_text": "%s觉得很热",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3213,7 +3005,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -3222,7 +3013,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -3231,7 +3021,6 @@
     "des": "喜欢甜",
     "res_id": "Becute",
     "flavor_text": "%s吃了又吃",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3247,7 +3036,6 @@
     "des": "苦一般",
     "res_id": "Sad",
     "flavor_text": "%s有点迷惑",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3263,7 +3051,6 @@
     "des": "辣讨厌",
     "res_id": "Fear",
     "flavor_text": "%s躲起来了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3279,7 +3066,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -3288,7 +3074,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -3297,7 +3082,6 @@
     "des": "喜欢甜",
     "res_id": "Becute",
     "flavor_text": "%s吃了又吃",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3313,7 +3097,6 @@
     "des": "苦一般",
     "res_id": "Sad",
     "flavor_text": "%s有点迷惑",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3329,7 +3112,6 @@
     "des": "辣讨厌",
     "res_id": "Fear",
     "flavor_text": "%s躲起来了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3345,7 +3127,6 @@
     "des": "喜欢甜",
     "res_id": "Becute",
     "flavor_text": "%s吃了又吃",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3361,7 +3142,6 @@
     "des": "苦一般",
     "res_id": "Sad",
     "flavor_text": "%s有点迷惑",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3377,7 +3157,6 @@
     "des": "辣讨厌",
     "res_id": "Fear",
     "flavor_text": "%s躲起来了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3393,7 +3172,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s开心地互相交流",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3409,7 +3187,6 @@
     "des": "苦一般",
     "res_id": "Becute",
     "flavor_text": "%s平静地浮在空中",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3425,7 +3202,6 @@
     "des": "辣讨厌",
     "res_id": "Sad",
     "flavor_text": "%s幸福感为0",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3441,7 +3217,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s开心地互相交流",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3457,7 +3232,6 @@
     "des": "苦一般",
     "res_id": "Becute",
     "flavor_text": "%s平静地浮在空中",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3473,7 +3247,6 @@
     "des": "辣讨厌",
     "res_id": "Sad",
     "flavor_text": "%s幸福感为0",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3489,7 +3262,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s心中满溢着幸福",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3505,7 +3277,6 @@
     "des": "甜一般",
     "res_id": "Becute",
     "flavor_text": "%s内心波澜不惊",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3521,7 +3292,6 @@
     "des": "辣一般",
     "res_id": "Becute",
     "flavor_text": "%s内心波澜不惊",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3537,7 +3307,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s心中满溢着幸福",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3553,7 +3322,6 @@
     "des": "甜一般",
     "res_id": "Becute",
     "flavor_text": "%s内心波澜不惊",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3569,7 +3337,6 @@
     "des": "辣一般",
     "res_id": "Becute",
     "flavor_text": "%s内心波澜不惊",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3585,7 +3352,6 @@
     "des": "甜喜欢",
     "res_id": "Becute",
     "flavor_text": "%s美滋滋摆起造型",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3601,7 +3367,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s咂咂嘴未置可否",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3617,7 +3382,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s晕晕地抬起前蹄",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3633,7 +3397,6 @@
     "des": "甜喜欢",
     "res_id": "Becute",
     "flavor_text": "%s美滋滋摆起造型",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3649,7 +3412,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s咂咂嘴未置可否",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3665,7 +3427,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s晕晕地抬起前蹄",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3681,7 +3442,6 @@
     "des": "苦喜欢",
     "res_id": "Becute",
     "flavor_text": "%s自信地转起圈圈",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3697,7 +3457,6 @@
     "des": "甜一般",
     "res_id": "Sad",
     "flavor_text": "%s泄气地耷拉双锤",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3713,7 +3472,6 @@
     "des": "辣一般",
     "res_id": "Sad",
     "flavor_text": "%s泄气地耷拉双锤",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3729,7 +3487,6 @@
     "des": "苦喜欢",
     "res_id": "Becute",
     "flavor_text": "%s满意地上蹿下跳",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3745,7 +3502,6 @@
     "des": "甜一般",
     "res_id": "Happy",
     "flavor_text": "%s平静地摇着尾巴",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3761,7 +3517,6 @@
     "des": "辣一般",
     "res_id": "Happy",
     "flavor_text": "%s平静地摇着尾巴",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3777,7 +3532,6 @@
     "des": "苦喜欢",
     "res_id": "Becute",
     "flavor_text": "%s满意地上蹿下跳",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3793,7 +3547,6 @@
     "des": "甜一般",
     "res_id": "Happy",
     "flavor_text": "%s平静地摇着尾巴",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3809,7 +3562,6 @@
     "des": "辣一般",
     "res_id": "Happy",
     "flavor_text": "%s平静地摇着尾巴",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3825,7 +3577,6 @@
     "des": "被克制",
     "res_id": "Happy",
     "flavor_text": "%s对你十分认同",
-    "max_trigger_time": 10,
     "effect_order": 3,
     "condition_param": [
       {
@@ -3841,7 +3592,6 @@
     "des": "喜欢辣",
     "res_id": "Happy",
     "flavor_text": "%s充满了力量！！！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3857,7 +3607,6 @@
     "des": "苦一般",
     "res_id": "Relax",
     "flavor_text": "%s勉强吃完了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3873,7 +3622,6 @@
     "des": "讨厌甜",
     "res_id": "Alert",
     "flavor_text": "%s很不屑",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3889,7 +3637,6 @@
     "des": "甜一般",
     "res_id": "Show",
     "flavor_text": "%s感觉一般般……",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3905,7 +3652,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s满意地眯起眼睛",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3921,7 +3667,6 @@
     "des": "辣一般",
     "res_id": "Show",
     "flavor_text": "%s感觉不够劲",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3937,7 +3682,6 @@
     "des": "辣喜欢",
     "res_id": "Happy",
     "flavor_text": "%s喜悦地叽叽喳喳",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3953,7 +3697,6 @@
     "des": "苦一般",
     "res_id": "Becute",
     "flavor_text": "%s呆呆地伫立原地",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3969,7 +3712,6 @@
     "des": "甜讨厌",
     "res_id": "Shock",
     "flavor_text": "%s中毒般向后退缩",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -3985,7 +3727,6 @@
     "des": "甜讨厌",
     "res_id": "Sad",
     "flavor_text": "%s吃完后有点儿头痛",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4001,7 +3742,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s想请你换个口味",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4017,7 +3757,6 @@
     "des": "辣喜欢",
     "res_id": "Happy",
     "flavor_text": "%s朝你开心地汪汪叫",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4033,7 +3772,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -4042,7 +3780,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -4051,7 +3788,6 @@
     "des": "甜讨厌",
     "res_id": "Sad",
     "flavor_text": "%s吃完后有点儿头痛",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4067,7 +3803,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s想请你换个口味",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4083,7 +3818,6 @@
     "des": "辣喜欢",
     "res_id": "Happy",
     "flavor_text": "%s朝你开心地汪汪叫",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4099,7 +3833,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -4108,7 +3841,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -4117,7 +3849,6 @@
     "des": "甜喜欢",
     "res_id": "Becute",
     "flavor_text": "%s不挑食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4133,7 +3864,6 @@
     "des": "苦喜欢",
     "res_id": "Becute",
     "flavor_text": "%s不挑食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4149,7 +3879,6 @@
     "des": "辣喜欢",
     "res_id": "Becute",
     "flavor_text": "%s不挑食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4165,7 +3894,6 @@
     "des": "甜喜欢",
     "res_id": "Becute",
     "flavor_text": "%s不挑食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4181,7 +3909,6 @@
     "des": "苦喜欢",
     "res_id": "Becute",
     "flavor_text": "%s不挑食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4197,7 +3924,6 @@
     "des": "辣喜欢",
     "res_id": "Becute",
     "flavor_text": "%s不挑食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4213,7 +3939,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -4222,7 +3947,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -4231,7 +3955,6 @@
     "des": "甜喜欢",
     "res_id": "Becute",
     "flavor_text": "%s不挑食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4247,7 +3970,6 @@
     "des": "苦喜欢",
     "res_id": "Becute",
     "flavor_text": "%s不挑食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4263,7 +3985,6 @@
     "des": "辣喜欢",
     "res_id": "Becute",
     "flavor_text": "%s不挑食！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4279,7 +4000,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -4288,7 +4008,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -4297,7 +4016,6 @@
     "des": "甜一般",
     "res_id": "Show",
     "flavor_text": "%s觉得没什么滋味",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4313,7 +4031,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s细细地回味",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4329,7 +4046,6 @@
     "des": "辣一般",
     "res_id": "Show",
     "flavor_text": "%s觉得没什么滋味",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4345,7 +4061,6 @@
     "des": "甜一般",
     "res_id": "Show",
     "flavor_text": "%s觉得没什么滋味",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4361,7 +4076,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s细细地回味",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4377,7 +4091,6 @@
     "des": "辣一般",
     "res_id": "Show",
     "flavor_text": "%s觉得没什么滋味",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4393,7 +4106,6 @@
     "des": "甜一般",
     "res_id": "Show",
     "flavor_text": "%s觉得没什么滋味",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4409,7 +4121,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s细细地回味",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4425,7 +4136,6 @@
     "des": "辣一般",
     "res_id": "Show",
     "flavor_text": "%s觉得没什么滋味",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4441,7 +4151,6 @@
     "des": "甜讨厌",
     "res_id": "Anger",
     "flavor_text": "%s不满地竖起羽毛",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4457,7 +4166,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s慢慢地吞了下去",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4473,7 +4181,6 @@
     "des": "辣喜欢",
     "res_id": "Happy",
     "flavor_text": "%s一口气全吃光",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4489,7 +4196,6 @@
     "des": "甜讨厌",
     "res_id": "Anger",
     "flavor_text": "%s不满地竖起羽毛",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4505,7 +4211,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s慢慢地吞了下去",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4521,7 +4226,6 @@
     "des": "辣喜欢",
     "res_id": "Happy",
     "flavor_text": "%s一口气全吃光",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4537,7 +4241,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -4546,7 +4249,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -4555,7 +4257,6 @@
     "des": "甜讨厌",
     "res_id": "Anger",
     "flavor_text": "%s不满地竖起羽毛",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4571,7 +4272,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s慢慢地吞了下去",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4587,7 +4287,6 @@
     "des": "辣喜欢",
     "res_id": "Happy",
     "flavor_text": "%s一口气全吃光",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4603,7 +4302,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s幸福地跳着舞",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4619,7 +4317,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s礼貌地吃了几口",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4635,7 +4332,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s辣得差点摔倒！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4651,7 +4347,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -4660,7 +4355,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -4669,7 +4363,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s幸福地跳着舞",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4685,7 +4378,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s礼貌地吃了几口",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4701,7 +4393,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s辣得差点摔倒！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4717,7 +4408,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -4726,7 +4416,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -4735,7 +4424,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s喜欢甜甜的",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4751,7 +4439,6 @@
     "des": "苦讨厌",
     "res_id": "Sad",
     "flavor_text": "%s受不了苦",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4767,7 +4454,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s吃不下辣",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4783,7 +4469,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -4792,7 +4477,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -4801,7 +4485,6 @@
     "des": "甜讨厌",
     "res_id": "Shock",
     "flavor_text": "%s不愿被知道爱吃甜食",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4817,7 +4500,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s装作自然地咽下去了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4833,7 +4515,6 @@
     "des": "辣喜欢",
     "res_id": "Happy",
     "flavor_text": "%s故意表现得能吃辣！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4849,7 +4530,6 @@
     "des": "甜讨厌",
     "res_id": "Shock",
     "flavor_text": "%s不愿被知道爱吃甜食",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4865,7 +4545,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s装作自然地咽下去了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4881,7 +4560,6 @@
     "des": "辣喜欢",
     "res_id": "Happy",
     "flavor_text": "%s故意表现得能吃辣！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4897,7 +4575,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -4906,7 +4583,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -4915,7 +4591,6 @@
     "des": "甜讨厌",
     "res_id": "Shock",
     "flavor_text": "%s不愿被知道爱吃甜食",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4931,7 +4606,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s装作自然地咽下去了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4947,7 +4621,6 @@
     "des": "辣喜欢",
     "res_id": "Happy",
     "flavor_text": "%s故意表现得能吃辣！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4963,7 +4636,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -4972,7 +4644,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -4981,7 +4652,6 @@
     "des": "甜讨厌",
     "res_id": "Shock",
     "flavor_text": "%s不愿被知道爱吃甜食",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -4997,7 +4667,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s装作自然地咽下去了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5013,7 +4682,6 @@
     "des": "辣喜欢",
     "res_id": "Happy",
     "flavor_text": "%s故意表现得能吃辣！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5029,7 +4697,6 @@
     "des": "甜一般",
     "res_id": "Sad",
     "flavor_text": "%s吃得兴致缺缺",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5045,7 +4712,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s就爱这种醍醐味！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5061,7 +4727,6 @@
     "des": "辣一般",
     "res_id": "Sad",
     "flavor_text": "%s吃得兴致缺缺",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5077,7 +4742,6 @@
     "des": "甜一般",
     "res_id": "Sad",
     "flavor_text": "%s吃得兴致缺缺",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5093,7 +4757,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s就爱这种醍醐味！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5109,7 +4772,6 @@
     "des": "辣一般",
     "res_id": "Sad",
     "flavor_text": "%s吃得兴致缺缺",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5125,7 +4787,6 @@
     "des": "甜一般",
     "res_id": "Sad",
     "flavor_text": "%s吃得兴致缺缺",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5141,7 +4802,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s就爱这种醍醐味！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5157,7 +4817,6 @@
     "des": "辣一般",
     "res_id": "Sad",
     "flavor_text": "%s吃得兴致缺缺",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5173,7 +4832,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s感谢地收下了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5189,7 +4847,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "比起果子%s更喜欢你！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5205,7 +4862,6 @@
     "des": "辣一般",
     "res_id": "Show",
     "flavor_text": "比起果子%s更喜欢你！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5221,7 +4877,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "比%s家里的还甜！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5237,7 +4892,6 @@
     "des": "苦讨厌",
     "res_id": "Sad",
     "flavor_text": "%s苦哭了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5253,7 +4907,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s辣得跳起来",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5269,7 +4922,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -5278,7 +4930,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -5287,7 +4938,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "比%s家里的还甜！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5303,7 +4953,6 @@
     "des": "苦讨厌",
     "res_id": "Sad",
     "flavor_text": "%s苦哭了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5319,7 +4968,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s辣得跳起来",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5335,7 +4983,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -5344,7 +4991,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -5353,7 +4999,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "比%s家里的还甜！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5369,7 +5014,6 @@
     "des": "苦讨厌",
     "res_id": "Sad",
     "flavor_text": "%s苦哭了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5385,7 +5029,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s辣得跳起来",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5401,7 +5044,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -5410,7 +5052,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -5419,7 +5060,6 @@
     "des": "不吃果子",
     "res_id": "Sad",
     "flavor_text": "%s无从下口！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5435,7 +5075,6 @@
     "des": "不吃果子",
     "res_id": "Sad",
     "flavor_text": "%s无从下口！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5451,7 +5090,6 @@
     "des": "不吃果子",
     "res_id": "Sad",
     "flavor_text": "%s无从下口！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5467,7 +5105,6 @@
     "des": "不吃果子",
     "res_id": "Sad",
     "flavor_text": "%s无从下口！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5483,7 +5120,6 @@
     "des": "不吃果子",
     "res_id": "Sad",
     "flavor_text": "%s无从下口！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5499,7 +5135,6 @@
     "des": "不吃果子",
     "res_id": "Sad",
     "flavor_text": "%s无从下口！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5515,7 +5150,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -5524,7 +5158,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -5533,7 +5166,6 @@
     "des": "不吃果子",
     "res_id": "Sad",
     "flavor_text": "%s无从下口！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5549,7 +5181,6 @@
     "des": "不吃果子",
     "res_id": "Sad",
     "flavor_text": "%s无从下口！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5565,7 +5196,6 @@
     "des": "不吃果子",
     "res_id": "Sad",
     "flavor_text": "%s无从下口！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5581,7 +5211,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -5590,7 +5219,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -5599,7 +5227,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s求你再给一个！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5615,7 +5242,6 @@
     "des": "苦讨厌",
     "res_id": "Sad",
     "flavor_text": "%s不喜欢苦味！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5631,7 +5257,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s从没吃过辣！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5647,7 +5272,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -5656,7 +5280,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -5665,7 +5288,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s求你再给一个！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5681,7 +5303,6 @@
     "des": "苦讨厌",
     "res_id": "Sad",
     "flavor_text": "%s不喜欢苦味！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5697,7 +5318,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s从没吃过辣！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5713,7 +5333,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -5722,7 +5341,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -5731,7 +5349,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s开心得合不拢嘴",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5747,7 +5364,6 @@
     "des": "苦讨厌",
     "res_id": "Sad",
     "flavor_text": "%s苦得垂下了头",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5763,7 +5379,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s辣得睁不开眼",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5779,7 +5394,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s开心得合不拢嘴",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5795,7 +5409,6 @@
     "des": "苦讨厌",
     "res_id": "Sad",
     "flavor_text": "%s苦得垂下了头",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5811,7 +5424,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s辣得睁不开眼",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5827,7 +5439,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -5836,7 +5447,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -5845,7 +5455,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s开心得合不拢嘴",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5861,7 +5470,6 @@
     "des": "苦讨厌",
     "res_id": "Sad",
     "flavor_text": "%s苦得垂下了头",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5877,7 +5485,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s辣得睁不开眼",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5893,7 +5500,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -5902,7 +5508,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -5911,7 +5516,6 @@
     "des": "甜一般",
     "res_id": "Show",
     "flavor_text": "%s吃什么都开心！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5927,7 +5531,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s吃得无比开心！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5943,7 +5546,6 @@
     "des": "辣一般",
     "res_id": "Show",
     "flavor_text": "%s吃什么都开心！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5959,7 +5561,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -5968,7 +5569,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -5977,7 +5577,6 @@
     "des": "甜一般",
     "res_id": "Show",
     "flavor_text": "%s吃什么都开心！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -5993,7 +5592,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s吃得无比开心！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6009,7 +5607,6 @@
     "des": "辣一般",
     "res_id": "Show",
     "flavor_text": "%s吃什么都开心！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6025,7 +5622,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -6034,7 +5630,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -6043,7 +5638,6 @@
     "des": "甜一般",
     "res_id": "Show",
     "flavor_text": "%s吃什么都开心！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6059,7 +5653,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s吃得无比开心！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6075,7 +5668,6 @@
     "des": "辣一般",
     "res_id": "Show",
     "flavor_text": "%s吃什么都开心！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6091,7 +5683,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -6100,7 +5691,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -6109,7 +5699,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s想起小时候的幸福",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6125,7 +5714,6 @@
     "des": "苦讨厌",
     "res_id": "Sad",
     "flavor_text": "苦味才不适合%s！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6141,7 +5729,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s还不到吃辣的年纪",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6157,7 +5744,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -6166,7 +5752,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -6175,7 +5760,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s想起小时候的幸福",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6191,7 +5775,6 @@
     "des": "苦讨厌",
     "res_id": "Sad",
     "flavor_text": "苦味才不适合%s！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6207,7 +5790,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s还不到吃辣的年纪",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6223,7 +5805,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -6232,7 +5813,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -6241,7 +5821,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s想起小时候的幸福",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6257,7 +5836,6 @@
     "des": "苦讨厌",
     "res_id": "Sad",
     "flavor_text": "苦味才不适合%s！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6273,7 +5851,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s还不到吃辣的年纪",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6289,7 +5866,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -6298,7 +5874,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -6307,7 +5882,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "在%s上点缀了甜果子！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6323,7 +5897,6 @@
     "des": "苦讨厌",
     "res_id": "Shock",
     "flavor_text": "在%s上点缀了苦果子！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6339,7 +5912,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "在%s上点缀了辣果子！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6355,7 +5927,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -6364,7 +5935,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -6373,7 +5943,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "在%s上点缀了甜果子！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6389,7 +5958,6 @@
     "des": "苦讨厌",
     "res_id": "Shock",
     "flavor_text": "在%s上点缀了苦果子！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6405,7 +5973,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "在%s上点缀了辣果子！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6421,7 +5988,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -6430,7 +5996,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -6439,7 +6004,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "在%s上点缀了甜果子！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6455,7 +6019,6 @@
     "des": "苦讨厌",
     "res_id": "Shock",
     "flavor_text": "在%s上点缀了苦果子！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6471,7 +6034,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "在%s上点缀了辣果子！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6487,7 +6049,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -6496,7 +6057,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -6505,7 +6065,6 @@
     "des": "甜一般",
     "res_id": "Show",
     "flavor_text": "%s品出了友谊的味道！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6521,7 +6080,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s品出了勇气的味道！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6537,7 +6095,6 @@
     "des": "辣一般",
     "res_id": "Show",
     "flavor_text": "%s品出了热情的味道！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6553,7 +6110,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -6562,7 +6118,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -6571,7 +6126,6 @@
     "des": "甜一般",
     "res_id": "Show",
     "flavor_text": "%s品出了友谊的味道！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6587,7 +6141,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s品出了勇气的味道！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6603,7 +6156,6 @@
     "des": "辣一般",
     "res_id": "Show",
     "flavor_text": "%s品出了热情的味道！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6619,7 +6171,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -6628,7 +6179,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -6637,7 +6187,6 @@
     "des": "甜一般",
     "res_id": "Show",
     "flavor_text": "%s品出了友谊的味道！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6653,7 +6202,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s品出了勇气的味道！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6669,7 +6217,6 @@
     "des": "辣一般",
     "res_id": "Show",
     "flavor_text": "%s品出了热情的味道！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6685,7 +6232,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -6694,7 +6240,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -6703,7 +6248,6 @@
     "des": "甜喜欢",
     "res_id": "Relax",
     "flavor_text": "%s吃得肚子圆圆的",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6719,7 +6263,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s勉强地吃下了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6735,7 +6278,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s把果子拨开了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6751,7 +6293,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -6760,7 +6301,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -6769,7 +6309,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s张开嘴还想接着吃",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6785,7 +6324,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s感觉和平时吃的差不多",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6801,7 +6339,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s感觉不如平时吃的",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6817,7 +6354,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s张开嘴还想接着吃",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6833,7 +6369,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s感觉和平时吃的差不多",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6849,7 +6384,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s感觉不如平时吃的",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6865,7 +6399,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -6874,7 +6407,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -6883,7 +6415,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s张开嘴还想接着吃",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6899,7 +6430,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s感觉和平时吃的差不多",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6915,7 +6445,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s感觉不如平时吃的",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6931,7 +6460,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -6940,7 +6468,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -6949,7 +6476,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s优雅地吃完了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6965,7 +6491,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s优雅地收好了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6981,7 +6506,6 @@
     "des": "辣讨厌",
     "res_id": "Anger",
     "flavor_text": "%s优雅地回绝了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -6997,7 +6521,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s优雅地吃完了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7013,7 +6536,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s优雅地收好了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7029,7 +6551,6 @@
     "des": "辣讨厌",
     "res_id": "Anger",
     "flavor_text": "%s优雅地回绝了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7045,7 +6566,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s优雅地吃完了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7061,7 +6581,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s优雅地收好了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7077,7 +6596,6 @@
     "des": "辣讨厌",
     "res_id": "Anger",
     "flavor_text": "%s优雅地回绝了",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7093,7 +6611,6 @@
     "des": "甜一般",
     "res_id": "Show",
     "flavor_text": "%s想要更好吃的",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7109,7 +6626,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s大快朵颐",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7125,7 +6641,6 @@
     "des": "辣一般",
     "res_id": "Show",
     "flavor_text": "%s想要更好吃的",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7141,7 +6656,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -7150,7 +6664,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -7159,7 +6672,6 @@
     "des": "甜一般",
     "res_id": "Show",
     "flavor_text": "%s想要更好吃的",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7175,7 +6687,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s大快朵颐",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7191,7 +6702,6 @@
     "des": "辣一般",
     "res_id": "Show",
     "flavor_text": "%s想要更好吃的",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7207,7 +6717,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -7216,7 +6725,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -7225,7 +6733,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s开心地互相交流",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7241,7 +6748,6 @@
     "des": "苦一般",
     "res_id": "Becute",
     "flavor_text": "%s平静地浮在空中",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7257,7 +6763,6 @@
     "des": "辣讨厌",
     "res_id": "Sad",
     "flavor_text": "%s幸福感为0",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7273,7 +6778,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -7282,7 +6786,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -7291,7 +6794,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s想跟你一起旅行！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7307,7 +6809,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s懂事地吃了几口",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7323,7 +6824,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s不愿再吃一口",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7339,7 +6839,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -7348,7 +6847,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -7357,7 +6855,6 @@
     "des": "甜喜欢",
     "res_id": "Happy",
     "flavor_text": "%s想跟你一起旅行！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7373,7 +6870,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s懂事地吃了几口",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7389,7 +6885,6 @@
     "des": "辣讨厌",
     "res_id": "Shock",
     "flavor_text": "%s不愿再吃一口",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7405,7 +6900,6 @@
     "des": "不喜欢被打",
     "res_id": "Sad",
     "flavor_text": "%s被攻击了,伤心！",
-    "max_trigger_time": 1,
     "effect_order": 11
   },
   {
@@ -7414,7 +6908,6 @@
     "des": "喜欢不被打",
     "res_id": "Happy",
     "flavor_text": "%s没被攻击，开心！",
-    "max_trigger_time": 99,
     "effect_order": 16
   },
   {
@@ -7423,7 +6916,6 @@
     "des": "甜一般",
     "res_id": "Relax",
     "flavor_text": "%s抿了抿舌头",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7439,7 +6931,6 @@
     "des": "苦喜欢",
     "res_id": "Happy",
     "flavor_text": "%s不停咂舌回味！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7455,7 +6946,6 @@
     "des": "辣一般",
     "res_id": "Relax",
     "flavor_text": "%s抿了抿舌头",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7471,7 +6961,6 @@
     "des": "甜讨厌",
     "res_id": "Sad",
     "flavor_text": "%s想吃更暖的！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7487,7 +6976,6 @@
     "des": "苦讨厌",
     "res_id": "Show",
     "flavor_text": "%s想吃更暖的！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7503,7 +6991,6 @@
     "des": "辣喜欢",
     "res_id": "Happy",
     "flavor_text": "%s感到内心火热！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7519,7 +7006,6 @@
     "des": "甜讨厌",
     "res_id": "Sad",
     "flavor_text": "%s想吃更暖的！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7535,7 +7021,6 @@
     "des": "苦讨厌",
     "res_id": "Show",
     "flavor_text": "%s想吃更暖的！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7551,7 +7036,6 @@
     "des": "辣喜欢",
     "res_id": "Happy",
     "flavor_text": "%s感到内心火热！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7567,7 +7051,6 @@
     "des": "甜一般",
     "res_id": "Show",
     "flavor_text": "%s把果子转化为能量",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7583,7 +7066,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s把果子转化为能量",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7599,7 +7081,6 @@
     "des": "辣喜欢",
     "res_id": "Happy",
     "flavor_text": "%s获得了大量能量！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7615,7 +7096,6 @@
     "des": "甜一般",
     "res_id": "Show",
     "flavor_text": "%s把果子转化为能量",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7631,7 +7111,6 @@
     "des": "苦一般",
     "res_id": "Show",
     "flavor_text": "%s把果子转化为能量",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7647,7 +7126,6 @@
     "des": "辣喜欢",
     "res_id": "Happy",
     "flavor_text": "%s获得了大量能量！",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7663,7 +7141,6 @@
     "des": "睡觉不吃",
     "res_id": "Happy",
     "flavor_text": "呜噜噜……",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7679,7 +7156,6 @@
     "des": "睡觉不吃",
     "res_id": "Happy",
     "flavor_text": "呜噜噜……",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {
@@ -7695,7 +7171,6 @@
     "des": "睡觉不吃",
     "res_id": "Happy",
     "flavor_text": "呜噜噜……",
-    "max_trigger_time": 10,
     "effect_order": 6,
     "condition_param": [
       {

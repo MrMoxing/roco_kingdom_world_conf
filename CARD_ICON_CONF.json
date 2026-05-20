@@ -2623,9 +2623,9 @@
   {
     "id": 3340,
     "icon_resource_path": "3340",
-    "icon_resource_name": "古齿帝牙",
+    "icon_resource_name": "冰晶古齿虎",
     "unlock_condition": 1,
-    "item_description": "解锁了个人名片的新头像——「古齿帝牙」。",
+    "item_description": "解锁了个人名片的新头像——「冰晶古齿虎」。",
     "bottom_description": "可在个人名片中更换新头像啦！",
     "card_quality": 4
   },
@@ -5204,6 +5204,24 @@
     "card_quality": 5
   },
   {
+    "id": 1001010,
+    "icon_resource_path": "img_1013",
+    "icon_resource_name": "招财吱吱",
+    "unlock_condition": 1,
+    "item_description": "个人名片的头像——「招财吱吱」。",
+    "bottom_description": "一个特别的吱吱币。",
+    "card_quality": 5
+  },
+  {
+    "id": 1001011,
+    "icon_resource_path": "img_1015",
+    "icon_resource_name": "好学·学院呱呱",
+    "unlock_condition": 1,
+    "item_description": "个人名片的头像——「好学·学院呱呱」。",
+    "bottom_description": "「呱呱上学记」活动获得",
+    "card_quality": 5
+  },
+  {
     "id": 2001001,
     "icon_resource_path": "img_1009",
     "icon_resource_name": "星光·犀角鸟",
@@ -5219,6 +5237,33 @@
     "unlock_condition": 1,
     "item_description": "个人名片的头像——「月光·绒绒」。",
     "bottom_description": "拾光通行证获得",
+    "card_quality": 5
+  },
+  {
+    "id": 2001003,
+    "icon_resource_path": "img_1017",
+    "icon_resource_name": "极冻·爆焰仔",
+    "unlock_condition": 1,
+    "item_description": "个人名片的头像——「极冻·爆焰仔」。",
+    "bottom_description": "狂欢通行证获得",
+    "card_quality": 5
+  },
+  {
+    "id": 2001004,
+    "icon_resource_path": "img_1016",
+    "icon_resource_name": "酷炎·小雪人",
+    "unlock_condition": 1,
+    "item_description": "个人名片的头像——「酷炎·小雪人」。",
+    "bottom_description": "狂欢通行证获得",
+    "card_quality": 5
+  },
+  {
+    "id": 3001001,
+    "icon_resource_path": "img_heying_1",
+    "icon_resource_name": "狂欢·摄影达人",
+    "unlock_condition": 1,
+    "item_description": "个人名片的头像——「狂欢·摄影达人」。",
+    "bottom_description": "可在个人名片中更换新头像啦！",
     "card_quality": 5
   }
 ]

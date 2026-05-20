@@ -355,6 +355,16 @@
     "bagitem_id": 310058
   },
   {
+    "id": 37,
+    "skin_resource_path": "fanying",
+    "skin_resource_name": "凡鹰",
+    "item_description": "解锁了个人名片的新卡片「凡鹰」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在「翼启新程」活动中获取。",
+    "bagitem_id": 310081
+  },
+  {
     "id": 2001,
     "skin_resource_path": "shengtai",
     "skin_resource_name": "精灵学共鸣",
@@ -515,6 +525,16 @@
     "level_icon": "img_shuzi_9_png.img_shuzi_9_png"
   },
   {
+    "id": 7001,
+    "skin_resource_path": "takephoto",
+    "skin_resource_name": "狂欢摄影达人",
+    "item_description": "解锁了个人名片的新卡片「狂欢摄影达人」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在主题摄影评选赛活动中获取。",
+    "bagitem_id": 320046
+  },
+  {
     "id": 10001,
     "skin_resource_path": "Pvp001",
     "skin_resource_name": "暗夜拾光",
@@ -525,6 +545,16 @@
     "bagitem_id": 110002
   },
   {
+    "id": 10002,
+    "skin_resource_path": "Pvp002",
+    "skin_resource_name": "狂欢怪谈",
+    "item_description": "解锁了个人名片的新卡片「狂欢怪谈」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在闪耀大赛排位赛获取。",
+    "bagitem_id": 110003
+  },
+  {
     "id": 10051,
     "skin_resource_path": "S1badge",
     "skin_resource_name": "拾光精通者",
@@ -533,6 +563,36 @@
     "card_quality": 5,
     "skin_get_ways": "尚未获得该主题。可通过暗夜拾光赛季作业获取。",
     "bagitem_id": 295033
+  },
+  {
+    "id": 10052,
+    "skin_resource_path": "S2badge",
+    "skin_resource_name": "狂欢精通者",
+    "item_description": "解锁了个人名片的新卡片「狂欢精通者」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可通过狂欢怪谈赛季作业获取。",
+    "bagitem_id": 295038
+  },
+  {
+    "id": 20021,
+    "skin_resource_path": "FlyingDragon",
+    "skin_resource_name": "爆焰喷喷",
+    "item_description": "解锁了个人名片的新卡片「爆焰喷喷」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在狂欢通行证获得。",
+    "bagitem_id": 106008
+  },
+  {
+    "id": 20022,
+    "skin_resource_path": "SnowMonster",
+    "skin_resource_name": "雪怪",
+    "item_description": "解锁了个人名片的新卡片「雪怪」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在狂欢通行证获得。",
+    "bagitem_id": 106009
   },
   {
     "id": 60001,
@@ -567,12 +627,12 @@
   {
     "id": 60004,
     "skin_resource_path": "Pika104",
-    "skin_resource_name": "雪山研究员",
-    "item_description": "解锁了个人名片的新卡片「雪山研究员」。",
+    "skin_resource_name": "雪山手信",
+    "item_description": "解锁了个人名片的新卡片「雪山手信」。",
     "bottom_description": "可在个人名片中更换新卡片啦！",
     "card_quality": 4,
     "skin_get_ways": "尚未获得该主题。？？？？后可解锁。",
-    "bagitem_id": 305013
+    "bagitem_id": 310084
   },
   {
     "id": 60005,
@@ -623,5 +683,45 @@
     "card_quality": 5,
     "skin_get_ways": "尚未获得该主题。？？？？后可解锁。",
     "bagitem_id": 305029
+  },
+  {
+    "id": 60010,
+    "skin_resource_path": "Pika113",
+    "skin_resource_name": "乐团协奏曲",
+    "item_description": "解锁了个人名片的新卡片「乐团协奏曲」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 4,
+    "skin_get_ways": "尚未获得该主题。？？？？后可解锁。",
+    "bagitem_id": 305030
+  },
+  {
+    "id": 60011,
+    "skin_resource_path": "Pika112",
+    "skin_resource_name": "梦境流浪者",
+    "item_description": "解锁了个人名片的新卡片「梦境流浪者」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。？？？？后可解锁。",
+    "bagitem_id": 305032
+  },
+  {
+    "id": 60012,
+    "skin_resource_path": "Pika111",
+    "skin_resource_name": "魔法嘉年华",
+    "item_description": "解锁了个人名片的新卡片「魔法嘉年华」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 4,
+    "skin_get_ways": "尚未获得该主题。？？？？后可解锁。",
+    "bagitem_id": 305033
+  },
+  {
+    "id": 60013,
+    "skin_resource_path": "Pika110",
+    "skin_resource_name": "深海的馈赠",
+    "item_description": "解锁了个人名片的新卡片「深海的馈赠」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。？？？？后可解锁。",
+    "bagitem_id": 305034
   }
 ]

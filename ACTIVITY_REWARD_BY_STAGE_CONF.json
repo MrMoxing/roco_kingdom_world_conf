@@ -5,36 +5,28 @@
     "end_time": "2025-09-17 23:59:59",
     "reward_group": [
       {
-        "reward_id": 200000001,
-        "unlock_day": 1
+        "reward_id": 200000001
       },
       {
-        "reward_id": 200000002,
-        "unlock_day": 2
+        "reward_id": 200000002
       },
       {
-        "reward_id": 200000003,
-        "unlock_day": 3
+        "reward_id": 200000003
       },
       {
-        "reward_id": 200000004,
-        "unlock_day": 4
+        "reward_id": 200000004
       },
       {
-        "reward_id": 200000005,
-        "unlock_day": 5
+        "reward_id": 200000005
       },
       {
-        "reward_id": 200000006,
-        "unlock_day": 6
+        "reward_id": 200000006
       },
       {
-        "reward_id": 200000007,
-        "unlock_day": 7
+        "reward_id": 200000007
       },
       {
-        "reward_id": 200000008,
-        "unlock_day": 8
+        "reward_id": 200000008
       }
     ]
   },
@@ -60,34 +52,28 @@
     "disposable_reward_id": 200000090,
     "reward_group": [
       {
-        "reward_id": 200000091,
-        "unlock_day": 1
+        "reward_id": 200000091
       },
       {
-        "reward_id": 200000092,
-        "unlock_day": 2
+        "reward_id": 200000092
       },
       {
-        "reward_id": 200000093,
-        "unlock_day": 3
+        "reward_id": 200000093
       },
       {
-        "reward_id": 200000094,
-        "unlock_day": 4
+        "reward_id": 200000094
       },
       {
-        "reward_id": 200000095,
-        "unlock_day": 5
+        "reward_id": 200000095
       },
       {
-        "reward_id": 200000096,
-        "unlock_day": 6
+        "reward_id": 200000096
       },
       {
-        "reward_id": 200000097,
-        "unlock_day": 7
+        "reward_id": 200000097
       }
-    ]
+    ],
+    "end_trigger_time": "2026-05-21 03:59:59"
   },
   {
     "id": 3001,
@@ -97,8 +83,7 @@
     "next_tips_text": "下次课堂时间：04月22日",
     "reward_group": [
       {
-        "reward_id": 200000041,
-        "unlock_day": 1
+        "reward_id": 200000041
       }
     ]
   },
@@ -110,8 +95,7 @@
     "next_tips_text": "下次课堂时间：05月02日",
     "reward_group": [
       {
-        "reward_id": 200000042,
-        "unlock_day": 1
+        "reward_id": 200000042
       }
     ]
   },
@@ -122,8 +106,7 @@
     "unlock_text": "明日可领",
     "reward_group": [
       {
-        "reward_id": 200000043,
-        "unlock_day": 1
+        "reward_id": 200000043
       }
     ]
   },
@@ -132,32 +115,25 @@
     "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_miaomiao_bg.img_miaomiao_bg'",
     "reward_group": [
       {
-        "reward_id": 200000044,
-        "unlock_day": 1
+        "reward_id": 200000044
       },
       {
-        "reward_id": 200000045,
-        "unlock_day": 2
+        "reward_id": 200000045
       },
       {
-        "reward_id": 200000046,
-        "unlock_day": 3
+        "reward_id": 200000046
       },
       {
-        "reward_id": 200000047,
-        "unlock_day": 4
+        "reward_id": 200000047
       },
       {
-        "reward_id": 200000048,
-        "unlock_day": 5
+        "reward_id": 200000048
       },
       {
-        "reward_id": 200000049,
-        "unlock_day": 6
+        "reward_id": 200000049
       },
       {
-        "reward_id": 200000050,
-        "unlock_day": 7
+        "reward_id": 200000050
       }
     ]
   },
@@ -167,32 +143,25 @@
     "petbase_id": 3622,
     "reward_group": [
       {
-        "reward_id": 200000051,
-        "unlock_day": 1
+        "reward_id": 200000051
       },
       {
-        "reward_id": 200000052,
-        "unlock_day": 2
+        "reward_id": 200000052
       },
       {
-        "reward_id": 200000053,
-        "unlock_day": 3
+        "reward_id": 200000053
       },
       {
-        "reward_id": 200000054,
-        "unlock_day": 4
+        "reward_id": 200000054
       },
       {
-        "reward_id": 200000055,
-        "unlock_day": 5
+        "reward_id": 200000055
       },
       {
-        "reward_id": 200000056,
-        "unlock_day": 6
+        "reward_id": 200000056
       },
       {
-        "reward_id": 200000057,
-        "unlock_day": 7
+        "reward_id": 200000057
       }
     ]
   },
@@ -201,32 +170,25 @@
     "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_kongtou_bg.img_kongtou_bg'",
     "reward_group": [
       {
-        "reward_id": 200000058,
-        "unlock_day": 1
+        "reward_id": 200000058
       },
       {
-        "reward_id": 200000059,
-        "unlock_day": 2
+        "reward_id": 200000059
       },
       {
-        "reward_id": 200000060,
-        "unlock_day": 3
+        "reward_id": 200000060
       },
       {
-        "reward_id": 200000061,
-        "unlock_day": 4
+        "reward_id": 200000061
       },
       {
-        "reward_id": 200000062,
-        "unlock_day": 5
+        "reward_id": 200000062
       },
       {
-        "reward_id": 200000063,
-        "unlock_day": 6
+        "reward_id": 200000063
       },
       {
-        "reward_id": 200000064,
-        "unlock_day": 7
+        "reward_id": 200000064
       }
     ]
   },
@@ -236,8 +198,7 @@
     "petbase_id": 3169,
     "reward_group": [
       {
-        "reward_id": 200000065,
-        "unlock_day": 1
+        "reward_id": 200000065
       },
       {},
       {},
@@ -245,8 +206,7 @@
       {},
       {},
       {
-        "reward_id": 200000071,
-        "unlock_day": 7
+        "reward_id": 200000071
       }
     ]
   },
@@ -256,8 +216,7 @@
     "petbase_id": 3620,
     "reward_group": [
       {
-        "reward_id": 200000079,
-        "unlock_day": 1
+        "reward_id": 200000079
       },
       {},
       {},
@@ -265,8 +224,7 @@
       {},
       {},
       {
-        "reward_id": 200000085,
-        "unlock_day": 7
+        "reward_id": 200000085
       }
     ]
   },
@@ -275,8 +233,7 @@
     "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_kekeguo_bg.img_kekeguo_bg'",
     "reward_group": [
       {
-        "reward_id": 200000058,
-        "unlock_day": 1
+        "reward_id": 200000058
       }
     ]
   },
@@ -287,8 +244,7 @@
     "unlock_text": "4月17日-24日\n登录可领取",
     "reward_group": [
       {
-        "reward_id": 200000148,
-        "unlock_day": 1
+        "reward_id": 200000148
       }
     ]
   },
@@ -299,8 +255,7 @@
     "unlock_text": "4月24日-1日\n登录可领取",
     "reward_group": [
       {
-        "reward_id": 200000149,
-        "unlock_day": 1
+        "reward_id": 200000149
       }
     ]
   },
@@ -311,8 +266,150 @@
     "unlock_text": "5月1日-5日\n登录可领取",
     "reward_group": [
       {
-        "reward_id": 200000150,
-        "unlock_day": 1
+        "reward_id": 200000150
+      }
+    ]
+  },
+  {
+    "id": 200013,
+    "reward_group": [
+      {
+        "reward_id": 200300010
+      }
+    ]
+  },
+  {
+    "id": 200014,
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_tongyong_buzhuo.img_tongyong_buzhuo'",
+    "reward_group": [
+      {
+        "reward_id": 200000044
+      },
+      {
+        "reward_id": 200000045
+      },
+      {
+        "reward_id": 200000046
+      },
+      {
+        "reward_id": 200000047
+      },
+      {
+        "reward_id": 200000048
+      },
+      {
+        "reward_id": 200000049
+      },
+      {
+        "reward_id": 200000050
+      }
+    ]
+  },
+  {
+    "id": 201001,
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_miaomiao_bg.img_miaomiao_bg'",
+    "reward_group": [
+      {
+        "reward_id": 200000091
+      },
+      {
+        "reward_id": 200000092
+      },
+      {
+        "reward_id": 200000093
+      },
+      {
+        "reward_id": 200000094
+      },
+      {
+        "reward_id": 200000095
+      },
+      {
+        "reward_id": 200000096
+      },
+      {
+        "reward_id": 200000097
+      }
+    ]
+  },
+  {
+    "id": 201002,
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_miaomiao_bg.img_miaomiao_bg'",
+    "reward_group": [
+      {
+        "reward_id": 710000002
+      },
+      {
+        "reward_id": 710000003
+      },
+      {
+        "reward_id": 710000004
+      },
+      {
+        "reward_id": 710000005
+      },
+      {
+        "reward_id": 710000006
+      },
+      {
+        "reward_id": 710000007
+      },
+      {
+        "reward_id": 710000008
+      }
+    ]
+  },
+  {
+    "id": 201003,
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_miaomiao_bg.img_miaomiao_bg'",
+    "reward_group": [
+      {
+        "reward_id": 710000010
+      },
+      {
+        "reward_id": 710000011
+      },
+      {
+        "reward_id": 710000012
+      },
+      {
+        "reward_id": 710000013
+      },
+      {
+        "reward_id": 710000014
+      },
+      {
+        "reward_id": 710000015
+      },
+      {
+        "reward_id": 710000016
+      }
+    ]
+  },
+  {
+    "id": 201004,
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_miaomiao_bg.img_miaomiao_bg'",
+    "reward_group": [
+      {
+        "reward_id": 710000018
+      },
+      {
+        "reward_id": 710000019
+      },
+      {
+        "reward_id": 710000020
+      },
+      {
+        "reward_id": 710000021
+      },
+      {
+        "reward_id": 710000022
+      },
+      {
+        "reward_id": 710000023
+      },
+      {
+        "reward_id": 710000024
       }
     ]
   }

@@ -2,7 +2,6 @@
   {
     "id": 1,
     "content_id": 130308,
-    "editor_name": "奥贝斯坦湖",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -21,7 +20,6 @@
   {
     "id": 2,
     "content_id": 130308,
-    "editor_name": "奥贝斯坦湖",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -45,7 +43,6 @@
   {
     "id": 3,
     "content_id": 130308,
-    "editor_name": "奥贝斯坦湖",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -69,7 +66,6 @@
   {
     "id": 4,
     "content_id": 130309,
-    "editor_name": "月牙湖岸",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -88,7 +84,6 @@
   {
     "id": 5,
     "content_id": 130309,
-    "editor_name": "月牙湖岸",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -112,7 +107,6 @@
   {
     "id": 6,
     "content_id": 130309,
-    "editor_name": "月牙湖岸",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -136,7 +130,6 @@
   {
     "id": 7,
     "content_id": 130310,
-    "editor_name": "商店街周边",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -155,7 +148,6 @@
   {
     "id": 8,
     "content_id": 130310,
-    "editor_name": "商店街周边",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -179,7 +171,6 @@
   {
     "id": 9,
     "content_id": 130310,
-    "editor_name": "商店街周边",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -203,7 +194,6 @@
   {
     "id": 10,
     "content_id": 130311,
-    "editor_name": "聆风塔地",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -222,7 +212,6 @@
   {
     "id": 11,
     "content_id": 130311,
-    "editor_name": "聆风塔地",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -246,7 +235,6 @@
   {
     "id": 12,
     "content_id": 130311,
-    "editor_name": "聆风塔地",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -270,7 +258,6 @@
   {
     "id": 13,
     "content_id": 130312,
-    "editor_name": "风息山口",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -289,7 +276,6 @@
   {
     "id": 14,
     "content_id": 130312,
-    "editor_name": "风息山口",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -313,7 +299,6 @@
   {
     "id": 15,
     "content_id": 130312,
-    "editor_name": "风息山口",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -337,7 +322,6 @@
   {
     "id": 16,
     "content_id": 140143,
-    "editor_name": "岚语峰西侧",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -356,7 +340,6 @@
   {
     "id": 17,
     "content_id": 140143,
-    "editor_name": "岚语峰西侧",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -380,7 +363,6 @@
   {
     "id": 18,
     "content_id": 140143,
-    "editor_name": "岚语峰西侧",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -404,7 +386,6 @@
   {
     "id": 19,
     "content_id": 140144,
-    "editor_name": "圣羽祭台",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -423,7 +404,6 @@
   {
     "id": 20,
     "content_id": 140144,
-    "editor_name": "圣羽祭台",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -447,7 +427,6 @@
   {
     "id": 21,
     "content_id": 140144,
-    "editor_name": "圣羽祭台",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -471,7 +450,6 @@
   {
     "id": 22,
     "content_id": 140145,
-    "editor_name": "旧飞艇航道",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -490,7 +468,6 @@
   {
     "id": 23,
     "content_id": 140145,
-    "editor_name": "旧飞艇航道",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -514,7 +491,6 @@
   {
     "id": 24,
     "content_id": 140145,
-    "editor_name": "旧飞艇航道",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -538,7 +514,6 @@
   {
     "id": 25,
     "content_id": 140146,
-    "editor_name": "挽风屏障",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -557,7 +532,6 @@
   {
     "id": 26,
     "content_id": 140146,
-    "editor_name": "挽风屏障",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -581,7 +555,6 @@
   {
     "id": 27,
     "content_id": 140146,
-    "editor_name": "挽风屏障",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -605,7 +578,6 @@
   {
     "id": 28,
     "content_id": 140147,
-    "editor_name": "叽叽喳喳台地",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -624,7 +596,6 @@
   {
     "id": 29,
     "content_id": 140147,
-    "editor_name": "叽叽喳喳台地",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -648,7 +619,6 @@
   {
     "id": 30,
     "content_id": 140147,
-    "editor_name": "叽叽喳喳台地",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -672,7 +642,6 @@
   {
     "id": 31,
     "content_id": 140149,
-    "editor_name": "轻风山",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -691,7 +660,6 @@
   {
     "id": 32,
     "content_id": 140149,
-    "editor_name": "轻风山",
     "level": 2,
     "pet_fruit_num": 1,
     "levelup_cost_item_type": 1,
@@ -715,7 +683,6 @@
   {
     "id": 33,
     "content_id": 140149,
-    "editor_name": "轻风山",
     "level": 3,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -739,7 +706,6 @@
   {
     "id": 34,
     "content_id": 1200492,
-    "editor_name": "星霜崖地",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -758,7 +724,6 @@
   {
     "id": 35,
     "content_id": 1200492,
-    "editor_name": "星霜崖地",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -782,7 +747,6 @@
   {
     "id": 36,
     "content_id": 1200492,
-    "editor_name": "星霜崖地",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -806,7 +770,6 @@
   {
     "id": 37,
     "content_id": 130131,
-    "editor_name": "咸水湾南部",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -825,7 +788,6 @@
   {
     "id": 38,
     "content_id": 130131,
-    "editor_name": "咸水湾南部",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -849,7 +811,6 @@
   {
     "id": 39,
     "content_id": 130131,
-    "editor_name": "咸水湾南部",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -873,7 +834,6 @@
   {
     "id": 40,
     "content_id": 130132,
-    "editor_name": "咸水湾北部",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -892,7 +852,6 @@
   {
     "id": 41,
     "content_id": 130132,
-    "editor_name": "咸水湾北部",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -916,7 +875,6 @@
   {
     "id": 42,
     "content_id": 130132,
-    "editor_name": "咸水湾北部",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -940,7 +898,6 @@
   {
     "id": 43,
     "content_id": 130133,
-    "editor_name": "圣所前哨",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -959,7 +916,6 @@
   {
     "id": 44,
     "content_id": 130133,
-    "editor_name": "圣所前哨",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -983,7 +939,6 @@
   {
     "id": 45,
     "content_id": 130133,
-    "editor_name": "圣所前哨",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -1007,7 +962,6 @@
   {
     "id": 46,
     "content_id": 130134,
-    "editor_name": "晨曦山",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -1026,7 +980,6 @@
   {
     "id": 47,
     "content_id": 130134,
-    "editor_name": "晨曦山",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -1050,7 +1003,6 @@
   {
     "id": 48,
     "content_id": 130134,
-    "editor_name": "晨曦山",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -1074,7 +1026,6 @@
   {
     "id": 49,
     "content_id": 130135,
-    "editor_name": "彼得大道",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -1093,7 +1044,6 @@
   {
     "id": 50,
     "content_id": 130135,
-    "editor_name": "彼得大道",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -1117,7 +1067,6 @@
   {
     "id": 51,
     "content_id": 130135,
-    "editor_name": "彼得大道",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -1141,7 +1090,6 @@
   {
     "id": 52,
     "content_id": 130136,
-    "editor_name": "北半岛",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -1160,7 +1108,6 @@
   {
     "id": 53,
     "content_id": 130136,
-    "editor_name": "北半岛",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -1184,7 +1131,6 @@
   {
     "id": 54,
     "content_id": 130136,
-    "editor_name": "北半岛",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -1208,7 +1154,6 @@
   {
     "id": 55,
     "content_id": 130137,
-    "editor_name": "峡湾",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -1227,7 +1172,6 @@
   {
     "id": 56,
     "content_id": 130137,
-    "editor_name": "峡湾",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -1251,7 +1195,6 @@
   {
     "id": 57,
     "content_id": 130137,
-    "editor_name": "峡湾",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -1275,7 +1218,6 @@
   {
     "id": 58,
     "content_id": 130138,
-    "editor_name": "王国城堡",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -1294,7 +1236,6 @@
   {
     "id": 59,
     "content_id": 130138,
-    "editor_name": "王国城堡",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -1318,7 +1259,6 @@
   {
     "id": 60,
     "content_id": 130138,
-    "editor_name": "王国城堡",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -1342,7 +1282,6 @@
   {
     "id": 61,
     "content_id": 130139,
-    "editor_name": "金叶原",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -1361,7 +1300,6 @@
   {
     "id": 62,
     "content_id": 130139,
-    "editor_name": "金叶原",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -1385,7 +1323,6 @@
   {
     "id": 63,
     "content_id": 130139,
-    "editor_name": "金叶原",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -1409,7 +1346,6 @@
   {
     "id": 64,
     "content_id": 130140,
-    "editor_name": "恶水沼泽",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -1428,7 +1364,6 @@
   {
     "id": 65,
     "content_id": 130140,
-    "editor_name": "恶水沼泽",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -1452,7 +1387,6 @@
   {
     "id": 66,
     "content_id": 130140,
-    "editor_name": "恶水沼泽",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -1476,7 +1410,6 @@
   {
     "id": 67,
     "content_id": 130141,
-    "editor_name": "净化绿洲",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -1495,7 +1428,6 @@
   {
     "id": 68,
     "content_id": 130141,
-    "editor_name": "净化绿洲",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -1519,7 +1451,6 @@
   {
     "id": 69,
     "content_id": 130141,
-    "editor_name": "净化绿洲",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -1543,7 +1474,6 @@
   {
     "id": 70,
     "content_id": 130142,
-    "editor_name": "微光湿地",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -1562,7 +1492,6 @@
   {
     "id": 71,
     "content_id": 130142,
-    "editor_name": "微光湿地",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -1586,7 +1515,6 @@
   {
     "id": 72,
     "content_id": 130142,
-    "editor_name": "微光湿地",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -1610,7 +1538,6 @@
   {
     "id": 73,
     "content_id": 130143,
-    "editor_name": "巨人裂谷顶",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -1629,7 +1556,6 @@
   {
     "id": 74,
     "content_id": 130143,
-    "editor_name": "巨人裂谷顶",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -1653,7 +1579,6 @@
   {
     "id": 75,
     "content_id": 130143,
-    "editor_name": "巨人裂谷顶",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -1677,7 +1602,6 @@
   {
     "id": 76,
     "content_id": 130144,
-    "editor_name": "巨人裂谷内",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -1696,7 +1620,6 @@
   {
     "id": 77,
     "content_id": 130144,
-    "editor_name": "巨人裂谷内",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -1720,7 +1643,6 @@
   {
     "id": 78,
     "content_id": 130144,
-    "editor_name": "巨人裂谷内",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -1744,7 +1666,6 @@
   {
     "id": 79,
     "content_id": 130145,
-    "editor_name": "独角兽领地",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -1763,7 +1684,6 @@
   {
     "id": 80,
     "content_id": 130145,
-    "editor_name": "独角兽领地",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -1787,7 +1707,6 @@
   {
     "id": 81,
     "content_id": 130145,
-    "editor_name": "独角兽领地",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -1811,7 +1730,6 @@
   {
     "id": 82,
     "content_id": 130146,
-    "editor_name": "采邑地",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -1830,7 +1748,6 @@
   {
     "id": 83,
     "content_id": 130146,
-    "editor_name": "采邑地",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -1854,7 +1771,6 @@
   {
     "id": 84,
     "content_id": 130146,
-    "editor_name": "采邑地",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -1878,7 +1794,6 @@
   {
     "id": 85,
     "content_id": 130147,
-    "editor_name": "庭院山崖",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -1897,7 +1812,6 @@
   {
     "id": 86,
     "content_id": 130147,
-    "editor_name": "庭院山崖",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -1921,7 +1835,6 @@
   {
     "id": 87,
     "content_id": 130147,
-    "editor_name": "庭院山崖",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -1945,7 +1858,6 @@
   {
     "id": 88,
     "content_id": 130148,
-    "editor_name": "花影迷宫",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -1964,7 +1876,6 @@
   {
     "id": 89,
     "content_id": 130148,
-    "editor_name": "花影迷宫",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -1988,7 +1899,6 @@
   {
     "id": 90,
     "content_id": 130148,
-    "editor_name": "花影迷宫",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -2012,7 +1922,6 @@
   {
     "id": 91,
     "content_id": 130149,
-    "editor_name": "幻鸩庭院",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -2031,7 +1940,6 @@
   {
     "id": 92,
     "content_id": 130149,
-    "editor_name": "幻鸩庭院",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -2055,7 +1963,6 @@
   {
     "id": 93,
     "content_id": 130149,
-    "editor_name": "幻鸩庭院",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -2079,7 +1986,6 @@
   {
     "id": 94,
     "content_id": 130150,
-    "editor_name": "北部荒原顶部",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -2098,7 +2004,6 @@
   {
     "id": 95,
     "content_id": 130150,
-    "editor_name": "北部荒原顶部",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -2122,7 +2027,6 @@
   {
     "id": 96,
     "content_id": 130150,
-    "editor_name": "北部荒原顶部",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -2146,7 +2050,6 @@
   {
     "id": 97,
     "content_id": 130151,
-    "editor_name": "北部荒原底部",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -2165,7 +2068,6 @@
   {
     "id": 98,
     "content_id": 130151,
-    "editor_name": "北部荒原底部",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -2189,7 +2091,6 @@
   {
     "id": 99,
     "content_id": 130151,
-    "editor_name": "北部荒原底部",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -2213,7 +2114,6 @@
   {
     "id": 100,
     "content_id": 130152,
-    "editor_name": "甜水农庄",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -2232,7 +2132,6 @@
   {
     "id": 101,
     "content_id": 130152,
-    "editor_name": "甜水农庄",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -2256,7 +2155,6 @@
   {
     "id": 102,
     "content_id": 130152,
-    "editor_name": "甜水农庄",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -2280,7 +2178,6 @@
   {
     "id": 103,
     "content_id": 130153,
-    "editor_name": "大道半岛南部",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -2299,7 +2196,6 @@
   {
     "id": 104,
     "content_id": 130153,
-    "editor_name": "大道半岛南部",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -2323,7 +2219,6 @@
   {
     "id": 105,
     "content_id": 130153,
-    "editor_name": "大道半岛南部",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -2347,7 +2242,6 @@
   {
     "id": 106,
     "content_id": 130154,
-    "editor_name": "大道半岛内部",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -2366,7 +2260,6 @@
   {
     "id": 107,
     "content_id": 130154,
-    "editor_name": "大道半岛内部",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -2390,7 +2283,6 @@
   {
     "id": 108,
     "content_id": 130154,
-    "editor_name": "大道半岛内部",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -2414,7 +2306,6 @@
   {
     "id": 109,
     "content_id": 140150,
-    "editor_name": "风眠圣所",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -2433,7 +2324,6 @@
   {
     "id": 110,
     "content_id": 140150,
-    "editor_name": "风眠圣所",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -2457,7 +2347,6 @@
   {
     "id": 111,
     "content_id": 140150,
-    "editor_name": "风眠圣所",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -2481,7 +2370,6 @@
   {
     "id": 112,
     "content_id": 130155,
-    "editor_name": "咸水湾",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -2500,7 +2388,6 @@
   {
     "id": 113,
     "content_id": 130155,
-    "editor_name": "咸水湾",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -2524,7 +2411,6 @@
   {
     "id": 114,
     "content_id": 130155,
-    "editor_name": "咸水湾",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -2548,7 +2434,6 @@
   {
     "id": 115,
     "content_id": 130156,
-    "editor_name": "沉船漩涡",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -2567,7 +2452,6 @@
   {
     "id": 116,
     "content_id": 130156,
-    "editor_name": "沉船漩涡",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -2591,7 +2475,6 @@
   {
     "id": 117,
     "content_id": 130156,
-    "editor_name": "沉船漩涡",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -2615,7 +2498,6 @@
   {
     "id": 118,
     "content_id": 130157,
-    "editor_name": "圣所前哨",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -2634,7 +2516,6 @@
   {
     "id": 119,
     "content_id": 130157,
-    "editor_name": "圣所前哨",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -2658,7 +2539,6 @@
   {
     "id": 120,
     "content_id": 130157,
-    "editor_name": "圣所前哨",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -2682,7 +2562,6 @@
   {
     "id": 121,
     "content_id": 130158,
-    "editor_name": "回填山涧",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -2701,7 +2580,6 @@
   {
     "id": 122,
     "content_id": 130158,
-    "editor_name": "回填山涧",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -2725,7 +2603,6 @@
   {
     "id": 123,
     "content_id": 130158,
-    "editor_name": "回填山涧",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -2749,7 +2626,6 @@
   {
     "id": 124,
     "content_id": 130159,
-    "editor_name": "采邑地",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -2768,7 +2644,6 @@
   {
     "id": 125,
     "content_id": 130159,
-    "editor_name": "采邑地",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -2792,7 +2667,6 @@
   {
     "id": 126,
     "content_id": 130159,
-    "editor_name": "采邑地",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -2816,7 +2690,6 @@
   {
     "id": 127,
     "content_id": 130160,
-    "editor_name": "独角兽领地",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -2835,7 +2708,6 @@
   {
     "id": 128,
     "content_id": 130160,
-    "editor_name": "独角兽领地",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -2859,7 +2731,6 @@
   {
     "id": 129,
     "content_id": 130160,
-    "editor_name": "独角兽领地",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -2883,7 +2754,6 @@
   {
     "id": 130,
     "content_id": 130161,
-    "editor_name": "恶水沼泽",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -2902,7 +2772,6 @@
   {
     "id": 131,
     "content_id": 130161,
-    "editor_name": "恶水沼泽",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -2926,7 +2795,6 @@
   {
     "id": 132,
     "content_id": 130161,
-    "editor_name": "恶水沼泽",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -2950,7 +2818,6 @@
   {
     "id": 133,
     "content_id": 130162,
-    "editor_name": "黑水峡",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -2969,7 +2836,6 @@
   {
     "id": 134,
     "content_id": 130162,
-    "editor_name": "黑水峡",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -2993,7 +2859,6 @@
   {
     "id": 135,
     "content_id": 130162,
-    "editor_name": "黑水峡",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -3017,7 +2882,6 @@
   {
     "id": 136,
     "content_id": 130163,
-    "editor_name": "甜水农庄",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -3036,7 +2900,6 @@
   {
     "id": 137,
     "content_id": 130163,
-    "editor_name": "甜水农庄",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -3060,7 +2923,6 @@
   {
     "id": 138,
     "content_id": 130163,
-    "editor_name": "甜水农庄",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -3084,7 +2946,6 @@
   {
     "id": 139,
     "content_id": 130164,
-    "editor_name": "咕嘟咕嘟浅滩",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -3103,7 +2964,6 @@
   {
     "id": 140,
     "content_id": 130164,
-    "editor_name": "咕嘟咕嘟浅滩",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -3127,7 +2987,6 @@
   {
     "id": 141,
     "content_id": 130164,
-    "editor_name": "咕嘟咕嘟浅滩",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -3151,7 +3010,6 @@
   {
     "id": 142,
     "content_id": 130165,
-    "editor_name": "银蛇河口",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -3170,7 +3028,6 @@
   {
     "id": 143,
     "content_id": 130165,
-    "editor_name": "银蛇河口",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -3194,7 +3051,6 @@
   {
     "id": 144,
     "content_id": 130165,
-    "editor_name": "银蛇河口",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -3218,7 +3074,6 @@
   {
     "id": 145,
     "content_id": 130166,
-    "editor_name": "王国城堡",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -3237,7 +3092,6 @@
   {
     "id": 146,
     "content_id": 130166,
-    "editor_name": "王国城堡",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -3261,7 +3115,6 @@
   {
     "id": 147,
     "content_id": 130166,
-    "editor_name": "王国城堡",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -3285,7 +3138,6 @@
   {
     "id": 148,
     "content_id": 130167,
-    "editor_name": "港口驻地",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -3304,7 +3156,6 @@
   {
     "id": 149,
     "content_id": 130167,
-    "editor_name": "港口驻地",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -3328,7 +3179,6 @@
   {
     "id": 150,
     "content_id": 130167,
-    "editor_name": "港口驻地",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -3352,7 +3202,6 @@
   {
     "id": 151,
     "content_id": 130168,
-    "editor_name": "向日葵海岸",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -3371,7 +3220,6 @@
   {
     "id": 152,
     "content_id": 130168,
-    "editor_name": "向日葵海岸",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -3395,7 +3243,6 @@
   {
     "id": 153,
     "content_id": 130168,
-    "editor_name": "向日葵海岸",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -3419,7 +3266,6 @@
   {
     "id": 154,
     "content_id": 130169,
-    "editor_name": "彼得大道",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -3438,7 +3284,6 @@
   {
     "id": 155,
     "content_id": 130169,
-    "editor_name": "彼得大道",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -3462,7 +3307,6 @@
   {
     "id": 156,
     "content_id": 130169,
-    "editor_name": "彼得大道",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -3486,7 +3330,6 @@
   {
     "id": 157,
     "content_id": 130170,
-    "editor_name": "交汇镇",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -3505,7 +3348,6 @@
   {
     "id": 158,
     "content_id": 130170,
-    "editor_name": "交汇镇",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -3529,7 +3371,6 @@
   {
     "id": 159,
     "content_id": 130170,
-    "editor_name": "交汇镇",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -3553,7 +3394,6 @@
   {
     "id": 160,
     "content_id": 130171,
-    "editor_name": "监管区",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -3572,7 +3412,6 @@
   {
     "id": 161,
     "content_id": 130171,
-    "editor_name": "监管区",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -3596,7 +3435,6 @@
   {
     "id": 162,
     "content_id": 130171,
-    "editor_name": "监管区",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -3620,7 +3458,6 @@
   {
     "id": 163,
     "content_id": 130172,
-    "editor_name": "拾荒港口",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -3639,7 +3476,6 @@
   {
     "id": 164,
     "content_id": 130172,
-    "editor_name": "拾荒港口",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -3663,7 +3499,6 @@
   {
     "id": 165,
     "content_id": 130172,
-    "editor_name": "拾荒港口",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -3687,7 +3522,6 @@
   {
     "id": 166,
     "content_id": 130173,
-    "editor_name": "晨曦山",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -3706,7 +3540,6 @@
   {
     "id": 167,
     "content_id": 130173,
-    "editor_name": "晨曦山",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -3730,7 +3563,6 @@
   {
     "id": 168,
     "content_id": 130173,
-    "editor_name": "晨曦山",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -3754,7 +3586,6 @@
   {
     "id": 169,
     "content_id": 130174,
-    "editor_name": "信仰者村落",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -3773,7 +3604,6 @@
   {
     "id": 170,
     "content_id": 130174,
-    "editor_name": "信仰者村落",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -3797,7 +3627,6 @@
   {
     "id": 171,
     "content_id": 130174,
-    "editor_name": "信仰者村落",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -3821,7 +3650,6 @@
   {
     "id": 172,
     "content_id": 130175,
-    "editor_name": "月兔暗港",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -3840,7 +3668,6 @@
   {
     "id": 173,
     "content_id": 130175,
-    "editor_name": "月兔暗港",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -3864,7 +3691,6 @@
   {
     "id": 174,
     "content_id": 130175,
-    "editor_name": "月兔暗港",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -3888,7 +3714,6 @@
   {
     "id": 175,
     "content_id": 130176,
-    "editor_name": "望风半岛",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -3907,7 +3732,6 @@
   {
     "id": 176,
     "content_id": 130176,
-    "editor_name": "望风半岛",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -3931,7 +3755,6 @@
   {
     "id": 177,
     "content_id": 130176,
-    "editor_name": "望风半岛",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -3955,7 +3778,6 @@
   {
     "id": 178,
     "content_id": 130177,
-    "editor_name": "金叶原",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -3974,7 +3796,6 @@
   {
     "id": 179,
     "content_id": 130177,
-    "editor_name": "金叶原",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -3998,7 +3819,6 @@
   {
     "id": 180,
     "content_id": 130177,
-    "editor_name": "金叶原",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -4022,7 +3842,6 @@
   {
     "id": 184,
     "content_id": 801196,
-    "editor_name": "创造魔法的枯枝",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -4038,7 +3857,6 @@
   {
     "id": 185,
     "content_id": 801196,
-    "editor_name": "创造魔法的枯枝",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -4059,7 +3877,6 @@
   {
     "id": 186,
     "content_id": 801196,
-    "editor_name": "创造魔法的枯枝",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -4080,7 +3897,6 @@
   {
     "id": 187,
     "content_id": 130313,
-    "editor_name": "魔法学院",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -4098,7 +3914,6 @@
   {
     "id": 188,
     "content_id": 130313,
-    "editor_name": "魔法学院",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -4121,7 +3936,6 @@
   {
     "id": 189,
     "content_id": 130313,
-    "editor_name": "魔法学院",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -4144,7 +3958,6 @@
   {
     "id": 190,
     "content_id": 130317,
-    "editor_name": "魔法学院",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -4162,7 +3975,6 @@
   {
     "id": 191,
     "content_id": 130317,
-    "editor_name": "魔法学院",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -4185,7 +3997,6 @@
   {
     "id": 192,
     "content_id": 130317,
-    "editor_name": "魔法学院",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -4208,7 +4019,6 @@
   {
     "id": 193,
     "content_id": 130318,
-    "editor_name": "魔法学院",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -4226,7 +4036,6 @@
   {
     "id": 194,
     "content_id": 130318,
-    "editor_name": "魔法学院",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -4249,7 +4058,6 @@
   {
     "id": 195,
     "content_id": 130318,
-    "editor_name": "魔法学院",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,
@@ -4272,7 +4080,6 @@
   {
     "id": 196,
     "content_id": 130319,
-    "editor_name": "魔法学院",
     "level": 1,
     "travel_time": 28800,
     "lay_chance": 4000,
@@ -4290,7 +4097,6 @@
   {
     "id": 197,
     "content_id": 130319,
-    "editor_name": "魔法学院",
     "level": 2,
     "pet_fruit_num": 3,
     "levelup_cost_item_type": 1,
@@ -4313,7 +4119,6 @@
   {
     "id": 198,
     "content_id": 130319,
-    "editor_name": "魔法学院",
     "level": 3,
     "pet_fruit_num": 6,
     "levelup_cost_item_type": 1,

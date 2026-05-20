@@ -1,7 +1,6 @@
 [
   {
     "id": 10001,
-    "editor_name": "火盆机关-火",
     "priority": 1,
     "weight": 100,
     "cond_logic_type": 1,
@@ -25,7 +24,6 @@
   },
   {
     "id": 10002,
-    "editor_name": "火盆机关-水",
     "priority": 1,
     "weight": 100,
     "cond_logic_type": 1,
@@ -49,7 +47,6 @@
   },
   {
     "id": 10003,
-    "editor_name": "荆棘宝箱-火",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -61,7 +58,6 @@
   },
   {
     "id": 10004,
-    "editor_name": "荆棘宝箱-斩击",
     "interact_cond_group": [
       {
         "interact_cond": 2,
@@ -73,7 +69,6 @@
   },
   {
     "id": 10005,
-    "editor_name": "精灵宝箱-头顶花",
     "interact_cond_group": [
       {
         "interact_cond": 2,
@@ -88,7 +83,6 @@
   },
   {
     "id": 10006,
-    "editor_name": "精灵宝箱-大尾巴",
     "interact_cond_group": [
       {
         "interact_cond": 2,
@@ -103,7 +97,6 @@
   },
   {
     "id": 10007,
-    "editor_name": "精灵宝箱-大耳朵",
     "interact_cond_group": [
       {
         "interact_cond": 2,
@@ -118,7 +111,6 @@
   },
   {
     "id": 10008,
-    "editor_name": "精灵宝箱-独眼",
     "interact_cond_group": [
       {
         "interact_cond": 2,
@@ -133,7 +125,6 @@
   },
   {
     "id": 10009,
-    "editor_name": "精灵宝箱-双手",
     "interact_cond_group": [
       {
         "interact_cond": 2,
@@ -148,7 +139,6 @@
   },
   {
     "id": 10013,
-    "editor_name": "1号奇妙豆苗-草",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -162,7 +152,6 @@
   },
   {
     "id": 10014,
-    "editor_name": "1号奇妙豆苗-光",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -176,7 +165,6 @@
   },
   {
     "id": 10015,
-    "editor_name": "1号奇妙豆苗-水",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -190,7 +178,6 @@
   },
   {
     "id": 10061,
-    "editor_name": "精灵展示-头顶花",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -204,7 +191,6 @@
   },
   {
     "id": 10062,
-    "editor_name": "精灵展示-气球猫",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -218,7 +204,6 @@
   },
   {
     "id": 10063,
-    "editor_name": "精灵展示-幽影树",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -232,7 +217,6 @@
   },
   {
     "id": 10064,
-    "editor_name": "精灵展示-健身教练",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -246,7 +230,6 @@
   },
   {
     "id": 10065,
-    "editor_name": "精灵展示-牵线木偶",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -260,7 +243,6 @@
   },
   {
     "id": 10066,
-    "editor_name": "精灵展示-白发懒人",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -274,7 +256,6 @@
   },
   {
     "id": 10067,
-    "editor_name": "精灵展示-公平鸽",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -288,7 +269,6 @@
   },
   {
     "id": 10068,
-    "editor_name": "精灵展示-魔法扫帚",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -302,7 +282,6 @@
   },
   {
     "id": 10070,
-    "editor_name": "精灵展示-幽影树反对",
     "cond_logic_type": 3,
     "interact_cond_group": [
       {
@@ -316,7 +295,6 @@
   },
   {
     "id": 10150,
-    "editor_name": "淘气宝箱-萌",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -331,7 +309,6 @@
   },
   {
     "id": 10151,
-    "editor_name": "淘气宝箱-幻",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -346,7 +323,6 @@
   },
   {
     "id": 10152,
-    "editor_name": "淘气宝箱-幽",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -361,7 +337,6 @@
   },
   {
     "id": 10153,
-    "editor_name": "淘气宝箱-龙",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -376,7 +351,6 @@
   },
   {
     "id": 10154,
-    "editor_name": "淘气宝箱-恶",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -391,7 +365,6 @@
   },
   {
     "id": 10155,
-    "editor_name": "毒笼草-毒",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -405,7 +378,6 @@
   },
   {
     "id": 10156,
-    "editor_name": "毒笼草-翼",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -419,7 +391,6 @@
   },
   {
     "id": 10157,
-    "editor_name": "火焰石-地",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -433,7 +404,6 @@
   },
   {
     "id": 10158,
-    "editor_name": "火焰石-水",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -447,7 +417,6 @@
   },
   {
     "id": 10159,
-    "editor_name": "力气测试仪1号",
     "interact_cond_group": [
       {
         "interact_cond": 11,
@@ -462,7 +431,6 @@
   },
   {
     "id": 10160,
-    "editor_name": "力气测试仪2号",
     "interact_cond_group": [
       {
         "interact_cond": 11,
@@ -477,7 +445,6 @@
   },
   {
     "id": 10161,
-    "editor_name": "力气测试仪3号",
     "interact_cond_group": [
       {
         "interact_cond": 11,
@@ -492,7 +459,6 @@
   },
   {
     "id": 10162,
-    "editor_name": "力气测试仪4号",
     "interact_cond_group": [
       {
         "interact_cond": 11,
@@ -507,7 +473,6 @@
   },
   {
     "id": 10163,
-    "editor_name": "力气测试仪5号",
     "interact_cond_group": [
       {
         "interact_cond": 11,
@@ -522,7 +487,6 @@
   },
   {
     "id": 10164,
-    "editor_name": "力气测试仪6号",
     "interact_cond_group": [
       {
         "interact_cond": 11,
@@ -537,7 +501,6 @@
   },
   {
     "id": 10165,
-    "editor_name": "力气测试仪7号",
     "interact_cond_group": [
       {
         "interact_cond": 11,
@@ -552,7 +515,6 @@
   },
   {
     "id": 10166,
-    "editor_name": "力气测试仪8号",
     "interact_cond_group": [
       {
         "interact_cond": 11,
@@ -567,7 +529,6 @@
   },
   {
     "id": 10167,
-    "editor_name": "力气测试仪9号",
     "interact_cond_group": [
       {
         "interact_cond": 11,
@@ -582,7 +543,6 @@
   },
   {
     "id": 10168,
-    "editor_name": "力气测试仪10号",
     "interact_cond_group": [
       {
         "interact_cond": 11,
@@ -597,7 +557,6 @@
   },
   {
     "id": 10184,
-    "editor_name": "光系锁通用中级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -611,7 +570,6 @@
   },
   {
     "id": 10185,
-    "editor_name": "恶系锁通用中级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -625,7 +583,6 @@
   },
   {
     "id": 10186,
-    "editor_name": "草系锁通用中级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -639,7 +596,6 @@
   },
   {
     "id": 10187,
-    "editor_name": "火系锁通用中级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -653,7 +609,6 @@
   },
   {
     "id": 10188,
-    "editor_name": "水系锁通用中级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -667,7 +622,6 @@
   },
   {
     "id": 10189,
-    "editor_name": "翼系锁通用中级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -681,7 +635,6 @@
   },
   {
     "id": 10190,
-    "editor_name": "虫系锁通用中级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -695,7 +648,6 @@
   },
   {
     "id": 10191,
-    "editor_name": "冰系锁通用中级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -709,7 +661,6 @@
   },
   {
     "id": 10192,
-    "editor_name": "普通系锁通用中级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -723,7 +674,6 @@
   },
   {
     "id": 10193,
-    "editor_name": "地系锁通用中级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -737,7 +687,6 @@
   },
   {
     "id": 10194,
-    "editor_name": "龙系锁通用中级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -751,7 +700,6 @@
   },
   {
     "id": 10195,
-    "editor_name": "电系锁通用中级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -765,7 +713,6 @@
   },
   {
     "id": 10196,
-    "editor_name": "毒系锁通用中级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -779,7 +726,6 @@
   },
   {
     "id": 10197,
-    "editor_name": "武系锁通用中级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -793,7 +739,6 @@
   },
   {
     "id": 10198,
-    "editor_name": "萌系锁通用中级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -807,7 +752,6 @@
   },
   {
     "id": 10199,
-    "editor_name": "幽系锁通用中级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -821,7 +765,6 @@
   },
   {
     "id": 10200,
-    "editor_name": "机械系锁通用中级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -835,7 +778,6 @@
   },
   {
     "id": 10201,
-    "editor_name": "幻系锁通用中级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -849,7 +791,6 @@
   },
   {
     "id": 10202,
-    "editor_name": "精灵冲撞黑晶琉璃-小",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -863,7 +804,6 @@
   },
   {
     "id": 10203,
-    "editor_name": "精灵冲撞黑晶琉璃-中",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -877,7 +817,6 @@
   },
   {
     "id": 10204,
-    "editor_name": "精灵冲撞黑晶琉璃-大",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -891,7 +830,6 @@
   },
   {
     "id": 10205,
-    "editor_name": "精灵冲撞可可果树",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -906,7 +844,6 @@
   },
   {
     "id": 10206,
-    "editor_name": "精灵冲撞无花果树",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -921,7 +858,6 @@
   },
   {
     "id": 10207,
-    "editor_name": "精灵冲撞魔力果树",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -936,7 +872,6 @@
   },
   {
     "id": 10208,
-    "editor_name": "精灵冲撞木箱",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -950,7 +885,6 @@
   },
   {
     "id": 10209,
-    "editor_name": "精灵冲撞黄石榴石-小",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -964,7 +898,6 @@
   },
   {
     "id": 10210,
-    "editor_name": "精灵冲撞黄石榴石-中",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -978,7 +911,6 @@
   },
   {
     "id": 10211,
-    "editor_name": "精灵冲撞黄石榴石-大",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -992,7 +924,6 @@
   },
   {
     "id": 10212,
-    "editor_name": "精灵冲撞蓝晶碧玺-小",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -1006,7 +937,6 @@
   },
   {
     "id": 10213,
-    "editor_name": "精灵冲撞蓝晶碧玺-中",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -1020,7 +950,6 @@
   },
   {
     "id": 10214,
-    "editor_name": "精灵冲撞蓝晶碧玺-大",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -1034,7 +963,6 @@
   },
   {
     "id": 10215,
-    "editor_name": "精灵冲撞紫莲刚玉-小",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -1048,7 +976,6 @@
   },
   {
     "id": 10216,
-    "editor_name": "精灵冲撞紫莲刚玉-中",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -1062,7 +989,6 @@
   },
   {
     "id": 10217,
-    "editor_name": "精灵冲撞紫莲刚玉-大",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -1076,7 +1002,6 @@
   },
   {
     "id": 10218,
-    "editor_name": "精灵冲撞冰晶锥矿-小",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -1090,7 +1015,6 @@
   },
   {
     "id": 10219,
-    "editor_name": "精灵冲撞冰晶锥矿-中",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -1104,7 +1028,6 @@
   },
   {
     "id": 10220,
-    "editor_name": "精灵冲撞冰晶锥矿-大",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -1118,7 +1041,6 @@
   },
   {
     "id": 10501,
-    "editor_name": "幽系魔法禁制",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1131,7 +1053,6 @@
   },
   {
     "id": 10502,
-    "editor_name": "系别石柱-火",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1145,7 +1066,6 @@
   },
   {
     "id": 10503,
-    "editor_name": "系别石柱-草",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1159,7 +1079,6 @@
   },
   {
     "id": 10504,
-    "editor_name": "系别石柱-水",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1173,7 +1092,6 @@
   },
   {
     "id": 10505,
-    "editor_name": "副本大破碎墙",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -1186,7 +1104,6 @@
   },
   {
     "id": 10510,
-    "editor_name": "A2主线——庆典的贵族1",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1201,7 +1118,6 @@
   },
   {
     "id": 10511,
-    "editor_name": "A2主线——庆典的贵族2",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1216,7 +1132,6 @@
   },
   {
     "id": 10512,
-    "editor_name": "A2主线——庆典的贵族3",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1231,7 +1146,6 @@
   },
   {
     "id": 10513,
-    "editor_name": "A2主线——庆典的贵族4",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1246,7 +1160,6 @@
   },
   {
     "id": 10514,
-    "editor_name": "A2主线——庆典的贵族5",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1259,7 +1172,6 @@
   },
   {
     "id": 10515,
-    "editor_name": "A2主线——庆典的贵族6",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1274,7 +1186,6 @@
   },
   {
     "id": 10516,
-    "editor_name": "A2主线——庆典的贵族7",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1289,7 +1200,6 @@
   },
   {
     "id": 10517,
-    "editor_name": "A2主线——庆典的贵族8",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1304,7 +1214,6 @@
   },
   {
     "id": 10518,
-    "editor_name": "A2主线——庆典的贵族9",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1319,7 +1228,6 @@
   },
   {
     "id": 10519,
-    "editor_name": "A2主线——庆典的贵族10",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1334,7 +1242,6 @@
   },
   {
     "id": 10520,
-    "editor_name": "A2主线——买醉的商人1",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1349,7 +1256,6 @@
   },
   {
     "id": 10521,
-    "editor_name": "A2主线——买醉的商人2",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1364,7 +1270,6 @@
   },
   {
     "id": 10522,
-    "editor_name": "A2主线——买醉的商人3",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1379,7 +1284,6 @@
   },
   {
     "id": 10523,
-    "editor_name": "A2_主线_顺顺特调用",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1392,7 +1296,6 @@
   },
   {
     "id": 10524,
-    "editor_name": "A2_主线_潜入者（备用）",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1407,7 +1310,6 @@
   },
   {
     "id": 10525,
-    "editor_name": "A1-源流副本-板板壳",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1428,7 +1330,6 @@
   },
   {
     "id": 10526,
-    "editor_name": "A1-源流副本-一窝蜂",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1448,7 +1349,6 @@
   },
   {
     "id": 10527,
-    "editor_name": "A1-源流副本-绿耳松鼠",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1468,7 +1368,6 @@
   },
   {
     "id": 10528,
-    "editor_name": "A2主线——错误的目标",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1487,7 +1386,6 @@
   },
   {
     "id": 10601,
-    "editor_name": "水系锁的中级宝箱【A2】",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1501,7 +1399,6 @@
   },
   {
     "id": 10701,
-    "editor_name": "测试_元素交互物-类型1-开",
     "priority": 1,
     "weight": 100,
     "cond_logic_type": 1,
@@ -1525,7 +1422,6 @@
   },
   {
     "id": 10702,
-    "editor_name": "测试_元素交互物-类型1-关",
     "priority": 1,
     "weight": 100,
     "cond_logic_type": 1,
@@ -1548,7 +1444,6 @@
   },
   {
     "id": 10711,
-    "editor_name": "测试_元素交互物-类型2-开",
     "priority": 1,
     "weight": 100,
     "cond_logic_type": 1,
@@ -1573,7 +1468,6 @@
   },
   {
     "id": 10712,
-    "editor_name": "测试_元素交互物-类型2-关",
     "priority": 1,
     "weight": 100,
     "cond_logic_type": 1,
@@ -1596,7 +1490,6 @@
   },
   {
     "id": 10721,
-    "editor_name": "测试_元素交互物-类型3-destroy",
     "priority": 1,
     "weight": 100,
     "cond_logic_type": 1,
@@ -1620,7 +1513,6 @@
   },
   {
     "id": 10731,
-    "editor_name": "测试_元素交互物-类型4-开声音",
     "priority": 1,
     "weight": 100,
     "cond_logic_type": 1,
@@ -1644,7 +1536,6 @@
   },
   {
     "id": 10732,
-    "editor_name": "测试_元素交互物-类型4-关声音",
     "priority": 1,
     "weight": 100,
     "cond_logic_type": 1,
@@ -1667,7 +1558,6 @@
   },
   {
     "id": 10740,
-    "editor_name": "xinyue火焰_测试_元素交互物-类型2-关+destroy",
     "priority": 1,
     "weight": 100,
     "cond_logic_type": 1,
@@ -1691,7 +1581,6 @@
   },
   {
     "id": 10741,
-    "editor_name": "B1-JQ09-广场晚会-大星星-光系投掷交互",
     "priority": 1,
     "weight": 100,
     "interact_cond_group": [
@@ -1706,7 +1595,6 @@
   },
   {
     "id": 10742,
-    "editor_name": "B1-JQ09-广场晚会-大星星-翼系投掷交互",
     "priority": 1,
     "weight": 100,
     "interact_cond_group": [
@@ -1721,7 +1609,6 @@
   },
   {
     "id": 10744,
-    "editor_name": "B1-JQ09-广场晚会-大星星-萌系投掷交互",
     "priority": 1,
     "weight": 100,
     "interact_cond_group": [
@@ -1736,7 +1623,6 @@
   },
   {
     "id": 10901,
-    "editor_name": "全系别锁通用石柱/宝箱（测试版）",
     "interact_cond_group": [
       {
         "interact_cond": 6,
@@ -1749,7 +1635,6 @@
   },
   {
     "id": 10902,
-    "editor_name": "翼系锁通用石柱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1763,7 +1648,6 @@
   },
   {
     "id": 10903,
-    "editor_name": "幽系锁通用石柱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1777,7 +1661,6 @@
   },
   {
     "id": 10904,
-    "editor_name": "普系锁通用石柱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1791,7 +1674,6 @@
   },
   {
     "id": 10905,
-    "editor_name": "luluu-环境叙事-彼得大道商业区邮件",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1804,7 +1686,6 @@
   },
   {
     "id": 10906,
-    "editor_name": "luluu-环境叙事-彼得大道旅馆区邮件",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1817,7 +1698,6 @@
   },
   {
     "id": 10907,
-    "editor_name": "luluu-环境叙事-彼得大道入口区邮件",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1830,7 +1710,6 @@
   },
   {
     "id": 10908,
-    "editor_name": "luluu-环境叙事-彼得大道下沉区邮件",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1843,7 +1722,6 @@
   },
   {
     "id": 10909,
-    "editor_name": "luluu-环境叙事-彼得大道艾普鲁区邮件",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1856,7 +1734,6 @@
   },
   {
     "id": 10910,
-    "editor_name": "luluu-环境叙事-彼得大道艾普鲁区邮件",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -1869,7 +1746,6 @@
   },
   {
     "id": 10911,
-    "editor_name": "武系锁通用石柱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1883,7 +1759,6 @@
   },
   {
     "id": 10912,
-    "editor_name": "火系锁通用石柱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1897,7 +1772,6 @@
   },
   {
     "id": 10913,
-    "editor_name": "光系锁通用石柱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1911,7 +1785,6 @@
   },
   {
     "id": 10914,
-    "editor_name": "草系锁通用石柱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1925,7 +1798,6 @@
   },
   {
     "id": 10915,
-    "editor_name": "水系锁通用石柱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1939,7 +1811,6 @@
   },
   {
     "id": 10916,
-    "editor_name": "电系锁通用石柱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1953,7 +1824,6 @@
   },
   {
     "id": 10917,
-    "editor_name": "冰系锁通用石柱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1967,7 +1837,6 @@
   },
   {
     "id": 10918,
-    "editor_name": "幻系锁通用石柱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1981,7 +1850,6 @@
   },
   {
     "id": 10919,
-    "editor_name": "龙系锁通用石柱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -1995,7 +1863,6 @@
   },
   {
     "id": 10920,
-    "editor_name": "地系锁通用石柱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2009,7 +1876,6 @@
   },
   {
     "id": 11181,
-    "editor_name": "0号祈雨器-雨",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2024,7 +1890,6 @@
   },
   {
     "id": 11182,
-    "editor_name": "0号祈雨器-沙尘暴",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2039,7 +1904,6 @@
   },
   {
     "id": 11183,
-    "editor_name": "0号祈雨器-雾",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2054,7 +1918,6 @@
   },
   {
     "id": 11184,
-    "editor_name": "0号祈雨器-雪",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2069,7 +1932,6 @@
   },
   {
     "id": 12000,
-    "editor_name": "ambrezhang-圣剑X",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2082,7 +1944,6 @@
   },
   {
     "id": 12001,
-    "editor_name": "ambrezhang_情感环境叙事_丝柯洛_打捞曲谱",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2095,7 +1956,6 @@
   },
   {
     "id": 20001,
-    "editor_name": "精灵投掷实验1",
     "priority": 1,
     "weight": 10,
     "interact_cond_group": [
@@ -2110,7 +1970,6 @@
   },
   {
     "id": 20002,
-    "editor_name": "精灵投掷实验2",
     "priority": 2,
     "weight": 30,
     "interact_cond_group": [
@@ -2125,7 +1984,6 @@
   },
   {
     "id": 20003,
-    "editor_name": "精灵投掷实验3",
     "priority": 2,
     "weight": 70,
     "interact_cond_group": [
@@ -2140,19 +1998,16 @@
   },
   {
     "id": 20004,
-    "editor_name": "精灵投掷实验4",
     "priority": 2,
     "weight": 10
   },
   {
     "id": 20005,
-    "editor_name": "精灵投掷实验5",
     "priority": 2,
     "weight": 20
   },
   {
     "id": 20006,
-    "editor_name": "精灵投掷实验6",
     "priority": 2,
     "weight": 30,
     "interact_cond_group": [
@@ -2167,7 +2022,6 @@
   },
   {
     "id": 20007,
-    "editor_name": "精灵投掷实验7",
     "priority": 2,
     "weight": 40,
     "interact_cond_group": [
@@ -2182,7 +2036,6 @@
   },
   {
     "id": 20008,
-    "editor_name": "精灵投掷实验8",
     "priority": 2,
     "weight": 50,
     "interact_cond_group": [
@@ -2197,7 +2050,6 @@
   },
   {
     "id": 20009,
-    "editor_name": "精灵投掷实验9",
     "priority": 2,
     "weight": 60,
     "interact_cond_group": [
@@ -2212,7 +2064,6 @@
   },
   {
     "id": 30001,
-    "editor_name": "可可果树采集",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -2227,7 +2078,6 @@
   },
   {
     "id": 30002,
-    "editor_name": "无花果树采集",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -2242,7 +2092,6 @@
   },
   {
     "id": 30003,
-    "editor_name": "魔力果树采集",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -2257,7 +2106,6 @@
   },
   {
     "id": 30004,
-    "editor_name": "投掷精灵测试-ono",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -2270,7 +2118,6 @@
   },
   {
     "id": 38001,
-    "editor_name": "贝古斯激活交互",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2283,7 +2130,6 @@
   },
   {
     "id": 55302,
-    "editor_name": "精灵宝箱-无模型-石头",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2298,7 +2144,6 @@
   },
   {
     "id": 55305,
-    "editor_name": "精灵宝箱-无模型-头顶花",
     "interact_cond_group": [
       {
         "interact_cond": 2,
@@ -2313,7 +2158,6 @@
   },
   {
     "id": 55325,
-    "editor_name": "精灵宝箱-无模型-翼",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2328,7 +2172,6 @@
   },
   {
     "id": 55504,
-    "editor_name": "挖低级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -2342,7 +2185,6 @@
   },
   {
     "id": 55505,
-    "editor_name": "挖高级宝箱",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -2356,7 +2198,6 @@
   },
   {
     "id": 58308,
-    "editor_name": "眠枭石像刷眠枭之星 - A1",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -2370,7 +2211,6 @@
   },
   {
     "id": 58318,
-    "editor_name": "眠枭石像刷眠枭之星 - A2",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -2384,7 +2224,6 @@
   },
   {
     "id": 60280,
-    "editor_name": "魔力之源投掷精灵解锁",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -2400,7 +2239,6 @@
   },
   {
     "id": 100001,
-    "editor_name": "检查精灵",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -2415,7 +2253,6 @@
   },
   {
     "id": 200001,
-    "editor_name": "寻宝活动区域精灵1",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -2430,7 +2267,6 @@
   },
   {
     "id": 200002,
-    "editor_name": "寻宝活动区域精灵2",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -2444,7 +2280,6 @@
   },
   {
     "id": 200003,
-    "editor_name": "寻宝活动区域精灵3",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -2459,7 +2294,6 @@
   },
   {
     "id": 200004,
-    "editor_name": "寻宝活动区域精灵4",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -2474,7 +2308,6 @@
   },
   {
     "id": 200005,
-    "editor_name": "寻宝活动区域精灵5",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -2491,7 +2324,6 @@
   },
   {
     "id": 520001,
-    "editor_name": "A2_月兔酒馆_泡沫皮带_加料_投掷精灵",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -2505,7 +2337,6 @@
   },
   {
     "id": 520002,
-    "editor_name": "A2_月兔酒馆_魔芋愿骸_加料_投掷精灵",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -2520,7 +2351,6 @@
   },
   {
     "id": 520003,
-    "editor_name": "A2_月兔酒馆_萌系汽水_加料_投掷精灵",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -2535,7 +2365,6 @@
   },
   {
     "id": 520004,
-    "editor_name": "A2_月兔酒馆_海盐甜筒_加料_投掷精灵",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -2553,7 +2382,6 @@
   },
   {
     "id": 520005,
-    "editor_name": "A2_拾遗_骑士团冰系_斯维托维德_投掷1",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -2566,7 +2394,6 @@
   },
   {
     "id": 520006,
-    "editor_name": "A2_拾遗_骑士团冰系_斯维托维德_投掷2",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -2581,7 +2408,6 @@
   },
   {
     "id": 520007,
-    "editor_name": "A2_拾遗_骑士团冰系_白银骑士18_投掷",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -2594,7 +2420,6 @@
   },
   {
     "id": 530001,
-    "editor_name": "B1-系别课程-精灵学-投掷精灵治愈奔波鼠",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2606,8 +2431,19 @@
     "action_type": 10135
   },
   {
+    "id": 540001,
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3004"
+        ]
+      }
+    ],
+    "action_type": 10135
+  },
+  {
     "id": 1340801,
-    "editor_name": "祈雨器副本-雨",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2622,7 +2458,6 @@
   },
   {
     "id": 1340802,
-    "editor_name": "祈雨器副-沙尘暴",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2637,7 +2472,6 @@
   },
   {
     "id": 1340803,
-    "editor_name": "祈雨器副-雾",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2652,7 +2486,6 @@
   },
   {
     "id": 1340804,
-    "editor_name": "祈雨器副-雪",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2667,7 +2500,6 @@
   },
   {
     "id": 5510901,
-    "editor_name": "1号祈雨器-雨",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2682,7 +2514,6 @@
   },
   {
     "id": 5510902,
-    "editor_name": "1号祈雨器-沙尘暴",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2697,7 +2528,6 @@
   },
   {
     "id": 5510903,
-    "editor_name": "1号祈雨器-雾",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2712,7 +2542,6 @@
   },
   {
     "id": 5510904,
-    "editor_name": "1号祈雨器-雪",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2727,7 +2556,6 @@
   },
   {
     "id": 5512601,
-    "editor_name": "2号祈雨器-雨",
     "priority": 90,
     "weight": 1,
     "interact_cond_group": [
@@ -2744,7 +2572,6 @@
   },
   {
     "id": 5512602,
-    "editor_name": "2号祈雨器-沙尘暴",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2759,7 +2586,6 @@
   },
   {
     "id": 5512603,
-    "editor_name": "2号祈雨器-雾",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2774,7 +2600,6 @@
   },
   {
     "id": 5512604,
-    "editor_name": "2号祈雨器-雪",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2789,7 +2614,6 @@
   },
   {
     "id": 5512701,
-    "editor_name": "3号祈雨器-雨",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2804,7 +2628,6 @@
   },
   {
     "id": 5512702,
-    "editor_name": "3号祈雨器-沙尘暴",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2819,7 +2642,6 @@
   },
   {
     "id": 5512703,
-    "editor_name": "3号祈雨器-雾",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2834,7 +2656,6 @@
   },
   {
     "id": 5512704,
-    "editor_name": "3号祈雨器-雪",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2849,7 +2670,6 @@
   },
   {
     "id": 5512801,
-    "editor_name": "4号祈雨器-雨",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2864,7 +2684,6 @@
   },
   {
     "id": 5512802,
-    "editor_name": "4号祈雨器-沙尘暴",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2879,7 +2698,6 @@
   },
   {
     "id": 5512803,
-    "editor_name": "4号祈雨器-雾",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2894,7 +2712,6 @@
   },
   {
     "id": 5512804,
-    "editor_name": "4号祈雨器-雪",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2909,7 +2726,6 @@
   },
   {
     "id": 5526101,
-    "editor_name": "5号祈雨器-雨",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2924,7 +2740,6 @@
   },
   {
     "id": 5526102,
-    "editor_name": "5号祈雨器-沙尘暴",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2939,7 +2754,6 @@
   },
   {
     "id": 5526103,
-    "editor_name": "5号祈雨器-雾",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2954,7 +2768,6 @@
   },
   {
     "id": 5526104,
-    "editor_name": "5号祈雨器-雪",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2969,7 +2782,6 @@
   },
   {
     "id": 5526201,
-    "editor_name": "6号祈雨器-雨",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2984,7 +2796,6 @@
   },
   {
     "id": 5526202,
-    "editor_name": "6号祈雨器-沙尘暴",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -2999,7 +2810,6 @@
   },
   {
     "id": 5526203,
-    "editor_name": "6号祈雨器-雾",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3014,7 +2824,6 @@
   },
   {
     "id": 5526204,
-    "editor_name": "6号祈雨器-雪",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3029,7 +2838,6 @@
   },
   {
     "id": 5526301,
-    "editor_name": "7号祈雨器-雨",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3044,7 +2852,6 @@
   },
   {
     "id": 5526302,
-    "editor_name": "7号祈雨器-沙尘暴",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3059,7 +2866,6 @@
   },
   {
     "id": 5526303,
-    "editor_name": "7号祈雨器-雾",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3074,7 +2880,6 @@
   },
   {
     "id": 5526304,
-    "editor_name": "7号祈雨器-雪",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3089,7 +2894,6 @@
   },
   {
     "id": 5537501,
-    "editor_name": "精灵展示-头顶花",
     "interact_cond_group": [
       {
         "interact_cond": 2,
@@ -3104,7 +2908,6 @@
   },
   {
     "id": 5556001,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3117,7 +2920,6 @@
   },
   {
     "id": 5556002,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3130,7 +2932,6 @@
   },
   {
     "id": 5556003,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3143,7 +2944,6 @@
   },
   {
     "id": 5556004,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3156,7 +2956,6 @@
   },
   {
     "id": 5556005,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3169,7 +2968,6 @@
   },
   {
     "id": 5556006,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3182,7 +2980,6 @@
   },
   {
     "id": 5556007,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3195,7 +2992,6 @@
   },
   {
     "id": 5556008,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3208,7 +3004,6 @@
   },
   {
     "id": 5556009,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3221,7 +3016,6 @@
   },
   {
     "id": 5556010,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3234,7 +3028,6 @@
   },
   {
     "id": 5556011,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3247,7 +3040,6 @@
   },
   {
     "id": 5556012,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3260,7 +3052,6 @@
   },
   {
     "id": 5556013,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3273,7 +3064,6 @@
   },
   {
     "id": 5556014,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3286,7 +3076,6 @@
   },
   {
     "id": 5556015,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3299,7 +3088,6 @@
   },
   {
     "id": 5556016,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3312,7 +3100,6 @@
   },
   {
     "id": 5556017,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3325,7 +3112,6 @@
   },
   {
     "id": 5556018,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3338,7 +3124,6 @@
   },
   {
     "id": 5556019,
-    "editor_name": "系别石柱测试_全系别解锁",
     "interact_cond_group": [
       {
         "interact_cond": 1
@@ -3348,7 +3133,6 @@
   },
   {
     "id": 5556099,
-    "editor_name": "系别石柱测试",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3361,7 +3145,6 @@
   },
   {
     "id": 6028000,
-    "editor_name": "通用魔力之源解锁",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3377,7 +3160,6 @@
   },
   {
     "id": 6028001,
-    "editor_name": "咸水湾魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3393,7 +3175,6 @@
   },
   {
     "id": 6028002,
-    "editor_name": "沉船漩涡魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3409,7 +3190,6 @@
   },
   {
     "id": 6028003,
-    "editor_name": "圣所前哨魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3425,7 +3205,6 @@
   },
   {
     "id": 6028004,
-    "editor_name": "回填山涧魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3441,7 +3220,6 @@
   },
   {
     "id": 6028005,
-    "editor_name": "采邑地魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3457,7 +3235,6 @@
   },
   {
     "id": 6028006,
-    "editor_name": "独角兽领地魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3473,7 +3250,6 @@
   },
   {
     "id": 6028007,
-    "editor_name": "恶水沼泽魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3489,7 +3265,6 @@
   },
   {
     "id": 6028008,
-    "editor_name": "黑水峡魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3505,7 +3280,6 @@
   },
   {
     "id": 6028009,
-    "editor_name": "甜水农庄魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3521,7 +3295,6 @@
   },
   {
     "id": 6028010,
-    "editor_name": "咕嘟咕嘟浅滩魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3537,7 +3310,6 @@
   },
   {
     "id": 6028011,
-    "editor_name": "银蛇河口魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3553,7 +3325,6 @@
   },
   {
     "id": 6028012,
-    "editor_name": "王国城堡魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3569,7 +3340,6 @@
   },
   {
     "id": 6028013,
-    "editor_name": "港口驻地魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3585,7 +3355,6 @@
   },
   {
     "id": 6028014,
-    "editor_name": "向日葵海岸魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3601,7 +3370,6 @@
   },
   {
     "id": 6028015,
-    "editor_name": "彼得大道魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3617,7 +3385,6 @@
   },
   {
     "id": 6028016,
-    "editor_name": "二叠山丘魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3633,7 +3400,6 @@
   },
   {
     "id": 6028017,
-    "editor_name": "监管区魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3649,7 +3415,6 @@
   },
   {
     "id": 6028018,
-    "editor_name": "拾荒港口魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3665,7 +3430,6 @@
   },
   {
     "id": 6028019,
-    "editor_name": "晨曦山魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3681,7 +3445,6 @@
   },
   {
     "id": 6028020,
-    "editor_name": "信仰者村落魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3697,7 +3460,6 @@
   },
   {
     "id": 6028021,
-    "editor_name": "月兔暗港魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3713,7 +3475,6 @@
   },
   {
     "id": 6028022,
-    "editor_name": "望风半岛魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3729,7 +3490,6 @@
   },
   {
     "id": 6028023,
-    "editor_name": "金叶原魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3745,7 +3505,6 @@
   },
   {
     "id": 6028024,
-    "editor_name": "奥贝斯坦湖魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3761,7 +3520,6 @@
   },
   {
     "id": 6028025,
-    "editor_name": "月牙湖岸魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3777,7 +3535,6 @@
   },
   {
     "id": 6028026,
-    "editor_name": "商店街周边魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3793,7 +3550,6 @@
   },
   {
     "id": 6028027,
-    "editor_name": "聆风塔地魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3809,7 +3565,6 @@
   },
   {
     "id": 6028028,
-    "editor_name": "风息山口魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3825,7 +3580,6 @@
   },
   {
     "id": 6028029,
-    "editor_name": "魔法学院魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3841,7 +3595,6 @@
   },
   {
     "id": 6028030,
-    "editor_name": "岚语峰西侧魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3857,7 +3610,6 @@
   },
   {
     "id": 6028031,
-    "editor_name": "圣羽祭台魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3873,7 +3625,6 @@
   },
   {
     "id": 6028032,
-    "editor_name": "旧飞艇航道魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3889,7 +3640,6 @@
   },
   {
     "id": 6028033,
-    "editor_name": "挽风屏障魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3905,7 +3655,6 @@
   },
   {
     "id": 6028034,
-    "editor_name": "叽叽喳喳台地魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3921,7 +3670,6 @@
   },
   {
     "id": 6028035,
-    "editor_name": "轻风山魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3937,7 +3685,6 @@
   },
   {
     "id": 6028036,
-    "editor_name": "风眠圣所魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3953,7 +3700,6 @@
   },
   {
     "id": 6028037,
-    "editor_name": "星霜崖地魔力之源",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -3969,7 +3715,6 @@
   },
   {
     "id": 14000101,
-    "editor_name": "祈雨器_王国城堡_-雨",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3984,7 +3729,6 @@
   },
   {
     "id": 14000102,
-    "editor_name": "祈雨器_王国城堡_-沙尘暴",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -3999,7 +3743,6 @@
   },
   {
     "id": 14000103,
-    "editor_name": "祈雨器_王国城堡_-雾",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4014,7 +3757,6 @@
   },
   {
     "id": 14000104,
-    "editor_name": "祈雨器_王国城堡_-雪",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4029,7 +3771,6 @@
   },
   {
     "id": 14000201,
-    "editor_name": "祈雨器_咕嘟咕嘟浅滩_-雨",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4044,7 +3785,6 @@
   },
   {
     "id": 14000202,
-    "editor_name": "祈雨器_咕嘟咕嘟浅滩_-沙尘暴",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4059,7 +3799,6 @@
   },
   {
     "id": 14000203,
-    "editor_name": "祈雨器_咕嘟咕嘟浅滩_-雾",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4074,7 +3813,6 @@
   },
   {
     "id": 14000204,
-    "editor_name": "祈雨器_咕嘟咕嘟浅滩_-雪",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4089,7 +3827,6 @@
   },
   {
     "id": 14000301,
-    "editor_name": "祈雨器_晨曦山_-雨",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4104,7 +3841,6 @@
   },
   {
     "id": 14000302,
-    "editor_name": "祈雨器_晨曦山_-沙尘暴",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4119,7 +3855,6 @@
   },
   {
     "id": 14000303,
-    "editor_name": "祈雨器_晨曦山_-雾",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4134,7 +3869,6 @@
   },
   {
     "id": 14000304,
-    "editor_name": "祈雨器_晨曦山_-雪",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4149,7 +3883,6 @@
   },
   {
     "id": 14000401,
-    "editor_name": "祈雨器_向日葵海岸_-雨",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4164,7 +3897,6 @@
   },
   {
     "id": 14000402,
-    "editor_name": "祈雨器_向日葵海岸_-沙尘暴",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4179,7 +3911,6 @@
   },
   {
     "id": 14000403,
-    "editor_name": "祈雨器_向日葵海岸_-雾",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4194,7 +3925,6 @@
   },
   {
     "id": 14000404,
-    "editor_name": "祈雨器_向日葵海岸_-雪",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4209,7 +3939,6 @@
   },
   {
     "id": 14000501,
-    "editor_name": "祈雨器_监管区_-雨",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4224,7 +3953,6 @@
   },
   {
     "id": 14000502,
-    "editor_name": "祈雨器_监管区_-沙尘暴",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4239,7 +3967,6 @@
   },
   {
     "id": 14000503,
-    "editor_name": "祈雨器_监管区_-雾",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4254,7 +3981,6 @@
   },
   {
     "id": 14000504,
-    "editor_name": "祈雨器_监管区_-雪",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4269,7 +3995,6 @@
   },
   {
     "id": 14000601,
-    "editor_name": "祈雨器_聆风塔地_-雨",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4284,7 +4009,6 @@
   },
   {
     "id": 14000602,
-    "editor_name": "祈雨器_聆风塔地_-沙尘暴",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4299,7 +4023,6 @@
   },
   {
     "id": 14000603,
-    "editor_name": "祈雨器_聆风塔地_-雾",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4314,7 +4037,6 @@
   },
   {
     "id": 14000604,
-    "editor_name": "祈雨器_聆风塔地_-雪",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4329,7 +4051,6 @@
   },
   {
     "id": 14000701,
-    "editor_name": "祈雨器_月牙湖岸_-雨",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4344,7 +4065,6 @@
   },
   {
     "id": 14000702,
-    "editor_name": "祈雨器_月牙湖岸_-沙尘暴",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4359,7 +4079,6 @@
   },
   {
     "id": 14000703,
-    "editor_name": "祈雨器_月牙湖岸_-雾",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4374,7 +4093,6 @@
   },
   {
     "id": 14000704,
-    "editor_name": "祈雨器_月牙湖岸_-雪",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4389,7 +4107,6 @@
   },
   {
     "id": 14000801,
-    "editor_name": "祈雨器_旧飞艇航道_-雨",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4404,7 +4121,6 @@
   },
   {
     "id": 14000802,
-    "editor_name": "祈雨器_旧飞艇航道_-沙尘暴",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4419,7 +4135,6 @@
   },
   {
     "id": 14000803,
-    "editor_name": "祈雨器_旧飞艇航道_-雾",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4434,7 +4149,6 @@
   },
   {
     "id": 14000804,
-    "editor_name": "祈雨器_旧飞艇航道_-雪",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4449,7 +4163,6 @@
   },
   {
     "id": 14000901,
-    "editor_name": "祈雨器_风眠圣所_-雨",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4464,7 +4177,6 @@
   },
   {
     "id": 14000902,
-    "editor_name": "祈雨器_风眠圣所_-沙尘暴",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4479,7 +4191,6 @@
   },
   {
     "id": 14000903,
-    "editor_name": "祈雨器_风眠圣所_-雾",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4494,7 +4205,6 @@
   },
   {
     "id": 14000904,
-    "editor_name": "祈雨器_风眠圣所_-雪",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4509,7 +4219,6 @@
   },
   {
     "id": 80124301,
-    "editor_name": "检查火系",
     "interact_cond_group": [
       {
         "interact_cond": 5,
@@ -4522,7 +4231,6 @@
   },
   {
     "id": 80124302,
-    "editor_name": "检查草系",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4535,7 +4243,6 @@
   },
   {
     "id": 80124303,
-    "editor_name": "检查水系",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4548,7 +4255,6 @@
   },
   {
     "id": 540000001,
-    "editor_name": "天气预告-水",
     "interact_cond_group": [
       {
         "interact_cond": 1,
@@ -4561,7 +4267,6 @@
   },
   {
     "id": 540000002,
-    "editor_name": "精灵展示-雪绒鸟",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -4574,7 +4279,6 @@
   },
   {
     "id": 540000003,
-    "editor_name": "精灵展示-小夜",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -4588,7 +4292,6 @@
   },
   {
     "id": 540000004,
-    "editor_name": "精灵展示-异色乌拉塔",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -4602,7 +4305,6 @@
   },
   {
     "id": 540000005,
-    "editor_name": "精灵展示-幽冥眼睁开眼睛",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -4616,7 +4318,6 @@
   },
   {
     "id": 540000006,
-    "editor_name": "精灵展示-脆筒甜甜",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -4630,7 +4331,6 @@
   },
   {
     "id": 540000007,
-    "editor_name": "精灵展示-绿草精灵",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -4644,7 +4344,6 @@
   },
   {
     "id": 540000008,
-    "editor_name": "精灵展示-帅帅魔偶",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -4658,7 +4357,6 @@
   },
   {
     "id": 540000009,
-    "editor_name": "精灵展示-流浪鼠",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -4672,7 +4370,6 @@
   },
   {
     "id": 540000010,
-    "editor_name": "精灵展示-尖嘴狐仙",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -4686,7 +4383,6 @@
   },
   {
     "id": 540000011,
-    "editor_name": "精灵展示-鳗尾兽",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -4700,7 +4396,6 @@
   },
   {
     "id": 540000012,
-    "editor_name": "精灵展示-水泡壳",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -4714,7 +4409,6 @@
   },
   {
     "id": 540000013,
-    "editor_name": "精灵展示-爵士鹿",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -4728,7 +4422,6 @@
   },
   {
     "id": 540000014,
-    "editor_name": "精灵展示-花衣蝶",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -4742,7 +4435,6 @@
   },
   {
     "id": 540000015,
-    "editor_name": "精灵展示-荆棘电环",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -4756,7 +4448,6 @@
   },
   {
     "id": 540000016,
-    "editor_name": "精灵展示-书魔虫",
     "interact_cond_group": [
       {
         "interact_cond": 7,
@@ -4770,7 +4461,6 @@
   },
   {
     "id": 550000001,
-    "editor_name": "精灵冲撞巨大黄石榴石",
     "interact_cond_group": [
       {
         "interact_cond": 5,

@@ -16,6 +16,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -70,9 +72,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -81,6 +81,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -135,9 +137,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -146,6 +146,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -200,9 +202,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -223,6 +223,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -277,9 +279,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -288,6 +288,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -342,9 +344,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -353,6 +353,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -407,9 +409,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -430,6 +430,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -484,9 +486,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -495,6 +495,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -549,9 +551,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -560,6 +560,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -614,9 +616,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -637,6 +637,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -691,9 +693,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -702,6 +702,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -756,9 +758,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -767,6 +767,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -821,9 +823,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -844,6 +844,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -898,9 +900,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -909,6 +909,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -963,9 +965,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -974,6 +974,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -1028,9 +1030,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -1051,6 +1051,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -1105,9 +1107,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -1116,6 +1116,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -1170,9 +1172,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -1181,6 +1181,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -1235,9 +1237,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -1258,6 +1258,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -1312,9 +1314,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -1323,6 +1323,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -1377,9 +1379,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -1388,6 +1388,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -1442,9 +1444,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -1465,6 +1465,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -1519,9 +1521,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -1530,6 +1530,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -1584,9 +1586,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -1595,6 +1595,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -1649,9 +1651,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -1672,6 +1672,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -1726,9 +1728,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -1737,6 +1737,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -1791,9 +1793,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -1802,6 +1802,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -1856,9 +1858,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -1879,6 +1879,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -1933,9 +1935,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -1944,6 +1944,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -1998,9 +2000,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -2009,6 +2009,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -2063,9 +2065,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -2086,6 +2086,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -2140,9 +2142,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -2151,6 +2151,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -2205,9 +2207,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -2216,6 +2216,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -2270,9 +2272,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -2293,6 +2293,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -2347,9 +2349,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -2358,6 +2358,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -2412,9 +2414,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -2423,6 +2423,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -2477,9 +2479,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -2500,6 +2500,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -2554,9 +2556,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -2565,6 +2565,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -2619,9 +2621,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -2630,6 +2630,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -2684,9 +2686,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -2707,6 +2707,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -2761,9 +2763,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -2772,6 +2772,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -2826,9 +2828,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -2837,6 +2837,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -2891,9 +2893,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -2914,6 +2914,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -2968,9 +2970,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -2979,6 +2979,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -3033,9 +3035,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -3044,6 +3044,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -3098,9 +3100,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -3121,6 +3121,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -3175,9 +3177,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -3186,6 +3186,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -3240,9 +3242,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -3251,6 +3251,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -3305,9 +3307,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -3328,6 +3328,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -3382,9 +3384,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -3393,6 +3393,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -3447,9 +3449,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -3458,6 +3458,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -3512,9 +3514,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -3535,6 +3535,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -3589,9 +3591,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -3600,6 +3600,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -3654,9 +3656,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -3665,6 +3665,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -3719,9 +3721,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -3742,6 +3742,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -3796,9 +3798,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -3807,6 +3807,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -3861,9 +3863,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -3872,6 +3872,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -3926,9 +3928,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -3949,6 +3949,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -4003,9 +4005,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -4014,6 +4014,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -4068,9 +4070,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -4079,6 +4079,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -4133,9 +4135,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -4156,6 +4156,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -4210,9 +4212,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -4221,6 +4221,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -4275,9 +4277,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -4286,6 +4286,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -4340,9 +4342,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -4363,6 +4363,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -4417,9 +4419,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -4428,6 +4428,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -4482,9 +4484,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -4493,6 +4493,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -4547,9 +4549,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -4570,6 +4570,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -4624,9 +4626,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -4635,6 +4635,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -4689,9 +4691,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -4700,6 +4700,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -4754,9 +4756,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   },
@@ -4777,6 +4777,8 @@
         "vitem_type_get_value": 60,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 60,
+        "get_star_light_value_owner": 12,
+        "get_star_light_value_visitor": 3,
         "water_reduce_plant_grow_time_para": 111667,
         "water_continue_max_time_para": 2238806,
         "water_reduce_limit_percent_para": 300000,
@@ -4831,9 +4833,7 @@
             "steal_plant_harvest_num": 4,
             "steal_plant_harvest_num_per": 375
           }
-        ],
-        "get_star_light_value_owner": 12,
-        "get_star_light_value_visitor": 3
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -4842,6 +4842,8 @@
         "vitem_type_get_value": 120,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 120,
+        "get_star_light_value_owner": 16,
+        "get_star_light_value_visitor": 4,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -4896,9 +4898,7 @@
             "steal_plant_harvest_num": 5,
             "steal_plant_harvest_num_per": 1120
           }
-        ],
-        "get_star_light_value_owner": 16,
-        "get_star_light_value_visitor": 4
+        ]
       },
       {
         "plant_vitem_type": 1,
@@ -4907,6 +4907,8 @@
         "vitem_type_get_value": 240,
         "harvest_vitem_type_get": 45,
         "harvest_vitem_type_get_value": 240,
+        "get_star_light_value_owner": 20,
+        "get_star_light_value_visitor": 5,
         "water_reduce_plant_grow_time_para": 83334,
         "water_continue_max_time_para": 4000000,
         "water_reduce_limit_percent_para": 300000,
@@ -4961,9 +4963,7 @@
             "steal_plant_harvest_num": 6,
             "steal_plant_harvest_num_per": 200
           }
-        ],
-        "get_star_light_value_owner": 20,
-        "get_star_light_value_visitor": 5
+        ]
       }
     ]
   }

@@ -1,7 +1,6 @@
 [
   {
     "id": 1,
-    "editor_name": "喵喵进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -27,7 +26,6 @@
   },
   {
     "id": 2,
-    "editor_name": "水蓝蓝进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -53,7 +51,6 @@
   },
   {
     "id": 3,
-    "editor_name": "火花进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -79,7 +76,6 @@
   },
   {
     "id": 4,
-    "editor_name": "迪莫进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -105,7 +101,6 @@
   },
   {
     "id": 5,
-    "editor_name": "草头鸭进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -131,7 +126,6 @@
   },
   {
     "id": 6,
-    "editor_name": "南瓜头进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -157,7 +151,6 @@
   },
   {
     "id": 7,
-    "editor_name": "恶魔叮进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -183,7 +176,6 @@
   },
   {
     "id": 8,
-    "editor_name": "恶魔狼进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -209,7 +201,6 @@
   },
   {
     "id": 9,
-    "editor_name": "小鸭吉吉进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -235,7 +226,6 @@
   },
   {
     "id": 10,
-    "editor_name": "阿米亚特进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -261,7 +251,6 @@
   },
   {
     "id": 11,
-    "editor_name": "蹦蹦种子进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -287,7 +276,6 @@
   },
   {
     "id": 12,
-    "editor_name": "地鼠进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -313,7 +301,6 @@
   },
   {
     "id": 13,
-    "editor_name": "赤毛鸡仔进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -339,7 +326,6 @@
   },
   {
     "id": 14,
-    "editor_name": "绿草精灵进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -365,7 +351,6 @@
   },
   {
     "id": 15,
-    "editor_name": "冬羽雀进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -391,7 +376,6 @@
   },
   {
     "id": 16,
-    "editor_name": "奇丽草进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -417,7 +401,6 @@
   },
   {
     "id": 17,
-    "editor_name": "蒲公英娃娃进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -443,7 +426,6 @@
   },
   {
     "id": 18,
-    "editor_name": "小鸭吉吉进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -469,7 +451,6 @@
   },
   {
     "id": 19,
-    "editor_name": "小甲虫进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -495,7 +476,6 @@
   },
   {
     "id": 20,
-    "editor_name": "丢丢进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -521,7 +501,6 @@
   },
   {
     "id": 21,
-    "editor_name": "伊贝儿进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -547,7 +526,6 @@
   },
   {
     "id": 22,
-    "editor_name": "锥尾羊进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -573,7 +551,6 @@
   },
   {
     "id": 23,
-    "editor_name": "白发懒人进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -599,7 +576,6 @@
   },
   {
     "id": 24,
-    "editor_name": "记忆石进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -625,7 +601,6 @@
   },
   {
     "id": 25,
-    "editor_name": "煤球憨憨进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -651,7 +626,6 @@
   },
   {
     "id": 26,
-    "editor_name": "板板壳进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -677,7 +651,6 @@
   },
   {
     "id": 27,
-    "editor_name": "一窝蜂进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -703,7 +676,6 @@
   },
   {
     "id": 28,
-    "editor_name": "小灵面进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -729,7 +701,6 @@
   },
   {
     "id": 29,
-    "editor_name": "小独角兽进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -755,7 +726,6 @@
   },
   {
     "id": 30,
-    "editor_name": "幽影树进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -781,7 +751,6 @@
   },
   {
     "id": 31,
-    "editor_name": "忽幽狸进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -807,7 +776,6 @@
   },
   {
     "id": 32,
-    "editor_name": "灵蔓草王进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -833,7 +801,6 @@
   },
   {
     "id": 33,
-    "editor_name": "锤头鹳进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -859,7 +826,6 @@
   },
   {
     "id": 34,
-    "editor_name": "护主犬进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -885,7 +851,6 @@
   },
   {
     "id": 35,
-    "editor_name": "格兰种子进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -911,7 +876,6 @@
   },
   {
     "id": 36,
-    "editor_name": "灵狐进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -937,7 +901,6 @@
   },
   {
     "id": 37,
-    "editor_name": "烈钻鸟进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -963,7 +926,6 @@
   },
   {
     "id": 38,
-    "editor_name": "治愈兔进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -989,7 +951,6 @@
   },
   {
     "id": 39,
-    "editor_name": "可爱猿进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1015,7 +976,6 @@
   },
   {
     "id": 40,
-    "editor_name": "可立鸡进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1041,7 +1001,6 @@
   },
   {
     "id": 41,
-    "editor_name": "火尾瓦特进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1067,7 +1026,6 @@
   },
   {
     "id": 42,
-    "editor_name": "呆小路进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1093,7 +1051,6 @@
   },
   {
     "id": 43,
-    "editor_name": "紫蔓祭祀进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1119,7 +1076,6 @@
   },
   {
     "id": 44,
-    "editor_name": "绿耳松鼠进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1145,7 +1101,6 @@
   },
   {
     "id": 45,
-    "editor_name": "布是石进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1171,7 +1126,6 @@
   },
   {
     "id": 46,
-    "editor_name": "石肤蜥进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1197,7 +1151,6 @@
   },
   {
     "id": 47,
-    "editor_name": "仪使者进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1223,7 +1176,6 @@
   },
   {
     "id": 48,
-    "editor_name": "甜田螺进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1249,7 +1201,6 @@
   },
   {
     "id": 49,
-    "editor_name": "风铃鲨进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1275,7 +1226,6 @@
   },
   {
     "id": 50,
-    "editor_name": "果冻进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1301,7 +1251,6 @@
   },
   {
     "id": 51,
-    "editor_name": "大耳帽兜进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1327,7 +1276,6 @@
   },
   {
     "id": 52,
-    "editor_name": "脆筒甜甜进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1353,7 +1301,6 @@
   },
   {
     "id": 53,
-    "editor_name": "小狮鹫进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1379,7 +1326,6 @@
   },
   {
     "id": 54,
-    "editor_name": "圆眼蜘蛛进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1405,7 +1351,6 @@
   },
   {
     "id": 55,
-    "editor_name": "小螂进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1431,7 +1376,6 @@
   },
   {
     "id": 56,
-    "editor_name": "毛毛进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1457,7 +1401,6 @@
   },
   {
     "id": 57,
-    "editor_name": "小草虫进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1483,7 +1426,6 @@
   },
   {
     "id": 58,
-    "editor_name": "小夜进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1509,7 +1451,6 @@
   },
   {
     "id": 59,
-    "editor_name": "小灵菇进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1535,7 +1476,6 @@
   },
   {
     "id": 60,
-    "editor_name": "空空颅进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1561,7 +1501,6 @@
   },
   {
     "id": 61,
-    "editor_name": "多多进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1587,7 +1526,6 @@
   },
   {
     "id": 62,
-    "editor_name": "裘洛进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1613,7 +1551,6 @@
   },
   {
     "id": 63,
-    "editor_name": "灵蔓草王进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1639,7 +1576,6 @@
   },
   {
     "id": 64,
-    "editor_name": "春团进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1665,7 +1601,6 @@
   },
   {
     "id": 65,
-    "editor_name": "伏地兽进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1691,7 +1626,6 @@
   },
   {
     "id": 66,
-    "editor_name": "阿布进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1717,7 +1651,6 @@
   },
   {
     "id": 67,
-    "editor_name": "石石进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1743,7 +1676,6 @@
   },
   {
     "id": 68,
-    "editor_name": "雪豆丁进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1769,7 +1701,6 @@
   },
   {
     "id": 69,
-    "editor_name": "咔咔羽毛进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1795,7 +1726,6 @@
   },
   {
     "id": 70,
-    "editor_name": "矮脚爬爬进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1821,7 +1751,6 @@
   },
   {
     "id": 71,
-    "editor_name": "小帕尔进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1847,7 +1776,6 @@
   },
   {
     "id": 72,
-    "editor_name": "瑰眼仔进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1873,7 +1801,6 @@
   },
   {
     "id": 73,
-    "editor_name": "小光进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1899,7 +1826,6 @@
   },
   {
     "id": 74,
-    "editor_name": "迷迷眼进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1925,7 +1851,6 @@
   },
   {
     "id": 75,
-    "editor_name": "拉特进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1951,7 +1876,6 @@
   },
   {
     "id": 76,
-    "editor_name": "电咩咩进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -1977,7 +1901,6 @@
   },
   {
     "id": 77,
-    "editor_name": "小星光进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2003,7 +1926,6 @@
   },
   {
     "id": 78,
-    "editor_name": "闪电环进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2029,7 +1951,6 @@
   },
   {
     "id": 79,
-    "editor_name": "粉粉星进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2055,7 +1976,6 @@
   },
   {
     "id": 80,
-    "editor_name": "机械方方进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2081,7 +2001,6 @@
   },
   {
     "id": 81,
-    "editor_name": "贝瑟进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2107,7 +2026,6 @@
   },
   {
     "id": 82,
-    "editor_name": "多西进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2133,7 +2051,6 @@
   },
   {
     "id": 83,
-    "editor_name": "小翼龙进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2159,7 +2076,6 @@
   },
   {
     "id": 84,
-    "editor_name": "伊雷龙进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2185,7 +2101,6 @@
   },
   {
     "id": 85,
-    "editor_name": "黑炎宝宝进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2211,7 +2126,6 @@
   },
   {
     "id": 86,
-    "editor_name": "海豹战士进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2237,7 +2151,6 @@
   },
   {
     "id": 87,
-    "editor_name": "呼拉猫进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2263,7 +2176,6 @@
   },
   {
     "id": 88,
-    "editor_name": "勇敢小熊猫进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2289,7 +2201,6 @@
   },
   {
     "id": 89,
-    "editor_name": "合格御守进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2315,7 +2226,6 @@
   },
   {
     "id": 90,
-    "editor_name": "古钟蛇进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2341,7 +2251,6 @@
   },
   {
     "id": 91,
-    "editor_name": "菊花梨进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2367,7 +2276,6 @@
   },
   {
     "id": 92,
-    "editor_name": "友爱天天进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2393,7 +2301,6 @@
   },
   {
     "id": 93,
-    "editor_name": "加灵进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2419,7 +2326,6 @@
   },
   {
     "id": 94,
-    "editor_name": "牵线木偶进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2445,7 +2351,6 @@
   },
   {
     "id": 95,
-    "editor_name": "超能球球进化链",
     "break_award": [
       {
         "break_level_point": 20,
@@ -2471,7 +2376,6 @@
   },
   {
     "id": 999,
-    "editor_name": "无突破奖励-PVPCE专用",
     "break_award": [
       {
         "break_level_point": 20,

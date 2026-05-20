@@ -1,7 +1,6 @@
 [
   {
     "id": 13305,
-    "editor_name": "通用副本罗盘解锁",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -14,7 +13,6 @@
   },
   {
     "id": 13383,
-    "editor_name": "通用副本罗盘解锁60",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -27,7 +25,6 @@
   },
   {
     "id": 13394,
-    "editor_name": "通用副本罗盘解锁40",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -40,7 +37,6 @@
   },
   {
     "id": 13647,
-    "editor_name": "通用副本罗盘解锁30",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -53,7 +49,6 @@
   },
   {
     "id": 13648,
-    "editor_name": "通用副本罗盘解锁30",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -66,7 +61,6 @@
   },
   {
     "id": 13649,
-    "editor_name": "通用副本罗盘解锁30",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -79,7 +73,6 @@
   },
   {
     "id": 13650,
-    "editor_name": "通用副本罗盘解锁30",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -92,7 +85,6 @@
   },
   {
     "id": 13651,
-    "editor_name": "通用副本罗盘解锁30",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -105,7 +97,6 @@
   },
   {
     "id": 13652,
-    "editor_name": "通用副本罗盘解锁30",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -118,7 +109,6 @@
   },
   {
     "id": 13653,
-    "editor_name": "通用副本罗盘解锁30",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -131,7 +121,6 @@
   },
   {
     "id": 13654,
-    "editor_name": "通用副本罗盘解锁30",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -144,7 +133,6 @@
   },
   {
     "id": 13655,
-    "editor_name": "通用副本罗盘解锁30",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -157,7 +145,6 @@
   },
   {
     "id": 13656,
-    "editor_name": "通用副本罗盘解锁30",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -170,8 +157,6 @@
   },
   {
     "id": 24999,
-    "editor_name": "测试一下",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -184,7 +169,6 @@
   },
   {
     "id": 29117,
-    "editor_name": "隐藏通用副本罗盘解锁",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -197,7 +181,6 @@
   },
   {
     "id": 29148,
-    "editor_name": "通用副本提示石碑-禁用飞行",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -210,7 +193,6 @@
   },
   {
     "id": 29154,
-    "editor_name": "通用副本提示石碑-无限体力",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -223,7 +205,6 @@
   },
   {
     "id": 33019,
-    "editor_name": "ambrezhang-顾客鸭吉吉1",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -236,7 +217,6 @@
   },
   {
     "id": 33329,
-    "editor_name": "噩梦空间-开启-A1下",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -249,7 +229,6 @@
   },
   {
     "id": 33346,
-    "editor_name": "70035018-登天之路第三个试炼关隘试炼精灵",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -262,8 +241,6 @@
   },
   {
     "id": 33349,
-    "editor_name": "70035024-黑暗灵魂之河内污染的伊里斯",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -276,8 +253,6 @@
   },
   {
     "id": 33350,
-    "editor_name": "70035025-黑暗灵魂之河内污染的鸭",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -290,8 +265,6 @@
   },
   {
     "id": 33351,
-    "editor_name": "70035025-黑暗灵魂之河内污染的水",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -304,8 +277,6 @@
   },
   {
     "id": 35065,
-    "editor_name": "71001001-痛苦精灵1",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -318,8 +289,6 @@
   },
   {
     "id": 35067,
-    "editor_name": "71001001-痛苦精灵3",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -332,7 +301,6 @@
   },
   {
     "id": 55289,
-    "editor_name": "噩梦空间-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -345,7 +313,6 @@
   },
   {
     "id": 55291,
-    "editor_name": "噩梦空间一号（初级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -358,7 +325,6 @@
   },
   {
     "id": 55292,
-    "editor_name": "噩梦空间二号（初级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -371,7 +337,6 @@
   },
   {
     "id": 55293,
-    "editor_name": "噩梦空间三号（初级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -384,8 +349,6 @@
   },
   {
     "id": 61034,
-    "editor_name": "测试功能-马内雷斯",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -398,8 +361,6 @@
   },
   {
     "id": 64098,
-    "editor_name": "聆风镇玩家传话作梗",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -412,8 +373,6 @@
   },
   {
     "id": 64101,
-    "editor_name": "月牙镇主人压榨精灵",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -426,8 +385,6 @@
   },
   {
     "id": 65000,
-    "editor_name": "可瓦斯",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -440,7 +397,6 @@
   },
   {
     "id": 65151,
-    "editor_name": "知识石碑-进入",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -453,7 +409,6 @@
   },
   {
     "id": 65152,
-    "editor_name": "知识石碑-退出",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -466,7 +421,6 @@
   },
   {
     "id": 65478,
-    "editor_name": "常驻-巨大石碑（进入）",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -479,7 +433,6 @@
   },
   {
     "id": 65479,
-    "editor_name": "常驻-巨大石碑（退出）",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -492,8 +445,6 @@
   },
   {
     "id": 65515,
-    "editor_name": "7月轻测-间章-守卫大锅炉",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -506,8 +457,6 @@
   },
   {
     "id": 65564,
-    "editor_name": "七天版本-古迹源流-智者鲨2",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -520,8 +469,6 @@
   },
   {
     "id": 65565,
-    "editor_name": "七天版本-古迹源流-智者鲨3",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -534,8 +481,6 @@
   },
   {
     "id": 65632,
-    "editor_name": "稀兽花种引导任务",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -548,7 +493,6 @@
   },
   {
     "id": 80002,
-    "editor_name": "传说精灵调查-凡鹰",
     "action": {
       "action_style_type": 2,
       "first_compass_option_type": 2,
@@ -561,7 +505,6 @@
   },
   {
     "id": 80005,
-    "editor_name": "传说精灵调查-龙息帕尔",
     "action": {
       "action_style_type": 2,
       "first_compass_option_type": 2,
@@ -574,7 +517,6 @@
   },
   {
     "id": 80009,
-    "editor_name": "传说精灵调查-翼王",
     "action": {
       "action_style_type": 2,
       "first_compass_option_type": 2,
@@ -587,7 +529,6 @@
   },
   {
     "id": 92001,
-    "editor_name": "副本罗盘通用解锁-角度测试",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -600,7 +541,6 @@
   },
   {
     "id": 92002,
-    "editor_name": "传说精灵罗盘触发登场演出-角度测试",
     "action": {
       "action_style_type": 2,
       "first_compass_option_type": 2,
@@ -613,8 +553,6 @@
   },
   {
     "id": 1001460,
-    "editor_name": "gameliu-月兔酒馆-环境叙事3",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -627,8 +565,6 @@
   },
   {
     "id": 1001465,
-    "editor_name": "gameliu-月兔酒馆-环境叙事5",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -641,8 +577,6 @@
   },
   {
     "id": 1001470,
-    "editor_name": "gameliu-月兔酒馆-环境叙事7",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -655,8 +589,6 @@
   },
   {
     "id": 1001475,
-    "editor_name": "gameliu-月兔酒馆-环境叙事9",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -669,8 +601,6 @@
   },
   {
     "id": 1001480,
-    "editor_name": "gameliu-月兔酒馆-环境叙事11",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -683,8 +613,6 @@
   },
   {
     "id": 1001705,
-    "editor_name": "gameliu-大漩涡-环境叙事1",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -697,8 +625,6 @@
   },
   {
     "id": 1001710,
-    "editor_name": "gameliu-大漩涡-环境叙事2",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -711,8 +637,6 @@
   },
   {
     "id": 1001715,
-    "editor_name": "gameliu-大漩涡-环境叙事3",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -725,8 +649,6 @@
   },
   {
     "id": 1001875,
-    "editor_name": "gameliu-骑士拾遗-DAY1-找马西克接任务",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -739,8 +661,6 @@
   },
   {
     "id": 1001880,
-    "editor_name": "gameliu-骑士拾遗-DAY1-找气气接任务",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -753,8 +673,6 @@
   },
   {
     "id": 1001890,
-    "editor_name": "gameliu-骑士拾遗-DAY1-回报气气",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -767,8 +685,6 @@
   },
   {
     "id": 1001895,
-    "editor_name": "gameliu-骑士拾遗-DAY1-回报马西克",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -781,8 +697,6 @@
   },
   {
     "id": 1001900,
-    "editor_name": "gameliu-骑士拾遗-DAY2-找斯维托维德接任务",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -795,8 +709,6 @@
   },
   {
     "id": 1001915,
-    "editor_name": "gameliu-骑士拾遗-DAY2-回报斯维托维德",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -809,8 +721,6 @@
   },
   {
     "id": 1001920,
-    "editor_name": "gameliu-骑士拾遗-DAY2-回报马西克",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -823,8 +733,6 @@
   },
   {
     "id": 1001925,
-    "editor_name": "gameliu-骑士拾遗-DAY3-找格劳科斯接任务",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -837,8 +745,6 @@
   },
   {
     "id": 1001935,
-    "editor_name": "gameliu-骑士拾遗-DAY3-格劳科斯指条明路",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -851,8 +757,6 @@
   },
   {
     "id": 1001960,
-    "editor_name": "gameliu-骑士拾遗-DAY3-回报格劳科斯",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -865,8 +769,6 @@
   },
   {
     "id": 1001965,
-    "editor_name": "gameliu-骑士拾遗-DAY3-回报马西克",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -879,8 +781,6 @@
   },
   {
     "id": 1001970,
-    "editor_name": "gameliu-骑士拾遗-DAY4-找温德莱尔接任务",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -893,8 +793,6 @@
   },
   {
     "id": 1001980,
-    "editor_name": "gameliu-骑士拾遗-DAY4-回报温德莱尔",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -907,8 +805,6 @@
   },
   {
     "id": 1001985,
-    "editor_name": "gameliu-骑士拾遗-DAY4-回报马西克",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -921,8 +817,6 @@
   },
   {
     "id": 1500623,
-    "editor_name": "拾遗风火台乌咩罗盘对话",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -935,8 +829,6 @@
   },
   {
     "id": 1500626,
-    "editor_name": "拾遗风火台乌咩师傅罗盘对话",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -949,8 +841,6 @@
   },
   {
     "id": 1500628,
-    "editor_name": "拾遗风火台乌咩师傅罗盘再对话",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -963,8 +853,6 @@
   },
   {
     "id": 3340902,
-    "editor_name": "被污染的「女王大人」",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -977,8 +865,6 @@
   },
   {
     "id": 3341002,
-    "editor_name": "被污染的「小刺头」",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -991,8 +877,6 @@
   },
   {
     "id": 3341102,
-    "editor_name": "被污染的「花花」",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1005,8 +889,6 @@
   },
   {
     "id": 3341202,
-    "editor_name": "被污染的「微风」",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1019,8 +901,6 @@
   },
   {
     "id": 3341302,
-    "editor_name": "被污染的「狂风」",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1033,8 +913,6 @@
   },
   {
     "id": 3341306,
-    "editor_name": "被污染的「龙卷风」",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1047,8 +925,6 @@
   },
   {
     "id": 3341311,
-    "editor_name": "被污染的「小石头」",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1061,8 +937,6 @@
   },
   {
     "id": 3341316,
-    "editor_name": "被污染的「葛朗台」",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1075,8 +949,6 @@
   },
   {
     "id": 3341321,
-    "editor_name": "被污染的「老大」",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1089,7 +961,6 @@
   },
   {
     "id": 5529102,
-    "editor_name": "噩梦空间一号（中级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1102,7 +973,6 @@
   },
   {
     "id": 5529103,
-    "editor_name": "噩梦空间一号（高级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1115,7 +985,6 @@
   },
   {
     "id": 5529202,
-    "editor_name": "噩梦空间二号（中级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1128,7 +997,6 @@
   },
   {
     "id": 5529203,
-    "editor_name": "噩梦空间二号（高级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1141,7 +1009,6 @@
   },
   {
     "id": 5529302,
-    "editor_name": "噩梦空间三号（中级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1154,7 +1021,6 @@
   },
   {
     "id": 5529303,
-    "editor_name": "噩梦空间三号（高级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1167,7 +1033,6 @@
   },
   {
     "id": 5536801,
-    "editor_name": "噩梦祭坛四号（初级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1180,7 +1045,6 @@
   },
   {
     "id": 5536802,
-    "editor_name": "噩梦祭坛四号（中级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1193,7 +1057,6 @@
   },
   {
     "id": 5536803,
-    "editor_name": "噩梦祭坛四号（高级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1206,7 +1069,6 @@
   },
   {
     "id": 5536901,
-    "editor_name": "噩梦祭坛五号（初级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1219,7 +1081,6 @@
   },
   {
     "id": 5536902,
-    "editor_name": "噩梦祭坛五号（中级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1232,7 +1093,6 @@
   },
   {
     "id": 5536903,
-    "editor_name": "噩梦祭坛五号（高级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1245,7 +1105,6 @@
   },
   {
     "id": 5537001,
-    "editor_name": "噩梦祭坛六号（初级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1258,7 +1117,6 @@
   },
   {
     "id": 5537002,
-    "editor_name": "噩梦祭坛六号（中级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1271,7 +1129,6 @@
   },
   {
     "id": 5537003,
-    "editor_name": "噩梦祭坛六号（高级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1284,7 +1141,6 @@
   },
   {
     "id": 5537101,
-    "editor_name": "噩梦祭坛七号（初级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1297,7 +1153,6 @@
   },
   {
     "id": 5537102,
-    "editor_name": "噩梦祭坛七号（中级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1310,7 +1165,6 @@
   },
   {
     "id": 5537103,
-    "editor_name": "噩梦祭坛七号（高级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1323,7 +1177,6 @@
   },
   {
     "id": 5537201,
-    "editor_name": "噩梦祭坛八号（初级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1336,7 +1189,6 @@
   },
   {
     "id": 5537202,
-    "editor_name": "噩梦祭坛八号（中级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1349,7 +1201,6 @@
   },
   {
     "id": 5537203,
-    "editor_name": "噩梦祭坛八号（高级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1362,7 +1213,6 @@
   },
   {
     "id": 5537301,
-    "editor_name": "噩梦祭坛九号（初级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1375,7 +1225,6 @@
   },
   {
     "id": 5537302,
-    "editor_name": "噩梦祭坛九号（中级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1388,7 +1237,6 @@
   },
   {
     "id": 5537303,
-    "editor_name": "噩梦祭坛九号（高级）-开启",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1401,8 +1249,6 @@
   },
   {
     "id": 20231033,
-    "editor_name": "七天版本-月牙镇-千棘盔翻译",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1415,8 +1261,6 @@
   },
   {
     "id": 20231037,
-    "editor_name": "七天版本-聆风镇-蜂后翻译",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1429,8 +1273,6 @@
   },
   {
     "id": 20231043,
-    "editor_name": "七天版本-办事处-奇丽花翻译",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1443,8 +1285,6 @@
   },
   {
     "id": 20231066,
-    "editor_name": "C1P22T02-丰裕谷-与麦克达克、伊里斯对话2",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1457,8 +1297,6 @@
   },
   {
     "id": 20231069,
-    "editor_name": "C1P22T08-遗迹源流-与法瑞莎莎、伊里斯对话",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1471,8 +1309,6 @@
   },
   {
     "id": 20231070,
-    "editor_name": "七天版本-法瑞莎莎闲置对话2",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1485,8 +1321,6 @@
   },
   {
     "id": 20231080,
-    "editor_name": "七天版本-法瑞莎莎闲置对话",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1499,8 +1333,6 @@
   },
   {
     "id": 20231088,
-    "editor_name": "C1P23T03-副本3-伊里斯对话（对战后）",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1513,8 +1345,6 @@
   },
   {
     "id": 20231110,
-    "editor_name": "C1P21T09-透明心声触发器（追逐星光前）-风息山口",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1527,8 +1357,6 @@
   },
   {
     "id": 20231131,
-    "editor_name": "七天版本-古迹源流-智者鲨1",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1541,8 +1369,6 @@
   },
   {
     "id": 20235000,
-    "editor_name": "七天版本-环境叙事-鸭吉吉领地精灵-5",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1555,8 +1381,6 @@
   },
   {
     "id": 20235001,
-    "editor_name": "七天版本-环境叙事-鸭吉吉领地精灵-7",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1569,8 +1393,6 @@
   },
   {
     "id": 20235002,
-    "editor_name": "七天版本-环境叙事-鸭吉吉领地精灵-10",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1583,8 +1405,6 @@
   },
   {
     "id": 20235010,
-    "editor_name": "七天版本-环境叙事-彩蝶鲨领地精灵-1",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1597,8 +1417,6 @@
   },
   {
     "id": 20235011,
-    "editor_name": "七天版本-环境叙事-彩蝶鲨领地精灵-3",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1611,8 +1429,6 @@
   },
   {
     "id": 20235012,
-    "editor_name": "七天版本-环境叙事-彩蝶鲨领地精灵-4",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1625,8 +1441,6 @@
   },
   {
     "id": 20235013,
-    "editor_name": "七天版本-环境叙事-彩蝶鲨领地精灵-7",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1639,8 +1453,6 @@
   },
   {
     "id": 20235052,
-    "editor_name": "山上小精灵3",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1653,8 +1465,6 @@
   },
   {
     "id": 20235055,
-    "editor_name": "山上小精灵6",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1667,8 +1477,6 @@
   },
   {
     "id": 20235056,
-    "editor_name": "山上小精灵7",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1681,8 +1489,6 @@
   },
   {
     "id": 20235057,
-    "editor_name": "山上小精灵8",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1695,8 +1501,6 @@
   },
   {
     "id": 20235059,
-    "editor_name": "山上小精灵10",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1709,8 +1513,6 @@
   },
   {
     "id": 20235060,
-    "editor_name": "山上小精灵11",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1723,8 +1525,6 @@
   },
   {
     "id": 20240020,
-    "editor_name": "TQ01_3_噩梦祭坛（入口）_商店街西_交互（罗盘交互）",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1737,7 +1537,6 @@
   },
   {
     "id": 20240044,
-    "editor_name": "序章任务板-知识石碑-进入",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1750,7 +1549,6 @@
   },
   {
     "id": 20240067,
-    "editor_name": "序章任务板-白树空间迪莫sequence",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1763,7 +1561,6 @@
   },
   {
     "id": 120001060,
-    "editor_name": "知识石碑-进入",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1776,7 +1573,6 @@
   },
   {
     "id": 120001061,
-    "editor_name": "知识石碑-退出",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1789,7 +1585,6 @@
   },
   {
     "id": 120001081,
-    "editor_name": "文字石碑-测试数据",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1802,7 +1597,6 @@
   },
   {
     "id": 120001084,
-    "editor_name": "知识石碑-测试数据-进入",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1815,7 +1609,6 @@
   },
   {
     "id": 120001085,
-    "editor_name": "知识石碑-测试数据-退出",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1828,7 +1621,6 @@
   },
   {
     "id": 120001109,
-    "editor_name": "知识石碑-进入",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1841,7 +1633,6 @@
   },
   {
     "id": 120001110,
-    "editor_name": "知识石碑-退出",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1854,7 +1645,6 @@
   },
   {
     "id": 300210053,
-    "editor_name": "B1-JQ10_幻境4F-罗盘净化裘卡（包含sequence）",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1867,7 +1657,6 @@
   },
   {
     "id": 520001810,
-    "editor_name": "A2_月兔酒馆_泡沫皮带4_寻找酸提_2",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1880,7 +1669,6 @@
   },
   {
     "id": 520001911,
-    "editor_name": "A2_月兔酒馆_魔芋愿骸3_寻找苦梅_2",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1893,7 +1681,6 @@
   },
   {
     "id": 520002012,
-    "editor_name": "A2_月兔酒馆_萌系汽水3_寻找辣柿_2",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1906,7 +1693,6 @@
   },
   {
     "id": 520002117,
-    "editor_name": "A2_月兔酒馆_海盐甜筒2_寻找甜瓜_2",
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1919,8 +1705,6 @@
   },
   {
     "id": 700350241,
-    "editor_name": "70035024-噩梦空间净化污染伊里斯",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1933,8 +1717,6 @@
   },
   {
     "id": 700350251,
-    "editor_name": "70035025-噩梦空间净化污染鸭鸭",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1947,8 +1729,6 @@
   },
   {
     "id": 700350451,
-    "editor_name": "70035045-噩梦空间净化污染水",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,
@@ -1961,8 +1741,6 @@
   },
   {
     "id": 710020121,
-    "editor_name": "71002012-净化第二试炼精灵",
-    "not_show_perform": 1,
     "action": {
       "action_style_type": 1,
       "first_compass_option_type": 2,

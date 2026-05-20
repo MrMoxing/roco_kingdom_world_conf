@@ -1087,6 +1087,7 @@
       "UMG_LobbyMainInner",
       "BagIconLoader"
     ],
+    "ui_button_name": "IconButton",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
@@ -1107,6 +1108,9 @@
     ],
     "ui_button_name": "Bg",
     "circle_data": "C1",
+    "ban_action": [
+      1
+    ],
     "focus_type": 1,
     "text_pos": "right",
     "pc_text": "打开<span color=\"#FFA500\">任务栏</>",
@@ -1597,7 +1601,7 @@
     "ui_button_name": "btnLevelUp",
     "circle_data": "C1",
     "focus_type": 1,
-    "text_pos": "right",
+    "text_pos": "up",
     "pc_text": "点击增加制作数量",
     "pc_edior_pos": 40,
     "mobile_text": "点击增加制作数量",
@@ -1713,7 +1717,8 @@
     "ui_path": [
       "UMG_BattleMainWindow",
       "ChangePetPanelLoader",
-      "Item1"
+      "ArcScrollView[1]",
+      "UMG_Battle_Card"
     ],
     "ui_button_name": "TouchButton",
     "circle_data": "C1",
@@ -1798,7 +1803,8 @@
     "ui_path": [
       "UMG_BattleMainWindow",
       "ChangePetPanelLoader",
-      "Item1"
+      "ArcScrollView[1]",
+      "UMG_Battle_Card"
     ],
     "ui_button_name": "TouchButton",
     "circle_data": "C1",
@@ -1883,7 +1889,8 @@
     "ui_path": [
       "UMG_BattleMainWindow",
       "ChangePetPanelLoader",
-      "Item1"
+      "ArcScrollView[1]",
+      "UMG_Battle_Card"
     ],
     "ui_button_name": "TouchButton",
     "circle_data": "C1",
@@ -2176,7 +2183,8 @@
     "ui_path": [
       "UMG_BattleMainWindow",
       "ChangePetPanelLoader",
-      "Item1"
+      "ArcScrollView[1]",
+      "UMG_Battle_Card"
     ],
     "ui_button_name": "TouchButton",
     "circle_data": "C1",
@@ -2229,5 +2237,72 @@
     "mobile_text": "点击<span color=\"#FFA500\">斯嘉丽</>进行提问",
     "mobile_edior_pos": 30,
     "editor_name": "AI教练"
+  },
+  {
+    "id": 700031,
+    "ui_path": [
+      "UMG_Activity_ElfAdventure"
+    ],
+    "ui_button_name": "BtnChoose",
+    "circle_data": "C3",
+    "focus_type": 1,
+    "text_pos": "left",
+    "pc_text": "在乐园中<span color=\"#FFA500\">放入精灵</>",
+    "pc_edior_pos": 30,
+    "mobile_text": "在乐园中<span color=\"#FFA500\">放入精灵</>",
+    "mobile_edior_pos": 30,
+    "editor_name": "精灵游玩界面"
+  },
+  {
+    "id": 700032,
+    "ui_path": [
+      "UMG_Activity_ElfAdventure",
+      "RightPanel",
+      "List[1]"
+    ],
+    "circle_data": "C3",
+    "focus_type": 1,
+    "text_pos": "down",
+    "pc_text": "点击<span color=\"#FFA500\">选择精灵</>",
+    "pc_edior_pos": 30,
+    "mobile_text": "点击<span color=\"#FFA500\">选择精灵</>",
+    "mobile_edior_pos": 30,
+    "editor_name": "精灵游玩界面"
+  },
+  {
+    "id": 700033,
+    "ui_path": [
+      "UMG_Activity_ElfAdventure",
+      "RightPanel",
+      "Btn_Right"
+    ],
+    "ui_button_name": "btnLevelUp",
+    "rectangle_data": [
+      40,
+      -20
+    ],
+    "focus_type": 1,
+    "text_pos": "left",
+    "pc_text": "将精灵置入乐园",
+    "pc_edior_pos": 30,
+    "mobile_text": "将精灵置入乐园",
+    "mobile_edior_pos": 30,
+    "editor_name": "精灵游玩界面"
+  },
+  {
+    "id": 700034,
+    "ui_path": [
+      "UMG_Activity_ElfAdventure",
+      "RightPanel"
+    ],
+    "ui_button_name": "Button",
+    "circle_data": "C3",
+    "focus_type": 1,
+    "text_pos": "left",
+    "pc_text": "开启后精灵将<span color=\"#FFA500\">自动前往乐园</>",
+    "pc_edior_pos": 30,
+    "mobile_text": "开启后精灵将<span color=\"#FFA500\">自动前往乐园</>",
+    "mobile_edior_pos": 30,
+    "editor_name": "精灵游玩界面"
   }
 ]

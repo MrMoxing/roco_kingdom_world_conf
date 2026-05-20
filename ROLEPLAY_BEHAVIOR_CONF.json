@@ -918,6 +918,186 @@
     "is_movable": true
   },
   {
+    "id": 55,
+    "name_text": "寻找Ⅰ",
+    "behavior_type": 2,
+    "RPbehavior_type": 92,
+    "range": 1500,
+    "star": [
+      55,
+      1
+    ],
+    "toast_text": "寻找Ⅰ",
+    "ui_order": 30,
+    "male_skill_id": 100061,
+    "female_skill_id": 100061,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_seek.icon_pose_seek'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 56,
+    "name_text": "嘘Ⅰ",
+    "behavior_type": 2,
+    "RPbehavior_type": 93,
+    "range": 1500,
+    "star": [
+      56,
+      1
+    ],
+    "toast_text": "嘘Ⅰ",
+    "ui_order": 32,
+    "male_skill_id": 100062,
+    "female_skill_id": 100062,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_shh.icon_pose_shh'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 57,
+    "name_text": "拒绝Ⅰ",
+    "behavior_type": 2,
+    "RPbehavior_type": 94,
+    "range": 1500,
+    "star": [
+      57,
+      1
+    ],
+    "toast_text": "拒绝Ⅰ",
+    "ui_order": 34,
+    "male_skill_id": 100063,
+    "female_skill_id": 100063,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_no.icon_pose_no'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 58,
+    "name_text": "鼓掌Ⅰ",
+    "behavior_type": 2,
+    "RPbehavior_type": 95,
+    "range": 1500,
+    "star": [
+      58,
+      1
+    ],
+    "toast_text": "鼓掌Ⅰ",
+    "ui_order": 36,
+    "male_skill_id": 100064,
+    "female_skill_id": 100064,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_clap.icon_pose_clap'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 59,
+    "name_text": "寻找Ⅱ",
+    "behavior_type": 2,
+    "RPbehavior_type": 96,
+    "range": 1500,
+    "star": [
+      55,
+      2
+    ],
+    "toast_text": "寻找Ⅱ",
+    "ui_order": 31,
+    "male_skill_id": 100061,
+    "female_skill_id": 100061,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_seek.icon_pose_seek'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 60,
+    "name_text": "嘘Ⅱ",
+    "behavior_type": 2,
+    "RPbehavior_type": 97,
+    "range": 1500,
+    "star": [
+      56,
+      2
+    ],
+    "toast_text": "嘘Ⅱ",
+    "ui_order": 33,
+    "male_skill_id": 100062,
+    "female_skill_id": 100062,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_shh.icon_pose_shh'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 61,
+    "name_text": "拒绝Ⅱ",
+    "behavior_type": 2,
+    "RPbehavior_type": 98,
+    "range": 1500,
+    "star": [
+      57,
+      2
+    ],
+    "toast_text": "拒绝Ⅱ",
+    "ui_order": 35,
+    "male_skill_id": 100063,
+    "female_skill_id": 100063,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_no.icon_pose_no'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 62,
+    "name_text": "鼓掌Ⅱ",
+    "behavior_type": 2,
+    "RPbehavior_type": 99,
+    "range": 1500,
+    "star": [
+      58,
+      2
+    ],
+    "toast_text": "鼓掌Ⅱ",
+    "ui_order": 37,
+    "male_skill_id": 100064,
+    "female_skill_id": 100064,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_clap.icon_pose_clap'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 63,
+    "name_text": "谢幕Ⅰ",
+    "behavior_type": 2,
+    "RPbehavior_type": 109,
+    "range": 1500,
+    "star": [
+      63,
+      1
+    ],
+    "toast_text": "谢幕Ⅰ",
+    "ui_order": 38,
+    "male_skill_id": 100065,
+    "female_skill_id": 100065,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_thanks.icon_pose_thanks'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 64,
+    "name_text": "谢幕Ⅱ",
+    "behavior_type": 2,
+    "RPbehavior_type": 110,
+    "range": 1500,
+    "star": [
+      63,
+      2
+    ],
+    "toast_text": "谢幕Ⅱ",
+    "ui_order": 39,
+    "male_skill_id": 100065,
+    "female_skill_id": 100065,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_thanks.icon_pose_thanks'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
     "id": 68000,
     "name_text": "小板凳",
     "behavior_type": 6,
@@ -972,6 +1152,30 @@
     "RPbehavior_type": 59,
     "toast_text": "鹅鹅鹅长椅",
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_qq_bench.img_qq_bench'"
+  },
+  {
+    "id": 68007,
+    "name_text": "吓人箱",
+    "behavior_type": 6,
+    "RPbehavior_type": 105,
+    "toast_text": "吓人箱",
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_S2_BlindBox_001.img_S2_BlindBox_001'"
+  },
+  {
+    "id": 68008,
+    "name_text": "星星躺枕",
+    "behavior_type": 6,
+    "RPbehavior_type": 106,
+    "toast_text": "星星躺枕",
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_S2_StarPillow_001.img_S2_StarPillow_001'"
+  },
+  {
+    "id": 68009,
+    "name_text": "南瓜墩",
+    "behavior_type": 6,
+    "RPbehavior_type": 107,
+    "toast_text": "南瓜墩",
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_S2_PumpkinChair_001.img_S2_PumpkinChair_001'"
   },
   {
     "id": 640006,

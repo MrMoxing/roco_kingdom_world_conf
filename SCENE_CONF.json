@@ -186,6 +186,20 @@
     "born_spin_z": 90
   },
   {
+    "id": 134,
+    "editor_name": "B1室内-仪典学副本",
+    "scene_name": "仪典学副本",
+    "scene_res_id": 10057,
+    "scene_load_type": 2,
+    "env_type": 1,
+    "born_pos_x": 137,
+    "born_pos_y": 17,
+    "born_pos_z": 167,
+    "block_ids": [
+      431310001
+    ]
+  },
+  {
     "id": 140,
     "editor_name": "A2侦探社拾遗-旅店",
     "scene_name": "A2侦探社拾遗-旅店",
@@ -796,6 +810,7 @@
     "editor_name": "豆丁双子（白盒）",
     "scene_name": "豆丁双子（白盒）",
     "scene_res_id": 20050,
+    "is_unused": true,
     "scene_load_type": 2,
     "env_type": 1,
     "born_pos_x": -1630,
@@ -808,6 +823,7 @@
     "editor_name": "夜游魔守护地（白盒）",
     "scene_name": "夜游魔守护地（白盒）",
     "scene_res_id": 20051,
+    "is_unused": true,
     "scene_load_type": 2,
     "env_type": 1,
     "born_pos_x": 3080,
@@ -820,6 +836,7 @@
     "editor_name": "星云旅者守护地（白盒）",
     "scene_name": "星云旅者守护地（白盒）",
     "scene_res_id": 20052,
+    "is_unused": true,
     "scene_load_type": 2,
     "env_type": 1,
     "born_pos_x": -2770,
@@ -832,7 +849,7 @@
     "scene_name": "家园-室内",
     "scene_res_id": 30001,
     "scene_load_type": 2,
-    "env_type": 3,
+    "env_type": 8,
     "born_pos_z": 100
   },
   {
@@ -853,8 +870,9 @@
   {
     "id": 501,
     "editor_name": "赛季副本S1-day5",
-    "scene_name": "记忆中的黑巫团基地",
+    "scene_name": "恶系地牢",
     "scene_res_id": 100001,
+    "is_unused": true,
     "scene_load_type": 2,
     "env_type": 1,
     "born_pos_x": 166,
@@ -868,8 +886,9 @@
   {
     "id": 502,
     "editor_name": "赛季副本S1-day9",
-    "scene_name": "记忆中的魔力果之森",
+    "scene_name": "魔力果之森",
     "scene_res_id": 100002,
+    "is_unused": true,
     "scene_load_type": 2,
     "env_type": 1,
     "born_pos_x": -3140,
@@ -880,8 +899,9 @@
   {
     "id": 503,
     "editor_name": "赛季副本S1-day13",
-    "scene_name": "记忆中的精灵农场",
+    "scene_name": "精灵农场",
     "scene_res_id": 100003,
+    "is_unused": true,
     "scene_load_type": 2,
     "env_type": 1,
     "born_pos_x": 10234,
@@ -892,8 +912,9 @@
   {
     "id": 504,
     "editor_name": "赛季副本S1-day17",
-    "scene_name": "记忆中的魔力果之森",
+    "scene_name": "魔力果之森·夜",
     "scene_res_id": 100004,
+    "is_unused": true,
     "scene_load_type": 2,
     "env_type": 1,
     "born_pos_x": -3581,
@@ -904,8 +925,9 @@
   {
     "id": 505,
     "editor_name": "赛季副本S1-day21",
-    "scene_name": "噩梦龙息帕尔领地",
+    "scene_name": "帕尔幻境",
     "scene_res_id": 100005,
+    "is_unused": true,
     "scene_load_type": 2,
     "env_type": 1,
     "born_pos_x": -1391,
@@ -915,6 +937,100 @@
     "block_ids": [
       405050029
     ]
+  },
+  {
+    "id": 506,
+    "editor_name": "赛季副本S2-钨丝贝贝",
+    "scene_name": "高空钢索表演",
+    "scene_res_id": 100006,
+    "scene_load_type": 2,
+    "env_type": 1,
+    "born_pos_x": -886192,
+    "born_pos_y": 889595,
+    "born_pos_z": 437,
+    "born_spin_z": 180
+  },
+  {
+    "id": 507,
+    "editor_name": "赛季副本S2-机械方方",
+    "scene_name": "大排练室",
+    "scene_res_id": 100007,
+    "scene_load_type": 2,
+    "env_type": 1,
+    "born_pos_x": -885050,
+    "born_pos_y": 887577,
+    "born_pos_z": 1,
+    "born_spin_z": 185
+  },
+  {
+    "id": 508,
+    "editor_name": "赛季副本S2-雪怪",
+    "scene_name": "绒雪盛典",
+    "scene_res_id": 100008,
+    "scene_load_type": 2,
+    "env_type": 1,
+    "born_pos_x": -885843,
+    "born_pos_y": 886023,
+    "born_pos_z": 82,
+    "born_spin_z": 120
+  },
+  {
+    "id": 509,
+    "editor_name": "赛季副本S2-声波缇塔",
+    "scene_name": "供电室",
+    "scene_res_id": 100009,
+    "scene_load_type": 2,
+    "env_type": 1,
+    "born_pos_x": 1540,
+    "born_pos_y": 1096,
+    "born_pos_z": 434,
+    "born_spin_z": 160
+  },
+  {
+    "id": 601,
+    "editor_name": "草系徽章-野外研究院",
+    "scene_name": "草系徽章-野外研究院",
+    "scene_res_id": 60001,
+    "scene_load_type": 2,
+    "env_type": 1,
+    "born_pos_x": -890,
+    "born_pos_y": -830,
+    "born_pos_z": 102
+  },
+  {
+    "id": 602,
+    "editor_name": "草系徽章-野外研究院BOSS战",
+    "scene_name": "草系徽章-野外研究院BOSS战",
+    "scene_res_id": 60002,
+    "scene_load_type": 2,
+    "env_type": 1,
+    "born_pos_x": -1940,
+    "born_pos_y": -900,
+    "born_pos_z": 102
+  },
+  {
+    "id": 603,
+    "editor_name": "草系徽章-横版场景",
+    "scene_name": "草系徽章-横版场景",
+    "scene_res_id": 60003,
+    "scene_load_type": 2,
+    "env_type": 1,
+    "born_pos_x": -450,
+    "born_pos_y": 1150,
+    "born_pos_z": 62,
+    "born_spin_z": -90
+  },
+  {
+    "id": 604,
+    "editor_name": "草系徽章-魔法学院入口",
+    "scene_name": "草系徽章-魔法学院入口",
+    "scene_res_id": 60004,
+    "is_unused": true,
+    "scene_load_type": 2,
+    "env_type": 1,
+    "born_pos_x": -6233,
+    "born_pos_y": 16867,
+    "born_pos_z": -2638
   },
   {
     "id": 801,

@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "星星魔法",
+    "magic_priority": 1,
     "localization_id": "umg_magic_learned_1",
     "get_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/T_UI_WZ_005.T_UI_WZ_005'",
     "magic_type": 1,
@@ -29,12 +30,12 @@
       {
         "effect": 2
       }
-    ],
-    "magic_priority": 1
+    ]
   },
   {
     "id": 2,
     "name": "星星魔法",
+    "magic_priority": 1,
     "localization_id": "umg_magic_learned_1",
     "get_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/T_UI_WZ_005.T_UI_WZ_005'",
     "magic_type": 1,
@@ -62,12 +63,12 @@
       {
         "effect": 2
       }
-    ],
-    "magic_priority": 1
+    ]
   },
   {
     "id": 3,
     "name": "星星魔法",
+    "magic_priority": 1,
     "localization_id": "umg_magic_learned_1",
     "get_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/T_UI_WZ_005.T_UI_WZ_005'",
     "magic_type": 1,
@@ -95,12 +96,12 @@
       {
         "effect": 2
       }
-    ],
-    "magic_priority": 1
+    ]
   },
   {
     "id": 21,
     "name": "浮风术",
+    "magic_priority": 5,
     "localization_id": "umg_magic_learned_2",
     "get_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/T_UI_WZ_020.T_UI_WZ_020'",
     "magic_type": 2,
@@ -132,12 +133,12 @@
       {
         "effect": 2
       }
-    ],
-    "magic_priority": 5
+    ]
   },
   {
     "id": 22,
     "name": "浮风术",
+    "magic_priority": 5,
     "localization_id": "umg_magic_learned_2",
     "get_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/T_UI_WZ_020.T_UI_WZ_020'",
     "magic_type": 2,
@@ -169,12 +170,12 @@
       {
         "effect": 2
       }
-    ],
-    "magic_priority": 5
+    ]
   },
   {
     "id": 23,
     "name": "浮风术",
+    "magic_priority": 5,
     "localization_id": "umg_magic_learned_2",
     "get_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/T_UI_WZ_020.T_UI_WZ_020'",
     "magic_type": 2,
@@ -206,12 +207,12 @@
       {
         "effect": 2
       }
-    ],
-    "magic_priority": 5
+    ]
   },
   {
     "id": 31,
     "name": "光系魔法",
+    "magic_priority": 7,
     "localization_id": "umg_magic_learned_4",
     "get_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/T_UI_WZ_023.T_UI_WZ_023'",
     "magic_type": 5,
@@ -243,12 +244,12 @@
       {
         "effect": 2
       }
-    ],
-    "magic_priority": 7
+    ]
   },
   {
     "id": 32,
     "name": "光系魔法",
+    "magic_priority": 7,
     "localization_id": "umg_magic_learned_4",
     "get_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/T_UI_WZ_023.T_UI_WZ_023'",
     "magic_type": 5,
@@ -280,12 +281,12 @@
       {
         "effect": 2
       }
-    ],
-    "magic_priority": 7
+    ]
   },
   {
     "id": 33,
     "name": "光系魔法",
+    "magic_priority": 7,
     "localization_id": "umg_magic_learned_4",
     "get_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/T_UI_WZ_023.T_UI_WZ_023'",
     "magic_type": 5,
@@ -317,12 +318,12 @@
       {
         "effect": 2
       }
-    ],
-    "magic_priority": 7
+    ]
   },
   {
     "id": 98,
     "name": "老配置星星魔法",
+    "magic_priority": 999,
     "localization_id": "umg_magic_learned_1",
     "get_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/T_UI_WZ_005.T_UI_WZ_005'",
     "magic_type": 1,
@@ -345,12 +346,12 @@
       {
         "effect": 2
       }
-    ],
-    "magic_priority": 999
+    ]
   },
   {
     "id": 99,
     "name": "老配置浮风术",
+    "magic_priority": 998,
     "localization_id": "umg_magic_learned_2",
     "get_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/T_UI_WZ_020.T_UI_WZ_020'",
     "magic_type": 2,
@@ -371,12 +372,12 @@
       {
         "effect": 2
       }
-    ],
-    "magic_priority": 998
+    ]
   },
   {
     "id": 101,
     "name": "液化术",
+    "magic_priority": 6,
     "localization_id": "umg_magic_learned_3",
     "get_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/T_UI_WZ_021.T_UI_WZ_021'",
     "magic_type": 4,
@@ -393,12 +394,12 @@
           3118
         ]
       }
-    ],
-    "magic_priority": 6
+    ]
   },
   {
     "id": 201,
     "name": "创造魔法",
+    "magic_priority": 4,
     "localization_id": "umg_magic_learned_5",
     "get_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/T_UI_WZ_022.T_UI_WZ_022'",
     "magic_type": 3,
@@ -415,12 +416,12 @@
           801195
         ]
       }
-    ],
-    "magic_priority": 4
+    ]
   },
   {
     "id": 301,
     "name": "留言魔法",
+    "magic_priority": 2,
     "localization_id": "umg_magic_learned_6",
     "get_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/7010100.7010100'",
     "magic_type": 6,
@@ -433,12 +434,12 @@
           1002005
         ]
       }
-    ],
-    "magic_priority": 2
+    ]
   },
   {
     "id": 401,
     "name": "留影魔法",
+    "magic_priority": 3,
     "localization_id": "umg_magic_learned_7",
     "get_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/7010110.7010110'",
     "magic_type": 7,
@@ -455,7 +456,6 @@
           1002653
         ]
       }
-    ],
-    "magic_priority": 3
+    ]
   }
 ]

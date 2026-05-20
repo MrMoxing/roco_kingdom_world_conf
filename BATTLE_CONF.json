@@ -400,6 +400,310 @@
     "npc_round_tip_scale": 80
   },
   {
+    "id": 9,
+    "name": "测试用战斗ID-NPC2v2",
+    "type": 28,
+    "battle_model": 10002,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 999,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 120,
+    "round_select_timeout": 90,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 17001,
+        "pos1_1st": [
+          410001
+        ],
+        "pos2_1st": [
+          410002
+        ],
+        "pos3_1st": [
+          410003
+        ],
+        "pos4_1st": [
+          410004
+        ],
+        "pos5_1st": [
+          410005
+        ],
+        "pos6_1st": [
+          410006
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      },
+      {
+        "battle_model_1st": 17001,
+        "pos1_1st": [
+          410001
+        ],
+        "pos2_1st": [
+          410002
+        ],
+        "pos3_1st": [
+          410003
+        ],
+        "pos4_1st": [
+          410004
+        ],
+        "pos5_1st": [
+          410005
+        ],
+        "pos6_1st": [
+          410006
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "pet_close_buff": 3,
+    "npc_battle_ally_list": [
+      {
+        "battle_model_ally": 17001,
+        "pos1_1st_ally": [
+          410001
+        ],
+        "pos2_1st_ally": [
+          410002
+        ],
+        "pos3_1st_ally": [
+          410003
+        ],
+        "pos4_1st_ally": [
+          410004
+        ],
+        "pos5_1st_ally": [
+          410005
+        ],
+        "pos6_1st_ally": [
+          410006
+        ],
+        "ball1_1st_ally": 100002,
+        "ball2_1st_ally": 100003,
+        "ball3_1st_ally": 100002,
+        "ball4_1st_ally": 100255,
+        "ball5_1st_ally": 100002,
+        "ball6_1st_ally": 100002
+      }
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 10,
+    "name": "测试用战斗ID1v1",
+    "type": 36,
+    "battle_model": 10002,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 999,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 120,
+    "round_select_timeout": 90,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 17001,
+        "pos1_1st": [
+          410001
+        ],
+        "pos2_1st": [
+          410002
+        ],
+        "pos3_1st": [
+          410003
+        ],
+        "pos4_1st": [
+          410004
+        ],
+        "pos5_1st": [
+          410005
+        ],
+        "pos6_1st": [
+          410006
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "pet_close_buff": 3,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 11,
+    "name": "测试用战斗ID-2v2",
+    "type": 36,
+    "battle_model": 10002,
+    "challanger_unit_num": 2,
+    "bechallanger_unit_num": 2,
+    "max_round": 999,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 120,
+    "round_select_timeout": 90,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 17001,
+        "pos1_1st": [
+          410001
+        ],
+        "pos2_1st": [
+          410002
+        ],
+        "pos3_1st": [
+          410003
+        ],
+        "pos4_1st": [
+          410004
+        ],
+        "pos5_1st": [
+          410005
+        ],
+        "pos6_1st": [
+          410006
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "pet_close_buff": 3,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 12,
+    "name": "测试用战斗ID-NPC2v2",
+    "type": 36,
+    "battle_model": 10002,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 999,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 120,
+    "round_select_timeout": 90,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 17001,
+        "pos1_1st": [
+          410001
+        ],
+        "pos2_1st": [
+          410002
+        ],
+        "pos3_1st": [
+          410003
+        ],
+        "pos4_1st": [
+          410004
+        ],
+        "pos5_1st": [
+          410005
+        ],
+        "pos6_1st": [
+          410006
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      },
+      {
+        "battle_model_1st": 17001,
+        "pos1_1st": [
+          410001
+        ],
+        "pos2_1st": [
+          410002
+        ],
+        "pos3_1st": [
+          410003
+        ],
+        "pos4_1st": [
+          410004
+        ],
+        "pos5_1st": [
+          410005
+        ],
+        "pos6_1st": [
+          410006
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "pet_close_buff": 3,
+    "npc_battle_ally_list": [
+      {
+        "battle_model_ally": 17001,
+        "pos1_1st_ally": [
+          410001
+        ],
+        "pos2_1st_ally": [
+          410002
+        ],
+        "pos3_1st_ally": [
+          410003
+        ],
+        "pos4_1st_ally": [
+          410004
+        ],
+        "pos5_1st_ally": [
+          410005
+        ],
+        "pos6_1st_ally": [
+          410006
+        ],
+        "ball1_1st_ally": 100002,
+        "ball2_1st_ally": 100003,
+        "ball3_1st_ally": 100002,
+        "ball4_1st_ally": 100255,
+        "ball5_1st_ally": 100002,
+        "ball6_1st_ally": 100002
+      }
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
     "id": 1001,
     "name": "1星稀兽花种（团体战）",
     "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_XMTZ/TeamBattle_XMTZ_Release",
@@ -1745,15 +2049,15 @@
   },
   {
     "id": 200001,
-    "name": "传说精灵团体战_1凡鹰",
-    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_LiAo3/TeamBattle_LiAo3_Release",
+    "name": "传说精灵团体战_凡鹰_难度1",
+    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_SSFY/TeamBattle_SSFY_Release",
     "type": 12,
-    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_LiAo/LiAo_Master",
+    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_FanQue_002/GodPets_FanQue_Master",
     "challanger_unit_num": 1,
     "bechallanger_unit_num": 1,
     "max_round": 100,
     "background_music": 9022,
-    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan",
+    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan;ShenShou;Default",
     "can_useitem_or_not": 1,
     "can_escape": 1,
     "can_changepet": 1,
@@ -1826,7 +2130,9 @@
       10100
     ],
     "battle_tlog_type": 11,
-    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_LiAo3",
+    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_FanQue3",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle",
+    "transiton_blackboard": "FanYing",
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
     "is_mark_close": true,
@@ -1834,15 +2140,15 @@
   },
   {
     "id": 200002,
-    "name": "传说精灵团体战_1凡鹰",
-    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_LiAo3/TeamBattle_LiAo3_Release",
+    "name": "传说精灵团体战_凡鹰_难度2",
+    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_SSFY/TeamBattle_SSFY_Release",
     "type": 12,
-    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_LiAo/LiAo_Master",
+    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_FanQue_002/GodPets_FanQue_Master",
     "challanger_unit_num": 1,
     "bechallanger_unit_num": 1,
     "max_round": 100,
     "background_music": 9022,
-    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan",
+    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan;ShenShou;Default",
     "can_useitem_or_not": 1,
     "can_escape": 1,
     "can_changepet": 1,
@@ -1915,7 +2221,9 @@
       10100
     ],
     "battle_tlog_type": 11,
-    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_LiAo3",
+    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_FanQue3",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle",
+    "transiton_blackboard": "FanYing",
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
     "is_mark_close": true,
@@ -1923,15 +2231,15 @@
   },
   {
     "id": 200003,
-    "name": "传说精灵团体战_3凡鹰",
-    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_LiAo3/TeamBattle_LiAo3_Release",
+    "name": "传说精灵团体战_凡鹰_难度3",
+    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_SSFY/TeamBattle_SSFY_Release",
     "type": 12,
-    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_LiAo/LiAo_Master",
+    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_FanQue_002/GodPets_FanQue_Master",
     "challanger_unit_num": 1,
     "bechallanger_unit_num": 1,
     "max_round": 100,
     "background_music": 9022,
-    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan",
+    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan;ShenShou;Default",
     "can_useitem_or_not": 1,
     "can_escape": 1,
     "can_changepet": 1,
@@ -2005,7 +2313,9 @@
       10100
     ],
     "battle_tlog_type": 11,
-    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_LiAo3",
+    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_FanQue3",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle",
+    "transiton_blackboard": "FanYing",
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
     "is_mark_close": true,
@@ -2013,15 +2323,15 @@
   },
   {
     "id": 200004,
-    "name": "传说精灵团体战_4凡鹰",
-    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_LiAo3/TeamBattle_LiAo3_Release",
+    "name": "传说精灵团体战_凡鹰_难度4",
+    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_SSFY/TeamBattle_SSFY_Release",
     "type": 12,
-    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_LiAo/LiAo_Master",
+    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_FanQue_002/GodPets_FanQue_Master",
     "challanger_unit_num": 1,
     "bechallanger_unit_num": 1,
     "max_round": 100,
     "background_music": 9022,
-    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan",
+    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan;ShenShou;Default",
     "can_useitem_or_not": 1,
     "can_escape": 1,
     "can_changepet": 1,
@@ -2095,7 +2405,9 @@
       10100
     ],
     "battle_tlog_type": 11,
-    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_LiAo3",
+    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_FanQue3",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle",
+    "transiton_blackboard": "FanYing",
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
     "is_mark_close": true,
@@ -2103,15 +2415,15 @@
   },
   {
     "id": 200005,
-    "name": "传说精灵团体战_5凡鹰",
-    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_LiAo3/TeamBattle_LiAo3_Release",
+    "name": "传说精灵团体战_凡鹰_难度5",
+    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_SSFY/TeamBattle_SSFY_Release",
     "type": 12,
-    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_LiAo/LiAo_Master",
+    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_FanQue_002/GodPets_FanQue_Master",
     "challanger_unit_num": 1,
     "bechallanger_unit_num": 1,
     "max_round": 100,
     "background_music": 9022,
-    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan",
+    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan;ShenShou;Default",
     "can_useitem_or_not": 1,
     "can_escape": 1,
     "can_changepet": 1,
@@ -2185,7 +2497,9 @@
       10100
     ],
     "battle_tlog_type": 11,
-    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_LiAo3",
+    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_FanQue3",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle",
+    "transiton_blackboard": "FanYing",
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
     "is_mark_close": true,
@@ -2193,15 +2507,15 @@
   },
   {
     "id": 200006,
-    "name": "传说精灵团体战_6凡鹰",
-    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_LiAo3/TeamBattle_LiAo3_Release",
+    "name": "传说精灵团体战_凡鹰_难度6",
+    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_SSFY/TeamBattle_SSFY_Release",
     "type": 12,
-    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_LiAo/LiAo_Master",
+    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_FanQue_002/GodPets_FanQue_Master",
     "challanger_unit_num": 1,
     "bechallanger_unit_num": 1,
     "max_round": 100,
     "background_music": 9022,
-    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan",
+    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan;ShenShou;Default",
     "can_useitem_or_not": 1,
     "can_escape": 1,
     "can_changepet": 1,
@@ -2275,367 +2589,9 @@
       10100
     ],
     "battle_tlog_type": 11,
-    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_LiAo3",
-    "npc_round_scale": 100,
-    "npc_round_tip_scale": 100,
-    "is_mark_close": true,
-    "cancel_watch": 1
-  },
-  {
-    "id": 200007,
-    "name": "传说精灵团体战_7凡鹰",
-    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_LiAo3/TeamBattle_LiAo3_Release",
-    "type": 12,
-    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_LiAo/LiAo_Master",
-    "challanger_unit_num": 1,
-    "bechallanger_unit_num": 1,
-    "max_round": 100,
-    "background_music": 9022,
-    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan",
-    "can_useitem_or_not": 1,
-    "can_escape": 1,
-    "can_changepet": 1,
-    "use_ball_time": 9999,
-    "round_pet_timeout": 570,
-    "round_select_timeout": 570,
-    "pre_perform_timeout": 300,
-    "wait_load_timeout": 13,
-    "catch_timeout": 12000,
-    "npc_battle_list": [
-      {
-        "pos1_1st": [
-          200007
-        ],
-        "ball1_1st": 100002,
-        "ball2_1st": 100003,
-        "ball3_1st": 100002,
-        "ball4_1st": 100255,
-        "ball5_1st": 100002,
-        "ball6_1st": 100002
-      }
-    ],
-    "battle_done_data": 1,
-    "battle_end_notify": 1,
-    "teamA_prohibit_buff": [
-      20480010,
-      20480020,
-      20480030,
-      20480040,
-      20480050,
-      20480060,
-      20480070,
-      20480071,
-      20480072,
-      20480080,
-      20480100,
-      20480130,
-      20480101,
-      20480097,
-      20480041
-    ],
-    "teamB_prohibit_buff": [
-      20480010,
-      20480020,
-      20480030,
-      20480040,
-      20480050,
-      20480060,
-      20480070,
-      20480071,
-      20480072,
-      20480080,
-      1044001,
-      20480100,
-      20480130,
-      20480095,
-      20480101,
-      20480041,
-      20480097,
-      20480096
-    ],
-    "is_hideskill": 5,
-    "player_battle_buff": [
-      20030012
-    ],
-    "npc_battle_buff": [
-      20030013
-    ],
-    "pet_close_buff": 4,
-    "battle_rule": [
-      10100
-    ],
-    "battle_tlog_type": 11,
-    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_LiAo3",
-    "npc_round_scale": 100,
-    "npc_round_tip_scale": 100,
-    "is_mark_close": true,
-    "cancel_watch": 1
-  },
-  {
-    "id": 200008,
-    "name": "传说精灵团体战_8凡鹰",
-    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_LiAo3/TeamBattle_LiAo3_Release",
-    "type": 12,
-    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_LiAo/LiAo_Master",
-    "challanger_unit_num": 1,
-    "bechallanger_unit_num": 1,
-    "max_round": 100,
-    "background_music": 9022,
-    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan",
-    "can_useitem_or_not": 1,
-    "can_escape": 1,
-    "can_changepet": 1,
-    "use_ball_time": 9999,
-    "round_pet_timeout": 570,
-    "round_select_timeout": 570,
-    "pre_perform_timeout": 300,
-    "wait_load_timeout": 13,
-    "catch_timeout": 12000,
-    "npc_battle_list": [
-      {
-        "pos1_1st": [
-          200008
-        ],
-        "ball1_1st": 100002,
-        "ball2_1st": 100003,
-        "ball3_1st": 100002,
-        "ball4_1st": 100255,
-        "ball5_1st": 100002,
-        "ball6_1st": 100002
-      }
-    ],
-    "battle_done_data": 1,
-    "battle_end_notify": 1,
-    "teamA_prohibit_buff": [
-      20480010,
-      20480020,
-      20480030,
-      20480040,
-      20480050,
-      20480060,
-      20480070,
-      20480071,
-      20480072,
-      20480080,
-      20480100,
-      20480130,
-      20480101,
-      20480097,
-      20480041
-    ],
-    "teamB_prohibit_buff": [
-      20480010,
-      20480020,
-      20480030,
-      20480040,
-      20480050,
-      20480060,
-      20480070,
-      20480071,
-      20480072,
-      20480080,
-      1044001,
-      20480100,
-      20480130,
-      20480095,
-      20480101,
-      20480041,
-      20480097,
-      20480096
-    ],
-    "is_hideskill": 6,
-    "player_battle_buff": [
-      20030012
-    ],
-    "npc_battle_buff": [
-      20030013
-    ],
-    "pet_close_buff": 4,
-    "battle_rule": [
-      10100
-    ],
-    "battle_tlog_type": 11,
-    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_LiAo3",
-    "npc_round_scale": 100,
-    "npc_round_tip_scale": 100,
-    "is_mark_close": true,
-    "cancel_watch": 1
-  },
-  {
-    "id": 200009,
-    "name": "传说精灵团体战_9凡鹰",
-    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_LiAo3/TeamBattle_LiAo3_Release",
-    "type": 12,
-    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_LiAo/LiAo_Master",
-    "challanger_unit_num": 1,
-    "bechallanger_unit_num": 1,
-    "max_round": 100,
-    "background_music": 9022,
-    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan",
-    "can_useitem_or_not": 1,
-    "can_escape": 1,
-    "can_changepet": 1,
-    "use_ball_time": 9999,
-    "round_pet_timeout": 570,
-    "round_select_timeout": 570,
-    "pre_perform_timeout": 300,
-    "wait_load_timeout": 13,
-    "catch_timeout": 12000,
-    "npc_battle_list": [
-      {
-        "pos1_1st": [
-          200009
-        ],
-        "ball1_1st": 100002,
-        "ball2_1st": 100003,
-        "ball3_1st": 100002,
-        "ball4_1st": 100255,
-        "ball5_1st": 100002,
-        "ball6_1st": 100002
-      }
-    ],
-    "battle_done_data": 1,
-    "battle_end_notify": 1,
-    "teamA_prohibit_buff": [
-      20480010,
-      20480020,
-      20480030,
-      20480040,
-      20480050,
-      20480060,
-      20480070,
-      20480071,
-      20480072,
-      20480080,
-      20480100,
-      20480130,
-      20480101,
-      20480097,
-      20480041
-    ],
-    "teamB_prohibit_buff": [
-      20480010,
-      20480020,
-      20480030,
-      20480040,
-      20480050,
-      20480060,
-      20480070,
-      20480071,
-      20480072,
-      20480080,
-      1044001,
-      20480100,
-      20480130,
-      20480095,
-      20480101,
-      20480041,
-      20480097,
-      20480096
-    ],
-    "is_hideskill": 7,
-    "player_battle_buff": [
-      20030012
-    ],
-    "npc_battle_buff": [
-      20030013
-    ],
-    "pet_close_buff": 4,
-    "battle_rule": [
-      10100
-    ],
-    "battle_tlog_type": 11,
-    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_LiAo3",
-    "npc_round_scale": 100,
-    "npc_round_tip_scale": 100,
-    "is_mark_close": true,
-    "cancel_watch": 1
-  },
-  {
-    "id": 200010,
-    "name": "传说精灵团体战_10凡鹰",
-    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_LiAo3/TeamBattle_LiAo3_Release",
-    "type": 12,
-    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_LiAo/LiAo_Master",
-    "challanger_unit_num": 1,
-    "bechallanger_unit_num": 1,
-    "max_round": 100,
-    "background_music": 9022,
-    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan",
-    "can_useitem_or_not": 1,
-    "can_escape": 1,
-    "can_changepet": 1,
-    "use_ball_time": 9999,
-    "round_pet_timeout": 570,
-    "round_select_timeout": 570,
-    "pre_perform_timeout": 300,
-    "wait_load_timeout": 13,
-    "catch_timeout": 12000,
-    "npc_battle_list": [
-      {
-        "pos1_1st": [
-          200010
-        ],
-        "ball1_1st": 100002,
-        "ball2_1st": 100003,
-        "ball3_1st": 100002,
-        "ball4_1st": 100255,
-        "ball5_1st": 100002,
-        "ball6_1st": 100002
-      }
-    ],
-    "battle_done_data": 1,
-    "battle_end_notify": 1,
-    "teamA_prohibit_buff": [
-      20480010,
-      20480020,
-      20480030,
-      20480040,
-      20480050,
-      20480060,
-      20480070,
-      20480071,
-      20480072,
-      20480080,
-      20480100,
-      20480130,
-      20480101,
-      20480097,
-      20480041
-    ],
-    "teamB_prohibit_buff": [
-      20480010,
-      20480020,
-      20480030,
-      20480040,
-      20480050,
-      20480060,
-      20480070,
-      20480071,
-      20480072,
-      20480080,
-      1044001,
-      20480100,
-      20480130,
-      20480095,
-      20480101,
-      20480041,
-      20480097,
-      20480096
-    ],
-    "is_hideskill": 4,
-    "player_battle_buff": [
-      20030012
-    ],
-    "npc_battle_buff": [
-      20030013
-    ],
-    "pet_close_buff": 4,
-    "battle_rule": [
-      10100
-    ],
-    "battle_tlog_type": 11,
-    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_LiAo3",
+    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_FanQue3",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle",
+    "transiton_blackboard": "FanYing",
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
     "is_mark_close": true,
@@ -2725,6 +2681,8 @@
     ],
     "battle_tlog_type": 11,
     "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_PaErSaSi",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle",
+    "transiton_blackboard": "PaErSaSi",
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
     "is_mark_close": true,
@@ -2814,6 +2772,8 @@
     ],
     "battle_tlog_type": 11,
     "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_PaErSaSi",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle",
+    "transiton_blackboard": "PaErSaSi",
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
     "is_mark_close": true,
@@ -2904,6 +2864,8 @@
     ],
     "battle_tlog_type": 11,
     "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_PaErSaSi",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle",
+    "transiton_blackboard": "PaErSaSi",
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
     "is_mark_close": true,
@@ -2994,6 +2956,8 @@
     ],
     "battle_tlog_type": 11,
     "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_PaErSaSi",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle",
+    "transiton_blackboard": "PaErSaSi",
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
     "is_mark_close": true,
@@ -3084,6 +3048,8 @@
     ],
     "battle_tlog_type": 11,
     "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_PaErSaSi",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle",
+    "transiton_blackboard": "PaErSaSi",
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
     "is_mark_close": true,
@@ -3174,6 +3140,8 @@
     ],
     "battle_tlog_type": 11,
     "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_PaErSaSi",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle",
+    "transiton_blackboard": "PaErSaSi",
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
     "is_mark_close": true,
@@ -3263,6 +3231,8 @@
     ],
     "battle_tlog_type": 11,
     "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_LiAo3",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle",
+    "transiton_blackboard": "LiAo",
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
     "is_mark_close": true,
@@ -3352,6 +3322,8 @@
     ],
     "battle_tlog_type": 11,
     "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_LiAo3",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle",
+    "transiton_blackboard": "LiAo",
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
     "is_mark_close": true,
@@ -3442,6 +3414,8 @@
     ],
     "battle_tlog_type": 11,
     "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_LiAo3",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle",
+    "transiton_blackboard": "LiAo",
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
     "is_mark_close": true,
@@ -3532,6 +3506,8 @@
     ],
     "battle_tlog_type": 11,
     "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_LiAo3",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle",
+    "transiton_blackboard": "LiAo",
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
     "is_mark_close": true,
@@ -3622,6 +3598,8 @@
     ],
     "battle_tlog_type": 11,
     "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_LiAo3",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle",
+    "transiton_blackboard": "LiAo",
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
     "is_mark_close": true,
@@ -3712,6 +3690,554 @@
     ],
     "battle_tlog_type": 11,
     "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_LiAo3",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle",
+    "transiton_blackboard": "LiAo",
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "is_mark_close": true,
+    "cancel_watch": 1
+  },
+  {
+    "id": 200031,
+    "name": "传说精灵团体战_机幕方舟_难度1",
+    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_JMFZ/TeamBattle_JMFZ_Release",
+    "type": 12,
+    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_JiMuFangZhou/GodPets_JiMuFangZhou_Master",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 100,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan;ShenShou;JiMuFangZhou",
+    "can_useitem_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 9999,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 300,
+    "wait_load_timeout": 13,
+    "catch_timeout": 12000,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          200031
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "battle_done_data": 1,
+    "battle_end_notify": 1,
+    "teamA_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      20480100,
+      20480130,
+      20480101,
+      20480097,
+      20480041
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480130,
+      20480095,
+      20480101,
+      20480041,
+      20480097,
+      20480096
+    ],
+    "is_hideskill": 4,
+    "player_battle_buff": [
+      20030012
+    ],
+    "npc_battle_buff": [
+      20030013
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10100
+    ],
+    "battle_tlog_type": 11,
+    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_Mac_WuSiBB3",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle_JMFZ",
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "is_mark_close": true,
+    "cancel_watch": 1
+  },
+  {
+    "id": 200032,
+    "name": "传说精灵团体战_机幕方舟_难度2",
+    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_JMFZ/TeamBattle_JMFZ_Release",
+    "type": 12,
+    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_JiMuFangZhou/GodPets_JiMuFangZhou_Master",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 100,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan;ShenShou;JiMuFangZhou",
+    "can_useitem_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 9999,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 300,
+    "wait_load_timeout": 13,
+    "catch_timeout": 12000,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          200032
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "battle_done_data": 1,
+    "battle_end_notify": 1,
+    "teamA_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      20480100,
+      20480130,
+      20480101,
+      20480097,
+      20480041
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480130,
+      20480095,
+      20480101,
+      20480041,
+      20480097,
+      20480096
+    ],
+    "is_hideskill": 4,
+    "player_battle_buff": [
+      20030012
+    ],
+    "npc_battle_buff": [
+      20030013
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10100
+    ],
+    "battle_tlog_type": 11,
+    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_Mac_WuSiBB3",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle_JMFZ",
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "is_mark_close": true,
+    "cancel_watch": 1
+  },
+  {
+    "id": 200033,
+    "name": "传说精灵团体战_机幕方舟_难度3",
+    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_JMFZ/TeamBattle_JMFZ_Release",
+    "type": 12,
+    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_JiMuFangZhou/GodPets_JiMuFangZhou_Master",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 100,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan;ShenShou;JiMuFangZhou",
+    "can_useitem_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 9999,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 300,
+    "wait_load_timeout": 13,
+    "catch_timeout": 12000,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          200033
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "battle_done_data": 1,
+    "battle_end_notify": 1,
+    "teamA_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      20480100,
+      20480130,
+      20480101,
+      20480097,
+      20480041
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480130,
+      20480095,
+      20480101,
+      20480041,
+      20480097,
+      20480096
+    ],
+    "is_hideskill": 4,
+    "player_battle_buff": [
+      20030012
+    ],
+    "npc_battle_buff": [
+      20030013
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10100
+    ],
+    "battle_tlog_type": 11,
+    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_Mac_WuSiBB3",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle_JMFZ",
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "is_mark_close": true,
+    "cancel_watch": 1
+  },
+  {
+    "id": 200034,
+    "name": "传说精灵团体战_机幕方舟_难度4",
+    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_JMFZ/TeamBattle_JMFZ_Release",
+    "type": 12,
+    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_JiMuFangZhou/GodPets_JiMuFangZhou_Master",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 100,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan;ShenShou;JiMuFangZhou",
+    "can_useitem_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 9999,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 300,
+    "wait_load_timeout": 13,
+    "catch_timeout": 12000,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          200034
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "battle_done_data": 1,
+    "battle_end_notify": 1,
+    "teamA_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      20480100,
+      20480130,
+      20480101,
+      20480097,
+      20480041
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480130,
+      20480095,
+      20480101,
+      20480041,
+      20480097,
+      20480096
+    ],
+    "is_hideskill": 4,
+    "player_battle_buff": [
+      20030012
+    ],
+    "npc_battle_buff": [
+      20030013
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10100
+    ],
+    "battle_tlog_type": 11,
+    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_Mac_WuSiBB3",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle_JMFZ",
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "is_mark_close": true,
+    "cancel_watch": 1
+  },
+  {
+    "id": 200035,
+    "name": "传说精灵团体战_机幕方舟_难度5",
+    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_JMFZ/TeamBattle_JMFZ_Release",
+    "type": 12,
+    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_JiMuFangZhou/GodPets_JiMuFangZhou_Master",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 100,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan;ShenShou;JiMuFangZhou",
+    "can_useitem_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 9999,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 300,
+    "wait_load_timeout": 13,
+    "catch_timeout": 12000,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          200035
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "battle_done_data": 1,
+    "battle_end_notify": 1,
+    "teamA_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      20480100,
+      20480130,
+      20480101,
+      20480097,
+      20480041
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480130,
+      20480095,
+      20480101,
+      20480041,
+      20480097,
+      20480096
+    ],
+    "is_hideskill": 4,
+    "player_battle_buff": [
+      20030012
+    ],
+    "npc_battle_buff": [
+      20030013
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10100
+    ],
+    "battle_tlog_type": 11,
+    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_Mac_WuSiBB3",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle_JMFZ",
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "is_mark_close": true,
+    "cancel_watch": 1
+  },
+  {
+    "id": 200036,
+    "name": "传说精灵团体战_机幕方舟_难度6",
+    "background": "/Game/ArtRes/Level/Game/TeamBattle/TeamBattle_JMFZ/TeamBattle_JMFZ_Release",
+    "type": 12,
+    "show_res": "/Game/ArtRes/AnimSequence/Sequence/Plot/GodPets/GodPets_JiMuFangZhou/GodPets_JiMuFangZhou_Master",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 100,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan;ShenShou;JiMuFangZhou",
+    "can_useitem_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 9999,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 300,
+    "wait_load_timeout": 13,
+    "catch_timeout": 12000,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          200036
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "battle_done_data": 1,
+    "battle_end_notify": 1,
+    "teamA_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      20480100,
+      20480130,
+      20480101,
+      20480097,
+      20480041
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480130,
+      20480095,
+      20480101,
+      20480041,
+      20480097,
+      20480096
+    ],
+    "is_hideskill": 4,
+    "player_battle_buff": [
+      20030012
+    ],
+    "npc_battle_buff": [
+      20030013
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10100
+    ],
+    "battle_tlog_type": 11,
+    "die_show": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Die_Mac_WuSiBB3",
+    "transiton": "/Game/ArtRes/Effects/G6Skill/ShenShou/G6_ShenShou_Transmit_Battle_JMFZ",
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
     "is_mark_close": true,
@@ -13895,7 +14421,7 @@
   },
   {
     "id": 250315,
-    "name": "古齿帝牙",
+    "name": "冰晶古齿虎",
     "type": 1,
     "challanger_unit_num": 1,
     "bechallanger_unit_num": 1,
@@ -26119,7 +26645,7 @@
   },
   {
     "id": 250697,
-    "name": "猴唛仔",
+    "name": "猴麦仔",
     "type": 1,
     "challanger_unit_num": 1,
     "bechallanger_unit_num": 1,
@@ -26311,7 +26837,7 @@
   },
   {
     "id": 250703,
-    "name": "机墓方舟",
+    "name": "机幕方舟",
     "type": 1,
     "challanger_unit_num": 1,
     "bechallanger_unit_num": 1,
@@ -26471,7 +26997,7 @@
   },
   {
     "id": 250708,
-    "name": "方方狐",
+    "name": "宝藏小狐",
     "type": 1,
     "challanger_unit_num": 1,
     "bechallanger_unit_num": 1,
@@ -26503,7 +27029,7 @@
   },
   {
     "id": 250709,
-    "name": "狐脸擦擦",
+    "name": "宝藏沙狐",
     "type": 1,
     "challanger_unit_num": 1,
     "bechallanger_unit_num": 1,
@@ -26616,6 +27142,390 @@
       {
         "pos1_1st": [
           300712
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1
+  },
+  {
+    "id": 250713,
+    "name": "莫比乌乌",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          300713
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1
+  },
+  {
+    "id": 250714,
+    "name": "克莱因龙",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          300714
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1
+  },
+  {
+    "id": 250715,
+    "name": "森豆丁",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          300715
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1
+  },
+  {
+    "id": 250716,
+    "name": "森蛮人",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          300716
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1
+  },
+  {
+    "id": 250717,
+    "name": "森巨人",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          300717
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1
+  },
+  {
+    "id": 250718,
+    "name": "丁丁卯",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          300718
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1
+  },
+  {
+    "id": 250719,
+    "name": "卯山咪钥",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          300719
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1
+  },
+  {
+    "id": 250720,
+    "name": "火豆丁",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          300720
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1
+  },
+  {
+    "id": 250721,
+    "name": "火蛮人",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          300721
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1
+  },
+  {
+    "id": 250722,
+    "name": "火巨人",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          300722
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1
+  },
+  {
+    "id": 250723,
+    "name": "点点",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          300723
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1
+  },
+  {
+    "id": 250724,
+    "name": "珀尔鼬",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          300724
         ],
         "ball1_1st": 100002,
         "ball2_1st": 100003,
@@ -37866,7 +38776,7 @@
   },
   {
     "id": 300342,
-    "name": "古齿帝牙",
+    "name": "冰晶古齿虎",
     "type": 1,
     "challanger_unit_num": 1,
     "bechallanger_unit_num": 1,
@@ -51236,7 +52146,7 @@
   },
   {
     "id": 300734,
-    "name": "猴唛仔",
+    "name": "猴麦仔",
     "type": 1,
     "challanger_unit_num": 1,
     "bechallanger_unit_num": 1,
@@ -51446,7 +52356,7 @@
   },
   {
     "id": 300740,
-    "name": "机墓方舟",
+    "name": "机幕方舟",
     "type": 1,
     "challanger_unit_num": 1,
     "bechallanger_unit_num": 1,
@@ -51621,7 +52531,7 @@
   },
   {
     "id": 300745,
-    "name": "方方狐",
+    "name": "宝藏小狐",
     "type": 1,
     "challanger_unit_num": 1,
     "bechallanger_unit_num": 1,
@@ -51656,7 +52566,7 @@
   },
   {
     "id": 300746,
-    "name": "狐脸擦擦",
+    "name": "宝藏沙狐",
     "type": 1,
     "challanger_unit_num": 1,
     "bechallanger_unit_num": 1,
@@ -51778,6 +52688,461 @@
       {
         "pos1_1st": [
           410740
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 300750,
+    "name": "莫比乌乌",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          410741
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 300751,
+    "name": "克莱因龙",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          410742
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 300752,
+    "name": "森豆丁",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          410743
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 300753,
+    "name": "森蛮人",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          410744
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 300754,
+    "name": "森巨人",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          410745
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 300755,
+    "name": "丁丁卯",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          410746
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 300756,
+    "name": "卯山咪钥",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          410747
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 300757,
+    "name": "火豆丁",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          410748
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 300758,
+    "name": "火蛮人",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          410749
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 300759,
+    "name": "火巨人",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          410750
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 300760,
+    "name": "点点",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          410751
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 300761,
+    "name": "珀尔鼬",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          410752
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 300762,
+    "name": "加油蟹_单只海葵的样子",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          410753
         ],
         "ball1_1st": 100002,
         "ball2_1st": 100003,
@@ -55585,6 +56950,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -55938,6 +57304,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -56526,7 +57893,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 30302040,
     "worldcombat_box_guideicon": 1,
@@ -56606,7 +57974,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 30302030,
     "worldcombat_box_guideicon": 1,
@@ -56681,7 +58050,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 30302039,
     "worldcombat_box_guideicon": 1,
@@ -56756,7 +58126,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 30302036,
     "worldcombat_box_guideicon": 1,
@@ -56836,7 +58207,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 1200862,
     "worldcombat_box_guideicon": 1,
@@ -56914,7 +58286,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 30302034,
     "worldcombat_box_guideicon": 1,
@@ -56995,7 +58368,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 30302038,
     "worldcombat_box_guideicon": 1,
@@ -57076,7 +58450,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 1200817,
     "worldcombat_box_guideicon": 1,
@@ -57154,7 +58529,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -57231,7 +58607,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -57308,7 +58685,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -57385,7 +58763,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -57462,7 +58841,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -57539,7 +58919,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -57616,7 +58997,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -57693,7 +59075,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -57770,7 +59153,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -57847,7 +59231,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -57924,7 +59309,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -58001,7 +59387,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -58072,7 +59459,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 30302044,
     "worldcombat_box_guideicon": 1,
@@ -58147,7 +59535,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 30302041,
     "worldcombat_box_guideicon": 1,
@@ -58222,7 +59611,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 30302037,
     "worldcombat_box_guideicon": 1,
@@ -58297,7 +59687,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 30302045,
     "worldcombat_box_guideicon": 1,
@@ -58372,7 +59763,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 30302029,
     "worldcombat_box_guideicon": 1,
@@ -58447,7 +59839,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 30302035,
     "worldcombat_box_guideicon": 1,
@@ -58522,7 +59915,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 30302046,
     "worldcombat_box_guideicon": 1,
@@ -58597,7 +59991,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 30302033,
     "worldcombat_box_guideicon": 1,
@@ -58672,7 +60067,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 30302032,
     "worldcombat_box_guideicon": 1,
@@ -58753,7 +60149,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 30302043,
     "worldcombat_box_guideicon": 1,
@@ -58828,7 +60225,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 30302031,
     "worldcombat_box_guideicon": 1,
@@ -58903,7 +60301,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "battle_refresh_content": 30302042,
     "worldcombat_box_guideicon": 1,
@@ -58978,7 +60377,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -59052,7 +60452,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -59126,7 +60527,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -59206,7 +60608,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -59277,7 +60680,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -59348,7 +60752,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -59419,7 +60824,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -59490,7 +60896,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -59567,7 +60974,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -59647,7 +61055,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -59727,7 +61136,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -59807,7 +61217,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -59887,7 +61298,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -59967,7 +61379,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -60047,7 +61460,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -60127,7 +61541,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -60207,7 +61622,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -60287,7 +61703,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -60367,7 +61784,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -60447,7 +61865,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -60527,7 +61946,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -60607,7 +62027,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -60687,7 +62108,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -60767,7 +62189,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -60841,7 +62264,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -60915,7 +62339,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -60989,7 +62414,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -61063,7 +62489,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -61137,7 +62564,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -61211,7 +62639,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -61285,7 +62714,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -61359,7 +62789,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -61433,7 +62864,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -61507,7 +62939,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -61581,7 +63014,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -61655,7 +63089,8 @@
       20500130,
       20500140,
       20500150,
-      20500160
+      20500160,
+      20480034
     ],
     "worldcombat_box_guideicon": 1,
     "player_battle_buff": [
@@ -72694,6 +74129,28 @@
         ]
       }
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100
@@ -74814,6 +76271,28 @@
       579475,
       4491
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "task_battle_performance_control": [
       1,
@@ -75881,6 +77360,28 @@
       621420,
       5056
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "task_battle_performance_control": [
       1,
@@ -75933,6 +77434,28 @@
       621420,
       5056
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "task_battle_performance_control": [
       1,
@@ -75984,6 +77507,28 @@
       390533,
       621420,
       5056
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 4,
     "task_battle_performance_control": [
@@ -76313,6 +77858,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -77609,6 +79155,28 @@
       550058,
       48207
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "npc_battle_ally_list": [
       {
@@ -77697,6 +79265,28 @@
         "ball6_1st": 100002
       }
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100
@@ -77768,6 +79358,28 @@
       788824,
       273
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "task_battle_performance_control": [
       1,
@@ -77827,6 +79439,28 @@
         "ball6_1st": 100002
       }
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100
@@ -77863,6 +79497,28 @@
         "ball5_1st": 100002,
         "ball6_1st": 100002
       }
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 4,
     "npc_round_scale": 100,
@@ -78008,6 +79664,28 @@
       -982710,
       887475,
       10409
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 4,
     "if_npc_round_use_conf": 1,
@@ -78220,6 +79898,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -78274,6 +79953,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -78328,6 +80008,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -78626,6 +80307,28 @@
         "ball6_1st": 100002,
         "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
       }
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 4,
     "npc_round_scale": 100,
@@ -79122,6 +80825,28 @@
         "ball6_1st": 100002
       }
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100
@@ -79161,6 +80886,28 @@
       890441,
       9150,
       -147
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 4,
     "if_npc_round_use_conf": 1,
@@ -79227,6 +80974,28 @@
       -781942,
       29621,
       89
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 4,
     "if_npc_round_use_conf": 1,
@@ -79371,6 +81140,28 @@
         "ball6_1st": 100002
       }
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "player_battle_buff": [
       20010027
     ],
@@ -79431,6 +81222,28 @@
         "ball5_1st": 100002,
         "ball6_1st": 100002
       }
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "player_battle_buff": [
       20010027
@@ -79647,6 +81460,28 @@
       460761,
       551433,
       19987
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 4,
     "task_battle_performance_control": [
@@ -80140,6 +81975,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -80180,6 +82016,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -80220,6 +82057,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -80416,7 +82254,7 @@
         "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
       }
     ],
-    "pet_close_buff": 3,
+    "pet_close_buff": 4,
     "battle_tlog_type": 14,
     "task_battle_performance_control": [
       1,
@@ -80456,7 +82294,7 @@
         "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
       }
     ],
-    "pet_close_buff": 3,
+    "pet_close_buff": 4,
     "battle_tlog_type": 14,
     "task_battle_performance_control": [
       1,
@@ -80703,6 +82541,28 @@
       9136,
       -105
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "npc_battle_ally_list": [
       {
@@ -80758,6 +82618,28 @@
       886073,
       8615,
       -62
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 4,
     "if_npc_round_use_conf": 1,
@@ -84091,6 +85973,10 @@
       }
     ],
     "pet_close_buff": 4,
+    "task_battle_performance_control": [
+      2,
+      4
+    ],
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100
   },
@@ -84114,7 +86000,33 @@
         ]
       }
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
+    "task_battle_performance_control": [
+      2,
+      4
+    ],
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100
   },
@@ -84137,6 +86049,28 @@
           1015601
         ]
       }
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 4,
     "task_battle_performance_control": [
@@ -84232,6 +86166,28 @@
         "ball6_1st": 100002
       }
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "npc_battle_ally_list": [
       {
@@ -84283,6 +86239,28 @@
         "ball6_1st": 100002
       }
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "npc_battle_ally_list": [
       {
@@ -84325,6 +86303,28 @@
         "ball5_1st": 100002,
         "ball6_1st": 100002
       }
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 4,
     "npc_battle_ally_list": [
@@ -84377,6 +86377,28 @@
         "ball6_1st": 100002
       }
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "npc_battle_ally_list": [
       {
@@ -84428,6 +86450,28 @@
         "ball6_1st": 100002
       }
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "npc_battle_ally_list": [
       {
@@ -84470,6 +86514,28 @@
         "ball5_1st": 100002,
         "ball6_1st": 100002
       }
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 4,
     "npc_battle_ally_list": [
@@ -84522,6 +86588,28 @@
         "ball6_1st": 100002
       }
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "npc_battle_ally_list": [
       {
@@ -84564,6 +86652,28 @@
         "ball5_1st": 100002,
         "ball6_1st": 100002
       }
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 4,
     "npc_battle_ally_list": [
@@ -84657,6 +86767,28 @@
         "ball6_1st": 100002,
         "npc_ai": "MFBT_NPC_Battle_zhixian_mojuanniao"
       }
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 4,
     "battle_rule": [
@@ -84766,6 +86898,28 @@
       990,
       175
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "task_battle_performance_control": [
       1,
@@ -84788,6 +86942,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -84837,6 +86992,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -84886,6 +87042,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -84920,6 +87077,74 @@
       220
     ],
     "pet_close_buff": 4,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 308362,
+    "name": "赛季活动——凡鹰战斗",
+    "type": 1,
+    "opposite_type": 1,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 1,
+    "battle_model": 12208,
+    "npc_title": "黑巫团",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "assist1": [
+      1107901
+    ],
+    "assist2": [
+      -1
+    ],
+    "assist3": [
+      -1
+    ],
+    "assist4": [
+      -1
+    ],
+    "assist5": [
+      -1
+    ],
+    "assist6": [
+      -1
+    ],
+    "can_useitem_or_not": 3,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 560297,
+        "npc_title_1st": "黑巫团",
+        "pos1_1st": [
+          1107902
+        ],
+        "pos2_1st": [
+          1107903
+        ],
+        "pos3_1st": [
+          1107904
+        ],
+        "ball1_1st": 100275,
+        "ball2_1st": 100275,
+        "ball3_1st": 100275,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Heiyiren_Aipang_308362",
+        "nrc_ai_model": 3
+      }
+    ],
+    "available_hp_rule": 1,
+    "available_hp_rule_param": [
+      1,
+      1
+    ],
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100
   },
@@ -88761,6 +90986,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -88838,6 +91064,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -88915,6 +91142,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -89215,6 +91443,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -89282,6 +91511,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -89349,6 +91579,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -95339,7 +97570,7 @@
     "background_music": 9022,
     "bgm_battle_state": "Battle_Type;Boss;Boss;PVP;Battle_Stage;Stage_1",
     "assist1": [
-      1204098
+      1204099
     ],
     "assist2": [
       1204022
@@ -97058,6 +99289,470 @@
         ],
         "pos6_1st": [
           1203847
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100002,
+        "ball3_1st": 100002,
+        "ball4_1st": 100002,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_test5",
+        "nrc_ai_model": 5
+      }
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "is_mark_close": true
+  },
+  {
+    "id": 318008,
+    "name": "星光对决-路易斯",
+    "background": "/Game/ArtRes/Level/Game/Gameplay/Gameplay_Starlight/Gameplay_Starlight_Release",
+    "type": 27,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 4,
+    "rival_available_HP": 4,
+    "npc_title": "路易斯",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;Challenge;Battle_Challenge_Type;ZhouYanZheng",
+    "can_useitem_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "use_random_or_not": 1,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 800008,
+        "npc_title_1st": "新生导师",
+        "pos1_1st": [
+          1260000
+        ],
+        "pos2_1st": [
+          1260001
+        ],
+        "pos3_1st": [
+          1260002
+        ],
+        "pos4_1st": [
+          1260003
+        ],
+        "pos5_1st": [
+          1260004
+        ],
+        "pos6_1st": [
+          1260005
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100002,
+        "ball3_1st": 100002,
+        "ball4_1st": 100002,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_test5",
+        "nrc_ai_model": 5
+      }
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "is_mark_close": true
+  },
+  {
+    "id": 318009,
+    "name": "星光对决-菲尔特",
+    "background": "/Game/ArtRes/Level/Game/Gameplay/Gameplay_Starlight/Gameplay_Starlight_Release",
+    "type": 27,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 4,
+    "rival_available_HP": 4,
+    "npc_title": "菲尔特",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;Challenge;Battle_Challenge_Type;ZhouYanZheng",
+    "can_useitem_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "use_random_or_not": 1,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 800009,
+        "npc_title_1st": "天才厨子",
+        "pos1_1st": [
+          1260006
+        ],
+        "pos2_1st": [
+          1260007
+        ],
+        "pos3_1st": [
+          1260008
+        ],
+        "pos4_1st": [
+          1260009
+        ],
+        "pos5_1st": [
+          1260010
+        ],
+        "pos6_1st": [
+          1260011
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100002,
+        "ball3_1st": 100002,
+        "ball4_1st": 100002,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_test5",
+        "nrc_ai_model": 5
+      }
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "is_mark_close": true
+  },
+  {
+    "id": 318010,
+    "name": "星光对决-格里芬",
+    "background": "/Game/ArtRes/Level/Game/Gameplay/Gameplay_Starlight/Gameplay_Starlight_Release",
+    "type": 27,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 4,
+    "rival_available_HP": 4,
+    "npc_title": "格里芬",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;Challenge;Battle_Challenge_Type;ZhouYanZheng",
+    "can_useitem_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "use_random_or_not": 1,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 800010,
+        "npc_title_1st": "学院院长",
+        "pos1_1st": [
+          1260012
+        ],
+        "pos2_1st": [
+          1260013
+        ],
+        "pos3_1st": [
+          1260014
+        ],
+        "pos4_1st": [
+          1260015
+        ],
+        "pos5_1st": [
+          1260016
+        ],
+        "pos6_1st": [
+          1260017
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100002,
+        "ball3_1st": 100002,
+        "ball4_1st": 100002,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_test5",
+        "nrc_ai_model": 5
+      }
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "is_mark_close": true
+  },
+  {
+    "id": 318011,
+    "name": "星光对决-卡门",
+    "background": "/Game/ArtRes/Level/Game/Gameplay/Gameplay_Starlight/Gameplay_Starlight_Release",
+    "type": 27,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 4,
+    "rival_available_HP": 4,
+    "npc_title": "卡门",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;Challenge;Battle_Challenge_Type;ZhouYanZheng",
+    "can_useitem_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "use_random_or_not": 1,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 800011,
+        "npc_title_1st": "精英魔法师",
+        "pos1_1st": [
+          1260018
+        ],
+        "pos2_1st": [
+          1260019
+        ],
+        "pos3_1st": [
+          1260020
+        ],
+        "pos4_1st": [
+          1260021
+        ],
+        "pos5_1st": [
+          1260022
+        ],
+        "pos6_1st": [
+          1260023
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100002,
+        "ball3_1st": 100002,
+        "ball4_1st": 100002,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_test5",
+        "nrc_ai_model": 5
+      }
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "is_mark_close": true
+  },
+  {
+    "id": 318012,
+    "name": "星光对决-伊里斯",
+    "background": "/Game/ArtRes/Level/Game/Gameplay/Gameplay_Starlight/Gameplay_Starlight_Release",
+    "type": 27,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 4,
+    "rival_available_HP": 4,
+    "npc_title": "伊里斯",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;Challenge;Battle_Challenge_Type;ZhouYanZheng",
+    "can_useitem_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "use_random_or_not": 1,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 800012,
+        "npc_title_1st": "风眠山的好大哥",
+        "pos1_1st": [
+          1260024
+        ],
+        "pos2_1st": [
+          1260025
+        ],
+        "pos3_1st": [
+          1260026
+        ],
+        "pos4_1st": [
+          1260027
+        ],
+        "pos5_1st": [
+          1260028
+        ],
+        "pos6_1st": [
+          1260029
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100002,
+        "ball3_1st": 100002,
+        "ball4_1st": 100002,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_test5",
+        "nrc_ai_model": 5
+      }
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "is_mark_close": true
+  },
+  {
+    "id": 318013,
+    "name": "星光对决-芙蕾雅",
+    "background": "/Game/ArtRes/Level/Game/Gameplay/Gameplay_Starlight/Gameplay_Starlight_Release",
+    "type": 27,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 4,
+    "rival_available_HP": 4,
+    "npc_title": "芙蕾雅",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;Challenge;Battle_Challenge_Type;ZhouYanZheng",
+    "can_useitem_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "use_random_or_not": 1,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 800013,
+        "npc_title_1st": "老牌院长",
+        "pos1_1st": [
+          1260030
+        ],
+        "pos2_1st": [
+          1260031
+        ],
+        "pos3_1st": [
+          1260032
+        ],
+        "pos4_1st": [
+          1260033
+        ],
+        "pos5_1st": [
+          1260034
+        ],
+        "pos6_1st": [
+          1260035
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100002,
+        "ball3_1st": 100002,
+        "ball4_1st": 100002,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_test5",
+        "nrc_ai_model": 5
+      }
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "is_mark_close": true
+  },
+  {
+    "id": 318014,
+    "name": "星光对决-莫扎特",
+    "background": "/Game/ArtRes/Level/Game/Gameplay/Gameplay_Starlight/Gameplay_Starlight_Release",
+    "type": 27,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 4,
+    "rival_available_HP": 4,
+    "npc_title": "莫扎特",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;Challenge;Battle_Challenge_Type;ZhouYanZheng",
+    "can_useitem_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "use_random_or_not": 1,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 800014,
+        "npc_title_1st": "大贵族",
+        "pos1_1st": [
+          1260036
+        ],
+        "pos2_1st": [
+          1260037
+        ],
+        "pos3_1st": [
+          1260038
+        ],
+        "pos4_1st": [
+          1260039
+        ],
+        "pos5_1st": [
+          1260040
+        ],
+        "pos6_1st": [
+          1260041
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100002,
+        "ball3_1st": 100002,
+        "ball4_1st": 100002,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_test5",
+        "nrc_ai_model": 5
+      }
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "is_mark_close": true
+  },
+  {
+    "id": 318015,
+    "name": "星光对决-安妮",
+    "background": "/Game/ArtRes/Level/Game/Gameplay/Gameplay_Starlight/Gameplay_Starlight_Release",
+    "type": 27,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 4,
+    "rival_available_HP": 4,
+    "npc_title": "安妮",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;Challenge;Battle_Challenge_Type;ZhouYanZheng",
+    "can_useitem_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "use_random_or_not": 1,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 800015,
+        "npc_title_1st": "商店街大明星",
+        "pos1_1st": [
+          1260042
+        ],
+        "pos2_1st": [
+          1260043
+        ],
+        "pos3_1st": [
+          1260044
+        ],
+        "pos4_1st": [
+          1260045
+        ],
+        "pos5_1st": [
+          1260046
+        ],
+        "pos6_1st": [
+          1260047
         ],
         "ball1_1st": 100002,
         "ball2_1st": 100002,
@@ -159185,6 +161880,41 @@
     "is_mark_close": true
   },
   {
+    "id": 340007,
+    "name": "惊吓盒子的PVP",
+    "type": 35,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 1,
+    "rival_available_HP": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 50,
+    "result_over_type": 1,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;Boss;Boss;PVP",
+    "can_useitem_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 3,
+    "round_pet_timeout": 35,
+    "round_select_timeout": 35,
+    "pre_perform_timeout": 180,
+    "wait_load_timeout": 60,
+    "npc_battle_list": [
+      {
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "battle_tlog_type": 2,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "is_mark_close": true
+  },
+  {
     "id": 341001,
     "name": "PVP 排位赛-机器人战斗1",
     "type": 22,
@@ -159550,6 +162280,28 @@
         "ball6_1st": 100002
       }
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "battle_tlog_type": 3,
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
@@ -159601,6 +162353,28 @@
         "ball5_1st": 100002,
         "ball6_1st": 100002
       }
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "battle_tlog_type": 3,
     "npc_round_scale": 100,
@@ -162259,6 +165033,54 @@
     "npc_round_tip_scale": 100
   },
   {
+    "id": 399063,
+    "name": "1VN战斗逃跑测试",
+    "type": 9,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 6,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          499033
+        ],
+        "pos2_1st": [
+          499034
+        ],
+        "pos3_1st": [
+          499035
+        ],
+        "pos4_1st": [
+          499036
+        ],
+        "pos5_1st": [
+          499037
+        ],
+        "pos6_1st": [
+          499038
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
     "id": 399501,
     "name": "A1最终战-P1",
     "type": 19,
@@ -162426,12 +165248,10 @@
       20480120,
       20480130,
       20480140,
-      21130010
+      21130010,
+      21450010
     ],
     "available_hp_rule": 1,
-    "npc_battle_buff": [
-      20490340
-    ],
     "pet_close_buff": 4,
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100,
@@ -163216,6 +166036,531 @@
       {
         "pos1_1st": [
           1800084
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 399526,
+    "name": "嘟嘟煲",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1800085
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 399527,
+    "name": "嘟嘟锅",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1800086
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 399528,
+    "name": "恶魔叮",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1800087
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 399529,
+    "name": "叮叮恶魔",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1800088
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 399530,
+    "name": "公平鸽",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1800089
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 399531,
+    "name": "小夜",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1800090
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 399532,
+    "name": "紫夜",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1800091
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 399533,
+    "name": "朔夜伊芙",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1800092
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 399534,
+    "name": "小独角兽",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1800093
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 399535,
+    "name": "白金独角兽",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1800094
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 399536,
+    "name": "菊花梨",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1800095
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 399537,
+    "name": "灵狐",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1800096
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 399538,
+    "name": "九尾狐",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1800097
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 399539,
+    "name": "尖嘴狐仙",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1800098
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100003,
+        "ball3_1st": 100002,
+        "ball4_1st": 100255,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
+      }
+    ],
+    "pet_close_buff": 3,
+    "battle_habbit_switch": 1,
+    "battle_tlog_type": 14,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 399540,
+    "name": "幽影树",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "can_catch_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "use_ball_time": 2,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1800099
         ],
         "ball1_1st": 100002,
         "ball2_1st": 100003,
@@ -167624,6 +170969,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -167709,6 +171055,7 @@
     "bechallanger_unit_num": 1,
     "max_round": 99,
     "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;DaoGuan;DaoGuan;KeLiXiYa;Battle_Stage;Stage_1",
     "can_escape": 1,
     "can_changepet": 1,
     "round_pet_timeout": 570,
@@ -168535,6 +171882,1259 @@
     ],
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100
+  },
+  {
+    "id": 20000101,
+    "name": "梦想三三-1",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "battle_model": 12316,
+    "npc_title": "六一活动",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801001
+        ],
+        "ball1_1st": 100263,
+        "ball2_1st": 100283,
+        "ball3_1st": 100284,
+        "ball4_1st": 100262,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_HUODONG_20000101"
+      }
+    ],
+    "battle_done_data": 1,
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
+    "npc_battle_buff": [
+      20400670
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10155,
+      10144,
+      10156
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "victory_condition": 1,
+    "victory_param1": [
+      0
+    ],
+    "victory_param2": [
+      20010797
+    ],
+    "victory_param3": [
+      1
+    ],
+    "battle_end_no_npc": 1
+  },
+  {
+    "id": 20000102,
+    "name": "梦想三三-2",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "battle_model": 12316,
+    "npc_title": "六一活动",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801001
+        ],
+        "ball1_1st": 100263,
+        "ball2_1st": 100283,
+        "ball3_1st": 100284,
+        "ball4_1st": 100262,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_HUODONG_20000101"
+      }
+    ],
+    "battle_done_data": 1,
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
+    "npc_battle_buff": [
+      20400670
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10155,
+      10144,
+      10151
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "victory_condition": 1,
+    "victory_param1": [
+      0
+    ],
+    "victory_param2": [
+      20010797
+    ],
+    "victory_param3": [
+      1
+    ],
+    "battle_end_no_npc": 1
+  },
+  {
+    "id": 20000103,
+    "name": "梦想三三-3",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "battle_model": 12316,
+    "npc_title": "六一活动",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801001
+        ],
+        "ball1_1st": 100263,
+        "ball2_1st": 100283,
+        "ball3_1st": 100284,
+        "ball4_1st": 100262,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_HUODONG_20000101"
+      }
+    ],
+    "battle_done_data": 1,
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
+    "npc_battle_buff": [
+      20400670
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10155,
+      10144,
+      10152
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "victory_condition": 1,
+    "victory_param1": [
+      0
+    ],
+    "victory_param2": [
+      20010797
+    ],
+    "victory_param3": [
+      1
+    ],
+    "battle_end_no_npc": 1
+  },
+  {
+    "id": 20000104,
+    "name": "寒音蛇-1",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "battle_model": 12316,
+    "npc_title": "六一活动",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801002
+        ],
+        "ball1_1st": 100263,
+        "ball2_1st": 100283,
+        "ball3_1st": 100284,
+        "ball4_1st": 100262,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_HUODONG_20000104"
+      }
+    ],
+    "battle_done_data": 1,
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
+    "npc_battle_buff": [
+      20400670
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10155,
+      10145,
+      10150
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "victory_condition": 1,
+    "victory_param1": [
+      0
+    ],
+    "victory_param2": [
+      20010797
+    ],
+    "victory_param3": [
+      1
+    ],
+    "battle_end_no_npc": 1
+  },
+  {
+    "id": 20000105,
+    "name": "寒音蛇-2",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "battle_model": 12316,
+    "npc_title": "六一活动",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801002
+        ],
+        "ball1_1st": 100263,
+        "ball2_1st": 100283,
+        "ball3_1st": 100284,
+        "ball4_1st": 100262,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_HUODONG_20000104"
+      }
+    ],
+    "battle_done_data": 1,
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
+    "npc_battle_buff": [
+      20400670
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10155,
+      10145,
+      10149
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "victory_condition": 1,
+    "victory_param1": [
+      0
+    ],
+    "victory_param2": [
+      20010797
+    ],
+    "victory_param3": [
+      1
+    ],
+    "battle_end_no_npc": 1
+  },
+  {
+    "id": 20000106,
+    "name": "寒音蛇3",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "battle_model": 12316,
+    "npc_title": "六一活动",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801002
+        ],
+        "ball1_1st": 100263,
+        "ball2_1st": 100283,
+        "ball3_1st": 100284,
+        "ball4_1st": 100262,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_HUODONG_20000104"
+      }
+    ],
+    "battle_done_data": 1,
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
+    "npc_battle_buff": [
+      20400670
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10155,
+      10145,
+      10157
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "victory_condition": 1,
+    "victory_param1": [
+      0
+    ],
+    "victory_param2": [
+      20010797
+    ],
+    "victory_param3": [
+      1
+    ],
+    "battle_end_no_npc": 1
+  },
+  {
+    "id": 20000107,
+    "name": "魔眷鸟-1",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "battle_model": 12316,
+    "npc_title": "六一活动",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801003
+        ],
+        "ball1_1st": 100263,
+        "ball2_1st": 100283,
+        "ball3_1st": 100284,
+        "ball4_1st": 100262,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_HUODONG_20000107"
+      }
+    ],
+    "battle_done_data": 1,
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
+    "npc_battle_buff": [
+      20400670
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10155,
+      10146,
+      10148
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "victory_condition": 1,
+    "victory_param1": [
+      0
+    ],
+    "victory_param2": [
+      20010797
+    ],
+    "victory_param3": [
+      1
+    ],
+    "battle_end_no_npc": 1
+  },
+  {
+    "id": 20000108,
+    "name": "魔眷鸟2",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "battle_model": 12316,
+    "npc_title": "六一活动",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801003
+        ],
+        "ball1_1st": 100263,
+        "ball2_1st": 100283,
+        "ball3_1st": 100284,
+        "ball4_1st": 100262,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_HUODONG_20000107"
+      }
+    ],
+    "battle_done_data": 1,
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
+    "npc_battle_buff": [
+      20400670
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10155,
+      10146,
+      10158
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "victory_condition": 1,
+    "victory_param1": [
+      0
+    ],
+    "victory_param2": [
+      20010797
+    ],
+    "victory_param3": [
+      1
+    ],
+    "battle_end_no_npc": 1
+  },
+  {
+    "id": 20000109,
+    "name": "魔眷鸟-3",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "battle_model": 12316,
+    "npc_title": "六一活动",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801003
+        ],
+        "ball1_1st": 100263,
+        "ball2_1st": 100283,
+        "ball3_1st": 100284,
+        "ball4_1st": 100262,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_HUODONG_20000107"
+      }
+    ],
+    "battle_done_data": 1,
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
+    "npc_battle_buff": [
+      20400670
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10155,
+      10146,
+      10147
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "victory_condition": 1,
+    "victory_param1": [
+      0
+    ],
+    "victory_param2": [
+      20010797
+    ],
+    "victory_param3": [
+      1
+    ],
+    "battle_end_no_npc": 1
+  },
+  {
+    "id": 20000110,
+    "name": "废弃",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "battle_model": 12316,
+    "npc_title": "六一活动",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801001
+        ],
+        "pos2_1st": [
+          1801002
+        ],
+        "pos3_1st": [
+          1801003
+        ],
+        "ball1_1st": 100263,
+        "ball2_1st": 100283,
+        "ball3_1st": 100284,
+        "ball4_1st": 100262,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "battle_done_data": 1,
+    "npc_battle_buff": [
+      20400670
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10145,
+      10150
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "victory_condition": 1,
+    "victory_param1": [
+      0
+    ],
+    "victory_param2": [
+      20010797
+    ],
+    "victory_param3": [
+      1
+    ],
+    "battle_end_no_npc": 1
+  },
+  {
+    "id": 20000111,
+    "name": "废弃",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "battle_model": 12316,
+    "npc_title": "六一活动",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801001
+        ],
+        "pos2_1st": [
+          1801002
+        ],
+        "pos3_1st": [
+          1801003
+        ],
+        "ball1_1st": 100263,
+        "ball2_1st": 100283,
+        "ball3_1st": 100284,
+        "ball4_1st": 100262,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "battle_done_data": 1,
+    "npc_battle_buff": [
+      20400670
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10145,
+      10151
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "victory_condition": 1,
+    "victory_param1": [
+      0
+    ],
+    "victory_param2": [
+      20010797
+    ],
+    "victory_param3": [
+      1
+    ],
+    "battle_end_no_npc": 1
+  },
+  {
+    "id": 20000112,
+    "name": "废弃",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "battle_model": 12316,
+    "npc_title": "六一活动",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801001
+        ],
+        "pos2_1st": [
+          1801002
+        ],
+        "pos3_1st": [
+          1801003
+        ],
+        "ball1_1st": 100263,
+        "ball2_1st": 100283,
+        "ball3_1st": 100284,
+        "ball4_1st": 100262,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "battle_done_data": 1,
+    "npc_battle_buff": [
+      20400670
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10145,
+      10152
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "victory_condition": 1,
+    "victory_param1": [
+      0
+    ],
+    "victory_param2": [
+      20010797
+    ],
+    "victory_param3": [
+      1
+    ],
+    "battle_end_no_npc": 1
+  },
+  {
+    "id": 20000113,
+    "name": "废弃",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "battle_model": 12316,
+    "npc_title": "六一活动",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801001
+        ],
+        "pos2_1st": [
+          1801002
+        ],
+        "pos3_1st": [
+          1801003
+        ],
+        "ball1_1st": 100263,
+        "ball2_1st": 100283,
+        "ball3_1st": 100284,
+        "ball4_1st": 100262,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "battle_done_data": 1,
+    "npc_battle_buff": [
+      20400670
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10146,
+      10147
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "battle_end_no_npc": 1
+  },
+  {
+    "id": 20000114,
+    "name": "废弃",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "battle_model": 12316,
+    "npc_title": "六一活动",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801001
+        ],
+        "pos2_1st": [
+          1801002
+        ],
+        "pos3_1st": [
+          1801003
+        ],
+        "ball1_1st": 100263,
+        "ball2_1st": 100283,
+        "ball3_1st": 100284,
+        "ball4_1st": 100262,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "battle_done_data": 1,
+    "npc_battle_buff": [
+      20400670
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10146,
+      10148
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "battle_end_no_npc": 1
+  },
+  {
+    "id": 20000115,
+    "name": "废弃",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "battle_model": 12316,
+    "npc_title": "六一活动",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801001
+        ],
+        "pos2_1st": [
+          1801002
+        ],
+        "pos3_1st": [
+          1801003
+        ],
+        "ball1_1st": 100263,
+        "ball2_1st": 100283,
+        "ball3_1st": 100284,
+        "ball4_1st": 100262,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "battle_done_data": 1,
+    "npc_battle_buff": [
+      20400670
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10146,
+      10149
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "battle_end_no_npc": 1
+  },
+  {
+    "id": 20000116,
+    "name": "废弃",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "battle_model": 12316,
+    "npc_title": "六一活动",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801001
+        ],
+        "pos2_1st": [
+          1801002
+        ],
+        "pos3_1st": [
+          1801003
+        ],
+        "ball1_1st": 100263,
+        "ball2_1st": 100283,
+        "ball3_1st": 100284,
+        "ball4_1st": 100262,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "battle_done_data": 1,
+    "npc_battle_buff": [
+      20400670
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10146,
+      10150
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "battle_end_no_npc": 1
+  },
+  {
+    "id": 20000117,
+    "name": "废弃",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "battle_model": 12316,
+    "npc_title": "六一活动",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801001
+        ],
+        "pos2_1st": [
+          1801002
+        ],
+        "pos3_1st": [
+          1801003
+        ],
+        "ball1_1st": 100263,
+        "ball2_1st": 100283,
+        "ball3_1st": 100284,
+        "ball4_1st": 100262,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "battle_done_data": 1,
+    "npc_battle_buff": [
+      20400670
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10146,
+      10151
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "battle_end_no_npc": 1
+  },
+  {
+    "id": 20000118,
+    "name": "废弃",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "battle_model": 12316,
+    "npc_title": "六一活动",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801001
+        ],
+        "pos2_1st": [
+          1801002
+        ],
+        "pos3_1st": [
+          1801003
+        ],
+        "ball1_1st": 100263,
+        "ball2_1st": 100283,
+        "ball3_1st": 100284,
+        "ball4_1st": 100262,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002
+      }
+    ],
+    "battle_done_data": 1,
+    "npc_battle_buff": [
+      20400670
+    ],
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10146,
+      10152
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "battle_end_no_npc": 1
+  },
+  {
+    "id": 20000121,
+    "name": "精灵大使",
+    "type": 1,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "assist1": [
+      1801011
+    ],
+    "assist2": [
+      -1
+    ],
+    "assist3": [
+      -1
+    ],
+    "assist4": [
+      -1
+    ],
+    "assist5": [
+      -1
+    ],
+    "assist6": [
+      -1
+    ],
+    "can_useitem_or_not": 2,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1801012
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100002,
+        "ball3_1st": 100002,
+        "ball4_1st": 100002,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_HUODONG_20000121"
+      }
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480011,
+      20480012,
+      20480020,
+      20480030,
+      20480031,
+      20480032,
+      20480033,
+      20480034,
+      20480040,
+      20480041,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480073,
+      20480074,
+      20480080,
+      20480090,
+      20480091,
+      20480092,
+      20480093,
+      20480094,
+      20480095,
+      20480096,
+      20480097,
+      20480098,
+      20480099,
+      20480100,
+      20480101,
+      20480110,
+      20480111,
+      20480120,
+      20480130,
+      20480140,
+      21130010
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "battle_end_no_npc": 1
   },
   {
     "id": 44000001,
@@ -179332,7 +183932,7 @@
     "type": 1,
     "opposite_type": 1,
     "show_availableHP_rule": 1,
-    "battle_model": 12035,
+    "battle_model": 12038,
     "npc_title": "黑巫师",
     "challanger_unit_num": 1,
     "bechallanger_unit_num": 1,
@@ -184031,7 +188631,7 @@
     "opposite_type": 2,
     "show_availableHP_rule": 1,
     "battle_model": 12191,
-    "npc_title": "阿道夫",
+    "npc_title": "阿尔夫",
     "challanger_unit_num": 1,
     "bechallanger_unit_num": 1,
     "max_round": 99,
@@ -184044,7 +188644,7 @@
     "npc_battle_list": [
       {
         "battle_model_1st": 17812,
-        "npc_title_1st": "阿道夫",
+        "npc_title_1st": "阿尔夫",
         "pos2_1st": [
           50342
         ],
@@ -184597,6 +189197,28 @@
       }
     ],
     "battle_done_data": 1,
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "task_battle_performance_control": [
       1,
@@ -184628,6 +189250,28 @@
       }
     ],
     "battle_done_data": 1,
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "task_battle_performance_control": [
       1,
@@ -184659,6 +189303,28 @@
       }
     ],
     "battle_done_data": 1,
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "task_battle_performance_control": [
       1,
@@ -184690,6 +189356,28 @@
       }
     ],
     "battle_done_data": 1,
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "task_battle_performance_control": [
       1,
@@ -184771,6 +189459,28 @@
       }
     ],
     "battle_done_data": 1,
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "task_battle_performance_control": [
       1,
@@ -187106,6 +191816,28 @@
       }
     ],
     "battle_done_data": 1,
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "task_battle_performance_control": [
       1,
@@ -187141,6 +191873,28 @@
       }
     ],
     "battle_done_data": 1,
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "task_battle_performance_control": [
       1,
@@ -187302,6 +192056,28 @@
         "ball6_1st": 100002,
         "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
       }
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 4,
     "npc_round_scale": 100,
@@ -187557,11 +192333,121 @@
       -230,
       900085
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "npc_battle_ally_list": [
       {
         "pos1_1st_ally": [
           1520041
         ]
+      }
+    ],
+    "task_battle_performance_control": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 51100604,
+    "name": "S2-赛季任务-玩家+希洛vs机幕方舟",
+    "type": 1,
+    "opposite_type": 1,
+    "npc_title": "小轱辘",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 20,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;ShenShouTuanTiZhan;ShenShou;JiMuFangZhou",
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "pos1_1st": [
+          1520043
+        ],
+        "ball1_1st": 100002,
+        "ball6_1st": 100002,
+        "nrc_ai_model": 5
+      }
+    ],
+    "local_point": [
+      -890585,
+      887507,
+      257
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
+    "npc_battle_ally_list": [
+      {
+        "battle_model_ally": 32249,
+        "npc_title_ally": "希洛",
+        "pos1_1st_ally": [
+          1520051
+        ],
+        "pos2_1st_ally": [
+          1520052
+        ],
+        "pos3_1st_ally": [
+          1520053
+        ],
+        "pos4_1st_ally": [
+          1520054
+        ],
+        "pos5_1st_ally": [
+          1520055
+        ],
+        "ball1_1st_ally": 100290,
+        "ball2_1st_ally": 100290,
+        "ball3_1st_ally": 100290,
+        "ball4_1st_ally": 100290,
+        "ball5_1st_ally": 100290
       }
     ],
     "task_battle_performance_control": [
@@ -187603,6 +192489,28 @@
         "ball5_1st": 100002,
         "ball6_1st": 100002
       }
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 4,
     "npc_round_scale": 100,
@@ -188881,25 +193789,6 @@
       579908,
       16386
     ],
-    "teamB_prohibit_buff": [
-      20480010,
-      20480020,
-      20480030,
-      20480040,
-      20480050,
-      20480060,
-      20480070,
-      20480071,
-      20480072,
-      20480080,
-      1044001,
-      20480100,
-      20480101,
-      20480130,
-      20480098,
-      20480034,
-      20480096
-    ],
     "npc_battle_buff": [
       20030014
     ],
@@ -188927,24 +193816,59 @@
       14679,
       135
     ],
-    "teamB_prohibit_buff": [
-      20480010,
-      20480020,
-      20480030,
-      20480040,
-      20480050,
-      20480060,
-      20480070,
-      20480071,
-      20480072,
-      20480080,
-      1044001,
-      20480100,
-      20480101,
-      20480130,
-      20480098,
-      20480034,
-      20480096
+    "npc_battle_buff": [
+      20030014
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "is_mark_close": true,
+    "feature_resonance": 2
+  },
+  {
+    "id": 100000003,
+    "name": "领地试炼-深渊罗隐",
+    "type": 33,
+    "challanger_unit_num": 2,
+    "bechallanger_unit_num": 2,
+    "max_round": 25,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "local_point": [
+      430828,
+      564659,
+      10127,
+      200
+    ],
+    "npc_battle_buff": [
+      20030014
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "is_mark_close": true,
+    "feature_resonance": 2
+  },
+  {
+    "id": 100000004,
+    "name": "领地试炼-高帽鹬者",
+    "type": 33,
+    "challanger_unit_num": 2,
+    "bechallanger_unit_num": 2,
+    "max_round": 25,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "local_point": [
+      582953,
+      608918,
+      727,
+      250
     ],
     "npc_battle_buff": [
       20030014
@@ -189206,6 +194130,28 @@
       41,
       17
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100
@@ -189235,6 +194181,28 @@
       547041,
       704684,
       118
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 4,
     "npc_round_scale": 100,
@@ -189432,6 +194400,28 @@
       9897,
       44
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 3,
     "npc_round_scale": 100,
     "npc_round_tip_scale": 100
@@ -189467,6 +194457,28 @@
       887647,
       9897,
       44
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 3,
     "npc_round_scale": 100,
@@ -189505,6 +194517,28 @@
       536644,
       26759,
       -104
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 4,
     "npc_battle_ally_list": [
@@ -189568,6 +194602,28 @@
       29376,
       145
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "npc_battle_ally_list": [
       {
@@ -189630,6 +194686,28 @@
       41380,
       -84
     ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
     "pet_close_buff": 4,
     "npc_battle_ally_list": [
       {
@@ -189691,6 +194769,28 @@
       645289,
       1392,
       157
+    ],
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
     ],
     "pet_close_buff": 4,
     "task_battle_performance_control": [
@@ -190151,6 +195251,454 @@
     "npc_round_tip_scale": 100
   },
   {
+    "id": 540000021,
+    "name": "S2赛季露天对战限定-牵线木偶",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 4,
+    "rival_available_HP": 4,
+    "battle_model": 10299,
+    "npc_title": "调皮的精英学者",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 540412,
+        "npc_title_1st": "调皮的精英学者",
+        "pos1_1st": [
+          540301
+        ],
+        "pos2_1st": [
+          540302
+        ],
+        "pos3_1st": [
+          540303
+        ],
+        "pos4_1st": [
+          540304
+        ],
+        "pos5_1st": [
+          540305
+        ],
+        "ball1_1st": 100290,
+        "ball2_1st": 100290,
+        "ball3_1st": 100290,
+        "ball4_1st": 100290,
+        "ball5_1st": 100290,
+        "ball6_1st": 100290,
+        "nrc_ai_model": 5
+      }
+    ],
+    "battle_done_data": 1,
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10050
+    ],
+    "battle_tlog_type": 62,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 540000022,
+    "name": "S2赛季露天对战限定-炫光迪迪",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 4,
+    "rival_available_HP": 4,
+    "battle_model": 10309,
+    "npc_title": "柔和的精英学者",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 540413,
+        "npc_title_1st": "柔和的精英学者",
+        "pos1_1st": [
+          540321
+        ],
+        "pos2_1st": [
+          540322
+        ],
+        "pos3_1st": [
+          540323
+        ],
+        "pos4_1st": [
+          540325
+        ],
+        "pos5_1st": [
+          540326
+        ],
+        "ball1_1st": 100290,
+        "ball2_1st": 100290,
+        "ball3_1st": 100290,
+        "ball4_1st": 100290,
+        "ball5_1st": 100290,
+        "ball6_1st": 100290,
+        "nrc_ai_model": 5
+      }
+    ],
+    "battle_done_data": 1,
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10050
+    ],
+    "battle_tlog_type": 62,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 540000023,
+    "name": "S2赛季露天对战限定-加油海葵",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 4,
+    "rival_available_HP": 4,
+    "battle_model": 10316,
+    "npc_title": "沉静的精英学者",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 540414,
+        "npc_title_1st": "沉静的精英学者",
+        "pos1_1st": [
+          540331
+        ],
+        "pos2_1st": [
+          540332
+        ],
+        "pos3_1st": [
+          540335
+        ],
+        "pos4_1st": [
+          540334
+        ],
+        "pos5_1st": [
+          540333
+        ],
+        "ball1_1st": 100290,
+        "ball2_1st": 100290,
+        "ball3_1st": 100290,
+        "ball4_1st": 100290,
+        "ball5_1st": 100290,
+        "ball6_1st": 100290,
+        "nrc_ai_model": 5
+      }
+    ],
+    "battle_done_data": 1,
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10050
+    ],
+    "battle_tlog_type": 62,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 540000024,
+    "name": "S2赛季露天对战限定-烟花团",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 4,
+    "rival_available_HP": 4,
+    "battle_model": 10325,
+    "npc_title": "认真的精英学者",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 540415,
+        "npc_title_1st": "认真的精英学者",
+        "pos1_1st": [
+          540341
+        ],
+        "pos2_1st": [
+          540342
+        ],
+        "pos3_1st": [
+          540343
+        ],
+        "pos4_1st": [
+          540344
+        ],
+        "pos5_1st": [
+          540345
+        ],
+        "ball1_1st": 100290,
+        "ball2_1st": 100290,
+        "ball3_1st": 100290,
+        "ball4_1st": 100290,
+        "ball5_1st": 100290,
+        "ball6_1st": 100290,
+        "nrc_ai_model": 5
+      }
+    ],
+    "battle_done_data": 1,
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10050
+    ],
+    "battle_tlog_type": 62,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 540000025,
+    "name": "S2赛季露天对战限定-咕咕帽",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 4,
+    "rival_available_HP": 4,
+    "battle_model": 10282,
+    "npc_title": "谦虚的精英学者",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 540408,
+        "npc_title_1st": "谦虚的精英学者",
+        "pos1_1st": [
+          540351
+        ],
+        "pos2_1st": [
+          540352
+        ],
+        "pos3_1st": [
+          540354
+        ],
+        "pos4_1st": [
+          540355
+        ],
+        "pos5_1st": [
+          540356
+        ],
+        "ball1_1st": 100290,
+        "ball2_1st": 100290,
+        "ball3_1st": 100290,
+        "ball4_1st": 100290,
+        "ball5_1st": 100290,
+        "ball6_1st": 100290,
+        "nrc_ai_model": 5
+      }
+    ],
+    "battle_done_data": 1,
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10050
+    ],
+    "battle_tlog_type": 62,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 540000026,
+    "name": "S2赛季露天对战限定-小鼓象",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 4,
+    "rival_available_HP": 4,
+    "battle_model": 10292,
+    "npc_title": "热忱的精英学者",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 540409,
+        "npc_title_1st": "热忱的精英学者",
+        "pos1_1st": [
+          540361
+        ],
+        "pos2_1st": [
+          540362
+        ],
+        "pos3_1st": [
+          540363
+        ],
+        "pos4_1st": [
+          540364
+        ],
+        "pos5_1st": [
+          540365
+        ],
+        "ball1_1st": 100290,
+        "ball2_1st": 100290,
+        "ball3_1st": 100290,
+        "ball4_1st": 100290,
+        "ball5_1st": 100290,
+        "ball6_1st": 100290,
+        "nrc_ai_model": 5
+      }
+    ],
+    "battle_done_data": 1,
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10050
+    ],
+    "battle_tlog_type": 62,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 540000027,
+    "name": "S2赛季露天对战限定-猴麦仔",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 4,
+    "rival_available_HP": 4,
+    "battle_model": 10284,
+    "npc_title": "狂热的精英学者",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 540410,
+        "npc_title_1st": "狂热的精英学者",
+        "pos1_1st": [
+          540371
+        ],
+        "pos2_1st": [
+          540372
+        ],
+        "pos3_1st": [
+          540376
+        ],
+        "pos4_1st": [
+          540374
+        ],
+        "pos5_1st": [
+          540375
+        ],
+        "ball1_1st": 100290,
+        "ball2_1st": 100290,
+        "ball3_1st": 100290,
+        "ball4_1st": 100290,
+        "ball5_1st": 100290,
+        "ball6_1st": 100290,
+        "nrc_ai_model": 5
+      }
+    ],
+    "battle_done_data": 1,
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10050
+    ],
+    "battle_tlog_type": 62,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 540000028,
+    "name": "S2赛季露天对战限定-小丑豆豆",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 4,
+    "rival_available_HP": 4,
+    "battle_model": 10296,
+    "npc_title": "敏锐的精英学者",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 540411,
+        "npc_title_1st": "敏锐的精英学者",
+        "pos1_1st": [
+          540381
+        ],
+        "pos2_1st": [
+          540382
+        ],
+        "pos3_1st": [
+          540383
+        ],
+        "pos4_1st": [
+          540384
+        ],
+        "pos5_1st": [
+          540385
+        ],
+        "ball1_1st": 100290,
+        "ball2_1st": 100290,
+        "ball3_1st": 100290,
+        "ball4_1st": 100290,
+        "ball5_1st": 100290,
+        "ball6_1st": 100290,
+        "nrc_ai_model": 5
+      }
+    ],
+    "battle_done_data": 1,
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10050
+    ],
+    "battle_tlog_type": 62,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
     "id": 540000200,
     "name": "蹦蹦种子（精灵经验测试用）",
     "type": 1,
@@ -190187,7 +195735,7 @@
   },
   {
     "id": 540100001,
-    "name": "S1赛季露天对战限定-粉星仔-第二场",
+    "name": "S1赛季露天对战限定-牵线木偶-第二场",
     "type": 1,
     "opposite_type": 2,
     "show_availableHP_rule": 1,
@@ -190209,29 +195757,29 @@
         "battle_model_1st": 540312,
         "npc_title_1st": "调皮的精英学者",
         "pos1_1st": [
-          540101
+          540401
         ],
         "pos2_1st": [
-          540105
+          540402
         ],
         "pos3_1st": [
-          540104
+          540404
         ],
         "pos4_1st": [
-          540102
+          540405
         ],
         "pos5_1st": [
-          540106
+          540406
         ],
         "pos6_1st": [
-          540107
+          540407
         ],
         "ball1_1st": 100284,
         "ball2_1st": 100284,
-        "ball3_1st": 100284,
-        "ball4_1st": 100284,
-        "ball5_1st": 100284,
-        "ball6_1st": 100284,
+        "ball3_1st": 100285,
+        "ball4_1st": 100285,
+        "ball5_1st": 100285,
+        "ball6_1st": 100271,
         "nrc_ai_model": 5
       }
     ],
@@ -190658,6 +196206,478 @@
     "npc_round_tip_scale": 100
   },
   {
+    "id": 540100021,
+    "name": "S2赛季露天对战限定-牵线木偶-第二场",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 5,
+    "rival_available_HP": 5,
+    "battle_model": 10299,
+    "npc_title": "调皮的精英学者",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 540412,
+        "npc_title_1st": "调皮的精英学者",
+        "pos1_1st": [
+          540401
+        ],
+        "pos2_1st": [
+          540405
+        ],
+        "pos3_1st": [
+          540404
+        ],
+        "pos4_1st": [
+          540402
+        ],
+        "pos5_1st": [
+          540406
+        ],
+        "pos6_1st": [
+          540407
+        ],
+        "ball1_1st": 100290,
+        "ball2_1st": 100290,
+        "ball3_1st": 100290,
+        "ball4_1st": 100290,
+        "ball5_1st": 100290,
+        "ball6_1st": 100290,
+        "nrc_ai_model": 5
+      }
+    ],
+    "battle_done_data": 1,
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10164
+    ],
+    "battle_tlog_type": 62,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 540100022,
+    "name": "S2赛季露天对战限定-炫光迪迪-第二场",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 5,
+    "rival_available_HP": 5,
+    "battle_model": 10309,
+    "npc_title": "柔和的精英学者",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 540413,
+        "npc_title_1st": "柔和的精英学者",
+        "pos1_1st": [
+          540421
+        ],
+        "pos2_1st": [
+          540422
+        ],
+        "pos3_1st": [
+          540423
+        ],
+        "pos4_1st": [
+          540425
+        ],
+        "pos5_1st": [
+          540426
+        ],
+        "pos6_1st": [
+          540427
+        ],
+        "ball1_1st": 100290,
+        "ball2_1st": 100290,
+        "ball3_1st": 100290,
+        "ball4_1st": 100290,
+        "ball5_1st": 100290,
+        "ball6_1st": 100290,
+        "nrc_ai_model": 5
+      }
+    ],
+    "battle_done_data": 1,
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10161
+    ],
+    "battle_tlog_type": 62,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 540100023,
+    "name": "S2赛季露天对战限定-加油海葵-第二场",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 5,
+    "rival_available_HP": 5,
+    "battle_model": 10316,
+    "npc_title": "沉静的精英学者",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 540414,
+        "npc_title_1st": "沉静的精英学者",
+        "pos1_1st": [
+          540431
+        ],
+        "pos2_1st": [
+          540432
+        ],
+        "pos3_1st": [
+          540435
+        ],
+        "pos4_1st": [
+          540434
+        ],
+        "pos5_1st": [
+          540436
+        ],
+        "pos6_1st": [
+          540437
+        ],
+        "ball1_1st": 100290,
+        "ball2_1st": 100290,
+        "ball3_1st": 100290,
+        "ball4_1st": 100290,
+        "ball5_1st": 100290,
+        "ball6_1st": 100290,
+        "nrc_ai_model": 5
+      }
+    ],
+    "battle_done_data": 1,
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10159
+    ],
+    "battle_tlog_type": 62,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 540100024,
+    "name": "S2赛季露天对战限定-烟花团-第二场",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 5,
+    "rival_available_HP": 5,
+    "battle_model": 10325,
+    "npc_title": "认真的精英学者",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 540415,
+        "npc_title_1st": "认真的精英学者",
+        "pos1_1st": [
+          540441
+        ],
+        "pos2_1st": [
+          540442
+        ],
+        "pos3_1st": [
+          540443
+        ],
+        "pos4_1st": [
+          540444
+        ],
+        "pos5_1st": [
+          540445
+        ],
+        "pos6_1st": [
+          540446
+        ],
+        "ball1_1st": 100290,
+        "ball2_1st": 100290,
+        "ball3_1st": 100290,
+        "ball4_1st": 100290,
+        "ball5_1st": 100290,
+        "ball6_1st": 100290,
+        "nrc_ai_model": 5
+      }
+    ],
+    "battle_done_data": 1,
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10163
+    ],
+    "battle_tlog_type": 62,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 540100025,
+    "name": "S2赛季露天对战限定-咕咕帽-第二场",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 5,
+    "rival_available_HP": 5,
+    "battle_model": 10282,
+    "npc_title": "谦虚的精英学者",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 540408,
+        "npc_title_1st": "谦虚的精英学者",
+        "pos1_1st": [
+          540451
+        ],
+        "pos2_1st": [
+          540452
+        ],
+        "pos3_1st": [
+          540454
+        ],
+        "pos4_1st": [
+          540455
+        ],
+        "pos5_1st": [
+          540456
+        ],
+        "pos6_1st": [
+          540457
+        ],
+        "ball1_1st": 100290,
+        "ball2_1st": 100290,
+        "ball3_1st": 100290,
+        "ball4_1st": 100290,
+        "ball5_1st": 100290,
+        "ball6_1st": 100290,
+        "nrc_ai_model": 5
+      }
+    ],
+    "battle_done_data": 1,
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10165
+    ],
+    "battle_tlog_type": 62,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 540100026,
+    "name": "S2赛季露天对战限定-小鼓象-第二场",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 5,
+    "rival_available_HP": 5,
+    "battle_model": 10292,
+    "npc_title": "热忱的精英学者",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 540409,
+        "npc_title_1st": "热忱的精英学者",
+        "pos1_1st": [
+          540461
+        ],
+        "pos2_1st": [
+          540462
+        ],
+        "pos3_1st": [
+          540463
+        ],
+        "pos4_1st": [
+          540464
+        ],
+        "pos5_1st": [
+          540465
+        ],
+        "pos6_1st": [
+          540466
+        ],
+        "ball1_1st": 100290,
+        "ball2_1st": 100290,
+        "ball3_1st": 100290,
+        "ball4_1st": 100290,
+        "ball5_1st": 100290,
+        "ball6_1st": 100290,
+        "nrc_ai_model": 5
+      }
+    ],
+    "battle_done_data": 1,
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10166
+    ],
+    "battle_tlog_type": 62,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 540100027,
+    "name": "S2赛季露天对战限定-猴麦仔-第二场",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 5,
+    "rival_available_HP": 5,
+    "battle_model": 10284,
+    "npc_title": "狂热的精英学者",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 540410,
+        "npc_title_1st": "狂热的精英学者",
+        "pos1_1st": [
+          540471
+        ],
+        "pos2_1st": [
+          540472
+        ],
+        "pos3_1st": [
+          540476
+        ],
+        "pos4_1st": [
+          540474
+        ],
+        "pos5_1st": [
+          540475
+        ],
+        "pos6_1st": [
+          540477
+        ],
+        "ball1_1st": 100290,
+        "ball2_1st": 100290,
+        "ball3_1st": 100290,
+        "ball4_1st": 100290,
+        "ball5_1st": 100290,
+        "ball6_1st": 100290,
+        "nrc_ai_model": 5
+      }
+    ],
+    "battle_done_data": 1,
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10162
+    ],
+    "battle_tlog_type": 62,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 540100028,
+    "name": "S2赛季露天对战限定-小丑豆豆-第二场",
+    "type": 1,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 5,
+    "rival_available_HP": 5,
+    "battle_model": 10296,
+    "npc_title": "敏锐的精英学者",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 540411,
+        "npc_title_1st": "敏锐的精英学者",
+        "pos1_1st": [
+          540481
+        ],
+        "pos2_1st": [
+          540482
+        ],
+        "pos3_1st": [
+          540483
+        ],
+        "pos4_1st": [
+          540484
+        ],
+        "pos5_1st": [
+          540485
+        ],
+        "pos6_1st": [
+          540486
+        ],
+        "ball1_1st": 100290,
+        "ball2_1st": 100290,
+        "ball3_1st": 100290,
+        "ball4_1st": 100290,
+        "ball5_1st": 100290,
+        "ball6_1st": 100290,
+        "nrc_ai_model": 5
+      }
+    ],
+    "battle_done_data": 1,
+    "pet_close_buff": 4,
+    "battle_rule": [
+      10160
+    ],
+    "battle_tlog_type": 62,
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
     "id": 550000001,
     "name": "冰封怨灵-雪灵副本专用",
     "type": 1,
@@ -190685,6 +196705,11 @@
         "ball6_1st": 100002,
         "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
       }
+    ],
+    "local_point": [
+      -4961,
+      49,
+      -248
     ],
     "pet_close_buff": 3,
     "battle_habbit_switch": 1,
@@ -190724,6 +196749,11 @@
         "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
       }
     ],
+    "local_point": [
+      -4961,
+      49,
+      -248
+    ],
     "pet_close_buff": 3,
     "battle_habbit_switch": 1,
     "battle_rule": [
@@ -190761,6 +196791,11 @@
         "ball6_1st": 100002,
         "npc_ai": "MFBT_NPC_Battle_Common_Catch_pet"
       }
+    ],
+    "local_point": [
+      -4961,
+      49,
+      -248
     ],
     "pet_close_buff": 3,
     "battle_habbit_switch": 1,
@@ -191859,7 +197894,29 @@
         "ball1_1st": 100002
       }
     ],
-    "pet_close_buff": 3,
+    "teamB_prohibit_buff": [
+      20480010,
+      20480020,
+      20480030,
+      20480040,
+      20480050,
+      20480060,
+      20480070,
+      20480071,
+      20480072,
+      20480080,
+      1044001,
+      20480100,
+      20480101,
+      20480130,
+      20480097,
+      20500130,
+      20500140,
+      20500150,
+      20500160,
+      20480034
+    ],
+    "pet_close_buff": 4,
     "battle_rule": [
       10005
     ],

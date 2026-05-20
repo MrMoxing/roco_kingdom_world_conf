@@ -604,6 +604,52 @@
     "ui_button_name": "BtnTimePet"
   },
   {
+    "id": 600002,
+    "editor_name": "活动-精灵乐园-首次打开",
+    "ui_path": [
+      "UMG_Activity_ElfAdventure"
+    ],
+    "ui_button_name": "BtnChoose"
+  },
+  {
+    "id": 600003,
+    "editor_name": "活动-精灵乐园-选择精灵",
+    "ui_path": [
+      "UMG_Activity_ElfAdventure",
+      "RightPanel",
+      "List[1]"
+    ]
+  },
+  {
+    "id": 600004,
+    "editor_name": "活动-精灵乐园-派遣精灵",
+    "ui_path": [
+      "UMG_Activity_ElfAdventure",
+      "RightPanel",
+      "Btn_Right"
+    ],
+    "ui_button_name": "btnLevelUp"
+  },
+  {
+    "id": 600005,
+    "editor_name": "活动-精灵乐园-自动派遣",
+    "ui_path": [
+      "UMG_Activity_ElfAdventure",
+      "RightPanel"
+    ],
+    "ui_button_name": "Button"
+  },
+  {
+    "id": 600006,
+    "editor_name": "活动-AI教练-推荐阵容",
+    "ui_path": [
+      "UMG_ActivityMainPanel",
+      "content",
+      "UMG_Activity_Grade_C_0"
+    ],
+    "ui_button_name": "BtnRecommendedlineup"
+  },
+  {
     "id": 1000402,
     "editor_name": "精灵图鉴-一键领取",
     "ui_path": [

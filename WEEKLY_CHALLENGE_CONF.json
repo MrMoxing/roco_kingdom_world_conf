@@ -88,5 +88,85 @@
     "battle": 318016,
     "photo": 1016,
     "weekly_max": true
+  },
+  {
+    "id": 1010,
+    "npc": 800008,
+    "name": "路易斯",
+    "text": "challenge_dialogue_13",
+    "sequence_path": "/Game/ArtRes/AnimSequence/Sequence/Show/Zhoutiyan_Ruchang/ZhouTiYan_NPC_01101_Master/ZhouTiYan_NPC_01101_Master.ZhouTiYan_NPC_01101_Master",
+    "battle": 318008,
+    "photo": 1008,
+    "weekly_max": true
+  },
+  {
+    "id": 1011,
+    "npc": 800009,
+    "name": "菲尔特",
+    "text": "challenge_dialogue_14",
+    "sequence_path": "/Game/ArtRes/AnimSequence/Sequence/Show/Zhoutiyan_Ruchang/ZhouTiYan_NPC_01401_Master/ZhouTiYan_NPC_01401_Master.ZhouTiYan_NPC_01401_Master",
+    "battle": 318009,
+    "photo": 1009,
+    "weekly_max": true
+  },
+  {
+    "id": 1012,
+    "npc": 800010,
+    "name": "格里芬",
+    "text": "challenge_dialogue_15",
+    "sequence_path": "/Game/ArtRes/AnimSequence/Sequence/Show/Zhoutiyan_Ruchang/ZhouTiYan_NPC_02201_Master/ZhouTiYan_NPC_02201_Master.ZhouTiYan_NPC_02201_Master",
+    "battle": 318010,
+    "photo": 1010,
+    "weekly_max": true
+  },
+  {
+    "id": 1013,
+    "npc": 800011,
+    "name": "卡门",
+    "text": "challenge_dialogue_16",
+    "sequence_path": "/Game/ArtRes/AnimSequence/Sequence/Show/Zhoutiyan_Ruchang/ZhouTiYan_NPC_08401_Master/ZhouTiYan_NPC_08401_Master.ZhouTiYan_NPC_08401_Master",
+    "battle": 318011,
+    "photo": 1011,
+    "weekly_max": true
+  },
+  {
+    "id": 1014,
+    "npc": 800012,
+    "name": "伊里斯",
+    "text": "challenge_dialogue_17",
+    "sequence_path": "/Game/ArtRes/AnimSequence/Sequence/Show/Zhoutiyan_Ruchang/ZhouTiYan_NPC_06201_Master/ZhouTiYan_NPC_06201_Master.ZhouTiYan_NPC_06201_Master",
+    "battle": 318012,
+    "photo": 1012,
+    "weekly_max": true
+  },
+  {
+    "id": 1015,
+    "npc": 800013,
+    "name": "芙蕾雅",
+    "text": "challenge_dialogue_18",
+    "sequence_path": "/Game/ArtRes/AnimSequence/Sequence/Show/Zhoutiyan_Ruchang/ZhouTiYan_NPC_07401_Master/ZhouTiYan_NPC_07401_Master.ZhouTiYan_NPC_07401_Master",
+    "battle": 318013,
+    "photo": 1013,
+    "weekly_max": true
+  },
+  {
+    "id": 1016,
+    "npc": 800014,
+    "name": "莫扎特",
+    "text": "challenge_dialogue_19",
+    "sequence_path": "/Game/ArtRes/AnimSequence/Sequence/Show/Zhoutiyan_Ruchang/ZhouTiYan_NPC_07601_Master/ZhouTiYan_NPC_07601_Master.ZhouTiYan_NPC_07601_Master",
+    "battle": 318014,
+    "photo": 1014,
+    "weekly_max": true
+  },
+  {
+    "id": 1017,
+    "npc": 800015,
+    "name": "安妮",
+    "text": "challenge_dialogue_20",
+    "sequence_path": "/Game/ArtRes/AnimSequence/Sequence/Show/Zhoutiyan_Ruchang/ZhouTiYan_NPC_00901_Master/ZhouTiYan_NPC_00901_Master.ZhouTiYan_NPC_00901_Master",
+    "battle": 318015,
+    "photo": 1015,
+    "weekly_max": true
   }
 ]

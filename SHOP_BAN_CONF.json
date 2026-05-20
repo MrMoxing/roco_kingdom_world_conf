@@ -1,0 +1,22 @@
+[
+  {
+    "id": 8000,
+    "system_control_id": 11010000
+  },
+  {
+    "id": 8010,
+    "system_control_id": 11050000
+  },
+  {
+    "id": 8050,
+    "system_control_id": 11040000
+  },
+  {
+    "id": 8060,
+    "system_control_id": 11020000
+  },
+  {
+    "id": 8070,
+    "system_control_id": 11070000
+  }
+]

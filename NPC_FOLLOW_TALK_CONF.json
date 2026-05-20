@@ -986,6 +986,7 @@
     "ui_type": "UI_STATE",
     "text": "与恩佐同行中……",
     "stay_time": 3,
+    "condition": 1,
     "priority": 1
   },
   {
@@ -1013,6 +1014,7 @@
     "ui_type": "UI_STATE",
     "text": "与恩佐同行中……",
     "stay_time": 3,
+    "condition": 1,
     "priority": 1
   },
   {
@@ -1040,6 +1042,7 @@
     "ui_type": "UI_STATE",
     "text": "与恩佐同行中……",
     "stay_time": 3,
+    "condition": 1,
     "priority": 1
   },
   {
@@ -1079,6 +1082,7 @@
     "ui_type": "UI_STATE",
     "text": "与恩佐同行中……",
     "stay_time": 3,
+    "condition": 1,
     "priority": 1
   },
   {
@@ -1106,6 +1110,7 @@
     "ui_type": "UI_STATE",
     "text": "与恩佐同行中……",
     "stay_time": 3,
+    "condition": 1,
     "priority": 1
   },
   {
@@ -1379,21 +1384,11 @@
   {
     "id": 100200202,
     "group_id": 1002002,
-    "memo": "B1-JQ09-宿舍广场至生态社前-跟随对话1",
-    "npc_name": "恩佐",
-    "ui_type": "UI_DIALOGUE",
-    "text": "【废弃】知愿石让你去生态园看看。",
-    "stay_time": 5,
-    "priority": 1
-  },
-  {
-    "id": 100200203,
-    "group_id": 1002002,
     "memo": "B1-JQ09-宿舍广场至生态社前-跟随对话2",
     "npc_name": "恩佐",
     "ui_type": "UI_DIALOGUE",
     "text": "生态园是你们精灵学分院所属的教学区，最近还有一个打卡活动。",
-    "next_id": 100200204,
+    "next_id": 100200203,
     "stay_time": 5,
     "condition": 3,
     "condition_parameter": [
@@ -1403,7 +1398,7 @@
     "priority": 1
   },
   {
-    "id": 100200204,
+    "id": 100200203,
     "group_id": 1002002,
     "memo": "B1-JQ09-宿舍广场至生态社前-跟随对话3",
     "npc_name": "恩佐",
@@ -2375,28 +2370,6 @@
     "priority": 1
   },
   {
-    "id": 424010102,
-    "group_id": 4240101,
-    "memo": "S2赛季-噩梦森林-刚进入场景（已废弃）",
-    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/PEO_04904.PEO_04904'",
-    "npc_name": "露萌",
-    "ui_type": "UI_DIALOGUE",
-    "text": "S2赛季-噩梦森林-刚进入场景（已废弃）",
-    "stay_time": 3,
-    "priority": 1
-  },
-  {
-    "id": 424010103,
-    "group_id": 4240101,
-    "memo": "S2赛季-噩梦森林-刚进入场景（已废弃）",
-    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/PEO_04904.PEO_04904'",
-    "npc_name": "露萌",
-    "ui_type": "UI_DIALOGUE",
-    "text": "S2赛季-噩梦森林-刚进入场景（已废弃）",
-    "stay_time": 3,
-    "priority": 1
-  },
-  {
     "id": 424010201,
     "group_id": 4240102,
     "memo": "S1赛季-噩梦森林-露萌-进入森林",
@@ -2476,6 +2449,68 @@
     "npc_name": "露萌",
     "ui_type": "UI_DIALOGUE",
     "text": "S1赛季-噩梦森林--露萌-进入森林3(已废弃)",
+    "stay_time": 3,
+    "priority": 1
+  },
+  {
+    "id": 425010101,
+    "group_id": 4250101,
+    "memo": "S2赛季-跟随声波缇塔",
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/04701.04701'",
+    "npc_name": "希洛",
+    "ui_type": "UI_DIALOGUE",
+    "text": "这个马戏团果然很不一般，生活着好多我从没见过的精灵。",
+    "text_voice": "dialog425010101",
+    "next_id": 425010102,
+    "stay_time": 3,
+    "priority": 1
+  },
+  {
+    "id": 425010102,
+    "group_id": 4250101,
+    "memo": "S3赛季-跟随声波缇塔",
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3406.3406'",
+    "npc_name": "声波缇塔",
+    "ui_type": "UI_DIALOGUE",
+    "text": "嘀嗒，团长创造了整个马戏团。大家都是被团长招募来的！",
+    "text_voice": "dialog425010102",
+    "next_id": 425010103,
+    "stay_time": 3,
+    "priority": 1
+  },
+  {
+    "id": 425010103,
+    "group_id": 4250101,
+    "memo": "S4赛季-跟随声波缇塔",
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3406.3406'",
+    "npc_name": "声波缇塔",
+    "ui_type": "UI_DIALOGUE",
+    "text": "可是，他们都睡着了……",
+    "text_voice": "dialog425010103",
+    "next_id": 425010104,
+    "stay_time": 3,
+    "priority": 1
+  },
+  {
+    "id": 425010104,
+    "group_id": 4250101,
+    "memo": "S5赛季-跟随声波缇塔",
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3406.3406'",
+    "npc_name": "声波缇塔",
+    "ui_type": "UI_DIALOGUE",
+    "text": "小丑豆豆、爆焰仔、小鼓象、小雪人……你们快醒醒！",
+    "text_voice": "dialog425010104",
+    "stay_time": 3,
+    "priority": 1
+  },
+  {
+    "id": 425010105,
+    "group_id": 4250101,
+    "memo": "S2赛季-跟随声波缇塔（废弃）",
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/04701.04701'",
+    "npc_name": "希洛",
+    "ui_type": "UI_DIALOGUE",
+    "text": "废弃",
     "stay_time": 3,
     "priority": 1
   }

@@ -6,7 +6,8 @@
     "is_open_uncommand": true,
     "is_open_enjoy_hate": true,
     "is_watch_battle": true,
-    "is_full_battle_performance": true
+    "is_full_battle_performance": true,
+    "can_evo": true
   },
   {
     "ID": 2,
@@ -25,7 +26,8 @@
     "is_open_uncommand": true,
     "is_open_enjoy_hate": true,
     "is_watch_battle": true,
-    "is_full_battle_performance": true
+    "is_full_battle_performance": true,
+    "can_evo": true
   },
   {
     "ID": 13,
@@ -34,7 +36,8 @@
     "is_open_uncommand": true,
     "is_open_enjoy_hate": true,
     "is_watch_battle": true,
-    "is_full_battle_performance": true
+    "is_full_battle_performance": true,
+    "can_evo": true
   },
   {
     "ID": 29,
@@ -167,7 +170,6 @@
     "battle_type": 11,
     "name": "稀兽花种挑战",
     "is_open_uncommand": true,
-    "is_open_enjoy_hate": true,
     "is_watch_battle": true,
     "is_show_battle_type": true
   },
@@ -176,7 +178,6 @@
     "battle_type": 12,
     "name": "传说精灵挑战",
     "is_open_uncommand": true,
-    "is_open_enjoy_hate": true,
     "is_watch_battle": true,
     "is_show_battle_type": true
   },
@@ -222,6 +223,24 @@
     "ID": 33,
     "battle_type": 33,
     "name": "领地试炼",
+    "is_open_uncommand": true,
+    "is_watch_battle": true,
+    "is_show_information": true,
+    "is_show_battle_type": true
+  },
+  {
+    "ID": 4,
+    "battle_type": 4,
+    "name": "切磋",
+    "is_open_uncommand": true,
+    "is_watch_battle": true,
+    "is_show_information": true,
+    "is_show_battle_type": true
+  },
+  {
+    "ID": 35,
+    "battle_type": 35,
+    "name": "吓人箱",
     "is_open_uncommand": true,
     "is_watch_battle": true,
     "is_show_information": true,

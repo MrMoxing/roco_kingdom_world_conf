@@ -3420,11 +3420,6 @@
     "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTUI.CloseDebugEntryControlText"
   },
   {
-    "id": 690,
-    "gm_group": "gm OpenOrCloseUMGOUTLiner",
-    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTUI.OpenOrCloseUMGOUTLiner"
-  },
-  {
     "id": 691,
     "gm_group": "gm UseNewNourishPanel",
     "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTUI.UseNewNourishPanel"
@@ -6087,17 +6082,17 @@
   {
     "id": 1251,
     "gm_group": "gm OpenServerDebugDraw",
-    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabScene.OpenServerDebugDraw"
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneServer.OpenServerDebugDraw"
   },
   {
     "id": 1252,
     "gm_group": "gm RaycastTest",
-    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabScene.RaycastTest"
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneServer.RaycastTest"
   },
   {
     "id": 1253,
     "gm_group": "gm OverlapTest",
-    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabScene.OverlapTest"
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneServer.OverlapTest"
   },
   {
     "id": 1254,
@@ -6227,7 +6222,7 @@
   {
     "id": 1280,
     "gm_group": "gm GetServerSceneAssetSvnVersion",
-    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabScene.GetServerSceneAssetSvnVersion"
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneServer.GetServerSceneAssetSvnVersion"
   },
   {
     "id": 1281,
@@ -6264,11 +6259,6 @@
     "id": 1287,
     "gm_group": "gm DrawRideCollision",
     "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabRideAll.DrawRideCollision"
-  },
-  {
-    "id": 1288,
-    "gm_group": "gm CancelPlayerMoveCheck",
-    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabScenePublic.CancelPlayerMoveCheck"
   },
   {
     "id": 1289,
@@ -6433,7 +6423,7 @@
   {
     "id": 1322,
     "gm_group": "gm DrawNearestNavMesh",
-    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabScene.DrawNearestNavMesh"
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneServer.DrawNearestNavMesh"
   },
   {
     "id": 1323,
@@ -6583,7 +6573,7 @@
   {
     "id": 1357,
     "gm_group": "gm DrawSceneBoundBox",
-    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabScene.DrawSceneBoundBox"
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneServer.DrawSceneBoundBox"
   },
   {
     "id": 1358,
@@ -6678,7 +6668,7 @@
   {
     "id": 1377,
     "gm_group": "gm DrawNpcRefreshPoints",
-    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabScene.DrawNpcRefreshPoints"
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneServer.DrawNpcRefreshPoints"
   },
   {
     "id": 1378,
@@ -7539,5 +7529,305 @@
     "id": 1620,
     "gm_group": "gm IntoLKYH2F",
     "gm_command": "gm Teleport -937460 686600 6232"
+  },
+  {
+    "id": 1621,
+    "gm_group": "gm DrawAirWall",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneServer.DrawAirWall"
+  },
+  {
+    "id": 1622,
+    "gm_group": "gm IntoBDDDFZD",
+    "gm_command": "gm Teleport -937131 887949 706"
+  },
+  {
+    "id": 1623,
+    "gm_group": "gm IntoWGCBFZD",
+    "gm_command": "gm Teleport -936852 937634 706"
+  },
+  {
+    "id": 1624,
+    "gm_group": "gm IntoMXT",
+    "gm_command": "gm Teleport -884553 887541 -9"
+  },
+  {
+    "id": 1625,
+    "gm_group": "gm CloseIOSRating",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabCommon.CloseIOSRating"
+  },
+  {
+    "id": 1626,
+    "gm_group": "gm OpenIOSRating",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabCommon.OpenIOSRating"
+  },
+  {
+    "id": 1627,
+    "gm_group": "gm LockWeatherClient",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabLightTOD.LockWeatherClient"
+  },
+  {
+    "id": 1628,
+    "gm_group": "gm LockMorningClient",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabLightTOD.LockMorningClient"
+  },
+  {
+    "id": 1629,
+    "gm_group": "gm LockNoonClient",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabLightTOD.LockNoonClient"
+  },
+  {
+    "id": 1630,
+    "gm_group": "gm LockAfternoonClient",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabLightTOD.LockAfternoonClient"
+  },
+  {
+    "id": 1631,
+    "gm_group": "gm LockNightClient",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabLightTOD.LockNightClient"
+  },
+  {
+    "id": 1632,
+    "gm_group": "gm UnlockTimeClient",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabLightTOD.UnlockTimeClient"
+  },
+  {
+    "id": 1633,
+    "gm_group": "gm SetPetVoiceLimit",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabAudio.SetPetVoiceLimit"
+  },
+  {
+    "id": 1634,
+    "gm_group": "gm SetPetVoiceCoolDownRange",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabAudio.SetPetVoiceCoolDownRange"
+  },
+  {
+    "id": 1635,
+    "gm_group": "gm OnRoundStartNotify",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattleTemp2.OnRoundStartNotify"
+  },
+  {
+    "id": 1636,
+    "gm_group": "gm EnableDeepCopyBattleReplay",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattle.EnableDeepCopyBattleReplay"
+  },
+  {
+    "id": 1637,
+    "gm_group": "gm TestFinalBattleOver",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattle.TestFinalBattleOver"
+  },
+  {
+    "id": 1638,
+    "gm_group": "gm LoadBattleFieldLevel",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattle.LoadBattleFieldLevel"
+  },
+  {
+    "id": 1639,
+    "gm_group": "gm EnableBattleProfiler",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattle.EnableBattleProfiler"
+  },
+  {
+    "id": 1640,
+    "gm_group": "gm EnableFakePVPRecord",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattle.EnableFakePVPRecord"
+  },
+  {
+    "id": 1641,
+    "gm_group": "gm DebugEnemyExpression",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattle.DebugEnemyExpression"
+  },
+  {
+    "id": 1642,
+    "gm_group": "gm OnBattleTutorialGuide",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattleTemp.OnBattleTutorialGuide"
+  },
+  {
+    "id": 1643,
+    "gm_group": "gm ClearBattleTutorialGuide",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattleTemp.ClearBattleTutorialGuide"
+  },
+  {
+    "id": 1644,
+    "gm_group": "gm RefreshBattleTutorialGuide",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattleTemp.RefreshBattleTutorialGuide"
+  },
+  {
+    "id": 1645,
+    "gm_group": "gm ShowRolePetInfo",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattleDebug.ShowRolePetInfo"
+  },
+  {
+    "id": 1646,
+    "gm_group": "gm HomeMarriageTest",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabAIDebug.HomeMarriageTest"
+  },
+  {
+    "id": 1647,
+    "gm_group": "gm DebugOpenHerbologyBadgeEntrancePanel",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTUI.DebugOpenHerbologyBadgeEntrancePanel"
+  },
+  {
+    "id": 1648,
+    "gm_group": "gm DebugHideShop8070Tab",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTUI.DebugHideShop8070Tab"
+  },
+  {
+    "id": 1649,
+    "gm_group": "gm DebugShowShop8070Tab",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTUI.DebugShowShop8070Tab"
+  },
+  {
+    "id": 1650,
+    "gm_group": "gm DebugCatchPetTips",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTips.DebugCatchPetTips"
+  },
+  {
+    "id": 1651,
+    "gm_group": "gm DebugLegendaryTaskUnlockTips",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTips.DebugLegendaryTaskUnlockTips"
+  },
+  {
+    "id": 1652,
+    "gm_group": "gm DebugMusicCollectUnlockTips",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTips.DebugMusicCollectUnlockTips"
+  },
+  {
+    "id": 1653,
+    "gm_group": "gm DebugTaskSummary",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTips.DebugTaskSummary"
+  },
+  {
+    "id": 1654,
+    "gm_group": "gm DebugTaskReturnReward",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTips.DebugTaskReturnReward"
+  },
+  {
+    "id": 1655,
+    "gm_group": "gm DebugBreakThroughTips",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTips.DebugBreakThroughTips"
+  },
+  {
+    "id": 1656,
+    "gm_group": "gm DebugNewPet",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTips.DebugNewPet"
+  },
+  {
+    "id": 1657,
+    "gm_group": "gm DebugFunUnlockTips",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTips.DebugFunUnlockTips"
+  },
+  {
+    "id": 1658,
+    "gm_group": "gm DebugMagicTips",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTips.DebugMagicTips"
+  },
+  {
+    "id": 1659,
+    "gm_group": "gm DebugActivityZoneTip",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTips.DebugActivityZoneTip"
+  },
+  {
+    "id": 1660,
+    "gm_group": "gm DebugEnterHomeZoneTip",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTips.DebugEnterHomeZoneTip"
+  },
+  {
+    "id": 1661,
+    "gm_group": "gm DebugHomeAddExpTips",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTips.DebugHomeAddExpTips"
+  },
+  {
+    "id": 1662,
+    "gm_group": "gm DebugHomeRoomExpandTips",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTips.DebugHomeRoomExpandTips"
+  },
+  {
+    "id": 1663,
+    "gm_group": "gm DebugPushManyReward",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTips.DebugPushManyReward"
+  },
+  {
+    "id": 1664,
+    "gm_group": "gm DebugPushManyNewPet",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTips.DebugPushManyNewPet"
+  },
+  {
+    "id": 1665,
+    "gm_group": "gm DebugPushConflictTags",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabTips.DebugPushConflictTags"
+  },
+  {
+    "id": 1666,
+    "gm_group": "gm AddVideo",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabDialogue.AddVideo"
+  },
+  {
+    "id": 1667,
+    "gm_group": "gm TestHMACSHA256",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabDialogue.TestHMACSHA256"
+  },
+  {
+    "id": 1668,
+    "gm_group": "gm ResetTeachingManualRewardState",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabRewards.ResetTeachingManualRewardState"
+  },
+  {
+    "id": 1669,
+    "gm_group": "gm RaycastWithFilterTest",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneServer.RaycastWithFilterTest"
+  },
+  {
+    "id": 1670,
+    "gm_group": "gm TryFixPosToStandTest",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneServer.TryFixPosToStandTest"
+  },
+  {
+    "id": 1671,
+    "gm_group": "gm MarkMapByLayerTest",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneServer.MarkMapByLayerTest"
+  },
+  {
+    "id": 1672,
+    "gm_group": "gm GetCurPosEnvTypeTest",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneServer.GetCurPosEnvTypeTest"
+  },
+  {
+    "id": 1673,
+    "gm_group": "gm OverlapWithFilterTest",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneServer.OverlapWithFilterTest"
+  },
+  {
+    "id": 1674,
+    "gm_group": "gm SampleEnvInRangeTest",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneServer.SampleEnvInRangeTest"
+  },
+  {
+    "id": 1675,
+    "gm_group": "gm DebugBonuscatchRandomPos",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneServer.DebugBonuscatchRandomPos"
+  },
+  {
+    "id": 1676,
+    "gm_group": "gm DecomposeAllFurniture",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabHome.DecomposeAllFurniture"
+  },
+  {
+    "id": 1677,
+    "gm_group": "gm GmStartRecord",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabMagicReplay.GmStartRecord"
+  },
+  {
+    "id": 1678,
+    "gm_group": "gm GmStopRecord",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabMagicReplay.GmStopRecord"
+  },
+  {
+    "id": 1679,
+    "gm_group": "gm GmStartDebugReplay",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabMagicReplay.GmStartDebugReplay"
+  },
+  {
+    "id": 1680,
+    "gm_group": "gm GmStopDebugReplay",
+    "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabMagicReplay.GmStopDebugReplay"
   }
 ]

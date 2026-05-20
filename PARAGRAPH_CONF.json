@@ -47,8 +47,8 @@
     "sorthels": "第一幕",
     "show_task_start": true,
     "title": "精灵狂暴事件",
-    "description": "根据求助信上所示的信息，你来到了「皇家留置地」，帮忙解决此地的精灵事件……",
-    "description_new": "皇家留置地关押了一只精灵，而我，把它放了出来。虽然伊里斯说它非常柔弱，但被它追着揍过的我，根本不相信这叫柔弱。据说它是受到了风灾的影响，总觉得最近和风灾有关的怪事也太多了一点……",
+    "description": "根据求助信上所示的信息，你来到了「皇家办事处」，帮忙解决此地的精灵事件……",
+    "description_new": "皇家办事处关押了一只精灵，而我，把它放了出来。虽然伊里斯说它非常柔弱，但被它追着揍过的我，根本不相信这叫柔弱。据说它是受到了风灾的影响，总觉得最近和风灾有关的怪事也太多了一点……",
     "paragraph_background": "Texture2D'/Game/NewRoco/Modules/System/Task/Res/NewTask1/img_zhangjie1.img_zhangjie1'"
   },
   {
@@ -146,7 +146,7 @@
     "show_task_start": true,
     "title": "伊里斯的下落",
     "description": "伊里斯到底在哪里？\n",
-    "description_new": "在愿望的尽头，我会与我再次相见。",
+    "description_new": "在愿望的尽头，我会与你再次相见。",
     "paragraph_background": "Texture2D'/Game/NewRoco/Modules/System/Task/Res/NewTask1/img_zhangjie4.img_zhangjie4'"
   },
   {
@@ -470,6 +470,21 @@
     "title": "旅途仍将继续",
     "description_new": "看！星空中出现了崭新的轨迹。精灵们聚集在你身边，眼中闪烁着期待的光。星光指引的方向，正传来熟悉又新鲜的呼唤——是时候出发了！",
     "paragraph_background": "Texture2D'/Game/NewRoco/Modules/System/Task/Res/NewTask1/img_zhangjie5.img_zhangjie5'"
+  },
+  {
+    "id": 1019,
+    "sorthels": "格里芬的密令",
+    "show_task_start": true,
+    "title": "格里芬的密令",
+    "description_new": "临时文本",
+    "paragraph_background": "0"
+  },
+  {
+    "id": 1101,
+    "sorthels": "哪一章都不是",
+    "show_task_start": true,
+    "title": "决战王国沙巴克",
+    "description": "这个描述肯定有问题，随便生成的，记得改一下"
   },
   {
     "id": 1301,
@@ -805,7 +820,8 @@
     "title": "洛克贝大劫案  ",
     "title_new": "洛克贝大劫案",
     "description": "本以为作为侦探社代理社长，只需要处理预约信件就行，没想到，还需要临时处理紧急大案！洛克贝在押运至银行的途中被盗走了，银行的负责人拉尔夫，拜托侦探社的大家齐力侦破！",
-    "description_new": "本以为作为侦探社代理社长，只需要处理预约信件就行，没想到，还需要临时处理紧急大案！洛克贝在押运至银行的途中被盗走了，银行的负责人拉尔夫，拜托侦探社的大家齐力侦破！"
+    "description_new": "本以为作为侦探社代理社长，只需要处理预约信件就行，没想到，还需要临时处理紧急大案！洛克贝在押运至银行的途中被盗走了，银行的负责人拉尔夫，拜托侦探社的大家齐力侦破！",
+    "Reward": 600576
   },
   {
     "id": 5006,
@@ -816,7 +832,8 @@
     "title": "小地鼠大烦恼",
     "title_new": "小地鼠大烦恼",
     "description": "做最真实的自己，洛克贝会有的，爱也会有的。",
-    "description_new": "做最真实的自己，洛克贝会有的，爱也会有的。"
+    "description_new": "做最真实的自己，洛克贝会有的，爱也会有的。",
+    "Reward": 600577
   },
   {
     "id": 6001,
@@ -1799,11 +1816,60 @@
     "title": "隐藏任务-生态社变精灵"
   },
   {
+    "id": 10090,
+    "sorthels": "哪一章都不是",
+    "unit_id": 21000,
+    "title": "风暴战犬法尔的记忆",
+    "description_new": "一番波折后，你终于看到了有关风暴战犬法尔的过往……",
+    "Reward": 170000019
+  },
+  {
     "id": 10100,
     "sorthels": "哪一章都不是",
     "unit_id": 21000,
-    "title": "精灵法尔的记忆",
-    "description_new": "一番波折后，你终于看到了有关精灵法尔的过往……"
+    "title": "风暴战犬法尔的记忆",
+    "description_new": "一番波折后，你终于看到了有关风暴战犬法尔的过往……",
+    "Reward": 170000019
+  },
+  {
+    "id": 10110,
+    "sorthels": "哪一章都不是",
+    "unit_id": 21000,
+    "title": "霜翼领主阿特岚的记忆",
+    "description_new": "一番波折后，你终于看到了有关霜翼领主阿特岚的过往……",
+    "Reward": 170000020
+  },
+  {
+    "id": 10120,
+    "sorthels": "哪一章都不是",
+    "unit_id": 21000,
+    "title": "黑猫密探芙摩甘的记忆",
+    "description_new": "一番波折后，你终于看到了有关黑猫密探芙摩甘的过往……",
+    "Reward": 170000021
+  },
+  {
+    "id": 10130,
+    "sorthels": "哪一章都不是",
+    "unit_id": 21000,
+    "title": "雪影冰灵艾莉亚的记忆",
+    "description_new": "一番波折后，你终于看到了有关雪影冰灵艾莉亚的过往……",
+    "Reward": 170000022
+  },
+  {
+    "id": 10140,
+    "sorthels": "哪一章都不是",
+    "unit_id": 21000,
+    "title": "迷嶂布莱克的记忆",
+    "description_new": "一番波折后，你终于看到了有关迷嶂布莱克的过往……",
+    "Reward": 170000023
+  },
+  {
+    "id": 10170,
+    "sorthels": "哪一章都不是",
+    "unit_id": 21000,
+    "title": "蹦蹦果多特的记忆",
+    "description_new": "一番波折后，你终于看到了有关蹦蹦果多特的过往……",
+    "Reward": 170000026
   },
   {
     "id": 11001,
@@ -2070,7 +2136,8 @@
     "paragraph_order": 3,
     "show_task_start": true,
     "title": "水母的账单",
-    "description_new": "水系部族在望风半岛上的度假村项目受到了当地精灵的阻拦，年少有为的小骑士——也就是我被指派去处理这个麻烦。经过调查和推理后，我发现了施工项目对精灵造成的影响，让负责人醒悟并重新考虑选址。当然，我的完美处理让水系部族家主——莫扎特三世在与守护灵格劳科斯的打赌中败下阵来，但也让我获得了他们的认可。"
+    "description_new": "水系部族在望风半岛上的度假村项目受到了当地精灵的阻拦，年少有为的小骑士——也就是我被指派去处理这个麻烦。经过调查和推理后，我发现了施工项目对精灵造成的影响，让负责人醒悟并重新考虑选址。当然，我的完美处理让水系部族家主——莫扎特三世在与守护灵格劳科斯的打赌中败下阵来，但也让我获得了他们的认可。",
+    "Reward": 600553
   },
   {
     "id": 52020,
@@ -2079,7 +2146,8 @@
     "paragraph_order": 2,
     "show_task_start": true,
     "title": "战神的心事",
-    "description_new": "勇气——这就是来自北境的骑士精神！"
+    "description_new": "勇气——这就是来自北境的骑士精神！",
+    "Reward": 600552
   },
   {
     "id": 52802,
@@ -2422,6 +2490,35 @@
     "description": "家园内部CE任务"
   },
   {
+    "id": 52912,
+    "sorthels": "寻宝活动-显性任务",
+    "unit_id": 93001,
+    "paragraph_order": 9,
+    "title": "夏美的计划",
+    "sub_disappear": true,
+    "description_new": "研究员夏美正在尝试复苏一种古老的植物「星光睡铃」，据说它能够在小范围内稳定生态环境。但必须找到五种深埋在地下的系别精华，才能模拟星光睡铃原始的生长土壤。得借助不同系别精灵的力量了。"
+  },
+  {
+    "id": 52913,
+    "sorthels": "寻宝活动-隐藏任务",
+    "unit_id": 93001,
+    "paragraph_order": 10,
+    "title": "星光睡铃复苏计划",
+    "sub_disappear": true,
+    "is_hide_paragraph": true,
+    "description_new": "研究员夏美正在尝试复苏一种古老的植物「星光睡铃」，据说它能够在小范围内稳定生态环境。但必须找到五种深埋在地下的系别精华，才能模拟星光睡铃原始的生长土壤。得借助不同系别精灵的力量了。"
+  },
+  {
+    "id": 52914,
+    "sorthels": "寻宝活动-宝箱任务",
+    "unit_id": 93001,
+    "paragraph_order": 11,
+    "title": "星光睡铃复苏计划",
+    "sub_disappear": true,
+    "is_hide_paragraph": true,
+    "description_new": "研究员夏美正在尝试复苏一种古老的植物「星光睡铃」，据说它能够在小范围内稳定生态环境。但必须找到五种深埋在地下的系别精华，才能模拟星光睡铃原始的生长土壤。得借助不同系别精灵的力量了。"
+  },
+  {
     "id": 52915,
     "paragraph_order": 2,
     "show_task_start": true,
@@ -2517,11 +2614,11 @@
   },
   {
     "id": 52960,
-    "sorthels": "学院呱呱的故事",
+    "sorthels": "玄玉的交换生",
     "unit_id": 23006,
     "paragraph_order": 1,
     "show_task_start": true,
-    "title": "「学院呱呱的故事」",
+    "title": "玄玉的交换生",
     "sub_disappear": true
   },
   {
@@ -2532,6 +2629,28 @@
     "show_task_start": true,
     "title": "与可丽希亚的约定",
     "sub_disappear": true
+  },
+  {
+    "id": 52970,
+    "sorthels": "珍稀精灵调查团",
+    "unit_id": 23010,
+    "paragraph_order": 1,
+    "show_task_start": true,
+    "title": "珍稀精灵调查团"
+  },
+  {
+    "id": 52975,
+    "sorthels": "珍稀精灵调查团",
+    "unit_id": 23010,
+    "paragraph_order": 2,
+    "title": "珍稀精灵调查团"
+  },
+  {
+    "id": 52976,
+    "sorthels": "珍稀精灵调查团",
+    "unit_id": 23010,
+    "paragraph_order": 3,
+    "title": "珍稀精灵调查团"
   },
   {
     "id": 53501,
@@ -2551,6 +2670,23 @@
     "is_hide_paragraph": true
   },
   {
+    "id": 53503,
+    "sorthels": "哪一章都不是",
+    "unit_id": 10016,
+    "paragraph_order": 5,
+    "show_task_start": true,
+    "title": "狂欢怪谈作业",
+    "description": "这个描述肯定有问题，随便生成的，记得改一下",
+    "description_new": "学院对于魔力波动的调查仍在继续，但我的调查暂时告一段落了。\n下一次的赛季作业，又会是什么样的呢？",
+    "season_task": true
+  },
+  {
+    "id": 53504,
+    "sorthels": "狂欢怪谈作业",
+    "show_task_start": true,
+    "title": "狂欢怪谈作业"
+  },
+  {
     "id": 56001,
     "sorthels": "哪一章都不是",
     "unit_id": 22000,
@@ -2568,6 +2704,16 @@
     "sub_disappear": true,
     "description": "魔法学院精灵学的学姐学长们在魔法师之家举办了个有趣的活动。在活动现场，我认识了一个有些特别的精灵学学生，见到了一只优雅又神秘的精灵……",
     "description_new": "我帮助一位执着于理论的学生，让他真正“看见”了精灵眼中闪烁的情感。当心灵的隔阂消融，神秘的卷轴与真挚的领悟共鸣，一只雅丹鬃踏光而来……一段全新的、充满理解的羁绊，也于此夜悄然诞生。"
+  },
+  {
+    "id": 56003,
+    "sorthels": "哪一章都不是",
+    "unit_id": 23703,
+    "show_task_start": true,
+    "title": "云端上的怪客",
+    "sub_disappear": true,
+    "description": "我们曾以为凡鹰是惊扰山坡的怪客，直到并肩击退阴险的黑巫师，救回可立鸡们。凡鹰才不是那个藏在风里的威胁。它张开宽大的羽翼，同那群活泼的可立鸡们，在洒满阳光的山坡上轻快地奔跑。",
+    "description_new": "我们曾以为凡鹰是惊扰山坡的怪客，直到并肩击退阴险的黑巫师，救回可立鸡们。凡鹰才不是那个藏在风里的威胁。它张开宽大的羽翼，同那群活泼的可立鸡们，在洒满阳光的山坡上轻快地奔跑。"
   },
   {
     "id": 58001,
@@ -2919,7 +3065,9 @@
     "paragraph_order": 12,
     "show_task_start": true,
     "title": "大厅事件-冰系研究员",
-    "description": "这个描述肯定有问题，随便生成的，记得改一下"
+    "is_hide_paragraph": true,
+    "description": "这个描述肯定有问题，随便生成的，记得改一下",
+    "season_task": true
   },
   {
     "id": 60200,
@@ -2985,20 +3133,85 @@
     "Reward": 600551
   },
   {
-    "id": 70003,
-    "sorthels": "哪一章都不是",
-    "unit_id": 93004,
-    "show_task_start": true,
-    "title": "【下架】购买高级咕噜球",
-    "description": "在安妮道具店，可以用洛克贝购买到高级咕噜球与魔法石。"
-  },
-  {
     "id": 70004,
     "sorthels": "新手引导-隐藏任务专用",
     "unit_id": 70001,
     "title": "新手引导-隐藏任务专用",
     "is_hide_paragraph": true,
     "description": "新手引导-隐藏任务专用"
+  },
+  {
+    "id": 70006,
+    "sorthels": "哪一章都不是",
+    "unit_id": 10016,
+    "paragraph_order": 1,
+    "show_task_start": true,
+    "title": "马戏奇缘",
+    "description": "这个描述肯定有问题，随便生成的，记得改一下",
+    "description_new": "跟随神秘的宫廷魔法师希洛，我通过海报进入了传说中“机幕方舟”所创造的、只对少数人开放的马戏团。在唤醒伙伴、恢复电力的过程中，逐渐揭开了团长机幕方舟与希洛之间关于梦想的尘封约定。为了让机幕方舟的「心」重新跳动，我和希洛决定帮助马戏团排演节目。",
+    "season_task": true
+  },
+  {
+    "id": 70007,
+    "sorthels": "哪一章都不是",
+    "unit_id": 10016,
+    "paragraph_order": 2,
+    "show_task_start": true,
+    "title": "混乱的方块舞",
+    "description": "这个描述肯定有问题，随便生成的，记得改一下",
+    "description_new": "出乎大家的意料，机械方方用自己的热情拯救了整场歌舞表演，并感染了大家。机幕方舟的「心脏」似乎也在微微跳动。但除此之外，意外出现的斯诺克等人也引起了我的注意……",
+    "season_task": true
+  },
+  {
+    "id": 70008,
+    "sorthels": "哪一章都不是",
+    "unit_id": 10016,
+    "paragraph_order": 3,
+    "show_task_start": true,
+    "title": "火球与冰球",
+    "description": "这个描述肯定有问题，随便生成的，记得改一下",
+    "description_new": "冰与火的对抗也会因友情而消弭于无形，爆焰仔和小雪人的节目顺利进行！也许，这正是小轱辘心跳的来源之一……",
+    "season_task": true
+  },
+  {
+    "id": 70009,
+    "sorthels": "哪一章都不是",
+    "unit_id": 10016,
+    "paragraph_order": 4,
+    "show_task_start": true,
+    "title": "胡闹演出",
+    "description": "这个描述肯定有问题，随便生成的，记得改一下",
+    "description_new": "经历了一整天的胡闹演出后，小轱辘的「心脏」竟奇迹般地复原了！或许正如它所言——真正的奇迹不是这颗心脏，而是这群聚在一起、共同创造了无限精彩的马戏团成员们。",
+    "season_task": true
+  },
+  {
+    "id": 70012,
+    "unit_id": 93004,
+    "paragraph_order": 1,
+    "show_task_start": true,
+    "title": "重聚轻风山",
+    "description": "与噜噜重聚轻风山",
+    "description_new": "许久没有回来了，和久违的噜噜先生叙旧，它对我的回归感到高兴，并赠送了我许多礼物！谢谢噜噜先生！"
+  },
+  {
+    "id": 70013,
+    "sorthels": "哪一章都不是",
+    "unit_id": 10016,
+    "paragraph_order": 7,
+    "show_task_start": true,
+    "title": "咕德帽帽的魔术时间",
+    "description": "这个描述肯定有问题，随便生成的，记得改一下",
+    "season_task": true
+  },
+  {
+    "id": 70014,
+    "sorthels": "哪一章都不是",
+    "unit_id": 10016,
+    "paragraph_order": 8,
+    "show_task_start": true,
+    "title": "马戏团巡游",
+    "description": "这个描述肯定有问题，随便生成的，记得改一下",
+    "season_task": true
   },
   {
     "id": 70015,

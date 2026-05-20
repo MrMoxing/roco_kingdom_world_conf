@@ -53,7 +53,9 @@
     "voice_percent": [
       50,
       50
-    ]
+    ],
+    "pet_talent_rate": 4,
+    "is_unlock_all_machine_skill": true
   },
   {
     "id": 5,
@@ -161,6 +163,23 @@
     "shining_prob": 10000,
     "glass_prob": 10000,
     "custom_glass": {},
+    "height_percent": [
+      3333,
+      3333
+    ],
+    "voice_percent": [
+      50,
+      50
+    ]
+  },
+  {
+    "id": 13,
+    "ball_id": 100002,
+    "glass_prob": 10000,
+    "custom_glass": {
+      "glass_type": 2,
+      "glass_param_1": 2
+    },
     "height_percent": [
       3333,
       3333
@@ -298,7 +317,8 @@
     "pet_talent_rate": 4,
     "nature_id": [
       28
-    ]
+    ],
+    "close_level": 3
   },
   {
     "id": 1006,
@@ -315,7 +335,8 @@
     "pet_talent_rate": 4,
     "nature_id": [
       26
-    ]
+    ],
+    "close_level": 3
   },
   {
     "id": 1007,
@@ -332,7 +353,8 @@
     "pet_talent_rate": 4,
     "nature_id": [
       21
-    ]
+    ],
+    "close_level": 3
   },
   {
     "id": 1008,
@@ -349,7 +371,8 @@
     "pet_talent_rate": 4,
     "nature_id": [
       11
-    ]
+    ],
+    "close_level": 3
   },
   {
     "id": 1009,
@@ -366,7 +389,8 @@
     "pet_talent_rate": 4,
     "nature_id": [
       11
-    ]
+    ],
+    "close_level": 3
   },
   {
     "id": 1010,
@@ -383,7 +407,8 @@
     "pet_talent_rate": 4,
     "nature_id": [
       23
-    ]
+    ],
+    "close_level": 3
   },
   {
     "id": 1011,
@@ -400,7 +425,8 @@
     "pet_talent_rate": 4,
     "nature_id": [
       23
-    ]
+    ],
+    "close_level": 3
   },
   {
     "id": 1012,
@@ -431,7 +457,8 @@
     "pet_talent_rate": 4,
     "nature_id": [
       21
-    ]
+    ],
+    "close_level": 3
   },
   {
     "id": 1014,
@@ -448,7 +475,8 @@
     "pet_talent_rate": 4,
     "nature_id": [
       21
-    ]
+    ],
+    "close_level": 3
   },
   {
     "id": 1015,
@@ -465,7 +493,8 @@
     "pet_talent_rate": 4,
     "nature_id": [
       2
-    ]
+    ],
+    "close_level": 3
   },
   {
     "id": 1016,
@@ -482,7 +511,8 @@
     "pet_talent_rate": 4,
     "nature_id": [
       21
-    ]
+    ],
+    "close_level": 3
   },
   {
     "id": 1017,
@@ -499,7 +529,8 @@
     "pet_talent_rate": 4,
     "nature_id": [
       26
-    ]
+    ],
+    "close_level": 3
   },
   {
     "id": 1018,
@@ -516,7 +547,8 @@
     "pet_talent_rate": 4,
     "nature_id": [
       26
-    ]
+    ],
+    "close_level": 3
   },
   {
     "id": 1019,
@@ -533,7 +565,260 @@
     "pet_talent_rate": 4,
     "nature_id": [
       2
-    ]
+    ],
+    "close_level": 3
+  },
+  {
+    "id": 1020,
+    "glass_prob": 2596,
+    "custom_glass": {},
+    "height_percent": [
+      0,
+      10000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "pet_talent_rate": 4,
+    "nature_id": [
+      2
+    ],
+    "close_level": 3
+  },
+  {
+    "id": 1021,
+    "glass_prob": 2596,
+    "custom_glass": {},
+    "height_percent": [
+      0,
+      10000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "pet_talent_rate": 4,
+    "nature_id": [
+      26
+    ],
+    "close_level": 3
+  },
+  {
+    "id": 1022,
+    "glass_prob": 2596,
+    "custom_glass": {},
+    "height_percent": [
+      0,
+      10000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "pet_talent_rate": 4,
+    "nature_id": [
+      2
+    ],
+    "close_level": 3
+  },
+  {
+    "id": 1023,
+    "glass_prob": 2596,
+    "custom_glass": {},
+    "height_percent": [
+      0,
+      10000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "pet_talent_rate": 4,
+    "nature_id": [
+      23
+    ],
+    "close_level": 3
+  },
+  {
+    "id": 1024,
+    "glass_prob": 2596,
+    "custom_glass": {},
+    "height_percent": [
+      0,
+      10000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "pet_talent_rate": 4,
+    "nature_id": [
+      2
+    ],
+    "close_level": 3
+  },
+  {
+    "id": 1025,
+    "glass_prob": 2596,
+    "custom_glass": {},
+    "height_percent": [
+      0,
+      10000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "pet_talent_rate": 4,
+    "nature_id": [
+      26
+    ],
+    "close_level": 3
+  },
+  {
+    "id": 1026,
+    "glass_prob": 2596,
+    "custom_glass": {},
+    "height_percent": [
+      0,
+      10000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "pet_talent_rate": 4,
+    "nature_id": [
+      23
+    ],
+    "close_level": 3
+  },
+  {
+    "id": 1027,
+    "glass_prob": 2596,
+    "custom_glass": {},
+    "height_percent": [
+      0,
+      10000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "pet_talent_rate": 4,
+    "nature_id": [
+      30
+    ],
+    "close_level": 3
+  },
+  {
+    "id": 1028,
+    "glass_prob": 2596,
+    "custom_glass": {},
+    "height_percent": [
+      0,
+      10000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "pet_talent_rate": 4,
+    "nature_id": [
+      26
+    ],
+    "close_level": 3
+  },
+  {
+    "id": 1029,
+    "glass_prob": 2596,
+    "custom_glass": {},
+    "height_percent": [
+      0,
+      10000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "pet_talent_rate": 4,
+    "nature_id": [
+      26
+    ],
+    "close_level": 3
+  },
+  {
+    "id": 1030,
+    "glass_prob": 2596,
+    "custom_glass": {},
+    "height_percent": [
+      0,
+      10000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "pet_talent_rate": 4,
+    "nature_id": [
+      26
+    ],
+    "close_level": 3
+  },
+  {
+    "id": 1031,
+    "glass_prob": 2596,
+    "custom_glass": {},
+    "height_percent": [
+      0,
+      10000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "pet_talent_rate": 4,
+    "nature_id": [
+      28
+    ],
+    "close_level": 3
+  },
+  {
+    "id": 1032,
+    "glass_prob": 2596,
+    "custom_glass": {},
+    "height_percent": [
+      0,
+      10000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "pet_talent_rate": 4,
+    "nature_id": [
+      23
+    ],
+    "close_level": 3
+  },
+  {
+    "id": 1033,
+    "glass_prob": 2596,
+    "custom_glass": {},
+    "height_percent": [
+      0,
+      10000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "pet_talent_rate": 4,
+    "nature_id": [
+      26
+    ],
+    "close_level": 3
   },
   {
     "id": 2001,
@@ -13981,6 +14266,396 @@
     "talent_id": 1
   },
   {
+    "id": 3193,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      21
+    ],
+    "blood_id": 18,
+    "hp_max_talent": 8,
+    "spe_attack_talent": 8,
+    "speed_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
+    "id": 3194,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      21
+    ],
+    "blood_id": 16,
+    "hp_max_talent": 8,
+    "spe_attack_talent": 8,
+    "speed_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
+    "id": 3195,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      23
+    ],
+    "blood_id": 7,
+    "hp_max_talent": 8,
+    "phy_attack_talent": 8,
+    "speed_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
+    "id": 3196,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      23
+    ],
+    "blood_id": 3,
+    "hp_max_talent": 8,
+    "phy_attack_talent": 8,
+    "speed_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
+    "id": 3197,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      23
+    ],
+    "blood_id": 4,
+    "hp_max_talent": 8,
+    "phy_attack_talent": 8,
+    "speed_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
+    "id": 3198,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      23
+    ],
+    "blood_id": 3,
+    "hp_max_talent": 8,
+    "phy_attack_talent": 8,
+    "speed_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
+    "id": 3199,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      2
+    ],
+    "blood_id": 17,
+    "hp_max_talent": 8,
+    "phy_attack_talent": 8,
+    "phy_defence_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
+    "id": 3200,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      21
+    ],
+    "blood_id": 1,
+    "hp_max_talent": 8,
+    "spe_attack_talent": 8,
+    "speed_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
+    "id": 3201,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      11
+    ],
+    "blood_id": 17,
+    "hp_max_talent": 8,
+    "spe_attack_talent": 8,
+    "spe_defence_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
+    "id": 3202,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      21
+    ],
+    "blood_id": 18,
+    "hp_max_talent": 8,
+    "spe_attack_talent": 8,
+    "speed_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
+    "id": 3203,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      23
+    ],
+    "blood_id": 4,
+    "hp_max_talent": 8,
+    "phy_attack_talent": 8,
+    "speed_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
+    "id": 3204,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      23
+    ],
+    "blood_id": 11,
+    "hp_max_talent": 8,
+    "phy_attack_talent": 8,
+    "speed_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
+    "id": 3205,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      23
+    ],
+    "blood_id": 15,
+    "hp_max_talent": 8,
+    "phy_attack_talent": 8,
+    "speed_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
     "id": 10003,
     "ball_id": 100002,
     "exp": 190,
@@ -23288,6 +23963,195 @@
     "talent_id": 1
   },
   {
+    "id": 15011,
+    "ball_id": 100002,
+    "custom_glass": {},
+    "height_percent": [
+      50,
+      50
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 2,
+    "nature_id": [
+      21
+    ],
+    "hp_max_talent": 8,
+    "spe_attack_talent": 8,
+    "speed_talent": 8,
+    "talent_id": 1
+  },
+  {
+    "id": 15012,
+    "ball_id": 100002,
+    "custom_glass": {},
+    "height_percent": [
+      50,
+      50
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      26
+    ],
+    "hp_max_talent": 8,
+    "phy_attack_talent": 8,
+    "spe_defence_talent": 8,
+    "talent_id": 1
+  },
+  {
+    "id": 15013,
+    "ball_id": 100002,
+    "custom_glass": {},
+    "height_percent": [
+      50,
+      50
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 2,
+    "nature_id": [
+      23
+    ],
+    "hp_max_talent": 8,
+    "phy_attack_talent": 8,
+    "speed_talent": 8,
+    "talent_id": 1
+  },
+  {
+    "id": 15014,
+    "ball_id": 100002,
+    "custom_glass": {},
+    "height_percent": [
+      50,
+      50
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      21
+    ],
+    "hp_max_talent": 8,
+    "spe_attack_talent": 8,
+    "speed_talent": 8,
+    "talent_id": 1
+  },
+  {
+    "id": 15015,
+    "ball_id": 100002,
+    "custom_glass": {},
+    "height_percent": [
+      50,
+      50
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 2,
+    "nature_id": [
+      23
+    ],
+    "hp_max_talent": 8,
+    "phy_attack_talent": 8,
+    "speed_talent": 8,
+    "talent_id": 1
+  },
+  {
+    "id": 15016,
+    "ball_id": 100002,
+    "custom_glass": {},
+    "height_percent": [
+      50,
+      50
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      23
+    ],
+    "hp_max_talent": 8,
+    "spe_attack_talent": 8,
+    "speed_talent": 8,
+    "talent_id": 1
+  },
+  {
+    "id": 15017,
+    "ball_id": 100002,
+    "custom_glass": {},
+    "height_percent": [
+      50,
+      50
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 2,
+    "nature_id": [
+      2
+    ],
+    "hp_max_talent": 8,
+    "phy_attack_talent": 8,
+    "spe_defence_talent": 8,
+    "talent_id": 1
+  },
+  {
+    "id": 15018,
+    "ball_id": 100002,
+    "custom_glass": {},
+    "height_percent": [
+      50,
+      50
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      21
+    ],
+    "hp_max_talent": 8,
+    "spe_attack_talent": 8,
+    "speed_talent": 8,
+    "talent_id": 1
+  },
+  {
+    "id": 15019,
+    "ball_id": 100002,
+    "custom_glass": {},
+    "height_percent": [
+      50,
+      50
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      2
+    ],
+    "hp_max_talent": 10,
+    "phy_attack_talent": 10,
+    "spe_defence_talent": 10,
+    "talent_id": 1
+  },
+  {
     "id": 20001,
     "ball_id": 100255,
     "custom_glass": {},
@@ -23882,7 +24746,7 @@
     "hp_max_talent": 8,
     "phy_defence_talent": 8,
     "spe_defence_talent": 8,
-    "learn_skill_id": 3500,
+    "learn_skill_id": 3106,
     "talent_id": 104
   },
   {
@@ -25169,7 +26033,7 @@
     "hp_max_talent": 8,
     "phy_attack_talent": 8,
     "spe_defence_talent": 8,
-    "learn_skill_id": 3020
+    "learn_skill_id": 3454
   },
   {
     "id": 20106,
@@ -25230,7 +26094,7 @@
     "hp_max_talent": 8,
     "phy_defence_talent": 8,
     "spe_defence_talent": 8,
-    "learn_skill_id": 3500,
+    "learn_skill_id": 3106,
     "talent_id": 401
   },
   {
@@ -25564,12 +26428,13 @@
     ],
     "gender": 1,
     "nature_id": [
-      24
+      2
     ],
+    "blood_id": 12,
     "hp_max_talent": 10,
-    "spe_attack_talent": 10,
+    "phy_attack_talent": 10,
     "speed_talent": 10,
-    "talent_id": 104
+    "talent_id": 103
   },
   {
     "id": 20127,
@@ -25951,6 +26816,23 @@
     "speed_talent": 8,
     "learn_skill_id": 3211,
     "talent_id": 103
+  },
+  {
+    "id": 20149,
+    "ball_id": 100002,
+    "glass_prob": 10000,
+    "custom_glass": {
+      "glass_type": 1
+    },
+    "height_percent": [
+      0,
+      10000
+    ],
+    "voice_percent": [
+      0,
+      100
+    ],
+    "pet_talent_rate": 4
   },
   {
     "id": 20150,
@@ -30003,6 +30885,186 @@
     "speed_talent": 8
   },
   {
+    "id": 3193101,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      23
+    ],
+    "blood_id": 18,
+    "hp_max_talent": 8,
+    "phy_attack_talent": 8,
+    "speed_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
+    "id": 3195101,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      21
+    ],
+    "blood_id": 7,
+    "hp_max_talent": 8,
+    "spe_attack_talent": 8,
+    "speed_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
+    "id": 3197101,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      21
+    ],
+    "blood_id": 4,
+    "hp_max_talent": 8,
+    "spe_attack_talent": 8,
+    "speed_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
+    "id": 3201101,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      2
+    ],
+    "blood_id": 17,
+    "hp_max_talent": 8,
+    "phy_attack_talent": 8,
+    "spe_defence_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
+    "id": 3203101,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      21
+    ],
+    "blood_id": 4,
+    "hp_max_talent": 8,
+    "spe_attack_talent": 8,
+    "speed_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
+    "id": 3205101,
+    "ball_id": 100002,
+    "exp": 844865,
+    "custom_glass": {},
+    "height_percent": [
+      5000,
+      5000
+    ],
+    "weight_percent": [
+      5000,
+      5000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "gender": 1,
+    "nature_id": [
+      21
+    ],
+    "blood_id": 15,
+    "hp_max_talent": 8,
+    "spe_attack_talent": 8,
+    "speed_talent": 8,
+    "is_unlock_all_machine_skill": true,
+    "pet_grow_times": 50,
+    "pet_break_times": 5,
+    "talent_id": 1
+  },
+  {
     "id": 3244002,
     "ball_id": 100002,
     "shining_prob": 10000,
@@ -30041,6 +31103,44 @@
     "hp_max_talent": 8,
     "phy_attack_talent": 8,
     "speed_talent": 8
+  },
+  {
+    "id": 3531002,
+    "shining_prob": 10000,
+    "custom_glass": {},
+    "height_percent": [
+      0,
+      10000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "nature_id": [
+      30
+    ],
+    "hp_max_talent": 8,
+    "phy_attack_talent": 8,
+    "phy_defence_talent": 8
+  },
+  {
+    "id": 3572002,
+    "shining_prob": 10000,
+    "custom_glass": {},
+    "height_percent": [
+      0,
+      10000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "nature_id": [
+      28
+    ],
+    "hp_max_talent": 8,
+    "phy_attack_talent": 8,
+    "spe_defence_talent": 8
   },
   {
     "id": 4019001,
@@ -33496,6 +34596,96 @@
     ]
   },
   {
+    "id": 19000142,
+    "custom_glass": {},
+    "height_percent": [
+      3333,
+      3333
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "nature_id": [
+      4
+    ]
+  },
+  {
+    "id": 19000143,
+    "custom_glass": {},
+    "height_percent": [
+      3333,
+      3333
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "nature_id": [
+      5
+    ]
+  },
+  {
+    "id": 19000144,
+    "custom_glass": {},
+    "height_percent": [
+      3333,
+      3333
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "nature_id": [
+      10
+    ]
+  },
+  {
+    "id": 19000145,
+    "custom_glass": {},
+    "height_percent": [
+      3333,
+      3333
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "nature_id": [
+      25
+    ]
+  },
+  {
+    "id": 19000146,
+    "custom_glass": {},
+    "height_percent": [
+      3333,
+      3333
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "nature_id": [
+      29
+    ]
+  },
+  {
+    "id": 19000147,
+    "custom_glass": {},
+    "height_percent": [
+      3333,
+      3333
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "nature_id": [
+      9
+    ]
+  },
+  {
     "id": 19100030,
     "ball_id": 100002,
     "chaos_prob": 10000,
@@ -33555,8 +34745,7 @@
     ],
     "hp_max_talent": 8,
     "phy_defence_talent": 8,
-    "spe_defence_talent": 8,
-    "learn_skill_id": 3307
+    "spe_defence_talent": 8
   },
   {
     "id": 20000000,
@@ -33758,7 +34947,10 @@
     "voice_percent": [
       50,
       50
-    ]
+    ],
+    "pet_talent_rate": 4,
+    "blood_id": 23,
+    "talent_rand_value": 10
   },
   {
     "id": 22000011,
@@ -33821,6 +35013,24 @@
     "custom_glass": {
       "glass_type": 1,
       "glass_param_1": 15
+    },
+    "height_percent": [
+      0,
+      10000
+    ],
+    "voice_percent": [
+      50,
+      50
+    ],
+    "pet_talent_rate": 4
+  },
+  {
+    "id": 22000015,
+    "ball_id": 100002,
+    "glass_prob": 10000,
+    "custom_glass": {
+      "glass_type": 2,
+      "glass_param_1": 2
     },
     "height_percent": [
       0,

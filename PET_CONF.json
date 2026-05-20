@@ -6333,7 +6333,7 @@
   },
   {
     "id": 2500210,
-    "name": "机墓方舟",
+    "name": "机幕方舟",
     "base_id": 3735,
     "pet_info_id": 10352
   },
@@ -10784,6 +10784,228 @@
     "pet_info_id": 4
   },
   {
+    "id": 2601690,
+    "name": "钨丝贝贝",
+    "base_id": 3733,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601691,
+    "name": "辉光幕机",
+    "base_id": 3734,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601692,
+    "name": "机幕方舟",
+    "base_id": 3735,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601693,
+    "name": "凡雀",
+    "base_id": 3392,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601694,
+    "name": "紫翎鹰",
+    "base_id": 3393,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601695,
+    "name": "凡鹰",
+    "base_id": 3394,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601696,
+    "name": "小雪人",
+    "base_id": 3531,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601697,
+    "name": "雪怪",
+    "base_id": 3532,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601698,
+    "name": "爆焰仔",
+    "base_id": 3572,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601699,
+    "name": "爆焰喷喷",
+    "base_id": 3573,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601700,
+    "name": "学院呱呱",
+    "base_id": 3620,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601701,
+    "name": "猴麦仔",
+    "base_id": 3729,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601702,
+    "name": "音碟吼",
+    "base_id": 3730,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601703,
+    "name": "加油海葵",
+    "base_id": 3659,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601704,
+    "name": "加油蟹",
+    "base_id": 3660,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601705,
+    "name": "小丑豆豆",
+    "base_id": 3487,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601706,
+    "name": "小丑兔",
+    "base_id": 3488,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601707,
+    "name": "小丑公爵",
+    "base_id": 3489,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601708,
+    "name": "烟花团",
+    "base_id": 3677,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601709,
+    "name": "烟花伯爵",
+    "base_id": 3678,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601710,
+    "name": "咕咕帽",
+    "base_id": 3683,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601711,
+    "name": "咕德帽帽",
+    "base_id": 3684,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601712,
+    "name": "炫光迪迪",
+    "base_id": 3736,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601713,
+    "name": "​​霹雳迪迪",
+    "base_id": 3737,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601714,
+    "name": "小鼓象",
+    "base_id": 3708,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601715,
+    "name": "巨鼓象",
+    "base_id": 3709,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601716,
+    "name": "牵线木偶",
+    "base_id": 3234,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601717,
+    "name": "帅帅魔偶",
+    "base_id": 3235,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601718,
+    "name": "宝藏小狐",
+    "base_id": 3740,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601719,
+    "name": "宝藏沙狐",
+    "base_id": 3741,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601720,
+    "name": "鸭吉吉",
+    "base_id": 3742,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601721,
+    "name": "幽星光",
+    "base_id": 3369,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601722,
+    "name": "曜星光",
+    "base_id": 3370,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601723,
+    "name": "暮星辰",
+    "base_id": 3371,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601724,
+    "name": "加油蟹",
+    "base_id": 3743,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601725,
+    "name": "春团",
+    "base_id": 3161,
+    "pet_info_id": 4
+  },
+  {
+    "id": 2601726,
+    "name": "春兔",
+    "base_id": 3162,
+    "pet_info_id": 4
+  },
+  {
     "id": 3001001,
     "name": "喵喵",
     "base_id": 3001,
@@ -10816,7 +11038,7 @@
     "name": "迪莫",
     "base_id": 3004,
     "release_forbidden": true,
-    "mark_start_task": 1000017,
+    "mark_start_task": 100015,
     "pet_info_id": 3004002
   },
   {
@@ -10880,6 +11102,22 @@
     "base_id": 3010,
     "mark_type": 1,
     "pet_info_id": 20003
+  },
+  {
+    "id": 3010003,
+    "name": "恶魔叮",
+    "base_id": 3010,
+    "pet_info_id": 16,
+    "pet_egg_npc_id": 940018,
+    "is_egg": true
+  },
+  {
+    "id": 3010004,
+    "name": "恶魔叮",
+    "base_id": 3010,
+    "pet_info_id": 20150,
+    "pet_egg_npc_id": 940018,
+    "is_egg": true
   },
   {
     "id": 3011001,
@@ -11074,6 +11312,12 @@
     "pet_info_id": 20144
   },
   {
+    "id": 3026004,
+    "name": "绿草精灵",
+    "base_id": 3026,
+    "pet_info_id": 20149
+  },
+  {
     "id": 3027001,
     "name": "蒲公英娃娃",
     "base_id": 3027,
@@ -11121,6 +11365,12 @@
     "name": "奇丽草",
     "base_id": 3029,
     "pet_info_id": 30012
+  },
+  {
+    "id": 3029006,
+    "name": "奇丽草",
+    "base_id": 3029,
+    "pet_info_id": 20149
   },
   {
     "id": 3029007,
@@ -11398,6 +11648,12 @@
     "is_egg": true
   },
   {
+    "id": 3060002,
+    "name": "小灵面",
+    "base_id": 3060,
+    "pet_info_id": 20149
+  },
+  {
     "id": 3061001,
     "name": "暗影灵面",
     "base_id": 3061,
@@ -11421,7 +11677,10 @@
     "id": 3062003,
     "name": "小独角兽",
     "base_id": 3062,
-    "pet_info_id": 20018
+    "pet_info_id": 20018,
+    "need_name": "伊里斯",
+    "pet_interface_anim": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/NPC/Pet_Happy.Pet_Happy_C'",
+    "world_anim": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/NPC/Pet_Happy.Pet_Happy_C'"
   },
   {
     "id": 3062004,
@@ -11429,6 +11688,28 @@
     "base_id": 3062,
     "mark_type": 1,
     "pet_info_id": 20019
+  },
+  {
+    "id": 3062005,
+    "name": "小独角兽",
+    "base_id": 3062,
+    "pet_info_id": 16,
+    "pet_egg_npc_id": 940019,
+    "is_egg": true
+  },
+  {
+    "id": 3062006,
+    "name": "小独角兽",
+    "base_id": 3062,
+    "pet_info_id": 20149
+  },
+  {
+    "id": 3062007,
+    "name": "小独角兽",
+    "base_id": 3062,
+    "pet_info_id": 20150,
+    "pet_egg_npc_id": 940019,
+    "is_egg": true
   },
   {
     "id": 3063001,
@@ -11461,6 +11742,22 @@
     "name": "幽影树",
     "base_id": 3064,
     "pet_info_id": 30020
+  },
+  {
+    "id": 3064005,
+    "name": "幽影树",
+    "base_id": 3064,
+    "pet_info_id": 16,
+    "pet_egg_npc_id": 940020,
+    "is_egg": true
+  },
+  {
+    "id": 3064006,
+    "name": "幽影树",
+    "base_id": 3064,
+    "pet_info_id": 20150,
+    "pet_egg_npc_id": 940020,
+    "is_egg": true
   },
   {
     "id": 3065001,
@@ -11602,6 +11899,22 @@
     "pet_info_id": 20027
   },
   {
+    "id": 3075004,
+    "name": "灵狐",
+    "base_id": 3075,
+    "pet_info_id": 16,
+    "pet_egg_npc_id": 940021,
+    "is_egg": true
+  },
+  {
+    "id": 3075005,
+    "name": "灵狐",
+    "base_id": 3075,
+    "pet_info_id": 20150,
+    "pet_egg_npc_id": 940021,
+    "is_egg": true
+  },
+  {
     "id": 3076001,
     "name": "九尾狐",
     "base_id": 3076,
@@ -11650,6 +11963,12 @@
     "pet_info_id": 16,
     "pet_egg_npc_id": 940014,
     "is_egg": true
+  },
+  {
+    "id": 3081003,
+    "name": "治愈兔",
+    "base_id": 3081,
+    "pet_info_id": 20149
   },
   {
     "id": 3081004,
@@ -12038,6 +12357,12 @@
     "pet_info_id": 20044
   },
   {
+    "id": 3119004,
+    "name": "翡翠水母",
+    "base_id": 3119,
+    "pet_info_id": 20149
+  },
+  {
     "id": 3120001,
     "name": "琉璃水母",
     "base_id": 3120,
@@ -12078,6 +12403,12 @@
     "name": "大耳帽兜",
     "base_id": 3121,
     "pet_info_id": 30046
+  },
+  {
+    "id": 3121006,
+    "name": "大耳帽兜",
+    "base_id": 3121,
+    "pet_info_id": 20149
   },
   {
     "id": 3121007,
@@ -12260,6 +12591,12 @@
     "is_egg": true
   },
   {
+    "id": 3139002,
+    "name": "小草虫",
+    "base_id": 3139,
+    "pet_info_id": 20149
+  },
+  {
     "id": 3140001,
     "name": "草衣虫",
     "base_id": 3140,
@@ -12292,6 +12629,22 @@
     "base_id": 3142,
     "mark_type": 1,
     "pet_info_id": 20054
+  },
+  {
+    "id": 3142004,
+    "name": "小夜",
+    "base_id": 3142,
+    "pet_info_id": 16,
+    "pet_egg_npc_id": 940022,
+    "is_egg": true
+  },
+  {
+    "id": 3142005,
+    "name": "小夜",
+    "base_id": 3142,
+    "pet_info_id": 20150,
+    "pet_egg_npc_id": 940022,
+    "is_egg": true
   },
   {
     "id": 3143001,
@@ -12711,6 +13064,12 @@
     "is_egg": true
   },
   {
+    "id": 3190002,
+    "name": "电咩咩",
+    "base_id": 3190,
+    "pet_info_id": 20149
+  },
+  {
     "id": 3191001,
     "name": "粉咩咩",
     "base_id": 3191,
@@ -13039,6 +13398,22 @@
     "is_egg": true
   },
   {
+    "id": 3227002,
+    "name": "菊花梨",
+    "base_id": 3227,
+    "pet_info_id": 16,
+    "pet_egg_npc_id": 940023,
+    "is_egg": true
+  },
+  {
+    "id": 3227003,
+    "name": "菊花梨",
+    "base_id": 3227,
+    "pet_info_id": 20150,
+    "pet_egg_npc_id": 940023,
+    "is_egg": true
+  },
+  {
     "id": 3228001,
     "name": "友爱天天",
     "base_id": 3228,
@@ -13093,6 +13468,30 @@
     "base_id": 3234,
     "mark_type": 1,
     "pet_info_id": 20072
+  },
+  {
+    "id": 3234003,
+    "name": "牵线木偶",
+    "base_id": 3234,
+    "pet_info_id": 16,
+    "pet_egg_npc_id": 940024,
+    "is_egg": true
+  },
+  {
+    "id": 3234004,
+    "name": "牵线木偶",
+    "base_id": 3234,
+    "pet_info_id": 15018,
+    "pet_egg_npc_id": 930089,
+    "is_egg": true
+  },
+  {
+    "id": 3234005,
+    "name": "牵线木偶",
+    "base_id": 3234,
+    "pet_info_id": 20150,
+    "pet_egg_npc_id": 940024,
+    "is_egg": true
   },
   {
     "id": 3235001,
@@ -13217,6 +13616,12 @@
     "base_id": 3250,
     "pet_egg_npc_id": 930096,
     "is_egg": true
+  },
+  {
+    "id": 3250002,
+    "name": "小鹬",
+    "base_id": 3250,
+    "pet_info_id": 20149
   },
   {
     "id": 3251001,
@@ -13399,6 +13804,12 @@
     "base_id": 3276,
     "mark_type": 1,
     "pet_info_id": 20078
+  },
+  {
+    "id": 3276004,
+    "name": "绿翼鸟",
+    "base_id": 3276,
+    "pet_info_id": 20149
   },
   {
     "id": 3277001,
@@ -13978,7 +14389,7 @@
   },
   {
     "id": 3340001,
-    "name": "古齿帝牙",
+    "name": "冰晶古齿虎",
     "base_id": 3340,
     "pet_egg_npc_id": 930117,
     "is_egg": true
@@ -14180,6 +14591,28 @@
     "is_egg": true
   },
   {
+    "id": 3367002,
+    "name": "嘟嘟煲",
+    "base_id": 3367,
+    "pet_info_id": 16,
+    "pet_egg_npc_id": 940025,
+    "is_egg": true
+  },
+  {
+    "id": 3367003,
+    "name": "嘟嘟煲",
+    "base_id": 3367,
+    "pet_info_id": 20149
+  },
+  {
+    "id": 3367004,
+    "name": "嘟嘟煲",
+    "base_id": 3367,
+    "pet_info_id": 20150,
+    "pet_egg_npc_id": 940025,
+    "is_egg": true
+  },
+  {
     "id": 3368001,
     "name": "嘟嘟锅",
     "base_id": 3368,
@@ -14286,6 +14719,12 @@
     "base_id": 3378,
     "mark_type": 1,
     "pet_info_id": 20141
+  },
+  {
+    "id": 3378003,
+    "name": "菇菇丁",
+    "base_id": 3378,
+    "pet_info_id": 20149
   },
   {
     "id": 3379001,
@@ -14752,6 +15191,12 @@
     "is_egg": true
   },
   {
+    "id": 3438002,
+    "name": "梦游",
+    "base_id": 3438,
+    "pet_info_id": 20149
+  },
+  {
     "id": 3439001,
     "name": "梦悠悠",
     "base_id": 3439,
@@ -15149,6 +15594,30 @@
     "is_egg": true
   },
   {
+    "id": 3487002,
+    "name": "小丑豆豆",
+    "base_id": 3487,
+    "pet_info_id": 16,
+    "pet_egg_npc_id": 940026,
+    "is_egg": true
+  },
+  {
+    "id": 3487003,
+    "name": "小丑豆豆",
+    "base_id": 3487,
+    "pet_info_id": 15016,
+    "pet_egg_npc_id": 930211,
+    "is_egg": true
+  },
+  {
+    "id": 3487004,
+    "name": "小丑豆豆",
+    "base_id": 3487,
+    "pet_info_id": 20150,
+    "pet_egg_npc_id": 940026,
+    "is_egg": true
+  },
+  {
     "id": 3488001,
     "name": "小丑兔",
     "base_id": 3488,
@@ -15237,6 +15706,22 @@
     "name": "公平鸽",
     "base_id": 3499,
     "pet_info_id": 20107
+  },
+  {
+    "id": 3499003,
+    "name": "公平鸽",
+    "base_id": 3499,
+    "pet_info_id": 16,
+    "pet_egg_npc_id": 940027,
+    "is_egg": true
+  },
+  {
+    "id": 3499004,
+    "name": "公平鸽",
+    "base_id": 3499,
+    "pet_info_id": 20150,
+    "pet_egg_npc_id": 940027,
+    "is_egg": true
   },
   {
     "id": 3500001,
@@ -15506,6 +15991,12 @@
     "base_id": 3531,
     "pet_egg_npc_id": 930210,
     "is_egg": true
+  },
+  {
+    "id": 3531002,
+    "name": "小雪人",
+    "base_id": 3531,
+    "pet_info_id": 3531002
   },
   {
     "id": 3532001,
@@ -15872,6 +16363,12 @@
     "base_id": 3572,
     "pet_egg_npc_id": 930212,
     "is_egg": true
+  },
+  {
+    "id": 3572002,
+    "name": "爆焰仔",
+    "base_id": 3572,
+    "pet_info_id": 3572002
   },
   {
     "id": 3573001,
@@ -16507,6 +17004,31 @@
     "id": 3659001,
     "name": "加油海葵",
     "base_id": 3659,
+    "pet_egg_npc_id": 930220,
+    "is_egg": true
+  },
+  {
+    "id": 3659002,
+    "name": "加油海葵",
+    "base_id": 3659,
+    "pet_info_id": 16,
+    "pet_egg_npc_id": 940028,
+    "is_egg": true
+  },
+  {
+    "id": 3659003,
+    "name": "加油海葵",
+    "base_id": 3659,
+    "pet_info_id": 15013,
+    "pet_egg_npc_id": 930220,
+    "is_egg": true
+  },
+  {
+    "id": 3659004,
+    "name": "加油海葵",
+    "base_id": 3659,
+    "pet_info_id": 20150,
+    "pet_egg_npc_id": 940028,
     "is_egg": true
   },
   {
@@ -16615,6 +17137,31 @@
     "id": 3677001,
     "name": "烟花团",
     "base_id": 3677,
+    "pet_egg_npc_id": 930213,
+    "is_egg": true
+  },
+  {
+    "id": 3677002,
+    "name": "烟花团",
+    "base_id": 3677,
+    "pet_info_id": 16,
+    "pet_egg_npc_id": 940029,
+    "is_egg": true
+  },
+  {
+    "id": 3677003,
+    "name": "烟花团",
+    "base_id": 3677,
+    "pet_info_id": 15012,
+    "pet_egg_npc_id": 930213,
+    "is_egg": true
+  },
+  {
+    "id": 3677004,
+    "name": "烟花团",
+    "base_id": 3677,
+    "pet_info_id": 20150,
+    "pet_egg_npc_id": 940029,
     "is_egg": true
   },
   {
@@ -16651,6 +17198,31 @@
     "id": 3683001,
     "name": "咕咕帽",
     "base_id": 3683,
+    "pet_egg_npc_id": 930221,
+    "is_egg": true
+  },
+  {
+    "id": 3683002,
+    "name": "咕咕帽",
+    "base_id": 3683,
+    "pet_info_id": 16,
+    "pet_egg_npc_id": 940030,
+    "is_egg": true
+  },
+  {
+    "id": 3683003,
+    "name": "咕咕帽",
+    "base_id": 3683,
+    "pet_info_id": 15015,
+    "pet_egg_npc_id": 930221,
+    "is_egg": true
+  },
+  {
+    "id": 3683004,
+    "name": "咕咕帽",
+    "base_id": 3683,
+    "pet_info_id": 20150,
+    "pet_egg_npc_id": 940030,
     "is_egg": true
   },
   {
@@ -16805,6 +17377,31 @@
     "id": 3708001,
     "name": "小鼓象",
     "base_id": 3708,
+    "pet_egg_npc_id": 930223,
+    "is_egg": true
+  },
+  {
+    "id": 3708002,
+    "name": "小鼓象",
+    "base_id": 3708,
+    "pet_info_id": 16,
+    "pet_egg_npc_id": 940031,
+    "is_egg": true
+  },
+  {
+    "id": 3708003,
+    "name": "小鼓象",
+    "base_id": 3708,
+    "pet_info_id": 15017,
+    "pet_egg_npc_id": 930223,
+    "is_egg": true
+  },
+  {
+    "id": 3708004,
+    "name": "小鼓象",
+    "base_id": 3708,
+    "pet_info_id": 20150,
+    "pet_egg_npc_id": 940031,
     "is_egg": true
   },
   {
@@ -16938,8 +17535,33 @@
   },
   {
     "id": 3729001,
-    "name": "猴唛仔",
+    "name": "猴麦仔",
     "base_id": 3729,
+    "pet_egg_npc_id": 930219,
+    "is_egg": true
+  },
+  {
+    "id": 3729002,
+    "name": "猴麦仔",
+    "base_id": 3729,
+    "pet_info_id": 16,
+    "pet_egg_npc_id": 940032,
+    "is_egg": true
+  },
+  {
+    "id": 3729003,
+    "name": "猴麦仔",
+    "base_id": 3729,
+    "pet_info_id": 15011,
+    "pet_egg_npc_id": 930219,
+    "is_egg": true
+  },
+  {
+    "id": 3729004,
+    "name": "猴麦仔",
+    "base_id": 3729,
+    "pet_info_id": 20150,
+    "pet_egg_npc_id": 940032,
     "is_egg": true
   },
   {
@@ -16967,6 +17589,13 @@
     "is_egg": true
   },
   {
+    "id": 3733002,
+    "name": "钨丝贝贝",
+    "base_id": 3733,
+    "pet_info_id": 15019,
+    "is_egg": true
+  },
+  {
     "id": 3734001,
     "name": "辉光幕机",
     "base_id": 3734,
@@ -16974,7 +17603,7 @@
   },
   {
     "id": 3735001,
-    "name": "机墓方舟",
+    "name": "机幕方舟",
     "base_id": 3735,
     "is_egg": true
   },
@@ -16982,6 +17611,31 @@
     "id": 3736001,
     "name": "炫光迪迪",
     "base_id": 3736,
+    "pet_egg_npc_id": 930222,
+    "is_egg": true
+  },
+  {
+    "id": 3736002,
+    "name": "炫光迪迪",
+    "base_id": 3736,
+    "pet_info_id": 16,
+    "pet_egg_npc_id": 940033,
+    "is_egg": true
+  },
+  {
+    "id": 3736003,
+    "name": "炫光迪迪",
+    "base_id": 3736,
+    "pet_info_id": 15014,
+    "pet_egg_npc_id": 930222,
+    "is_egg": true
+  },
+  {
+    "id": 3736004,
+    "name": "炫光迪迪",
+    "base_id": 3736,
+    "pet_info_id": 20150,
+    "pet_egg_npc_id": 940033,
     "is_egg": true
   },
   {
@@ -17006,13 +17660,13 @@
   },
   {
     "id": 3740001,
-    "name": "方方狐",
+    "name": "宝藏小狐",
     "base_id": 3740,
     "is_egg": true
   },
   {
     "id": 3741001,
-    "name": "狐脸擦擦",
+    "name": "宝藏沙狐",
     "base_id": 3741,
     "is_egg": true
   },
@@ -17021,6 +17675,12 @@
     "name": "鸭吉吉",
     "base_id": 3742,
     "pet_egg_npc_id": 930009,
+    "is_egg": true
+  },
+  {
+    "id": 3743001,
+    "name": "加油蟹",
+    "base_id": 3743,
     "is_egg": true
   },
   {
@@ -17067,6 +17727,11 @@
     "name": "奇丽花",
     "base_id": 3031,
     "pet_info_id": 9000401
+  },
+  {
+    "id": 9001001,
+    "name": "狂欢的惊喜",
+    "base_id": 9001
   },
   {
     "id": 9801000,
@@ -24023,6 +24688,42 @@
     "pet_info_id": 7
   },
   {
+    "id": 19210029,
+    "name": "勇敢白发懒人",
+    "base_id": 3049,
+    "pet_info_id": 19000142
+  },
+  {
+    "id": 19210030,
+    "name": "坦率白发懒人",
+    "base_id": 3049,
+    "pet_info_id": 19000143
+  },
+  {
+    "id": 19210031,
+    "name": "害羞白发懒人",
+    "base_id": 3049,
+    "pet_info_id": 19000144
+  },
+  {
+    "id": 19210032,
+    "name": "浮躁白发懒人",
+    "base_id": 3049,
+    "pet_info_id": 19000145
+  },
+  {
+    "id": 19210033,
+    "name": "忧郁白发懒人",
+    "base_id": 3049,
+    "pet_info_id": 19000146
+  },
+  {
+    "id": 19210034,
+    "name": "悠闲白发懒人",
+    "base_id": 3049,
+    "pet_info_id": 19000147
+  },
+  {
     "id": 19220001,
     "name": "喵喵",
     "base_id": 3001,
@@ -30203,6 +30904,42 @@
     "pet_info_id": 15
   },
   {
+    "id": 19270001,
+    "name": "圣羽翼王",
+    "base_id": 3397,
+    "pet_info_id": 13
+  },
+  {
+    "id": 19270002,
+    "name": "鸭吉吉",
+    "base_id": 3012,
+    "pet_info_id": 13
+  },
+  {
+    "id": 19270003,
+    "name": "白金独角兽",
+    "base_id": 3063,
+    "pet_info_id": 13
+  },
+  {
+    "id": 19270004,
+    "name": "钨丝贝贝",
+    "base_id": 3733,
+    "pet_info_id": 13
+  },
+  {
+    "id": 19270005,
+    "name": "辉光幕机",
+    "base_id": 3734,
+    "pet_info_id": 13
+  },
+  {
+    "id": 19270006,
+    "name": "机幕方舟",
+    "base_id": 3735,
+    "pet_info_id": 13
+  },
+  {
     "id": 19280001,
     "name": "圣羽翼王",
     "base_id": 3397,
@@ -30234,7 +30971,7 @@
   },
   {
     "id": 19280006,
-    "name": "机墓方舟",
+    "name": "机幕方舟",
     "base_id": 3735,
     "pet_info_id": 14
   },
@@ -31525,9 +32262,21 @@
     "pet_info_id": 17
   },
   {
+    "id": 36590001,
+    "name": "加油海葵",
+    "base_id": 3659,
+    "pet_info_id": 17
+  },
+  {
     "id": 36770001,
     "name": "烟花团",
     "base_id": 3677,
+    "pet_info_id": 17
+  },
+  {
+    "id": 36830001,
+    "name": "咕咕帽",
+    "base_id": 3683,
     "pet_info_id": 17
   },
   {
@@ -31543,9 +32292,39 @@
     "pet_info_id": 17
   },
   {
+    "id": 37080001,
+    "name": "小鼓象",
+    "base_id": 3708,
+    "pet_info_id": 17
+  },
+  {
+    "id": 37290001,
+    "name": "猴麦仔",
+    "base_id": 3729,
+    "pet_info_id": 17
+  },
+  {
+    "id": 37330001,
+    "name": "钨丝贝贝",
+    "base_id": 3733,
+    "pet_info_id": 17
+  },
+  {
+    "id": 37360001,
+    "name": "炫光迪迪",
+    "base_id": 3736,
+    "pet_info_id": 17
+  },
+  {
     "id": 37380001,
     "name": "小怂猫",
     "base_id": 3738,
+    "pet_info_id": 17
+  },
+  {
+    "id": 37400001,
+    "name": "宝藏小狐",
+    "base_id": 3740,
     "pet_info_id": 17
   },
   {

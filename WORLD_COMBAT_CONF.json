@@ -2589,5 +2589,116 @@
         "weakness_ratio": 200
       }
     ]
+  },
+  {
+    "id": 8001,
+    "npc_id": 67043,
+    "refresh_content_id": 1002655,
+    "scene_id": 116,
+    "world_boss_refer": 4090,
+    "editor_name": "ai 首领战测试npc2",
+    "escape_pos_id": 211,
+    "block_id": 541160006,
+    "min_battle_distance": 20,
+    "option": [
+      {
+        "stage_shield": 50058
+      },
+      {
+        "stage_shield": 50058
+      },
+      {
+        "stage_shield": 50058
+      },
+      {
+        "stage_shield": 50058
+      }
+    ],
+    "bgm_world_combat_state": "World_Combat_Type;Hard",
+    "preloading_npc": [
+      67027,
+      67028,
+      67029
+    ],
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bone_Head_01",
+        "weakness_ratio": 200
+      }
+    ]
+  },
+  {
+    "id": 8002,
+    "npc_id": 67044,
+    "refresh_content_id": 1002656,
+    "scene_id": 116,
+    "world_boss_refer": 4090,
+    "editor_name": "ai 首领战测试npc3",
+    "escape_pos_id": 211,
+    "block_id": 541160007,
+    "min_battle_distance": 20,
+    "option": [
+      {
+        "stage_shield": 50058
+      },
+      {
+        "stage_shield": 50058
+      },
+      {
+        "stage_shield": 50058
+      },
+      {
+        "stage_shield": 50058
+      }
+    ],
+    "bgm_world_combat_state": "World_Combat_Type;Hard",
+    "preloading_npc": [
+      67027,
+      67028,
+      67029
+    ],
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bone_Head_01",
+        "weakness_ratio": 200
+      }
+    ]
+  },
+  {
+    "id": 8003,
+    "npc_id": 67045,
+    "refresh_content_id": 1002657,
+    "scene_id": 116,
+    "world_boss_refer": 4090,
+    "editor_name": "ai 首领战测试npc4",
+    "escape_pos_id": 211,
+    "block_id": 541160008,
+    "min_battle_distance": 20,
+    "option": [
+      {
+        "stage_shield": 50058
+      },
+      {
+        "stage_shield": 50058
+      },
+      {
+        "stage_shield": 50058
+      },
+      {
+        "stage_shield": 50058
+      }
+    ],
+    "bgm_world_combat_state": "World_Combat_Type;Hard",
+    "preloading_npc": [
+      67027,
+      67028,
+      67029
+    ],
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bone_Head_01",
+        "weakness_ratio": 200
+      }
+    ]
   }
 ]

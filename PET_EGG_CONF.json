@@ -182,6 +182,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -239,6 +243,15 @@
       50
     ],
     "is_contact_add_glass_prob": true,
+    "egg_base_shining_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_shining_prob_array": [
+      1,
+      50
+    ],
+    "is_contact_add_shining_prob": true,
     "random_eggs_group": [
       {
         "effect": 1,
@@ -279,6 +292,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -297,6 +314,56 @@
       100
     ],
     "precious_egg_type": 1
+  },
+  {
+    "id": 3010003,
+    "pet_id": 3010003,
+    "name": "异色恶魔叮",
+    "model_id": 3010002,
+    "weight_low": 1260,
+    "weight_high": 1640,
+    "height_low": 17,
+    "height_high": 23,
+    "hatch_data": 43200,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      50
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3010004,
+    "pet_id": 3010004,
+    "name": "异色恶魔叮",
+    "model_id": 3010002,
+    "weight_low": 1260,
+    "weight_high": 1640,
+    "height_low": 17,
+    "height_high": 23,
+    "hatch_data": 43200,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      50
+    ],
+    "is_contact_add_glass_prob": true
   },
   {
     "id": 3011001,
@@ -369,6 +436,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -566,6 +637,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -650,6 +725,10 @@
         "random_weight": 100
       },
       {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
         "effect": 3,
         "random_weight": 100
       }
@@ -718,6 +797,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -858,6 +941,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -916,6 +1003,22 @@
       100
     ],
     "precious_egg_type": 1
+  },
+  {
+    "id": 3026004,
+    "pet_id": 3026004,
+    "name": "绿草精灵",
+    "model_id": 3026001,
+    "weight_low": 3255,
+    "weight_high": 4120,
+    "height_low": 30,
+    "height_high": 42,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 6
   },
   {
     "id": 3029001,
@@ -988,6 +1091,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -1106,6 +1213,22 @@
     "is_contact_add_shining_prob": true
   },
   {
+    "id": 3029006,
+    "pet_id": 3029006,
+    "name": "奇丽草",
+    "model_id": 3029001,
+    "weight_low": 1435,
+    "weight_high": 2280,
+    "height_low": 16,
+    "height_high": 23,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 6
+  },
+  {
     "id": 3029007,
     "pet_id": 3029007,
     "name": "异色奇丽草的蛋",
@@ -1183,6 +1306,14 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
+        "effect": 1007,
         "random_weight": 100
       }
     ]
@@ -1277,6 +1408,10 @@
         "random_weight": 100
       },
       {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
         "effect": 3,
         "random_weight": 100
       }
@@ -1348,6 +1483,10 @@
         "random_weight": 100
       },
       {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
         "effect": 3,
         "random_weight": 100
       }
@@ -1416,6 +1555,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -1481,6 +1624,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -1551,6 +1698,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -1637,6 +1788,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -1757,6 +1912,10 @@
         "random_weight": 100
       },
       {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
         "effect": 3,
         "random_weight": 100
       }
@@ -1824,6 +1983,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -1945,8 +2108,28 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
+  },
+  {
+    "id": 3060002,
+    "pet_id": 3060002,
+    "name": "小灵面",
+    "model_id": 3060001,
+    "weight_low": 35,
+    "weight_high": 60,
+    "height_low": 16,
+    "height_high": 23,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 6
   },
   {
     "id": 3062001,
@@ -1971,6 +2154,15 @@
       80
     ],
     "is_contact_add_glass_prob": true,
+    "egg_base_shining_prob_array": [
+      395,
+      2000
+    ],
+    "egg_add_shining_prob_array": [
+      1,
+      80
+    ],
+    "is_contact_add_shining_prob": true,
     "random_eggs_group": [
       {
         "effect": 1,
@@ -2010,6 +2202,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -2069,6 +2265,72 @@
     "precious_egg_type": 1
   },
   {
+    "id": 3062005,
+    "pet_id": 3062005,
+    "name": "异色小独角兽",
+    "model_id": 3062002,
+    "weight_low": 14525,
+    "weight_high": 22240,
+    "height_low": 42,
+    "height_high": 59,
+    "hatch_data": 57600,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      395,
+      2000
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      80
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3062006,
+    "pet_id": 3062006,
+    "name": "小独角兽",
+    "model_id": 3062001,
+    "weight_low": 14525,
+    "weight_high": 22240,
+    "height_low": 42,
+    "height_high": 59,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 6
+  },
+  {
+    "id": 3062007,
+    "pet_id": 3062007,
+    "name": "异色小独角兽",
+    "model_id": 3062002,
+    "weight_low": 14525,
+    "weight_high": 22240,
+    "height_low": 42,
+    "height_high": 59,
+    "hatch_data": 57600,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      395,
+      2000
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      80
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
     "id": 3064001,
     "pet_id": 3064001,
     "name": "幽影树",
@@ -2091,6 +2353,15 @@
       50
     ],
     "is_contact_add_glass_prob": true,
+    "egg_base_shining_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_shining_prob_array": [
+      1,
+      50
+    ],
+    "is_contact_add_shining_prob": true,
     "random_eggs_group": [
       {
         "effect": 1,
@@ -2130,6 +2401,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       }
     ]
@@ -2181,6 +2456,56 @@
     "egg_add_glass_prob_array": [
       0,
       0
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3064005,
+    "pet_id": 3064005,
+    "name": "异色幽影树",
+    "model_id": 3064002,
+    "weight_low": 10325,
+    "weight_high": 15000,
+    "height_low": 27,
+    "height_high": 38,
+    "hatch_data": 43200,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      50
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3064006,
+    "pet_id": 3064006,
+    "name": "异色幽影树",
+    "model_id": 3064002,
+    "weight_low": 10325,
+    "weight_high": 15000,
+    "height_low": 27,
+    "height_high": 38,
+    "hatch_data": 43200,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      50
     ],
     "is_contact_add_glass_prob": true
   },
@@ -2271,6 +2596,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -2336,6 +2665,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -2482,6 +2815,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -2549,6 +2886,15 @@
       80
     ],
     "is_contact_add_glass_prob": true,
+    "egg_base_shining_prob_array": [
+      395,
+      2000
+    ],
+    "egg_add_shining_prob_array": [
+      1,
+      80
+    ],
+    "is_contact_add_shining_prob": true,
     "random_eggs_group": [
       {
         "effect": 1,
@@ -2589,6 +2935,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -2623,6 +2973,56 @@
       100
     ],
     "precious_egg_type": 1
+  },
+  {
+    "id": 3075004,
+    "pet_id": 3075004,
+    "name": "异色灵狐",
+    "model_id": 3075002,
+    "weight_low": 2590,
+    "weight_high": 3560,
+    "height_low": 24,
+    "height_high": 33,
+    "hatch_data": 57600,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      395,
+      2000
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      80
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3075005,
+    "pet_id": 3075005,
+    "name": "异色灵狐",
+    "model_id": 3075002,
+    "weight_low": 2590,
+    "weight_high": 3560,
+    "height_low": 24,
+    "height_high": 33,
+    "hatch_data": 57600,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      395,
+      2000
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      80
+    ],
+    "is_contact_add_glass_prob": true
   },
   {
     "id": 3078001,
@@ -2720,6 +3120,14 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
+        "effect": 1007,
+        "random_weight": 100
       }
     ]
   },
@@ -2747,6 +3155,22 @@
       50
     ],
     "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3081003,
+    "pet_id": 3081003,
+    "name": "治愈兔",
+    "model_id": 3081001,
+    "weight_low": 4211,
+    "weight_high": 5768,
+    "height_low": 24,
+    "height_high": 34,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 6
   },
   {
     "id": 3081004,
@@ -2867,6 +3291,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -2933,6 +3361,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -2998,6 +3430,14 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
+        "effect": 1007,
         "random_weight": 100
       }
     ]
@@ -3081,6 +3521,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -3146,6 +3590,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -3282,6 +3730,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -3443,6 +3895,14 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
+        "effect": 1007,
+        "random_weight": 100
       }
     ]
   },
@@ -3508,6 +3968,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -3715,6 +4179,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -3749,6 +4217,22 @@
       100
     ],
     "precious_egg_type": 1
+  },
+  {
+    "id": 3119004,
+    "pet_id": 3119004,
+    "name": "翡翠水母",
+    "model_id": 3119001,
+    "weight_low": 11025,
+    "weight_high": 14720,
+    "height_low": 21,
+    "height_high": 29,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 6
   },
   {
     "id": 3121001,
@@ -3893,6 +4377,22 @@
     "is_contact_add_shining_prob": true
   },
   {
+    "id": 3121006,
+    "pet_id": 3121006,
+    "name": "大耳帽兜",
+    "model_id": 3121001,
+    "weight_low": 2937,
+    "weight_high": 4280,
+    "height_low": 17,
+    "height_high": 20,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 6
+  },
+  {
     "id": 3121007,
     "pet_id": 3121007,
     "name": "异色大耳帽兜的蛋",
@@ -4029,6 +4529,10 @@
         "random_weight": 100
       },
       {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
         "effect": 3,
         "random_weight": 100
       }
@@ -4129,6 +4633,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -4212,7 +4720,15 @@
         "random_weight": 100
       },
       {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
         "effect": 3,
+        "random_weight": 100
+      },
+      {
+        "effect": 1007,
         "random_weight": 100
       }
     ]
@@ -4296,8 +4812,28 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
+  },
+  {
+    "id": 3139002,
+    "pet_id": 3139002,
+    "name": "小草虫",
+    "model_id": 3139001,
+    "weight_low": 735,
+    "weight_high": 1360,
+    "height_low": 20,
+    "height_high": 28,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 6
   },
   {
     "id": 3142001,
@@ -4322,6 +4858,15 @@
       80
     ],
     "is_contact_add_glass_prob": true,
+    "egg_base_shining_prob_array": [
+      395,
+      2000
+    ],
+    "egg_add_shining_prob_array": [
+      1,
+      80
+    ],
+    "is_contact_add_shining_prob": true,
     "random_eggs_group": [
       {
         "effect": 1,
@@ -4362,6 +4907,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -4396,6 +4945,56 @@
       100
     ],
     "precious_egg_type": 1
+  },
+  {
+    "id": 3142004,
+    "pet_id": 3142004,
+    "name": "异色小夜",
+    "model_id": 3142002,
+    "weight_low": 1575,
+    "weight_high": 3040,
+    "height_low": 22,
+    "height_high": 30,
+    "hatch_data": 57600,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      395,
+      2000
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      80
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3142005,
+    "pet_id": 3142005,
+    "name": "异色小夜",
+    "model_id": 3142002,
+    "weight_low": 1575,
+    "weight_high": 3040,
+    "height_low": 22,
+    "height_high": 30,
+    "hatch_data": 57600,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      395,
+      2000
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      80
+    ],
+    "is_contact_add_glass_prob": true
   },
   {
     "id": 3145001,
@@ -4459,6 +5058,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       }
     ]
@@ -4631,6 +5234,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       }
     ]
@@ -4875,6 +5482,10 @@
         "random_weight": 100
       },
       {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
         "effect": 3,
         "random_weight": 100
       }
@@ -4958,6 +5569,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -5068,6 +5683,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -5236,6 +5855,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -5361,10 +5984,30 @@
         "random_weight": 100
       },
       {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
         "effect": 3,
         "random_weight": 100
       }
     ]
+  },
+  {
+    "id": 3190002,
+    "pet_id": 3190002,
+    "name": "电咩咩",
+    "model_id": 3190001,
+    "weight_low": 2510,
+    "weight_high": 3640,
+    "height_low": 25,
+    "height_high": 34,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 6
   },
   {
     "id": 3193001,
@@ -5428,6 +6071,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       }
     ]
@@ -5510,6 +6157,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       }
     ]
@@ -6009,6 +6660,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -6117,7 +6772,15 @@
         "random_weight": 100
       },
       {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
         "effect": 3,
+        "random_weight": 100
+      },
+      {
+        "effect": 1007,
         "random_weight": 100
       }
     ]
@@ -6145,6 +6808,15 @@
       24
     ],
     "is_contact_add_glass_prob": true,
+    "egg_base_shining_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_shining_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_shining_prob": true,
     "random_eggs_group": [
       {
         "effect": 1,
@@ -6185,8 +6857,66 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
+        "effect": 1007,
+        "random_weight": 100
       }
     ]
+  },
+  {
+    "id": 3227002,
+    "pet_id": 3227002,
+    "name": "异色菊花梨",
+    "model_id": 3227002,
+    "weight_low": 1470,
+    "weight_high": 2320,
+    "height_low": 27,
+    "height_high": 37,
+    "hatch_data": 28800,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_glass_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3227003,
+    "pet_id": 3227003,
+    "name": "异色菊花梨",
+    "model_id": 3227002,
+    "weight_low": 1470,
+    "weight_high": 2320,
+    "height_low": 27,
+    "height_high": 37,
+    "hatch_data": 28800,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_glass_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_glass_prob": true
   },
   {
     "id": 3228001,
@@ -6250,12 +6980,62 @@
       0,
       24
     ],
-    "is_contact_add_glass_prob": true
+    "is_contact_add_glass_prob": true,
+    "egg_base_shining_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_shining_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_shining_prob": true
   },
   {
     "id": 3234002,
     "pet_id": 3234002,
     "name": "牵线木偶（完美无暇）",
+    "model_id": 3234001,
+    "weight_low": 2090,
+    "weight_high": 3480,
+    "height_low": 27,
+    "height_high": 38,
+    "hatch_data": 28800,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 1
+  },
+  {
+    "id": 3234003,
+    "pet_id": 3234003,
+    "name": "异色牵线木偶",
+    "model_id": 3234002,
+    "weight_low": 2090,
+    "weight_high": 3480,
+    "height_low": 27,
+    "height_high": 38,
+    "hatch_data": 28800,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_glass_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3234004,
+    "pet_id": 3234004,
+    "name": "牵线木偶",
     "model_id": 3234001,
     "weight_low": 2090,
     "weight_high": 3480,
@@ -6267,6 +7047,31 @@
       100
     ],
     "precious_egg_type": 1
+  },
+  {
+    "id": 3234005,
+    "pet_id": 3234005,
+    "name": "异色牵线木偶",
+    "model_id": 3234002,
+    "weight_low": 2090,
+    "weight_high": 3480,
+    "height_low": 27,
+    "height_high": 38,
+    "hatch_data": 28800,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_glass_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_glass_prob": true
   },
   {
     "id": 3236001,
@@ -6357,6 +7162,10 @@
         "random_weight": 100
       },
       {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
         "effect": 3,
         "random_weight": 100
       }
@@ -6424,6 +7233,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -6606,8 +7419,28 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
+  },
+  {
+    "id": 3250002,
+    "pet_id": 3250002,
+    "name": "小鹬",
+    "model_id": 3250001,
+    "weight_low": 490,
+    "weight_high": 880,
+    "height_low": 11,
+    "height_high": 15,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 6
   },
   {
     "id": 3253001,
@@ -6695,6 +7528,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       }
     ]
@@ -6818,6 +7655,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -6970,6 +7811,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -7035,6 +7880,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -7106,6 +7955,14 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
+        "effect": 1007,
+        "random_weight": 100
       }
     ]
   },
@@ -7140,6 +7997,22 @@
       100
     ],
     "precious_egg_type": 1
+  },
+  {
+    "id": 3276004,
+    "pet_id": 3276004,
+    "name": "绿翼鸟",
+    "model_id": 3276001,
+    "weight_low": 1260,
+    "weight_high": 1920,
+    "height_low": 21,
+    "height_high": 25,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 6
   },
   {
     "id": 3279001,
@@ -7741,6 +8614,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -7971,6 +8848,10 @@
         "random_weight": 100
       },
       {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
         "effect": 3,
         "random_weight": 100
       }
@@ -8144,6 +9025,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -8292,6 +9177,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -8389,6 +9278,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       }
     ]
@@ -8497,6 +9390,10 @@
         "random_weight": 100
       },
       {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
         "effect": 3,
         "random_weight": 100
       }
@@ -8599,6 +9496,15 @@
       113
     ],
     "is_contact_add_glass_prob": true,
+    "egg_base_shining_prob_array": [
+      400,
+      3125
+    ],
+    "egg_add_shining_prob_array": [
+      2,
+      113
+    ],
+    "is_contact_add_shining_prob": true,
     "random_eggs_group": [
       {
         "effect": 1,
@@ -8639,8 +9545,78 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
+  },
+  {
+    "id": 3367002,
+    "pet_id": 3367002,
+    "name": "异色嘟嘟煲",
+    "model_id": 3367002,
+    "weight_low": 16975,
+    "weight_high": 22400,
+    "height_low": 28,
+    "height_high": 33,
+    "hatch_data": 72000,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      400,
+      3125
+    ],
+    "egg_add_glass_prob_array": [
+      2,
+      113
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3367003,
+    "pet_id": 3367003,
+    "name": "嘟嘟煲",
+    "model_id": 3367001,
+    "weight_low": 16975,
+    "weight_high": 22400,
+    "height_low": 28,
+    "height_high": 33,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 6
+  },
+  {
+    "id": 3367004,
+    "pet_id": 3367004,
+    "name": "异色嘟嘟煲",
+    "model_id": 3367002,
+    "weight_low": 16975,
+    "weight_high": 22400,
+    "height_low": 28,
+    "height_high": 33,
+    "hatch_data": 72000,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      400,
+      3125
+    ],
+    "egg_add_glass_prob_array": [
+      2,
+      113
+    ],
+    "is_contact_add_glass_prob": true
   },
   {
     "id": 3369001,
@@ -8747,7 +9723,15 @@
         "random_weight": 100
       },
       {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
         "effect": 3,
+        "random_weight": 100
+      },
+      {
+        "effect": 1007,
         "random_weight": 100
       }
     ]
@@ -8881,6 +9865,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -8947,6 +9935,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -8965,6 +9957,22 @@
       100
     ],
     "precious_egg_type": 1
+  },
+  {
+    "id": 3378003,
+    "pet_id": 3378003,
+    "name": "菇菇丁",
+    "model_id": 3378001,
+    "weight_low": 385,
+    "weight_high": 500,
+    "height_low": 11,
+    "height_high": 15,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 6
   },
   {
     "id": 3381001,
@@ -9177,6 +10185,10 @@
         "random_weight": 100
       },
       {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
         "effect": 3,
         "random_weight": 100
       }
@@ -9215,12 +10227,21 @@
     "weight_high": 2400,
     "height_low": 15,
     "height_high": 21,
-    "hatch_data": 72000,
+    "hatch_data": 28800,
     "voice_percent": [
       0,
       100
     ],
-    "precious_egg_type": 1
+    "precious_egg_type": 1,
+    "egg_base_glass_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_glass_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_glass_prob": true
   },
   {
     "id": 3395001,
@@ -9372,6 +10393,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -9477,6 +10502,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       }
     ]
@@ -9759,6 +10788,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -9932,6 +10965,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       }
     ]
@@ -10108,10 +11145,30 @@
         "random_weight": 100
       },
       {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
         "effect": 3,
         "random_weight": 100
       }
     ]
+  },
+  {
+    "id": 3438002,
+    "pet_id": 3438002,
+    "name": "梦游",
+    "model_id": 3438001,
+    "weight_low": 298,
+    "weight_high": 420,
+    "height_low": 21,
+    "height_high": 25,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 6
   },
   {
     "id": 3440001,
@@ -10557,6 +11614,10 @@
         "random_weight": 100
       },
       {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
         "effect": 3,
         "random_weight": 100
       }
@@ -10599,15 +11660,99 @@
     "pet_id": 3487001,
     "name": "小丑豆豆的蛋",
     "model_id": 3487001,
-    "weight_low": 1,
-    "weight_high": 10,
-    "height_low": 1,
-    "height_high": 10,
-    "hatch_data": 1,
+    "weight_low": 1698,
+    "weight_high": 2540,
+    "height_low": 20,
+    "height_high": 27,
+    "hatch_data": 43200,
     "voice_percent": [
       0,
       100
-    ]
+    ],
+    "egg_base_glass_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      50
+    ],
+    "is_contact_add_glass_prob": true,
+    "egg_base_shining_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_shining_prob_array": [
+      1,
+      50
+    ],
+    "is_contact_add_shining_prob": true
+  },
+  {
+    "id": 3487002,
+    "pet_id": 3487002,
+    "name": "异色小丑豆豆",
+    "model_id": 3487002,
+    "weight_low": 1698,
+    "weight_high": 2540,
+    "height_low": 20,
+    "height_high": 27,
+    "hatch_data": 43200,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      50
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3487003,
+    "pet_id": 3487003,
+    "name": "小丑豆豆的蛋",
+    "model_id": 3487001,
+    "weight_low": 1698,
+    "weight_high": 2540,
+    "height_low": 20,
+    "height_high": 27,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 1
+  },
+  {
+    "id": 3487004,
+    "pet_id": 3487004,
+    "name": "异色小丑豆豆",
+    "model_id": 3487002,
+    "weight_low": 1698,
+    "weight_high": 2540,
+    "height_low": 20,
+    "height_high": 27,
+    "hatch_data": 43200,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      50
+    ],
+    "is_contact_add_glass_prob": true
   },
   {
     "id": 3490001,
@@ -10671,6 +11816,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       }
     ]
@@ -10737,6 +11886,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       }
     ]
@@ -10814,6 +11967,15 @@
       50
     ],
     "is_contact_add_glass_prob": true,
+    "egg_base_shining_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_shining_prob_array": [
+      1,
+      50
+    ],
+    "is_contact_add_shining_prob": true,
     "random_eggs_group": [
       {
         "effect": 1,
@@ -10854,6 +12016,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -10872,6 +12038,56 @@
       100
     ],
     "precious_egg_type": 1
+  },
+  {
+    "id": 3499003,
+    "pet_id": 3499003,
+    "name": "异色公平鸽",
+    "model_id": 3499002,
+    "weight_low": 875,
+    "weight_high": 1576,
+    "height_low": 19,
+    "height_high": 25,
+    "hatch_data": 43200,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      50
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3499004,
+    "pet_id": 3499004,
+    "name": "异色公平鸽",
+    "model_id": 3499002,
+    "weight_low": 875,
+    "weight_high": 1576,
+    "height_low": 19,
+    "height_high": 25,
+    "hatch_data": 43200,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      50
+    ],
+    "is_contact_add_glass_prob": true
   },
   {
     "id": 3500002,
@@ -10951,6 +12167,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -11053,6 +12273,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -11165,6 +12389,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -11262,6 +12490,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -11302,15 +12534,49 @@
     "pet_id": 3531001,
     "name": "小雪人的蛋",
     "model_id": 3531001,
-    "weight_low": 1,
-    "weight_high": 10,
-    "height_low": 1,
-    "height_high": 10,
-    "hatch_data": 1,
+    "weight_low": 15155,
+    "weight_high": 35000,
+    "height_low": 32,
+    "height_high": 39,
+    "hatch_data": 72000,
     "voice_percent": [
       0,
       100
-    ]
+    ],
+    "egg_base_glass_prob_array": [
+      400,
+      3125
+    ],
+    "egg_add_glass_prob_array": [
+      2,
+      113
+    ],
+    "is_contact_add_glass_prob": true,
+    "egg_base_shining_prob_array": [
+      400,
+      3125
+    ],
+    "egg_add_shining_prob_array": [
+      2,
+      113
+    ],
+    "is_contact_add_shining_prob": true
+  },
+  {
+    "id": 3531002,
+    "pet_id": 3531002,
+    "name": "异色小雪人",
+    "model_id": 3531002,
+    "weight_low": 15155,
+    "weight_high": 35000,
+    "height_low": 32,
+    "height_high": 39,
+    "hatch_data": 72000,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2
   },
   {
     "id": 3533001,
@@ -11375,6 +12641,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -11498,6 +12768,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -11580,6 +12854,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -11774,6 +13052,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       }
     ]
@@ -12043,15 +13325,49 @@
     "pet_id": 3572001,
     "name": "爆焰仔的蛋",
     "model_id": 3572001,
-    "weight_low": 1,
-    "weight_high": 10,
-    "height_low": 1,
-    "height_high": 10,
-    "hatch_data": 1,
+    "weight_low": 7350,
+    "weight_high": 15400,
+    "height_low": 28,
+    "height_high": 35,
+    "hatch_data": 72000,
     "voice_percent": [
       0,
       100
-    ]
+    ],
+    "egg_base_glass_prob_array": [
+      400,
+      3125
+    ],
+    "egg_add_glass_prob_array": [
+      2,
+      113
+    ],
+    "is_contact_add_glass_prob": true,
+    "egg_base_shining_prob_array": [
+      400,
+      3125
+    ],
+    "egg_add_shining_prob_array": [
+      2,
+      113
+    ],
+    "is_contact_add_shining_prob": true
+  },
+  {
+    "id": 3572002,
+    "pet_id": 3572002,
+    "name": "异色爆焰仔的蛋",
+    "model_id": 3572002,
+    "weight_low": 7350,
+    "weight_high": 15400,
+    "height_low": 28,
+    "height_high": 35,
+    "hatch_data": 72000,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2
   },
   {
     "id": 3577001,
@@ -12185,7 +13501,15 @@
         "random_weight": 100
       },
       {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
         "effect": 3,
+        "random_weight": 100
+      },
+      {
+        "effect": 1007,
         "random_weight": 100
       }
     ]
@@ -12383,6 +13707,10 @@
         "random_weight": 100
       },
       {
+        "effect": 3002,
+        "random_weight": 100
+      },
+      {
         "effect": 3,
         "random_weight": 100
       }
@@ -12450,6 +13778,10 @@
       },
       {
         "effect": 1006,
+        "random_weight": 100
+      },
+      {
+        "effect": 3002,
         "random_weight": 100
       },
       {
@@ -12642,6 +13974,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -12715,7 +14051,16 @@
       0,
       100
     ],
-    "precious_egg_type": 5
+    "precious_egg_type": 5,
+    "egg_base_glass_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      50
+    ],
+    "is_contact_add_glass_prob": true
   },
   {
     "id": 3621001,
@@ -12760,19 +14105,301 @@
     "precious_egg_type": 1
   },
   {
+    "id": 3659001,
+    "pet_id": 3659001,
+    "name": "加油海葵",
+    "model_id": 3659001,
+    "weight_low": 1015,
+    "weight_high": 1660,
+    "height_low": 15,
+    "height_high": 20,
+    "hatch_data": 28800,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "egg_base_glass_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_glass_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_glass_prob": true,
+    "egg_base_shining_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_shining_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_shining_prob": true
+  },
+  {
+    "id": 3659002,
+    "pet_id": 3659002,
+    "name": "异色加油海葵",
+    "model_id": 3659002,
+    "weight_low": 1015,
+    "weight_high": 1660,
+    "height_low": 15,
+    "height_high": 20,
+    "hatch_data": 28800,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_glass_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3659003,
+    "pet_id": 3659003,
+    "name": "加油海葵",
+    "model_id": 3659001,
+    "weight_low": 1015,
+    "weight_high": 1660,
+    "height_low": 15,
+    "height_high": 20,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 1
+  },
+  {
+    "id": 3659004,
+    "pet_id": 3659004,
+    "name": "异色加油海葵",
+    "model_id": 3659002,
+    "weight_low": 1015,
+    "weight_high": 1660,
+    "height_low": 15,
+    "height_high": 20,
+    "hatch_data": 28800,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_glass_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
     "id": 3677001,
     "pet_id": 3677001,
     "name": "烟花团的蛋",
     "model_id": 3677001,
-    "weight_low": 1,
-    "weight_high": 10,
-    "height_low": 1,
-    "height_high": 10,
-    "hatch_data": 1,
+    "weight_low": 1768,
+    "weight_high": 2528,
+    "height_low": 14,
+    "height_high": 21,
+    "hatch_data": 28800,
     "voice_percent": [
       0,
       100
-    ]
+    ],
+    "egg_base_glass_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_glass_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_glass_prob": true,
+    "egg_base_shining_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_shining_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_shining_prob": true
+  },
+  {
+    "id": 3677002,
+    "pet_id": 3677002,
+    "name": "异色烟花团",
+    "model_id": 3677002,
+    "weight_low": 1768,
+    "weight_high": 2528,
+    "height_low": 14,
+    "height_high": 21,
+    "hatch_data": 28800,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_glass_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3677003,
+    "pet_id": 3677003,
+    "name": "烟花团",
+    "model_id": 3677001,
+    "weight_low": 1768,
+    "weight_high": 2528,
+    "height_low": 14,
+    "height_high": 21,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 1
+  },
+  {
+    "id": 3677004,
+    "pet_id": 3677004,
+    "name": "异色烟花团",
+    "model_id": 3677002,
+    "weight_low": 1768,
+    "weight_high": 2528,
+    "height_low": 14,
+    "height_high": 21,
+    "hatch_data": 28800,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_glass_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3683001,
+    "pet_id": 3683001,
+    "name": "咕咕帽",
+    "model_id": 3683001,
+    "weight_low": 763,
+    "weight_high": 2304,
+    "height_low": 16,
+    "height_high": 23,
+    "hatch_data": 28800,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "egg_base_glass_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_glass_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_glass_prob": true,
+    "egg_base_shining_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_shining_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_shining_prob": true
+  },
+  {
+    "id": 3683002,
+    "pet_id": 3683002,
+    "name": "异色咕咕帽",
+    "model_id": 3683002,
+    "weight_low": 763,
+    "weight_high": 2304,
+    "height_low": 16,
+    "height_high": 23,
+    "hatch_data": 28800,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_glass_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3683003,
+    "pet_id": 3683003,
+    "name": "咕咕帽",
+    "model_id": 3683001,
+    "weight_low": 763,
+    "weight_high": 2304,
+    "height_low": 16,
+    "height_high": 23,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 1
+  },
+  {
+    "id": 3683004,
+    "pet_id": 3683004,
+    "name": "异色咕咕帽",
+    "model_id": 3683002,
+    "weight_low": 763,
+    "weight_high": 2304,
+    "height_low": 16,
+    "height_high": 23,
+    "hatch_data": 28800,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      531,
+      500
+    ],
+    "egg_add_glass_prob_array": [
+      0,
+      24
+    ],
+    "is_contact_add_glass_prob": true
   },
   {
     "id": 3704001,
@@ -12837,6 +14464,10 @@
       {
         "effect": 1006,
         "random_weight": 100
+      },
+      {
+        "effect": 3002,
+        "random_weight": 100
       }
     ]
   },
@@ -12856,6 +14487,319 @@
     ]
   },
   {
+    "id": 3708001,
+    "pet_id": 3708001,
+    "name": "小鼓象",
+    "model_id": 3708001,
+    "weight_low": 1806,
+    "weight_high": 3320,
+    "height_low": 27,
+    "height_high": 34,
+    "hatch_data": 57600,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "egg_base_glass_prob_array": [
+      395,
+      2000
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      80
+    ],
+    "is_contact_add_glass_prob": true,
+    "egg_base_shining_prob_array": [
+      395,
+      2000
+    ],
+    "egg_add_shining_prob_array": [
+      1,
+      80
+    ],
+    "is_contact_add_shining_prob": true
+  },
+  {
+    "id": 3708002,
+    "pet_id": 3708002,
+    "name": "异色小鼓象",
+    "model_id": 3708002,
+    "weight_low": 1806,
+    "weight_high": 3320,
+    "height_low": 27,
+    "height_high": 34,
+    "hatch_data": 57600,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      395,
+      2000
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      80
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3708003,
+    "pet_id": 3708003,
+    "name": "小鼓象",
+    "model_id": 3708001,
+    "weight_low": 1806,
+    "weight_high": 3320,
+    "height_low": 27,
+    "height_high": 34,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 1
+  },
+  {
+    "id": 3708004,
+    "pet_id": 3708004,
+    "name": "异色小鼓象",
+    "model_id": 3708002,
+    "weight_low": 1806,
+    "weight_high": 3320,
+    "height_low": 27,
+    "height_high": 34,
+    "hatch_data": 57600,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      395,
+      2000
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      80
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3729001,
+    "pet_id": 3729001,
+    "name": "猴麦仔",
+    "model_id": 3729001,
+    "weight_low": 2940,
+    "weight_high": 7040,
+    "height_low": 24,
+    "height_high": 33,
+    "hatch_data": 43200,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "egg_base_glass_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      50
+    ],
+    "is_contact_add_glass_prob": true,
+    "egg_base_shining_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_shining_prob_array": [
+      1,
+      50
+    ],
+    "is_contact_add_shining_prob": true
+  },
+  {
+    "id": 3729002,
+    "pet_id": 3729002,
+    "name": "异色猴麦仔",
+    "model_id": 3729002,
+    "weight_low": 2940,
+    "weight_high": 7040,
+    "height_low": 24,
+    "height_high": 33,
+    "hatch_data": 43200,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      50
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3729003,
+    "pet_id": 3729003,
+    "name": "猴麦仔",
+    "model_id": 3729001,
+    "weight_low": 2940,
+    "weight_high": 7040,
+    "height_low": 24,
+    "height_high": 33,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 1
+  },
+  {
+    "id": 3729004,
+    "pet_id": 3729004,
+    "name": "异色猴麦仔",
+    "model_id": 3729002,
+    "weight_low": 2940,
+    "weight_high": 7040,
+    "height_low": 24,
+    "height_high": 33,
+    "hatch_data": 43200,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      50
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3733002,
+    "pet_id": 3733002,
+    "name": "钨丝贝贝",
+    "model_id": 3733001,
+    "weight_low": 3395,
+    "weight_high": 5920,
+    "height_low": 23,
+    "height_high": 30,
+    "hatch_data": 100,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 1
+  },
+  {
+    "id": 3736001,
+    "pet_id": 3736001,
+    "name": "炫光迪迪",
+    "model_id": 3736001,
+    "weight_low": 9100,
+    "weight_high": 14840,
+    "height_low": 20,
+    "height_high": 28,
+    "hatch_data": 72000,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "egg_base_glass_prob_array": [
+      400,
+      3125
+    ],
+    "egg_add_glass_prob_array": [
+      2,
+      113
+    ],
+    "is_contact_add_glass_prob": true,
+    "egg_base_shining_prob_array": [
+      400,
+      3125
+    ],
+    "egg_add_shining_prob_array": [
+      2,
+      113
+    ],
+    "is_contact_add_shining_prob": true
+  },
+  {
+    "id": 3736002,
+    "pet_id": 3736002,
+    "name": "异色炫光迪迪",
+    "model_id": 3736002,
+    "weight_low": 9100,
+    "weight_high": 14840,
+    "height_low": 20,
+    "height_high": 28,
+    "hatch_data": 72000,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      400,
+      3125
+    ],
+    "egg_add_glass_prob_array": [
+      2,
+      113
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3736003,
+    "pet_id": 3736003,
+    "name": "炫光迪迪",
+    "model_id": 3736001,
+    "weight_low": 9100,
+    "weight_high": 14840,
+    "height_low": 20,
+    "height_high": 28,
+    "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 1
+  },
+  {
+    "id": 3736004,
+    "pet_id": 3736004,
+    "name": "异色炫光迪迪",
+    "model_id": 3736002,
+    "weight_low": 9100,
+    "weight_high": 14840,
+    "height_low": 20,
+    "height_high": 28,
+    "hatch_data": 72000,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 2,
+    "egg_base_glass_prob_array": [
+      400,
+      3125
+    ],
+    "egg_add_glass_prob_array": [
+      2,
+      113
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
     "id": 3738001,
     "pet_id": 3738001,
     "name": "小怂猫的蛋",
@@ -12865,6 +14809,30 @@
     "weight_high": 9000,
     "height_low": 25,
     "height_high": 35,
+    "hatch_data": 43200,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "egg_base_glass_prob_array": [
+      8,
+      1125
+    ],
+    "egg_add_glass_prob_array": [
+      1,
+      50
+    ],
+    "is_contact_add_glass_prob": true
+  },
+  {
+    "id": 3740001,
+    "pet_id": 3740001,
+    "name": "宝藏小狐",
+    "model_id": 3740001,
+    "weight_low": 1187,
+    "weight_high": 1900,
+    "height_low": 18,
+    "height_high": 29,
     "hatch_data": 43200,
     "voice_percent": [
       0,
@@ -15782,10 +17750,10 @@
     "pet_id": 34870001,
     "name": "小丑豆豆",
     "model_id": 3487001,
-    "weight_low": 1,
-    "weight_high": 10,
-    "height_low": 1,
-    "height_high": 10,
+    "weight_low": 1698,
+    "weight_high": 2540,
+    "height_low": 20,
+    "height_high": 27,
     "hatch_data": 300,
     "voice_percent": [
       0,
@@ -15978,10 +17946,10 @@
     "pet_id": 35310001,
     "name": "小雪人",
     "model_id": 3531001,
-    "weight_low": 1,
-    "weight_high": 10,
-    "height_low": 1,
-    "height_high": 10,
+    "weight_low": 15155,
+    "weight_high": 35000,
+    "height_low": 32,
+    "height_high": 39,
     "hatch_data": 300,
     "voice_percent": [
       0,
@@ -16159,10 +18127,10 @@
     "pet_id": 35720001,
     "name": "爆焰仔",
     "model_id": 3572001,
-    "weight_low": 1,
-    "weight_high": 10,
-    "height_low": 1,
-    "height_high": 10,
+    "weight_low": 7350,
+    "weight_high": 15400,
+    "height_low": 28,
+    "height_high": 35,
     "hatch_data": 300,
     "voice_percent": [
       0,
@@ -16414,15 +18382,47 @@
     "precious_egg_type": 7
   },
   {
+    "id": 36590001,
+    "pet_id": 36590001,
+    "name": "加油海葵",
+    "model_id": 3659001,
+    "weight_low": 1015,
+    "weight_high": 1660,
+    "height_low": 15,
+    "height_high": 20,
+    "hatch_data": 100,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 7
+  },
+  {
     "id": 36770001,
     "pet_id": 36770001,
     "name": "烟花团",
     "model_id": 3677001,
-    "weight_low": 1,
-    "weight_high": 10,
-    "height_low": 1,
-    "height_high": 10,
+    "weight_low": 1768,
+    "weight_high": 2528,
+    "height_low": 14,
+    "height_high": 21,
     "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 7
+  },
+  {
+    "id": 36830001,
+    "pet_id": 36830001,
+    "name": "咕咕帽",
+    "model_id": 3683001,
+    "weight_low": 763,
+    "weight_high": 2304,
+    "height_low": 16,
+    "height_high": 23,
+    "hatch_data": 100,
     "voice_percent": [
       0,
       100
@@ -16462,6 +18462,70 @@
     "precious_egg_type": 7
   },
   {
+    "id": 37080001,
+    "pet_id": 37080001,
+    "name": "小鼓象",
+    "model_id": 3708001,
+    "weight_low": 1806,
+    "weight_high": 3320,
+    "height_low": 27,
+    "height_high": 34,
+    "hatch_data": 100,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 7
+  },
+  {
+    "id": 37290001,
+    "pet_id": 37290001,
+    "name": "猴麦仔",
+    "model_id": 3729001,
+    "weight_low": 2940,
+    "weight_high": 7040,
+    "height_low": 24,
+    "height_high": 33,
+    "hatch_data": 100,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 7
+  },
+  {
+    "id": 37330001,
+    "pet_id": 37330001,
+    "name": "钨丝贝贝",
+    "model_id": 3733001,
+    "weight_low": 3395,
+    "weight_high": 5920,
+    "height_low": 23,
+    "height_high": 30,
+    "hatch_data": 100,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 7
+  },
+  {
+    "id": 37360001,
+    "pet_id": 37360001,
+    "name": "炫光迪迪",
+    "model_id": 3736001,
+    "weight_low": 9100,
+    "weight_high": 14840,
+    "height_low": 20,
+    "height_high": 28,
+    "hatch_data": 100,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 7
+  },
+  {
     "id": 37380001,
     "pet_id": 37380001,
     "name": "小怂猫",
@@ -16472,6 +18536,22 @@
     "height_low": 25,
     "height_high": 35,
     "hatch_data": 300,
+    "voice_percent": [
+      0,
+      100
+    ],
+    "precious_egg_type": 7
+  },
+  {
+    "id": 37400001,
+    "pet_id": 37400001,
+    "name": "宝藏小狐",
+    "model_id": 3740001,
+    "weight_low": 1187,
+    "weight_high": 1900,
+    "height_low": 18,
+    "height_high": 29,
+    "hatch_data": 100,
     "voice_percent": [
       0,
       100

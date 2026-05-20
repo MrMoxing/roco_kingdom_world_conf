@@ -1,7 +1,6 @@
 [
   {
     "id": 10001,
-    "editor_name": "活力香氛",
     "sort_id": 1,
     "level": 1,
     "carryon_attr": [
@@ -21,7 +20,6 @@
   },
   {
     "id": 10002,
-    "editor_name": "活力香氛",
     "sort_id": 1,
     "level": 2,
     "carryon_attr": [
@@ -60,7 +58,6 @@
   },
   {
     "id": 10003,
-    "editor_name": "活力香氛",
     "sort_id": 1,
     "level": 3,
     "carryon_attr": [
@@ -99,7 +96,6 @@
   },
   {
     "id": 10004,
-    "editor_name": "活力香氛",
     "sort_id": 1,
     "level": 4,
     "carryon_attr": [
@@ -138,7 +134,6 @@
   },
   {
     "id": 10005,
-    "editor_name": "活力香氛",
     "sort_id": 1,
     "level": 5,
     "carryon_attr": [
@@ -177,7 +172,6 @@
   },
   {
     "id": 10006,
-    "editor_name": "活力香氛",
     "sort_id": 1,
     "level": 6,
     "carryon_attr": [
@@ -216,7 +210,6 @@
   },
   {
     "id": 10007,
-    "editor_name": "活力香氛",
     "sort_id": 1,
     "level": 7,
     "carryon_attr": [
@@ -255,7 +248,6 @@
   },
   {
     "id": 10008,
-    "editor_name": "活力香氛",
     "sort_id": 1,
     "level": 8,
     "carryon_attr": [
@@ -294,7 +286,6 @@
   },
   {
     "id": 10009,
-    "editor_name": "活力香氛",
     "sort_id": 1,
     "level": 9,
     "carryon_attr": [
@@ -333,7 +324,6 @@
   },
   {
     "id": 10010,
-    "editor_name": "活力香氛",
     "sort_id": 1,
     "level": 10,
     "carryon_attr": [
@@ -372,7 +362,6 @@
   },
   {
     "id": 10011,
-    "editor_name": "魔法扫帚",
     "sort_id": 2,
     "level": 1,
     "carryon_attr": [
@@ -392,7 +381,6 @@
   },
   {
     "id": 10012,
-    "editor_name": "魔法扫帚",
     "sort_id": 2,
     "level": 2,
     "carryon_attr": [
@@ -431,7 +419,6 @@
   },
   {
     "id": 10013,
-    "editor_name": "魔法扫帚",
     "sort_id": 2,
     "level": 3,
     "carryon_attr": [
@@ -470,7 +457,6 @@
   },
   {
     "id": 10014,
-    "editor_name": "魔法扫帚",
     "sort_id": 2,
     "level": 4,
     "carryon_attr": [
@@ -509,7 +495,6 @@
   },
   {
     "id": 10015,
-    "editor_name": "魔法扫帚",
     "sort_id": 2,
     "level": 5,
     "carryon_attr": [
@@ -548,7 +533,6 @@
   },
   {
     "id": 10016,
-    "editor_name": "魔法扫帚",
     "sort_id": 2,
     "level": 6,
     "carryon_attr": [
@@ -587,7 +571,6 @@
   },
   {
     "id": 10017,
-    "editor_name": "魔法扫帚",
     "sort_id": 2,
     "level": 7,
     "carryon_attr": [
@@ -626,7 +609,6 @@
   },
   {
     "id": 10018,
-    "editor_name": "魔法扫帚",
     "sort_id": 2,
     "level": 8,
     "carryon_attr": [
@@ -665,7 +647,6 @@
   },
   {
     "id": 10019,
-    "editor_name": "魔法扫帚",
     "sort_id": 2,
     "level": 9,
     "carryon_attr": [
@@ -704,7 +685,6 @@
   },
   {
     "id": 10020,
-    "editor_name": "魔法扫帚",
     "sort_id": 2,
     "level": 10,
     "carryon_attr": [
@@ -743,7 +723,6 @@
   },
   {
     "id": 10021,
-    "editor_name": "赐福之种",
     "sort_id": 3,
     "level": 1,
     "carryon_attr": [
@@ -763,7 +742,6 @@
   },
   {
     "id": 10022,
-    "editor_name": "赐福之种",
     "sort_id": 3,
     "level": 2,
     "carryon_attr": [
@@ -802,7 +780,6 @@
   },
   {
     "id": 10023,
-    "editor_name": "赐福之种",
     "sort_id": 3,
     "level": 3,
     "carryon_attr": [
@@ -841,7 +818,6 @@
   },
   {
     "id": 10024,
-    "editor_name": "赐福之种",
     "sort_id": 3,
     "level": 4,
     "carryon_attr": [
@@ -880,7 +856,6 @@
   },
   {
     "id": 10025,
-    "editor_name": "赐福之种",
     "sort_id": 3,
     "level": 5,
     "carryon_attr": [
@@ -919,7 +894,6 @@
   },
   {
     "id": 10026,
-    "editor_name": "赐福之种",
     "sort_id": 3,
     "level": 6,
     "carryon_attr": [
@@ -958,7 +932,6 @@
   },
   {
     "id": 10027,
-    "editor_name": "赐福之种",
     "sort_id": 3,
     "level": 7,
     "carryon_attr": [
@@ -997,7 +970,6 @@
   },
   {
     "id": 10028,
-    "editor_name": "赐福之种",
     "sort_id": 3,
     "level": 8,
     "carryon_attr": [
@@ -1036,7 +1008,6 @@
   },
   {
     "id": 10029,
-    "editor_name": "赐福之种",
     "sort_id": 3,
     "level": 9,
     "carryon_attr": [
@@ -1075,7 +1046,6 @@
   },
   {
     "id": 10030,
-    "editor_name": "赐福之种",
     "sort_id": 3,
     "level": 10,
     "carryon_attr": [
@@ -1114,7 +1084,6 @@
   },
   {
     "id": 10031,
-    "editor_name": "通用绿—物理攻击力+2%",
     "sort_id": 4,
     "level": 1,
     "carryon_attr": [
@@ -1126,7 +1095,6 @@
   },
   {
     "id": 10032,
-    "editor_name": "通用绿—物理攻击力+2%",
     "sort_id": 4,
     "level": 2,
     "carryon_attr": [
@@ -1157,7 +1125,6 @@
   },
   {
     "id": 10033,
-    "editor_name": "通用绿—物理攻击力+2%",
     "sort_id": 4,
     "level": 3,
     "carryon_attr": [
@@ -1188,7 +1155,6 @@
   },
   {
     "id": 10034,
-    "editor_name": "通用绿—物理攻击力+2%",
     "sort_id": 4,
     "level": 4,
     "carryon_attr": [
@@ -1219,7 +1185,6 @@
   },
   {
     "id": 10035,
-    "editor_name": "通用绿—物理攻击力+2%",
     "sort_id": 4,
     "level": 5,
     "carryon_attr": [
@@ -1250,7 +1215,6 @@
   },
   {
     "id": 10036,
-    "editor_name": "通用绿—物理攻击力+2%",
     "sort_id": 4,
     "level": 6,
     "carryon_attr": [
@@ -1281,7 +1245,6 @@
   },
   {
     "id": 10037,
-    "editor_name": "通用绿—物理攻击力+2%",
     "sort_id": 4,
     "level": 7,
     "carryon_attr": [
@@ -1312,7 +1275,6 @@
   },
   {
     "id": 10038,
-    "editor_name": "通用绿—物理攻击力+2%",
     "sort_id": 4,
     "level": 8,
     "carryon_attr": [
@@ -1343,7 +1305,6 @@
   },
   {
     "id": 10039,
-    "editor_name": "通用绿—物理攻击力+2%",
     "sort_id": 4,
     "level": 9,
     "carryon_attr": [
@@ -1374,7 +1335,6 @@
   },
   {
     "id": 10040,
-    "editor_name": "通用绿—物理攻击力+2%",
     "sort_id": 4,
     "level": 10,
     "carryon_attr": [
@@ -1405,7 +1365,6 @@
   },
   {
     "id": 10041,
-    "editor_name": "通用绿—魔法攻击力+2%",
     "sort_id": 5,
     "level": 1,
     "carryon_attr": [
@@ -1417,7 +1376,6 @@
   },
   {
     "id": 10042,
-    "editor_name": "通用绿—魔法攻击力+2%",
     "sort_id": 5,
     "level": 2,
     "carryon_attr": [
@@ -1448,7 +1406,6 @@
   },
   {
     "id": 10043,
-    "editor_name": "通用绿—魔法攻击力+2%",
     "sort_id": 5,
     "level": 3,
     "carryon_attr": [
@@ -1479,7 +1436,6 @@
   },
   {
     "id": 10044,
-    "editor_name": "通用绿—魔法攻击力+2%",
     "sort_id": 5,
     "level": 4,
     "carryon_attr": [
@@ -1510,7 +1466,6 @@
   },
   {
     "id": 10045,
-    "editor_name": "通用绿—魔法攻击力+2%",
     "sort_id": 5,
     "level": 5,
     "carryon_attr": [
@@ -1541,7 +1496,6 @@
   },
   {
     "id": 10046,
-    "editor_name": "通用绿—魔法攻击力+2%",
     "sort_id": 5,
     "level": 6,
     "carryon_attr": [
@@ -1572,7 +1526,6 @@
   },
   {
     "id": 10047,
-    "editor_name": "通用绿—魔法攻击力+2%",
     "sort_id": 5,
     "level": 7,
     "carryon_attr": [
@@ -1603,7 +1556,6 @@
   },
   {
     "id": 10048,
-    "editor_name": "通用绿—魔法攻击力+2%",
     "sort_id": 5,
     "level": 8,
     "carryon_attr": [
@@ -1634,7 +1586,6 @@
   },
   {
     "id": 10049,
-    "editor_name": "通用绿—魔法攻击力+2%",
     "sort_id": 5,
     "level": 9,
     "carryon_attr": [
@@ -1665,7 +1616,6 @@
   },
   {
     "id": 10050,
-    "editor_name": "通用绿—魔法攻击力+2%",
     "sort_id": 5,
     "level": 10,
     "carryon_attr": [
@@ -1696,7 +1646,6 @@
   },
   {
     "id": 10051,
-    "editor_name": "通用绿—生命值+2%",
     "sort_id": 6,
     "level": 1,
     "carryon_attr": [
@@ -1708,7 +1657,6 @@
   },
   {
     "id": 10052,
-    "editor_name": "通用绿—生命值+2%",
     "sort_id": 6,
     "level": 2,
     "carryon_attr": [
@@ -1739,7 +1687,6 @@
   },
   {
     "id": 10053,
-    "editor_name": "通用绿—生命值+2%",
     "sort_id": 6,
     "level": 3,
     "carryon_attr": [
@@ -1770,7 +1717,6 @@
   },
   {
     "id": 10054,
-    "editor_name": "通用绿—生命值+2%",
     "sort_id": 6,
     "level": 4,
     "carryon_attr": [
@@ -1801,7 +1747,6 @@
   },
   {
     "id": 10055,
-    "editor_name": "通用绿—生命值+2%",
     "sort_id": 6,
     "level": 5,
     "carryon_attr": [
@@ -1832,7 +1777,6 @@
   },
   {
     "id": 10056,
-    "editor_name": "通用绿—生命值+2%",
     "sort_id": 6,
     "level": 6,
     "carryon_attr": [
@@ -1863,7 +1807,6 @@
   },
   {
     "id": 10057,
-    "editor_name": "通用绿—生命值+2%",
     "sort_id": 6,
     "level": 7,
     "carryon_attr": [
@@ -1894,7 +1837,6 @@
   },
   {
     "id": 10058,
-    "editor_name": "通用绿—生命值+2%",
     "sort_id": 6,
     "level": 8,
     "carryon_attr": [
@@ -1925,7 +1867,6 @@
   },
   {
     "id": 10059,
-    "editor_name": "通用绿—生命值+2%",
     "sort_id": 6,
     "level": 9,
     "carryon_attr": [
@@ -1956,7 +1897,6 @@
   },
   {
     "id": 10060,
-    "editor_name": "通用绿—生命值+2%",
     "sort_id": 6,
     "level": 10,
     "carryon_attr": [
@@ -1987,7 +1927,6 @@
   },
   {
     "id": 10061,
-    "editor_name": "通用绿—物理防御+2%",
     "sort_id": 7,
     "level": 1,
     "carryon_attr": [
@@ -1999,7 +1938,6 @@
   },
   {
     "id": 10062,
-    "editor_name": "通用绿—物理防御+2%",
     "sort_id": 7,
     "level": 2,
     "carryon_attr": [
@@ -2030,7 +1968,6 @@
   },
   {
     "id": 10063,
-    "editor_name": "通用绿—物理防御+2%",
     "sort_id": 7,
     "level": 3,
     "carryon_attr": [
@@ -2061,7 +1998,6 @@
   },
   {
     "id": 10064,
-    "editor_name": "通用绿—物理防御+2%",
     "sort_id": 7,
     "level": 4,
     "carryon_attr": [
@@ -2092,7 +2028,6 @@
   },
   {
     "id": 10065,
-    "editor_name": "通用绿—物理防御+2%",
     "sort_id": 7,
     "level": 5,
     "carryon_attr": [
@@ -2123,7 +2058,6 @@
   },
   {
     "id": 10066,
-    "editor_name": "通用绿—物理防御+2%",
     "sort_id": 7,
     "level": 6,
     "carryon_attr": [
@@ -2154,7 +2088,6 @@
   },
   {
     "id": 10067,
-    "editor_name": "通用绿—物理防御+2%",
     "sort_id": 7,
     "level": 7,
     "carryon_attr": [
@@ -2185,7 +2118,6 @@
   },
   {
     "id": 10068,
-    "editor_name": "通用绿—物理防御+2%",
     "sort_id": 7,
     "level": 8,
     "carryon_attr": [
@@ -2216,7 +2148,6 @@
   },
   {
     "id": 10069,
-    "editor_name": "通用绿—物理防御+2%",
     "sort_id": 7,
     "level": 9,
     "carryon_attr": [
@@ -2247,7 +2178,6 @@
   },
   {
     "id": 10070,
-    "editor_name": "通用绿—物理防御+2%",
     "sort_id": 7,
     "level": 10,
     "carryon_attr": [
@@ -2278,7 +2208,6 @@
   },
   {
     "id": 10071,
-    "editor_name": "通用绿—魔法防御+2%",
     "sort_id": 8,
     "level": 1,
     "carryon_attr": [
@@ -2290,7 +2219,6 @@
   },
   {
     "id": 10072,
-    "editor_name": "通用绿—魔法防御+2%",
     "sort_id": 8,
     "level": 2,
     "carryon_attr": [
@@ -2321,7 +2249,6 @@
   },
   {
     "id": 10073,
-    "editor_name": "通用绿—魔法防御+2%",
     "sort_id": 8,
     "level": 3,
     "carryon_attr": [
@@ -2352,7 +2279,6 @@
   },
   {
     "id": 10074,
-    "editor_name": "通用绿—魔法防御+2%",
     "sort_id": 8,
     "level": 4,
     "carryon_attr": [
@@ -2383,7 +2309,6 @@
   },
   {
     "id": 10075,
-    "editor_name": "通用绿—魔法防御+2%",
     "sort_id": 8,
     "level": 5,
     "carryon_attr": [
@@ -2414,7 +2339,6 @@
   },
   {
     "id": 10076,
-    "editor_name": "通用绿—魔法防御+2%",
     "sort_id": 8,
     "level": 6,
     "carryon_attr": [
@@ -2445,7 +2369,6 @@
   },
   {
     "id": 10077,
-    "editor_name": "通用绿—魔法防御+2%",
     "sort_id": 8,
     "level": 7,
     "carryon_attr": [
@@ -2476,7 +2399,6 @@
   },
   {
     "id": 10078,
-    "editor_name": "通用绿—魔法防御+2%",
     "sort_id": 8,
     "level": 8,
     "carryon_attr": [
@@ -2507,7 +2429,6 @@
   },
   {
     "id": 10079,
-    "editor_name": "通用绿—魔法防御+2%",
     "sort_id": 8,
     "level": 9,
     "carryon_attr": [
@@ -2538,7 +2459,6 @@
   },
   {
     "id": 10080,
-    "editor_name": "通用绿—魔法防御+2%",
     "sort_id": 8,
     "level": 10,
     "carryon_attr": [
@@ -2569,7 +2489,6 @@
   },
   {
     "id": 10081,
-    "editor_name": "通用绿—速度+2%",
     "sort_id": 9,
     "level": 1,
     "carryon_attr": [
@@ -2581,7 +2500,6 @@
   },
   {
     "id": 10082,
-    "editor_name": "通用绿—速度+2%",
     "sort_id": 9,
     "level": 2,
     "carryon_attr": [
@@ -2612,7 +2530,6 @@
   },
   {
     "id": 10083,
-    "editor_name": "通用绿—速度+2%",
     "sort_id": 9,
     "level": 3,
     "carryon_attr": [
@@ -2643,7 +2560,6 @@
   },
   {
     "id": 10084,
-    "editor_name": "通用绿—速度+2%",
     "sort_id": 9,
     "level": 4,
     "carryon_attr": [
@@ -2674,7 +2590,6 @@
   },
   {
     "id": 10085,
-    "editor_name": "通用绿—速度+2%",
     "sort_id": 9,
     "level": 5,
     "carryon_attr": [
@@ -2705,7 +2620,6 @@
   },
   {
     "id": 10086,
-    "editor_name": "通用绿—速度+2%",
     "sort_id": 9,
     "level": 6,
     "carryon_attr": [
@@ -2736,7 +2650,6 @@
   },
   {
     "id": 10087,
-    "editor_name": "通用绿—速度+2%",
     "sort_id": 9,
     "level": 7,
     "carryon_attr": [
@@ -2767,7 +2680,6 @@
   },
   {
     "id": 10088,
-    "editor_name": "通用绿—速度+2%",
     "sort_id": 9,
     "level": 8,
     "carryon_attr": [
@@ -2798,7 +2710,6 @@
   },
   {
     "id": 10089,
-    "editor_name": "通用绿—速度+2%",
     "sort_id": 9,
     "level": 9,
     "carryon_attr": [
@@ -2829,7 +2740,6 @@
   },
   {
     "id": 10090,
-    "editor_name": "通用绿—速度+2%",
     "sort_id": 9,
     "level": 10,
     "carryon_attr": [
@@ -2860,7 +2770,6 @@
   },
   {
     "id": 10091,
-    "editor_name": "通用蓝—物理攻击力+2%",
     "sort_id": 10,
     "level": 1,
     "carryon_attr": [
@@ -2872,7 +2781,6 @@
   },
   {
     "id": 10092,
-    "editor_name": "通用蓝—物理攻击力+2%",
     "sort_id": 10,
     "level": 2,
     "carryon_attr": [
@@ -2903,7 +2811,6 @@
   },
   {
     "id": 10093,
-    "editor_name": "通用蓝—物理攻击力+2%",
     "sort_id": 10,
     "level": 3,
     "carryon_attr": [
@@ -2934,7 +2841,6 @@
   },
   {
     "id": 10094,
-    "editor_name": "通用蓝—物理攻击力+2%",
     "sort_id": 10,
     "level": 4,
     "carryon_attr": [
@@ -2965,7 +2871,6 @@
   },
   {
     "id": 10095,
-    "editor_name": "通用蓝—物理攻击力+2%",
     "sort_id": 10,
     "level": 5,
     "carryon_attr": [
@@ -2996,7 +2901,6 @@
   },
   {
     "id": 10096,
-    "editor_name": "通用蓝—物理攻击力+2%",
     "sort_id": 10,
     "level": 6,
     "carryon_attr": [
@@ -3027,7 +2931,6 @@
   },
   {
     "id": 10097,
-    "editor_name": "通用蓝—物理攻击力+2%",
     "sort_id": 10,
     "level": 7,
     "carryon_attr": [
@@ -3058,7 +2961,6 @@
   },
   {
     "id": 10098,
-    "editor_name": "通用蓝—物理攻击力+2%",
     "sort_id": 10,
     "level": 8,
     "carryon_attr": [
@@ -3089,7 +2991,6 @@
   },
   {
     "id": 10099,
-    "editor_name": "通用蓝—物理攻击力+2%",
     "sort_id": 10,
     "level": 9,
     "carryon_attr": [
@@ -3120,7 +3021,6 @@
   },
   {
     "id": 10100,
-    "editor_name": "通用蓝—物理攻击力+2%",
     "sort_id": 10,
     "level": 10,
     "carryon_attr": [
@@ -3151,7 +3051,6 @@
   },
   {
     "id": 10101,
-    "editor_name": "通用蓝—魔法攻击力+2%",
     "sort_id": 11,
     "level": 1,
     "carryon_attr": [
@@ -3163,7 +3062,6 @@
   },
   {
     "id": 10102,
-    "editor_name": "通用蓝—魔法攻击力+2%",
     "sort_id": 11,
     "level": 2,
     "carryon_attr": [
@@ -3194,7 +3092,6 @@
   },
   {
     "id": 10103,
-    "editor_name": "通用蓝—魔法攻击力+2%",
     "sort_id": 11,
     "level": 3,
     "carryon_attr": [
@@ -3225,7 +3122,6 @@
   },
   {
     "id": 10104,
-    "editor_name": "通用蓝—魔法攻击力+2%",
     "sort_id": 11,
     "level": 4,
     "carryon_attr": [
@@ -3256,7 +3152,6 @@
   },
   {
     "id": 10105,
-    "editor_name": "通用蓝—魔法攻击力+2%",
     "sort_id": 11,
     "level": 5,
     "carryon_attr": [
@@ -3287,7 +3182,6 @@
   },
   {
     "id": 10106,
-    "editor_name": "通用蓝—魔法攻击力+2%",
     "sort_id": 11,
     "level": 6,
     "carryon_attr": [
@@ -3318,7 +3212,6 @@
   },
   {
     "id": 10107,
-    "editor_name": "通用蓝—魔法攻击力+2%",
     "sort_id": 11,
     "level": 7,
     "carryon_attr": [
@@ -3349,7 +3242,6 @@
   },
   {
     "id": 10108,
-    "editor_name": "通用蓝—魔法攻击力+2%",
     "sort_id": 11,
     "level": 8,
     "carryon_attr": [
@@ -3380,7 +3272,6 @@
   },
   {
     "id": 10109,
-    "editor_name": "通用蓝—魔法攻击力+2%",
     "sort_id": 11,
     "level": 9,
     "carryon_attr": [
@@ -3411,7 +3302,6 @@
   },
   {
     "id": 10110,
-    "editor_name": "通用蓝—魔法攻击力+2%",
     "sort_id": 11,
     "level": 10,
     "carryon_attr": [
@@ -3442,7 +3332,6 @@
   },
   {
     "id": 10111,
-    "editor_name": "通用蓝—生命值+2%",
     "sort_id": 12,
     "level": 1,
     "carryon_attr": [
@@ -3454,7 +3343,6 @@
   },
   {
     "id": 10112,
-    "editor_name": "通用蓝—生命值+2%",
     "sort_id": 12,
     "level": 2,
     "carryon_attr": [
@@ -3485,7 +3373,6 @@
   },
   {
     "id": 10113,
-    "editor_name": "通用蓝—生命值+2%",
     "sort_id": 12,
     "level": 3,
     "carryon_attr": [
@@ -3516,7 +3403,6 @@
   },
   {
     "id": 10114,
-    "editor_name": "通用蓝—生命值+2%",
     "sort_id": 12,
     "level": 4,
     "carryon_attr": [
@@ -3547,7 +3433,6 @@
   },
   {
     "id": 10115,
-    "editor_name": "通用蓝—生命值+2%",
     "sort_id": 12,
     "level": 5,
     "carryon_attr": [
@@ -3578,7 +3463,6 @@
   },
   {
     "id": 10116,
-    "editor_name": "通用蓝—生命值+2%",
     "sort_id": 12,
     "level": 6,
     "carryon_attr": [
@@ -3609,7 +3493,6 @@
   },
   {
     "id": 10117,
-    "editor_name": "通用蓝—生命值+2%",
     "sort_id": 12,
     "level": 7,
     "carryon_attr": [
@@ -3640,7 +3523,6 @@
   },
   {
     "id": 10118,
-    "editor_name": "通用蓝—生命值+2%",
     "sort_id": 12,
     "level": 8,
     "carryon_attr": [
@@ -3671,7 +3553,6 @@
   },
   {
     "id": 10119,
-    "editor_name": "通用蓝—生命值+2%",
     "sort_id": 12,
     "level": 9,
     "carryon_attr": [
@@ -3702,7 +3583,6 @@
   },
   {
     "id": 10120,
-    "editor_name": "通用蓝—生命值+2%",
     "sort_id": 12,
     "level": 10,
     "carryon_attr": [
@@ -3733,7 +3613,6 @@
   },
   {
     "id": 10121,
-    "editor_name": "通用蓝—物理防御+2%",
     "sort_id": 13,
     "level": 1,
     "carryon_attr": [
@@ -3745,7 +3624,6 @@
   },
   {
     "id": 10122,
-    "editor_name": "通用蓝—物理防御+2%",
     "sort_id": 13,
     "level": 2,
     "carryon_attr": [
@@ -3776,7 +3654,6 @@
   },
   {
     "id": 10123,
-    "editor_name": "通用蓝—物理防御+2%",
     "sort_id": 13,
     "level": 3,
     "carryon_attr": [
@@ -3807,7 +3684,6 @@
   },
   {
     "id": 10124,
-    "editor_name": "通用蓝—物理防御+2%",
     "sort_id": 13,
     "level": 4,
     "carryon_attr": [
@@ -3838,7 +3714,6 @@
   },
   {
     "id": 10125,
-    "editor_name": "通用蓝—物理防御+2%",
     "sort_id": 13,
     "level": 5,
     "carryon_attr": [
@@ -3869,7 +3744,6 @@
   },
   {
     "id": 10126,
-    "editor_name": "通用蓝—物理防御+2%",
     "sort_id": 13,
     "level": 6,
     "carryon_attr": [
@@ -3900,7 +3774,6 @@
   },
   {
     "id": 10127,
-    "editor_name": "通用蓝—物理防御+2%",
     "sort_id": 13,
     "level": 7,
     "carryon_attr": [
@@ -3931,7 +3804,6 @@
   },
   {
     "id": 10128,
-    "editor_name": "通用蓝—物理防御+2%",
     "sort_id": 13,
     "level": 8,
     "carryon_attr": [
@@ -3962,7 +3834,6 @@
   },
   {
     "id": 10129,
-    "editor_name": "通用蓝—物理防御+2%",
     "sort_id": 13,
     "level": 9,
     "carryon_attr": [
@@ -3993,7 +3864,6 @@
   },
   {
     "id": 10130,
-    "editor_name": "通用蓝—物理防御+2%",
     "sort_id": 13,
     "level": 10,
     "carryon_attr": [
@@ -4024,7 +3894,6 @@
   },
   {
     "id": 10131,
-    "editor_name": "通用蓝—魔法防御+2%",
     "sort_id": 14,
     "level": 1,
     "carryon_attr": [
@@ -4036,7 +3905,6 @@
   },
   {
     "id": 10132,
-    "editor_name": "通用蓝—魔法防御+2%",
     "sort_id": 14,
     "level": 2,
     "carryon_attr": [
@@ -4067,7 +3935,6 @@
   },
   {
     "id": 10133,
-    "editor_name": "通用蓝—魔法防御+2%",
     "sort_id": 14,
     "level": 3,
     "carryon_attr": [
@@ -4098,7 +3965,6 @@
   },
   {
     "id": 10134,
-    "editor_name": "通用蓝—魔法防御+2%",
     "sort_id": 14,
     "level": 4,
     "carryon_attr": [
@@ -4129,7 +3995,6 @@
   },
   {
     "id": 10135,
-    "editor_name": "通用蓝—魔法防御+2%",
     "sort_id": 14,
     "level": 5,
     "carryon_attr": [
@@ -4160,7 +4025,6 @@
   },
   {
     "id": 10136,
-    "editor_name": "通用蓝—魔法防御+2%",
     "sort_id": 14,
     "level": 6,
     "carryon_attr": [
@@ -4191,7 +4055,6 @@
   },
   {
     "id": 10137,
-    "editor_name": "通用蓝—魔法防御+2%",
     "sort_id": 14,
     "level": 7,
     "carryon_attr": [
@@ -4222,7 +4085,6 @@
   },
   {
     "id": 10138,
-    "editor_name": "通用蓝—魔法防御+2%",
     "sort_id": 14,
     "level": 8,
     "carryon_attr": [
@@ -4253,7 +4115,6 @@
   },
   {
     "id": 10139,
-    "editor_name": "通用蓝—魔法防御+2%",
     "sort_id": 14,
     "level": 9,
     "carryon_attr": [
@@ -4284,7 +4145,6 @@
   },
   {
     "id": 10140,
-    "editor_name": "通用蓝—魔法防御+2%",
     "sort_id": 14,
     "level": 10,
     "carryon_attr": [
@@ -4315,7 +4175,6 @@
   },
   {
     "id": 10141,
-    "editor_name": "通用蓝—速度+2%",
     "sort_id": 15,
     "level": 1,
     "carryon_attr": [
@@ -4327,7 +4186,6 @@
   },
   {
     "id": 10142,
-    "editor_name": "通用蓝—速度+2%",
     "sort_id": 15,
     "level": 2,
     "carryon_attr": [
@@ -4358,7 +4216,6 @@
   },
   {
     "id": 10143,
-    "editor_name": "通用蓝—速度+2%",
     "sort_id": 15,
     "level": 3,
     "carryon_attr": [
@@ -4389,7 +4246,6 @@
   },
   {
     "id": 10144,
-    "editor_name": "通用蓝—速度+2%",
     "sort_id": 15,
     "level": 4,
     "carryon_attr": [
@@ -4420,7 +4276,6 @@
   },
   {
     "id": 10145,
-    "editor_name": "通用蓝—速度+2%",
     "sort_id": 15,
     "level": 5,
     "carryon_attr": [
@@ -4451,7 +4306,6 @@
   },
   {
     "id": 10146,
-    "editor_name": "通用蓝—速度+2%",
     "sort_id": 15,
     "level": 6,
     "carryon_attr": [
@@ -4482,7 +4336,6 @@
   },
   {
     "id": 10147,
-    "editor_name": "通用蓝—速度+2%",
     "sort_id": 15,
     "level": 7,
     "carryon_attr": [
@@ -4513,7 +4366,6 @@
   },
   {
     "id": 10148,
-    "editor_name": "通用蓝—速度+2%",
     "sort_id": 15,
     "level": 8,
     "carryon_attr": [
@@ -4544,7 +4396,6 @@
   },
   {
     "id": 10149,
-    "editor_name": "通用蓝—速度+2%",
     "sort_id": 15,
     "level": 9,
     "carryon_attr": [
@@ -4575,7 +4426,6 @@
   },
   {
     "id": 10150,
-    "editor_name": "通用蓝—速度+2%",
     "sort_id": 15,
     "level": 10,
     "carryon_attr": [
@@ -4606,7 +4456,6 @@
   },
   {
     "id": 10151,
-    "editor_name": "冰冻光线",
     "sort_id": 16,
     "level": 1,
     "carryon_attr": [
@@ -4622,7 +4471,6 @@
   },
   {
     "id": 10152,
-    "editor_name": "冰冻光线",
     "sort_id": 16,
     "level": 2,
     "carryon_attr": [
@@ -4657,7 +4505,6 @@
   },
   {
     "id": 10153,
-    "editor_name": "冰冻光线",
     "sort_id": 16,
     "level": 3,
     "carryon_attr": [
@@ -4692,7 +4539,6 @@
   },
   {
     "id": 10154,
-    "editor_name": "冰冻光线",
     "sort_id": 16,
     "level": 4,
     "carryon_attr": [
@@ -4727,7 +4573,6 @@
   },
   {
     "id": 10155,
-    "editor_name": "冰冻光线",
     "sort_id": 16,
     "level": 5,
     "carryon_attr": [
@@ -4762,7 +4607,6 @@
   },
   {
     "id": 10156,
-    "editor_name": "冰冻光线",
     "sort_id": 16,
     "level": 6,
     "carryon_attr": [
@@ -4797,7 +4641,6 @@
   },
   {
     "id": 10157,
-    "editor_name": "冰冻光线",
     "sort_id": 16,
     "level": 7,
     "carryon_attr": [
@@ -4832,7 +4675,6 @@
   },
   {
     "id": 10158,
-    "editor_name": "冰冻光线",
     "sort_id": 16,
     "level": 8,
     "carryon_attr": [
@@ -4867,7 +4709,6 @@
   },
   {
     "id": 10159,
-    "editor_name": "冰冻光线",
     "sort_id": 16,
     "level": 9,
     "carryon_attr": [
@@ -4902,7 +4743,6 @@
   },
   {
     "id": 10160,
-    "editor_name": "冰冻光线",
     "sort_id": 16,
     "level": 10,
     "carryon_attr": [
@@ -4937,7 +4777,6 @@
   },
   {
     "id": 10161,
-    "editor_name": "雷击",
     "sort_id": 17,
     "level": 1,
     "carryon_attr": [
@@ -4953,7 +4792,6 @@
   },
   {
     "id": 10162,
-    "editor_name": "雷击",
     "sort_id": 17,
     "level": 2,
     "carryon_attr": [
@@ -4988,7 +4826,6 @@
   },
   {
     "id": 10163,
-    "editor_name": "雷击",
     "sort_id": 17,
     "level": 3,
     "carryon_attr": [
@@ -5023,7 +4860,6 @@
   },
   {
     "id": 10164,
-    "editor_name": "雷击",
     "sort_id": 17,
     "level": 4,
     "carryon_attr": [
@@ -5058,7 +4894,6 @@
   },
   {
     "id": 10165,
-    "editor_name": "雷击",
     "sort_id": 17,
     "level": 5,
     "carryon_attr": [
@@ -5093,7 +4928,6 @@
   },
   {
     "id": 10166,
-    "editor_name": "雷击",
     "sort_id": 17,
     "level": 6,
     "carryon_attr": [
@@ -5128,7 +4962,6 @@
   },
   {
     "id": 10167,
-    "editor_name": "雷击",
     "sort_id": 17,
     "level": 7,
     "carryon_attr": [
@@ -5163,7 +4996,6 @@
   },
   {
     "id": 10168,
-    "editor_name": "雷击",
     "sort_id": 17,
     "level": 8,
     "carryon_attr": [
@@ -5198,7 +5030,6 @@
   },
   {
     "id": 10169,
-    "editor_name": "雷击",
     "sort_id": 17,
     "level": 9,
     "carryon_attr": [
@@ -5233,7 +5064,6 @@
   },
   {
     "id": 10170,
-    "editor_name": "雷击",
     "sort_id": 17,
     "level": 10,
     "carryon_attr": [
@@ -5268,7 +5098,6 @@
   },
   {
     "id": 10171,
-    "editor_name": "溶解液",
     "sort_id": 18,
     "level": 1,
     "carryon_attr": [
@@ -5284,7 +5113,6 @@
   },
   {
     "id": 10172,
-    "editor_name": "溶解液",
     "sort_id": 18,
     "level": 2,
     "carryon_attr": [
@@ -5319,7 +5147,6 @@
   },
   {
     "id": 10173,
-    "editor_name": "溶解液",
     "sort_id": 18,
     "level": 3,
     "carryon_attr": [
@@ -5354,7 +5181,6 @@
   },
   {
     "id": 10174,
-    "editor_name": "溶解液",
     "sort_id": 18,
     "level": 4,
     "carryon_attr": [
@@ -5389,7 +5215,6 @@
   },
   {
     "id": 10175,
-    "editor_name": "溶解液",
     "sort_id": 18,
     "level": 5,
     "carryon_attr": [
@@ -5424,7 +5249,6 @@
   },
   {
     "id": 10176,
-    "editor_name": "溶解液",
     "sort_id": 18,
     "level": 6,
     "carryon_attr": [
@@ -5459,7 +5283,6 @@
   },
   {
     "id": 10177,
-    "editor_name": "溶解液",
     "sort_id": 18,
     "level": 7,
     "carryon_attr": [
@@ -5494,7 +5317,6 @@
   },
   {
     "id": 10178,
-    "editor_name": "溶解液",
     "sort_id": 18,
     "level": 8,
     "carryon_attr": [
@@ -5529,7 +5351,6 @@
   },
   {
     "id": 10179,
-    "editor_name": "溶解液",
     "sort_id": 18,
     "level": 9,
     "carryon_attr": [
@@ -5564,7 +5385,6 @@
   },
   {
     "id": 10180,
-    "editor_name": "溶解液",
     "sort_id": 18,
     "level": 10,
     "carryon_attr": [
@@ -5599,7 +5419,6 @@
   },
   {
     "id": 10181,
-    "editor_name": "空间压迫",
     "sort_id": 19,
     "level": 1,
     "carryon_attr": [
@@ -5615,7 +5434,6 @@
   },
   {
     "id": 10182,
-    "editor_name": "空间压迫",
     "sort_id": 19,
     "level": 2,
     "carryon_attr": [
@@ -5650,7 +5468,6 @@
   },
   {
     "id": 10183,
-    "editor_name": "空间压迫",
     "sort_id": 19,
     "level": 3,
     "carryon_attr": [
@@ -5685,7 +5502,6 @@
   },
   {
     "id": 10184,
-    "editor_name": "空间压迫",
     "sort_id": 19,
     "level": 4,
     "carryon_attr": [
@@ -5720,7 +5536,6 @@
   },
   {
     "id": 10185,
-    "editor_name": "空间压迫",
     "sort_id": 19,
     "level": 5,
     "carryon_attr": [
@@ -5755,7 +5570,6 @@
   },
   {
     "id": 10186,
-    "editor_name": "空间压迫",
     "sort_id": 19,
     "level": 6,
     "carryon_attr": [
@@ -5790,7 +5604,6 @@
   },
   {
     "id": 10187,
-    "editor_name": "空间压迫",
     "sort_id": 19,
     "level": 7,
     "carryon_attr": [
@@ -5825,7 +5638,6 @@
   },
   {
     "id": 10188,
-    "editor_name": "空间压迫",
     "sort_id": 19,
     "level": 8,
     "carryon_attr": [
@@ -5860,7 +5672,6 @@
   },
   {
     "id": 10189,
-    "editor_name": "空间压迫",
     "sort_id": 19,
     "level": 9,
     "carryon_attr": [
@@ -5895,7 +5706,6 @@
   },
   {
     "id": 10190,
-    "editor_name": "空间压迫",
     "sort_id": 19,
     "level": 10,
     "carryon_attr": [
@@ -5930,7 +5740,6 @@
   },
   {
     "id": 10191,
-    "editor_name": "无影脚",
     "sort_id": 20,
     "level": 1,
     "carryon_attr": [
@@ -5946,7 +5755,6 @@
   },
   {
     "id": 10192,
-    "editor_name": "无影脚",
     "sort_id": 20,
     "level": 2,
     "carryon_attr": [
@@ -5981,7 +5789,6 @@
   },
   {
     "id": 10193,
-    "editor_name": "无影脚",
     "sort_id": 20,
     "level": 3,
     "carryon_attr": [
@@ -6016,7 +5823,6 @@
   },
   {
     "id": 10194,
-    "editor_name": "无影脚",
     "sort_id": 20,
     "level": 4,
     "carryon_attr": [
@@ -6051,7 +5857,6 @@
   },
   {
     "id": 10195,
-    "editor_name": "无影脚",
     "sort_id": 20,
     "level": 5,
     "carryon_attr": [
@@ -6086,7 +5891,6 @@
   },
   {
     "id": 10196,
-    "editor_name": "无影脚",
     "sort_id": 20,
     "level": 6,
     "carryon_attr": [
@@ -6121,7 +5925,6 @@
   },
   {
     "id": 10197,
-    "editor_name": "无影脚",
     "sort_id": 20,
     "level": 7,
     "carryon_attr": [
@@ -6156,7 +5959,6 @@
   },
   {
     "id": 10198,
-    "editor_name": "无影脚",
     "sort_id": 20,
     "level": 8,
     "carryon_attr": [
@@ -6191,7 +5993,6 @@
   },
   {
     "id": 10199,
-    "editor_name": "无影脚",
     "sort_id": 20,
     "level": 9,
     "carryon_attr": [
@@ -6226,7 +6027,6 @@
   },
   {
     "id": 10200,
-    "editor_name": "无影脚",
     "sort_id": 20,
     "level": 10,
     "carryon_attr": [
@@ -6261,7 +6061,6 @@
   },
   {
     "id": 10201,
-    "editor_name": "幽灵爆发",
     "sort_id": 21,
     "level": 1,
     "carryon_attr": [
@@ -6281,7 +6080,6 @@
   },
   {
     "id": 10202,
-    "editor_name": "幽灵爆发",
     "sort_id": 21,
     "level": 2,
     "carryon_attr": [
@@ -6320,7 +6118,6 @@
   },
   {
     "id": 10203,
-    "editor_name": "幽灵爆发",
     "sort_id": 21,
     "level": 3,
     "carryon_attr": [
@@ -6359,7 +6156,6 @@
   },
   {
     "id": 10204,
-    "editor_name": "幽灵爆发",
     "sort_id": 21,
     "level": 4,
     "carryon_attr": [
@@ -6398,7 +6194,6 @@
   },
   {
     "id": 10205,
-    "editor_name": "幽灵爆发",
     "sort_id": 21,
     "level": 5,
     "carryon_attr": [
@@ -6437,7 +6232,6 @@
   },
   {
     "id": 10206,
-    "editor_name": "幽灵爆发",
     "sort_id": 21,
     "level": 6,
     "carryon_attr": [
@@ -6476,7 +6270,6 @@
   },
   {
     "id": 10207,
-    "editor_name": "幽灵爆发",
     "sort_id": 21,
     "level": 7,
     "carryon_attr": [
@@ -6515,7 +6308,6 @@
   },
   {
     "id": 10208,
-    "editor_name": "幽灵爆发",
     "sort_id": 21,
     "level": 8,
     "carryon_attr": [
@@ -6554,7 +6346,6 @@
   },
   {
     "id": 10209,
-    "editor_name": "幽灵爆发",
     "sort_id": 21,
     "level": 9,
     "carryon_attr": [
@@ -6593,7 +6384,6 @@
   },
   {
     "id": 10210,
-    "editor_name": "幽灵爆发",
     "sort_id": 21,
     "level": 10,
     "carryon_attr": [
@@ -6632,7 +6422,6 @@
   },
   {
     "id": 10211,
-    "editor_name": "斩断",
     "sort_id": 22,
     "level": 1,
     "carryon_attr": [
@@ -6652,7 +6441,6 @@
   },
   {
     "id": 10212,
-    "editor_name": "斩断",
     "sort_id": 22,
     "level": 2,
     "carryon_attr": [
@@ -6691,7 +6479,6 @@
   },
   {
     "id": 10213,
-    "editor_name": "斩断",
     "sort_id": 22,
     "level": 3,
     "carryon_attr": [
@@ -6730,7 +6517,6 @@
   },
   {
     "id": 10214,
-    "editor_name": "斩断",
     "sort_id": 22,
     "level": 4,
     "carryon_attr": [
@@ -6769,7 +6555,6 @@
   },
   {
     "id": 10215,
-    "editor_name": "斩断",
     "sort_id": 22,
     "level": 5,
     "carryon_attr": [
@@ -6808,7 +6593,6 @@
   },
   {
     "id": 10216,
-    "editor_name": "斩断",
     "sort_id": 22,
     "level": 6,
     "carryon_attr": [
@@ -6847,7 +6631,6 @@
   },
   {
     "id": 10217,
-    "editor_name": "斩断",
     "sort_id": 22,
     "level": 7,
     "carryon_attr": [
@@ -6886,7 +6669,6 @@
   },
   {
     "id": 10218,
-    "editor_name": "斩断",
     "sort_id": 22,
     "level": 8,
     "carryon_attr": [
@@ -6925,7 +6707,6 @@
   },
   {
     "id": 10219,
-    "editor_name": "斩断",
     "sort_id": 22,
     "level": 9,
     "carryon_attr": [
@@ -6964,7 +6745,6 @@
   },
   {
     "id": 10220,
-    "editor_name": "斩断",
     "sort_id": 22,
     "level": 10,
     "carryon_attr": [
@@ -7003,7 +6783,6 @@
   },
   {
     "id": 10221,
-    "editor_name": "光能聚集",
     "sort_id": 23,
     "level": 1,
     "carryon_attr": [
@@ -7023,7 +6802,6 @@
   },
   {
     "id": 10222,
-    "editor_name": "光能聚集",
     "sort_id": 23,
     "level": 2,
     "carryon_attr": [
@@ -7062,7 +6840,6 @@
   },
   {
     "id": 10223,
-    "editor_name": "光能聚集",
     "sort_id": 23,
     "level": 3,
     "carryon_attr": [
@@ -7101,7 +6878,6 @@
   },
   {
     "id": 10224,
-    "editor_name": "光能聚集",
     "sort_id": 23,
     "level": 4,
     "carryon_attr": [
@@ -7140,7 +6916,6 @@
   },
   {
     "id": 10225,
-    "editor_name": "光能聚集",
     "sort_id": 23,
     "level": 5,
     "carryon_attr": [
@@ -7179,7 +6954,6 @@
   },
   {
     "id": 10226,
-    "editor_name": "光能聚集",
     "sort_id": 23,
     "level": 6,
     "carryon_attr": [
@@ -7218,7 +6992,6 @@
   },
   {
     "id": 10227,
-    "editor_name": "光能聚集",
     "sort_id": 23,
     "level": 7,
     "carryon_attr": [
@@ -7257,7 +7030,6 @@
   },
   {
     "id": 10228,
-    "editor_name": "光能聚集",
     "sort_id": 23,
     "level": 8,
     "carryon_attr": [
@@ -7296,7 +7068,6 @@
   },
   {
     "id": 10229,
-    "editor_name": "光能聚集",
     "sort_id": 23,
     "level": 9,
     "carryon_attr": [
@@ -7335,7 +7106,6 @@
   },
   {
     "id": 10230,
-    "editor_name": "光能聚集",
     "sort_id": 23,
     "level": 10,
     "carryon_attr": [
@@ -7374,7 +7144,6 @@
   },
   {
     "id": 10231,
-    "editor_name": "烈焰冲锋",
     "sort_id": 24,
     "level": 1,
     "carryon_attr": [
@@ -7394,7 +7163,6 @@
   },
   {
     "id": 10232,
-    "editor_name": "烈焰冲锋",
     "sort_id": 24,
     "level": 2,
     "carryon_attr": [
@@ -7433,7 +7201,6 @@
   },
   {
     "id": 10233,
-    "editor_name": "烈焰冲锋",
     "sort_id": 24,
     "level": 3,
     "carryon_attr": [
@@ -7472,7 +7239,6 @@
   },
   {
     "id": 10234,
-    "editor_name": "烈焰冲锋",
     "sort_id": 24,
     "level": 4,
     "carryon_attr": [
@@ -7511,7 +7277,6 @@
   },
   {
     "id": 10235,
-    "editor_name": "烈焰冲锋",
     "sort_id": 24,
     "level": 5,
     "carryon_attr": [
@@ -7550,7 +7315,6 @@
   },
   {
     "id": 10236,
-    "editor_name": "烈焰冲锋",
     "sort_id": 24,
     "level": 6,
     "carryon_attr": [
@@ -7589,7 +7353,6 @@
   },
   {
     "id": 10237,
-    "editor_name": "烈焰冲锋",
     "sort_id": 24,
     "level": 7,
     "carryon_attr": [
@@ -7628,7 +7391,6 @@
   },
   {
     "id": 10238,
-    "editor_name": "烈焰冲锋",
     "sort_id": 24,
     "level": 8,
     "carryon_attr": [
@@ -7667,7 +7429,6 @@
   },
   {
     "id": 10239,
-    "editor_name": "烈焰冲锋",
     "sort_id": 24,
     "level": 9,
     "carryon_attr": [
@@ -7706,7 +7467,6 @@
   },
   {
     "id": 10240,
-    "editor_name": "烈焰冲锋",
     "sort_id": 24,
     "level": 10,
     "carryon_attr": [
@@ -7745,7 +7505,6 @@
   },
   {
     "id": 10241,
-    "editor_name": "爆炸种子",
     "sort_id": 25,
     "level": 1,
     "carryon_attr": [
@@ -7765,7 +7524,6 @@
   },
   {
     "id": 10242,
-    "editor_name": "爆炸种子",
     "sort_id": 25,
     "level": 2,
     "carryon_attr": [
@@ -7804,7 +7562,6 @@
   },
   {
     "id": 10243,
-    "editor_name": "爆炸种子",
     "sort_id": 25,
     "level": 3,
     "carryon_attr": [
@@ -7843,7 +7600,6 @@
   },
   {
     "id": 10244,
-    "editor_name": "爆炸种子",
     "sort_id": 25,
     "level": 4,
     "carryon_attr": [
@@ -7882,7 +7638,6 @@
   },
   {
     "id": 10245,
-    "editor_name": "爆炸种子",
     "sort_id": 25,
     "level": 5,
     "carryon_attr": [
@@ -7921,7 +7676,6 @@
   },
   {
     "id": 10246,
-    "editor_name": "爆炸种子",
     "sort_id": 25,
     "level": 6,
     "carryon_attr": [
@@ -7960,7 +7714,6 @@
   },
   {
     "id": 10247,
-    "editor_name": "爆炸种子",
     "sort_id": 25,
     "level": 7,
     "carryon_attr": [
@@ -7999,7 +7752,6 @@
   },
   {
     "id": 10248,
-    "editor_name": "爆炸种子",
     "sort_id": 25,
     "level": 8,
     "carryon_attr": [
@@ -8038,7 +7790,6 @@
   },
   {
     "id": 10249,
-    "editor_name": "爆炸种子",
     "sort_id": 25,
     "level": 9,
     "carryon_attr": [
@@ -8077,7 +7828,6 @@
   },
   {
     "id": 10250,
-    "editor_name": "爆炸种子",
     "sort_id": 25,
     "level": 10,
     "carryon_attr": [

@@ -284,15 +284,6 @@
     "trigger1_data": 71008317
   },
   {
-    "id": 32002,
-    "reacall_terms_name": "系别克制",
-    "reacall_terms_picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/recall_xibiekezhi.recall_xibiekezhi'",
-    "reacall_terms_text": "查看新手教学可以获得咕噜球",
-    "reacall_terms_teach": 111,
-    "reacallt_terms_unlock_trigger1": 1,
-    "trigger1_data": 71008317
-  },
-  {
     "id": 33001,
     "reacall_terms_name": "同行",
     "reacall_terms_picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/tezhiguluqiu.tezhiguluqiu'",

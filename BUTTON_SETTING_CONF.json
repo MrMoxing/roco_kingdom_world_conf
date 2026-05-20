@@ -134,7 +134,7 @@
   },
   {
     "id": 14,
-    "button_action_name": "骑乘技能；上/下坐骑；对自己施法",
+    "button_action_name": "进入骑乘状态；骑乘技能；对自己施法",
     "button_type": 2,
     "button_ischangeable": true,
     "numList": [
@@ -567,6 +567,7 @@
     "button_type": 3,
     "button_ischangeable": true,
     "numList": [
+      67,
       68,
       128,
       129,

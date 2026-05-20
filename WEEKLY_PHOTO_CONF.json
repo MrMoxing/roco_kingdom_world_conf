@@ -40,8 +40,48 @@
     "action": "Think"
   },
   {
+    "id": 1008,
+    "res_name": "Photo_week_9",
+    "action": "RolePlayReliable"
+  },
+  {
+    "id": 1009,
+    "res_name": "Photo_week_10",
+    "action": "RolePlayBiuBiu"
+  },
+  {
+    "id": 1010,
+    "res_name": "Photo_week_11",
+    "action": "Think"
+  },
+  {
+    "id": 1011,
+    "res_name": "Photo_week_12",
+    "action": "Think"
+  },
+  {
+    "id": 1012,
+    "res_name": "Photo_week_13",
+    "action": "Flute2Loop"
+  },
+  {
+    "id": 1013,
+    "res_name": "Photo_week_14",
+    "action": "Think"
+  },
+  {
+    "id": 1014,
+    "res_name": "Photo_week_15",
+    "action": "Think"
+  },
+  {
+    "id": 1015,
+    "res_name": "Photo_week_16",
+    "action": "Think"
+  },
+  {
     "id": 1016,
     "res_name": "Photo_week_17",
-    "action": "Anger 1"
+    "action": "Anger1"
   }
 ]

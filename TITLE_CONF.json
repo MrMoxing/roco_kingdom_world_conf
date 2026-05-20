@@ -189,12 +189,20 @@
         "subtitle": "阵容分享"
       },
       {
-        "type_name": "UMG_PetReportShare",
+        "type_name": "UMG_PetReportShare_C",
         "subtitle": "精灵回顾分享"
       },
       {
         "type_name": "UMG_TakephotoShare_C",
         "subtitle": "照片分享"
+      },
+      {
+        "type_name": "UMG_ShareUI_VideoShare_C",
+        "subtitle": "留影分享"
+      },
+      {
+        "type_name": "UMG_PetGroupPhotoShare_C",
+        "subtitle": "赛季合影"
       }
     ]
   },
@@ -421,6 +429,11 @@
       {
         "type_name": "TryOn",
         "subtitle": "预览"
+      },
+      {},
+      {},
+      {
+        "subtitle": "2"
       }
     ]
   },
@@ -489,7 +502,7 @@
       },
       {
         "type_name": "PetItem",
-        "subtitle": "精灵物品炼金"
+        "subtitle": "精灵用品炼金"
       }
     ]
   },
@@ -527,7 +540,7 @@
       },
       {
         "type_name": "Rotation",
-        "subtitle": "赛季"
+        "subtitle": "周末"
       },
       {
         "type_name": "Other",
@@ -769,7 +782,7 @@
   },
   {
     "id": "PVPQualifier",
-    "title": "精灵对战",
+    "title": "闪耀大赛",
     "display_type": 1,
     "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/PVPQualifier/Raw/Frames/img_biaoti_png.img_biaoti_png'",
     "subtitle": [
@@ -1174,6 +1187,99 @@
     "subtitle": [
       {
         "subtitle": "试用精灵"
+      }
+    ]
+  },
+  {
+    "id": "TakePhotoCompetition_Rankings",
+    "title": "活动",
+    "display_type": 1,
+    "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_huodong_png.img_huodong_png'",
+    "subtitle": [
+      {
+        "subtitle": "本期热门"
+      }
+    ]
+  },
+  {
+    "id": "TakePhotoCompetition_PreviousReview",
+    "title": "往期活动",
+    "display_type": 1,
+    "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_huodong_png.img_huodong_png'",
+    "subtitle": [
+      {
+        "subtitle": "往期回顾"
+      }
+    ]
+  },
+  {
+    "id": "TakePhotoCompetition_Vote",
+    "title": "活动",
+    "display_type": 1,
+    "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_huodong_png.img_huodong_png'",
+    "subtitle": [
+      {
+        "subtitle": "合影评选赛"
+      }
+    ]
+  },
+  {
+    "id": "ChildrenChallengeProgressRewardPanel",
+    "title": "鼠于你的解忧时刻",
+    "display_type": 1,
+    "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityCollegeGlory/Frames/img_biaoti_bg_png.img_biaoti_bg_png'",
+    "subtitle": [
+      {
+        "type_name": "person",
+        "subtitle": "个人挑战"
+      },
+      {
+        "type_name": "global",
+        "subtitle": "全服挑战"
+      }
+    ]
+  },
+  {
+    "id": "SeasonHandBook_S",
+    "title": "赛季图鉴",
+    "display_type": 2,
+    "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_Seasontitle_png.img_Seasontitle_png'",
+    "subtitle": [
+      {
+        "subtitle": "（选中赛季的名称）"
+      }
+    ]
+  },
+  {
+    "id": "RecallTheme",
+    "title": "回归活动",
+    "display_type": 1,
+    "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_huodong_png.img_huodong_png'",
+    "subtitle": [
+      {
+        "subtitle": "重逢契约"
+      }
+    ]
+  },
+  {
+    "id": "ObservationNotesPanel",
+    "title": "观察笔记",
+    "display_type": 1,
+    "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_xuefenshangdian_png.Img_NPCShop_Title_xuefenshangdian_png'",
+    "subtitle": [
+      {
+        "subtitle": "精灵观察笔记"
+      }
+    ]
+  },
+  {
+    "id": "SurveyTasksPanel",
+    "title": "注意!狐出没!",
+    "display_type": 1,
+    "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_xuefenshangdian_png.Img_NPCShop_Title_xuefenshangdian_png'",
+    "subtitle": [
+      {
+        "subtitle": "调查任务"
       }
     ]
   }

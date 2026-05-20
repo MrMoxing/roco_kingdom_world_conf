@@ -60,6 +60,40 @@
       200024,
       200025
     ],
+    "title": "传说精灵",
+    "is_refresh": true
+  },
+  {
+    "id": 4000004,
+    "quest_name": "机幕方舟",
+    "quest_brief": "这只是一个用于索引string的配置，无实际意义",
+    "world_level": 1,
+    "refresh_content_id_2": 32000006,
+    "pet_base_id": 3735,
+    "battle_key": "jimufangzhou_battle",
+    "start_difficulty": 1,
+    "battle_id": [
+      200033,
+      200034,
+      200035
+    ],
     "title": "传说精灵"
+  },
+  {
+    "id": 4000007,
+    "quest_name": "限时调查·凡鹰",
+    "refresh_content_id_2": 32000009,
+    "pet_base_id": 3394,
+    "battle_key": "huodongfanying_battle",
+    "start_difficulty": 1,
+    "battle_id": [
+      200003,
+      200004,
+      200005
+    ],
+    "title": "传说精灵",
+    "is_refresh": true,
+    "token_id": 280004,
+    "ticket_cost": 1
   }
 ]

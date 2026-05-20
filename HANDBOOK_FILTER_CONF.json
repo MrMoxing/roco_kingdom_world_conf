@@ -154,5 +154,21 @@
     "filter_type": 13,
     "filter_enum_name": "FilterShining",
     "filter_enum_value": "FS_ALL_SHINING"
+  },
+  {
+    "id": 21,
+    "filter_type": 14,
+    "filter_enum_name": "FilterSeasonPet",
+    "filter_enum_value": "FSP_S1",
+    "filter_desc": "暗夜拾光赛季",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIStatic/Frames/img_luopan_anyeshiguang1_png.img_luopan_anyeshiguang1_png'"
+  },
+  {
+    "id": 22,
+    "filter_type": 14,
+    "filter_enum_name": "FilterSeasonPet",
+    "filter_enum_value": "FSP_S2",
+    "filter_desc": "狂欢怪谈赛季",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIStatic/Frames/img_luopan_S2anyeshiguang1_png.img_luopan_S2anyeshiguang1_png'"
   }
 ]

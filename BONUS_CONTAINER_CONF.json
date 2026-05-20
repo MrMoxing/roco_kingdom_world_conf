@@ -1,0 +1,86 @@
+[
+  {
+    "id": 10001,
+    "show_text": "精灵躲进了盒子，想要给你一个惊喜！",
+    "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut01.G6_JXHZ_CallOut01'",
+    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_3_png.img_Box_3_png'",
+    "show_text_type": "UMG_CircusOpeningAnnouncementTips"
+  },
+  {
+    "id": 10002,
+    "show_text": "精灵躲进了盒子，想要给你一个惊喜！",
+    "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut02.G6_JXHZ_CallOut02'",
+    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_2_png.img_Box_2_png'",
+    "show_text_type": "UMG_CircusOpeningAnnouncementTips"
+  },
+  {
+    "id": 10003,
+    "show_text": "精灵躲进了盒子，想要给你一个惊喜！",
+    "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut03.G6_JXHZ_CallOut03'",
+    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_1_png.img_Box_1_png'",
+    "show_text_type": "UMG_CircusOpeningAnnouncementTips"
+  },
+  {
+    "id": 10004,
+    "show_text": "精灵躲进了盒子，想要给你一个惊喜！",
+    "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut01.G6_JXHZ_CallOut01'",
+    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_3_png.img_Box_3_png'",
+    "show_text_type": "UMG_CircusOpeningAnnouncementTips"
+  },
+  {
+    "id": 10005,
+    "show_text": "精灵躲进了盒子，想要给你一个惊喜！",
+    "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut02.G6_JXHZ_CallOut02'",
+    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_2_png.img_Box_2_png'",
+    "show_text_type": "UMG_CircusOpeningAnnouncementTips"
+  },
+  {
+    "id": 10006,
+    "show_text": "精灵躲进了盒子，想要给你一个惊喜！",
+    "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut03.G6_JXHZ_CallOut03'",
+    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_1_png.img_Box_1_png'",
+    "show_text_type": "UMG_CircusOpeningAnnouncementTips"
+  },
+  {
+    "id": 10010,
+    "show_text": "狂欢时间到！",
+    "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut01.G6_JXHZ_CallOut01'",
+    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_3_png.img_Box_3_png'",
+    "show_text_type": "UMG_CircusOpeningAnnouncementTips"
+  },
+  {
+    "id": 10011,
+    "show_text": "狂欢时间到！",
+    "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut01.G6_JXHZ_CallOut01'",
+    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_2_png.img_Box_2_png'",
+    "show_text_type": "UMG_CircusOpeningAnnouncementTips"
+  },
+  {
+    "id": 10012,
+    "show_text": "狂欢时间到！",
+    "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut01.G6_JXHZ_CallOut01'",
+    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_1_png.img_Box_1_png'",
+    "show_text_type": "UMG_CircusOpeningAnnouncementTips"
+  },
+  {
+    "id": 10013,
+    "show_text": "狂欢时间到！",
+    "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut01.G6_JXHZ_CallOut01'",
+    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_3_png.img_Box_3_png'",
+    "show_text_type": "UMG_CircusOpeningAnnouncementTips"
+  },
+  {
+    "id": 10014,
+    "show_text": "狂欢时间到！",
+    "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut01.G6_JXHZ_CallOut01'",
+    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_2_png.img_Box_2_png'",
+    "show_text_type": "UMG_CircusOpeningAnnouncementTips"
+  },
+  {
+    "id": 10015,
+    "show_text": "狂欢时间到！",
+    "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut01.G6_JXHZ_CallOut01'",
+    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_1_png.img_Box_1_png'",
+    "show_text_type": "UMG_CircusOpeningAnnouncementTips"
+  }
+]

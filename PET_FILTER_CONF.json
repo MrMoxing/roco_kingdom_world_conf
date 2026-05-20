@@ -437,5 +437,12 @@
     "filter_enum_name": "PetCatchTime",
     "filter_enum_value": "PCT_THISWEEK",
     "filter_desc": "本周内"
+  },
+  {
+    "id": 58,
+    "filter_type": 15,
+    "filter_enum_name": "RollBack",
+    "filter_enum_value": "RB_CANROLL",
+    "filter_desc": "时光回溯"
   }
 ]

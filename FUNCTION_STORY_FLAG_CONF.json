@@ -160,6 +160,11 @@
     "apply_to_visitor": true
   },
   {
+    "id": 1534,
+    "editor_name": "赛季-好友传入阻拦-机幕方舟马戏团",
+    "apply_to_visitor": true
+  },
+  {
     "id": 1601,
     "editor_name": "A2_侦探社_洛克贝大劫案_了解案发经过-您的基本信息"
   },
@@ -212,6 +217,76 @@
     "editor_name": "A1_S1赛季任务_箱中研究室_魔法日记本_日记7"
   },
   {
+    "id": 1720,
+    "editor_name": "S2-赛季大厅-马戏团-压暗灯光",
+    "story_flag_action_type": 8,
+    "action_string_param": "Season_S2_Circus_LMP_Off_Lights",
+    "action_int_param": [
+      50002
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 1721,
+    "editor_name": "S2-赛季大厅-马戏团-正常灯光",
+    "story_flag_action_type": 8,
+    "action_string_param": "Season_S2_Circus_LMP_On_Lights",
+    "action_int_param": [
+      50002
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 1722,
+    "editor_name": "S2-赛季大厅-马戏团-暗光BGM",
+    "story_flag_action_type": 5,
+    "action_string_param": "Task_State;Task_S2_Lobby_Off",
+    "action_int_param": [
+      641030010
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 1723,
+    "editor_name": "S2-赛季大厅-马戏团-正常BGM",
+    "story_flag_action_type": 5,
+    "action_string_param": "Task_State;Task_S2_Lobby_On",
+    "action_int_param": [
+      641030010
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 1724,
+    "editor_name": "S2赛季任务_ACT2_是否提前认识斯诺克select"
+  },
+  {
+    "id": 1725,
+    "editor_name": "S2-赛季副本-box-暗光BGM",
+    "story_flag_action_type": 5,
+    "action_string_param": "Task_State;Task_S2_Lobby_Off",
+    "action_int_param": [
+      641030013
+    ]
+  },
+  {
+    "id": 1726,
+    "editor_name": "S2-赛季副本-box-正常BGM",
+    "story_flag_action_type": 5,
+    "action_string_param": "Task_State;Task_S2_Lobby_On",
+    "action_int_param": [
+      641030013
+    ]
+  },
+  {
+    "id": 1727,
+    "editor_name": "S2-机幕方舟团体战开启"
+  },
+  {
+    "id": 1728,
+    "editor_name": "S2-集合页开启代币商店入口"
+  },
+  {
     "id": 2101,
     "editor_name": "路易斯晋升任务分支选项"
   },
@@ -236,12 +311,40 @@
     "editor_name": "刷新翼王boss战斗"
   },
   {
+    "id": 2114,
+    "editor_name": "刷新凡鹰boss战斗"
+  },
+  {
     "id": 3001,
     "editor_name": "ACT_ACCEPTTASK-70202041-答对"
   },
   {
     "id": 3002,
     "editor_name": "ACT_ACCEPTTASK-70202042-答错"
+  },
+  {
+    "id": 5000,
+    "editor_name": "A1_精灵首领_风暴战犬法尔_记忆碎片掉落_累计3个"
+  },
+  {
+    "id": 5001,
+    "editor_name": "A1_精灵首领_迷嶂阿特岚_记忆碎片掉落_累计3个"
+  },
+  {
+    "id": 5002,
+    "editor_name": "A1_精灵首领_黑猫密探芙摩甘_记忆碎片掉落_累计3个"
+  },
+  {
+    "id": 5003,
+    "editor_name": "A1_精灵首领_雪影冰灵艾莉亚_记忆碎片掉落_累计3个"
+  },
+  {
+    "id": 5004,
+    "editor_name": "A1_精灵首领_迷嶂布莱克_记忆碎片掉落_累计3个"
+  },
+  {
+    "id": 5007,
+    "editor_name": "A1_精灵首领_蹦蹦果多特_记忆碎片掉落_累计3个"
   },
   {
     "id": 6000,
@@ -574,6 +677,9 @@
     "editor_name": "环境-风灾加剧之前",
     "story_flag_action_type": 6,
     "action_string_param": "Plot_A1_Thunderclouds_Before_Persistent",
+    "action_int_param": [
+      10003
+    ],
     "apply_to_visitor": true
   },
   {
@@ -581,6 +687,9 @@
     "editor_name": "环境-风灾加剧之后",
     "story_flag_action_type": 6,
     "action_string_param": "Plot_A1_Thunderclouds_After_Persistent",
+    "action_int_param": [
+      10003
+    ],
     "apply_to_visitor": true
   },
   {
@@ -709,6 +818,9 @@
     "editor_name": "旅途-序章-加载/卸载轻风山飞艇用",
     "story_flag_action_type": 6,
     "action_string_param": "Plot_A1_01_JQ01_DerelictAirship",
+    "action_int_param": [
+      10003
+    ],
     "apply_to_visitor": true,
     "unreachable_range": [
       103,
@@ -716,7 +828,7 @@
       628360,
       6373
     ],
-    "range_data": 3000
+    "range_data": "3000"
   },
   {
     "id": 7067,
@@ -847,7 +959,10 @@
     "id": 7303,
     "editor_name": "TQ06-开启教室场景加载",
     "story_flag_action_type": 6,
-    "action_string_param": "Plot_A1_01_TQ06_Beat18"
+    "action_string_param": "Plot_A1_01_TQ06_Beat18",
+    "action_int_param": [
+      10003
+    ]
   },
   {
     "id": 7304,
@@ -878,30 +993,38 @@
   },
   {
     "id": 8000,
-    "editor_name": "固定出生点月亮表现用flag",
-    "story_flag_action_type": 2,
+    "editor_name": "固定出生点月亮表现用flag(无引用疑似废弃)",
     "action_string_param": "Born_fog",
+    "action_int_param": [
+      10003
+    ],
     "apply_to_visitor": true
   },
   {
     "id": 8001,
-    "editor_name": "关闭出生点月亮表现用flag",
-    "story_flag_action_type": 2,
+    "editor_name": "关闭出生点月亮表现用flag(无引用疑似废弃)",
     "action_string_param": "Test",
+    "action_int_param": [
+      10003
+    ],
     "apply_to_visitor": true
   },
   {
     "id": 8002,
-    "editor_name": "C1P21-风息山口-下降雾气",
-    "story_flag_action_type": 1,
+    "editor_name": "C1P21-风息山口-下降雾气(无引用疑似废弃)",
     "action_string_param": "Story_FXSK",
+    "action_int_param": [
+      10003
+    ],
     "apply_to_visitor": true
   },
   {
     "id": 8003,
-    "editor_name": "C1P21-梦兽之森-持续夜晚",
-    "story_flag_action_type": 1,
+    "editor_name": "C1P21-梦兽之森-持续夜晚(无引用疑似废弃)",
     "action_string_param": "Story_YSZS",
+    "action_int_param": [
+      10003
+    ],
     "apply_to_visitor": true
   },
   {
@@ -917,9 +1040,11 @@
   },
   {
     "id": 8006,
-    "editor_name": "7天轻测-进山段-范围夜晚",
-    "story_flag_action_type": 1,
+    "editor_name": "7天轻测-进山段-范围夜晚(无引用疑似废弃)",
     "action_string_param": "TASK_YeMuJL",
+    "action_int_param": [
+      10003
+    ],
     "apply_to_visitor": true
   },
   {
@@ -1027,6 +1152,9 @@
     "editor_name": "TQ10可可果广场变更",
     "story_flag_action_type": 6,
     "action_string_param": "Plot_A1_01_TQ10",
+    "action_int_param": [
+      10003
+    ],
     "apply_to_visitor": true
   },
   {
@@ -1554,6 +1682,14 @@
     "editor_name": "魔法手册pvp页签"
   },
   {
+    "id": 9918,
+    "editor_name": "S1赛季大厅传送"
+  },
+  {
+    "id": 9919,
+    "editor_name": "S2赛季大厅传送"
+  },
+  {
     "id": 9920,
     "editor_name": "许愿星系统-获得星光-解锁专用flag"
   },
@@ -1621,6 +1757,14 @@
     "apply_to_visitor": true
   },
   {
+    "id": 9933,
+    "editor_name": "地区选择页里的S1图鉴入口-捕获S1任意赛季精灵"
+  },
+  {
+    "id": 9934,
+    "editor_name": "地区选择页里的S2图鉴入口-捕获S2任意赛季精灵"
+  },
+  {
     "id": 9950,
     "editor_name": "S1赛季入口开启"
   },
@@ -1658,7 +1802,7 @@
   },
   {
     "id": 9989,
-    "editor_name": "闪耀大赛入口flag"
+    "editor_name": "赛季通行证入口flag"
   },
   {
     "id": 9990,
@@ -1682,9 +1826,11 @@
   },
   {
     "id": 9995,
-    "editor_name": "空气墙-清风山开启专用flag",
-    "story_flag_action_type": 1,
-    "action_string_param": "AirWall_Task"
+    "editor_name": "空气墙-清风山开启专用flag(无引用疑似废弃)",
+    "action_string_param": "AirWall_Task",
+    "action_int_param": [
+      10003
+    ]
   },
   {
     "id": 9996,
@@ -1732,6 +1878,9 @@
     "editor_name": "家园-未开启",
     "story_flag_action_type": 6,
     "action_string_param": "Plot_Homeworld_DerelictHouse",
+    "action_int_param": [
+      10003
+    ],
     "apply_to_visitor": true
   },
   {
@@ -1739,6 +1888,9 @@
     "editor_name": "家园-一级房屋",
     "story_flag_action_type": 6,
     "action_string_param": "Plot_Homeworld_House_01",
+    "action_int_param": [
+      10003
+    ],
     "apply_to_visitor": true
   },
   {
@@ -1746,6 +1898,9 @@
     "editor_name": "家园-二级房屋",
     "story_flag_action_type": 6,
     "action_string_param": "Plot_Homeworld_House_02",
+    "action_int_param": [
+      10003
+    ],
     "apply_to_visitor": true
   },
   {
@@ -1753,6 +1908,9 @@
     "editor_name": "家园-三级房屋",
     "story_flag_action_type": 6,
     "action_string_param": "Plot_Homeworld_House_03",
+    "action_int_param": [
+      10003
+    ],
     "apply_to_visitor": true
   },
   {
@@ -1760,6 +1918,9 @@
     "editor_name": "家园-四级房屋",
     "story_flag_action_type": 6,
     "action_string_param": "Plot_Homeworld_House_04",
+    "action_int_param": [
+      10003
+    ],
     "apply_to_visitor": true
   },
   {
@@ -1767,6 +1928,9 @@
     "editor_name": "家园-五级房屋",
     "story_flag_action_type": 6,
     "action_string_param": "Plot_Homeworld_House_05",
+    "action_int_param": [
+      10003
+    ],
     "apply_to_visitor": true
   },
   {
@@ -1843,6 +2007,15 @@
     "apply_to_visitor": true
   },
   {
+    "id": 13010,
+    "editor_name": "关闭互见区——新增-野外-采邑地1",
+    "story_flag_action_type": 7,
+    "action_int_param": [
+      601030834
+    ],
+    "apply_to_visitor": true
+  },
+  {
     "id": 14001,
     "editor_name": "系统=三测许愿星商店地图图标与传送开启专用flag"
   },
@@ -1875,6 +2048,18 @@
     "editor_name": "精灵认证活动option开启专用flag"
   },
   {
+    "id": 100021,
+    "editor_name": "角色变身为可丽希亚"
+  },
+  {
+    "id": 100022,
+    "editor_name": "角色变身为菲尔特"
+  },
+  {
+    "id": 100023,
+    "editor_name": "角色变身为迪莫"
+  },
+  {
     "id": 6028001,
     "editor_name": "魔力之源任务 - 未完成"
   },
@@ -1890,6 +2075,42 @@
     "id": 54000001,
     "editor_name": "远行商人需达到一星后解锁",
     "apply_to_visitor": true
+  },
+  {
+    "id": 55000001,
+    "editor_name": "声波缇塔开灯",
+    "story_flag_action_type": 8,
+    "action_string_param": "Season_S2Dungeon_Poison_LMP_on_Lights",
+    "action_int_param": [
+      100009
+    ]
+  },
+  {
+    "id": 55000002,
+    "editor_name": "声波缇塔关灯",
+    "story_flag_action_type": 8,
+    "action_string_param": "Season_S2Dungeon_Poison_LMP_off_Lights",
+    "action_int_param": [
+      100009
+    ]
+  },
+  {
+    "id": 55000003,
+    "editor_name": "声波缇塔开灯(正确)",
+    "story_flag_action_type": 8,
+    "action_string_param": "Season_S2_Dungeon_Poison_LMP_on_Lights",
+    "action_int_param": [
+      100009
+    ]
+  },
+  {
+    "id": 55000004,
+    "editor_name": "声波缇塔关灯（正确）",
+    "story_flag_action_type": 8,
+    "action_string_param": "Season_S2_Dungeon_Poison_LMP_off_Lights",
+    "action_int_param": [
+      100009
+    ]
   },
   {
     "id": 60280281,

@@ -29,7 +29,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A1_04"
+    "actor_name": "BP_NPCOwl_A1_04",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004036,
@@ -61,7 +64,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_99"
+    "actor_name": "BP_NPCOwl_99",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004037,
@@ -91,7 +97,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal"
+    "actor_name": "BP_NPCPortal",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004043,
@@ -123,7 +132,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue05_c22"
+    "actor_name": "SM_StlmtProp_Statue05_c22",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004044,
@@ -155,7 +167,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue05_c23"
+    "actor_name": "SM_StlmtProp_Statue05_c23",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004051,
@@ -187,7 +202,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_a15"
+    "actor_name": "SM_StlmtProp_Statue04_a15",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004065,
@@ -217,7 +235,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_b12"
+    "actor_name": "SM_StlmtProp_Statue04_b12",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004068,
@@ -249,7 +270,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_b14"
+    "actor_name": "SM_StlmtProp_Statue04_b14",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004069,
@@ -281,7 +305,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_c4"
+    "actor_name": "SM_StlmtProp_Statue04_c4",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004079,
@@ -313,7 +340,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_f24"
+    "actor_name": "SM_StlmtProp_Statue04_f24",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004082,
@@ -345,7 +375,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_f27"
+    "actor_name": "SM_StlmtProp_Statue04_f27",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004085,
@@ -377,7 +410,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_c8"
+    "actor_name": "SM_StlmtProp_Statue04_c8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004090,
@@ -409,7 +445,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_002"
+    "actor_name": "BP_NPCOwl_002",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004094,
@@ -441,7 +480,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_11"
+    "actor_name": "BP_NPCOwl_11",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004097,
@@ -473,7 +515,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_13"
+    "actor_name": "BP_NPCOwl_13",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004099,
@@ -505,7 +550,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_6"
+    "actor_name": "BP_NPCOwl_6",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004102,
@@ -537,7 +585,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_16"
+    "actor_name": "BP_NPCOwl_16",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004103,
@@ -569,7 +620,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_b16"
+    "actor_name": "SM_StlmtProp_Statue04_b16",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004109,
@@ -601,7 +655,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_b22"
+    "actor_name": "SM_StlmtProp_Statue04_b22",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004111,
@@ -633,7 +690,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_b24"
+    "actor_name": "SM_StlmtProp_Statue04_b24",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004113,
@@ -665,7 +725,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue05_c29"
+    "actor_name": "SM_StlmtProp_Statue05_c29",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004116,
@@ -697,7 +760,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_g32"
+    "actor_name": "SM_StlmtProp_Statue04_g32",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004120,
@@ -729,7 +795,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_g31"
+    "actor_name": "SM_StlmtProp_Statue04_g31",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004128,
@@ -761,7 +830,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_a33"
+    "actor_name": "SM_StlmtProp_Statue04_a33",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004131,
@@ -793,7 +865,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_a36"
+    "actor_name": "SM_StlmtProp_Statue04_a36",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004132,
@@ -825,7 +900,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_a39"
+    "actor_name": "SM_StlmtProp_Statue04_a39",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004146,
@@ -857,7 +935,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_f28"
+    "actor_name": "SM_StlmtProp_Statue04_f28",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004147,
@@ -889,7 +970,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_f29"
+    "actor_name": "SM_StlmtProp_Statue04_f29",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004148,
@@ -921,7 +1005,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_f30"
+    "actor_name": "SM_StlmtProp_Statue04_f30",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004149,
@@ -953,7 +1040,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_f31"
+    "actor_name": "SM_StlmtProp_Statue04_f31",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004157,
@@ -985,7 +1075,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_2"
+    "actor_name": "BP_NPCOwl_2",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004158,
@@ -1017,7 +1110,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_23"
+    "actor_name": "BP_NPCOwl_23",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004162,
@@ -1049,7 +1145,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_26"
+    "actor_name": "BP_NPCOwl_26",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004164,
@@ -1081,7 +1180,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_28"
+    "actor_name": "BP_NPCOwl_28",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004173,
@@ -1113,7 +1215,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_38"
+    "actor_name": "BP_NPCOwl_38",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004176,
@@ -1145,7 +1250,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_41"
+    "actor_name": "BP_NPCOwl_41",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004179,
@@ -1177,7 +1285,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_44"
+    "actor_name": "BP_NPCOwl_44",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004183,
@@ -1209,7 +1320,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_48"
+    "actor_name": "BP_NPCOwl_48",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004184,
@@ -1241,7 +1355,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue05_c32"
+    "actor_name": "SM_StlmtProp_Statue05_c32",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004186,
@@ -1273,7 +1390,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_f33"
+    "actor_name": "SM_StlmtProp_Statue04_f33",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004189,
@@ -1305,7 +1425,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_50"
+    "actor_name": "BP_NPCOwl_50",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004203,
@@ -1337,7 +1460,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_c"
+    "actor_name": "SM_StlmtProp_Statue04_c",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004210,
@@ -1369,7 +1495,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_b2"
+    "actor_name": "SM_StlmtProp_Statue04_b2",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004213,
@@ -1401,7 +1530,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue05_c7"
+    "actor_name": "SM_StlmtProp_Statue05_c7",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004230,
@@ -1433,7 +1565,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_g14"
+    "actor_name": "SM_StlmtProp_Statue04_g14",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004231,
@@ -1465,7 +1600,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_e9"
+    "actor_name": "SM_StlmtProp_Statue04_e9",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004236,
@@ -1497,7 +1635,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_g20"
+    "actor_name": "SM_StlmtProp_Statue04_g20",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004237,
@@ -1529,7 +1670,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_b11"
+    "actor_name": "SM_StlmtProp_Statue04_b11",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004240,
@@ -1561,7 +1705,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue05_c10"
+    "actor_name": "SM_StlmtProp_Statue05_c10",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004243,
@@ -1593,7 +1740,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_b8"
+    "actor_name": "SM_StlmtProp_Statue04_b8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004244,
@@ -1625,7 +1775,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_b10"
+    "actor_name": "SM_StlmtProp_Statue04_b10",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004250,
@@ -1657,7 +1810,10 @@
       80,
       80
     ],
-    "actor_name": "SM_StlmtProp_Statue06_a4"
+    "actor_name": "SM_StlmtProp_Statue06_a4",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004253,
@@ -1689,7 +1845,10 @@
       80,
       80
     ],
-    "actor_name": "SM_StlmtProp_Statue06_a3"
+    "actor_name": "SM_StlmtProp_Statue06_a3",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004266,
@@ -1721,7 +1880,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_g17"
+    "actor_name": "SM_StlmtProp_Statue04_g17",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004273,
@@ -1753,7 +1915,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_e10"
+    "actor_name": "SM_StlmtProp_Statue04_e10",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004276,
@@ -1785,7 +1950,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_b7"
+    "actor_name": "SM_StlmtProp_Statue04_b7",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004281,
@@ -1817,7 +1985,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_a37"
+    "actor_name": "SM_StlmtProp_Statue04_a37",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004283,
@@ -1849,7 +2020,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue05_c34"
+    "actor_name": "SM_StlmtProp_Statue05_c34",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004296,
@@ -1881,7 +2055,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal6"
+    "actor_name": "BP_NPCPortal6",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004297,
@@ -1911,7 +2088,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal7"
+    "actor_name": "BP_NPCPortal7",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004299,
@@ -1943,7 +2123,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal9"
+    "actor_name": "BP_NPCPortal9",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004300,
@@ -1975,7 +2158,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal10"
+    "actor_name": "BP_NPCPortal10",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004301,
@@ -2007,7 +2193,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal11"
+    "actor_name": "BP_NPCPortal11",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004303,
@@ -2037,7 +2226,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal13"
+    "actor_name": "BP_NPCPortal13",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004304,
@@ -2069,7 +2261,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal14"
+    "actor_name": "BP_NPCPortal14",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004305,
@@ -2099,7 +2294,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal15"
+    "actor_name": "BP_NPCPortal15",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004306,
@@ -2131,7 +2329,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal16"
+    "actor_name": "BP_NPCPortal16",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004307,
@@ -2161,7 +2362,10 @@
       144,
       144
     ],
-    "actor_name": "BP_NPCPortal20"
+    "actor_name": "BP_NPCPortal20",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004333,
@@ -2193,7 +2397,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A1_02"
+    "actor_name": "BP_NPCOwl_A1_02",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004334,
@@ -2225,7 +2432,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A1_05"
+    "actor_name": "BP_NPCOwl_A1_05",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004336,
@@ -2257,7 +2467,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A1_07"
+    "actor_name": "BP_NPCOwl_A1_07",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004337,
@@ -2289,7 +2502,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A1_08"
+    "actor_name": "BP_NPCOwl_A1_08",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004339,
@@ -2321,7 +2537,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A1_10"
+    "actor_name": "BP_NPCOwl_A1_10",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004341,
@@ -2351,7 +2570,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A1_15"
+    "actor_name": "BP_NPCOwl_A1_15",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004352,
@@ -2383,7 +2605,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_g7"
+    "actor_name": "SM_StlmtProp_Statue04_g7",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004365,
@@ -2415,7 +2640,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A1_01"
+    "actor_name": "BP_NPCOwl_A1_01",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004367,
@@ -2445,7 +2673,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A1_21"
+    "actor_name": "BP_NPCOwl_A1_21",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004384,
@@ -2477,7 +2708,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_d"
+    "actor_name": "SM_StlmtProp_Statue04_d",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004389,
@@ -2509,7 +2743,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_e4"
+    "actor_name": "SM_StlmtProp_Statue04_e4",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004392,
@@ -2541,7 +2778,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_a52"
+    "actor_name": "SM_StlmtProp_Statue04_a52",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004400,
@@ -2573,7 +2813,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_60"
+    "actor_name": "BP_NPCOwl_60",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004403,
@@ -2605,7 +2848,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_65"
+    "actor_name": "BP_NPCOwl_65",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004407,
@@ -2637,7 +2883,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_69"
+    "actor_name": "BP_NPCOwl_69",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004409,
@@ -2669,7 +2918,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_71"
+    "actor_name": "BP_NPCOwl_71",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004415,
@@ -2701,7 +2953,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_77"
+    "actor_name": "BP_NPCOwl_77",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004417,
@@ -2733,7 +2988,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A1_03"
+    "actor_name": "BP_NPCOwl_A1_03",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004421,
@@ -2765,7 +3023,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A1_30"
+    "actor_name": "BP_NPCOwl_A1_30",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004422,
@@ -2795,7 +3056,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A1_32"
+    "actor_name": "BP_NPCOwl_A1_32",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004431,
@@ -2827,7 +3091,10 @@
       64,
       64
     ],
-    "actor_name": "SM_StlmtProp_Statue06_b"
+    "actor_name": "SM_StlmtProp_Statue06_b",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004443,
@@ -2857,7 +3124,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal2"
+    "actor_name": "BP_NPCPortal2",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004444,
@@ -2887,7 +3157,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal3"
+    "actor_name": "BP_NPCPortal3",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004455,
@@ -2919,7 +3192,10 @@
       80,
       80
     ],
-    "actor_name": "BP_NPCOwl_67"
+    "actor_name": "BP_NPCOwl_67",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004457,
@@ -2951,7 +3227,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_003"
+    "actor_name": "BP_NPCOwl_003",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004458,
@@ -2983,7 +3262,10 @@
       80,
       80
     ],
-    "actor_name": "BP_NPCOwl_18"
+    "actor_name": "BP_NPCOwl_18",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004459,
@@ -3015,7 +3297,10 @@
       80,
       80
     ],
-    "actor_name": "BP_NPCOwl_010"
+    "actor_name": "BP_NPCOwl_010",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004460,
@@ -3047,7 +3332,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_19"
+    "actor_name": "BP_NPCOwl_19",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004462,
@@ -3079,7 +3367,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_53"
+    "actor_name": "BP_NPCOwl_53",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004463,
@@ -3111,7 +3402,10 @@
       80,
       80
     ],
-    "actor_name": "BP_NPCOwl_68"
+    "actor_name": "BP_NPCOwl_68",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004466,
@@ -3143,7 +3437,10 @@
       80,
       80
     ],
-    "actor_name": "BP_NPCOwl_33"
+    "actor_name": "BP_NPCOwl_33",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004468,
@@ -3175,7 +3472,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_34"
+    "actor_name": "BP_NPCOwl_34",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004469,
@@ -3207,7 +3507,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_15"
+    "actor_name": "BP_NPCOwl_15",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004470,
@@ -3239,7 +3542,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_35"
+    "actor_name": "BP_NPCOwl_35",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004472,
@@ -3271,7 +3577,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_40"
+    "actor_name": "BP_NPCOwl_40",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004473,
@@ -3303,7 +3612,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue05_c17"
+    "actor_name": "SM_StlmtProp_Statue05_c17",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004474,
@@ -3335,7 +3647,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_f8"
+    "actor_name": "SM_StlmtProp_Statue04_f8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004475,
@@ -3367,7 +3682,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_39"
+    "actor_name": "BP_NPCOwl_39",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004476,
@@ -3399,7 +3717,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_f17"
+    "actor_name": "SM_StlmtProp_Statue04_f17",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004477,
@@ -3431,7 +3752,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue05_c11"
+    "actor_name": "SM_StlmtProp_Statue05_c11",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004478,
@@ -3463,7 +3787,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_63"
+    "actor_name": "BP_NPCOwl_63",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004480,
@@ -3495,7 +3822,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_17"
+    "actor_name": "BP_NPCOwl_17",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004481,
@@ -3527,7 +3857,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_51"
+    "actor_name": "BP_NPCOwl_51",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004482,
@@ -3559,7 +3892,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_31"
+    "actor_name": "BP_NPCOwl_31",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004483,
@@ -3591,7 +3927,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_43"
+    "actor_name": "BP_NPCOwl_43",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004484,
@@ -3623,7 +3962,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_49"
+    "actor_name": "BP_NPCOwl_49",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004486,
@@ -3655,7 +3997,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue05_c12"
+    "actor_name": "SM_StlmtProp_Statue05_c12",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004487,
@@ -3687,7 +4032,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_b20"
+    "actor_name": "SM_StlmtProp_Statue04_b20",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004488,
@@ -3719,7 +4067,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_3"
+    "actor_name": "BP_NPCOwl_3",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004489,
@@ -3751,7 +4102,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_4"
+    "actor_name": "BP_NPCOwl_4",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004490,
@@ -3783,7 +4137,10 @@
       250,
       250
     ],
-    "actor_name": "BP_NPCWater_Outdoor"
+    "actor_name": "BP_NPCWater_Outdoor",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004491,
@@ -3813,7 +4170,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_c5"
+    "actor_name": "SM_StlmtProp_Statue04_c5",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004495,
@@ -3845,7 +4205,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal4"
+    "actor_name": "BP_NPCPortal4",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004526,
@@ -3877,7 +4240,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A1_06"
+    "actor_name": "BP_NPCOwl_A1_06",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004591,
@@ -3909,7 +4275,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_b12"
+    "actor_name": "SM_StlmtProp_Statue04_b12",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108004592,
@@ -3941,7 +4310,10 @@
       100,
       100
     ],
-    "actor_name": "SM_StlmtProp_Statue04_c5"
+    "actor_name": "SM_StlmtProp_Statue04_c5",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005009,
@@ -3973,7 +4345,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_10"
+    "actor_name": "BP_NPCOwl_10",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005010,
@@ -4005,7 +4380,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_20"
+    "actor_name": "BP_NPCOwl_20",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005011,
@@ -4037,7 +4415,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_21"
+    "actor_name": "BP_NPCOwl_21",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005012,
@@ -4069,7 +4450,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_22"
+    "actor_name": "BP_NPCOwl_22",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005013,
@@ -4101,7 +4485,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_24"
+    "actor_name": "BP_NPCOwl_24",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005070,
@@ -4131,7 +4518,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal37"
+    "actor_name": "BP_NPCPortal37",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005071,
@@ -4161,7 +4551,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal20"
+    "actor_name": "BP_NPCPortal20",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005072,
@@ -4191,7 +4584,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal18"
+    "actor_name": "BP_NPCPortal18",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005073,
@@ -4223,7 +4619,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal23"
+    "actor_name": "BP_NPCPortal23",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005074,
@@ -4253,7 +4652,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal21"
+    "actor_name": "BP_NPCPortal21",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005075,
@@ -4283,7 +4685,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal38"
+    "actor_name": "BP_NPCPortal38",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005076,
@@ -4313,7 +4718,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal30"
+    "actor_name": "BP_NPCPortal30",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005077,
@@ -4343,7 +4751,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal31"
+    "actor_name": "BP_NPCPortal31",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005078,
@@ -4373,7 +4784,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal32"
+    "actor_name": "BP_NPCPortal32",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005079,
@@ -4405,7 +4819,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal33"
+    "actor_name": "BP_NPCPortal33",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005080,
@@ -4437,7 +4854,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal34"
+    "actor_name": "BP_NPCPortal34",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005081,
@@ -4469,7 +4889,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal35"
+    "actor_name": "BP_NPCPortal35",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005082,
@@ -4499,7 +4922,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal36"
+    "actor_name": "BP_NPCPortal36",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005083,
@@ -4529,7 +4955,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal20"
+    "actor_name": "BP_NPCPortal20",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005084,
@@ -4561,7 +4990,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal24"
+    "actor_name": "BP_NPCPortal24",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005085,
@@ -4593,7 +5025,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal25"
+    "actor_name": "BP_NPCPortal25",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005086,
@@ -4625,7 +5060,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal26"
+    "actor_name": "BP_NPCPortal26",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005087,
@@ -4657,7 +5095,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal27"
+    "actor_name": "BP_NPCPortal27",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005088,
@@ -4687,7 +5128,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal28"
+    "actor_name": "BP_NPCPortal28",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005089,
@@ -4717,7 +5161,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal29"
+    "actor_name": "BP_NPCPortal29",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005104,
@@ -4747,7 +5194,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal5"
+    "actor_name": "BP_NPCPortal5",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005105,
@@ -4777,7 +5227,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal8"
+    "actor_name": "BP_NPCPortal8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005106,
@@ -4807,7 +5260,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwlBase"
+    "actor_name": "BP_NPCOwlBase",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005107,
@@ -4837,7 +5293,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_8"
+    "actor_name": "BP_NPCOwl_8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005108,
@@ -4867,7 +5326,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_007"
+    "actor_name": "BP_NPCOwl_007",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005109,
@@ -4897,7 +5359,10 @@
       122,
       122
     ],
-    "actor_name": "BP_NPCOwl_9"
+    "actor_name": "BP_NPCOwl_9",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005110,
@@ -4927,7 +5392,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_005"
+    "actor_name": "BP_NPCOwl_005",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005111,
@@ -4957,7 +5425,10 @@
       60,
       60
     ],
-    "actor_name": "BP_NPCOwl_14"
+    "actor_name": "BP_NPCOwl_14",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005112,
@@ -4987,7 +5458,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_01"
+    "actor_name": "BP_NPCOwl_A2_01",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005113,
@@ -5019,7 +5493,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_02"
+    "actor_name": "BP_NPCOwl_A2_02",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005114,
@@ -5051,7 +5528,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_04"
+    "actor_name": "BP_NPCOwl_A2_04",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005115,
@@ -5083,7 +5563,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_03"
+    "actor_name": "BP_NPCOwl_A2_03",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005116,
@@ -5115,7 +5598,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_05"
+    "actor_name": "BP_NPCOwl_A2_05",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005117,
@@ -5145,7 +5631,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwlSanctuaryBase_A2"
+    "actor_name": "BP_NPCOwlSanctuaryBase_A2",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005118,
@@ -5175,7 +5664,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_07"
+    "actor_name": "BP_NPCOwl_A2_07",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005119,
@@ -5207,7 +5699,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_08"
+    "actor_name": "BP_NPCOwl_A2_08",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005120,
@@ -5237,7 +5732,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwlSanctuaryBase_A3"
+    "actor_name": "BP_NPCOwlSanctuaryBase_A3",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005121,
@@ -5269,7 +5767,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_10"
+    "actor_name": "BP_NPCOwl_A2_10",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005122,
@@ -5301,7 +5802,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_11"
+    "actor_name": "BP_NPCOwl_A2_11",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005123,
@@ -5333,7 +5837,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_12"
+    "actor_name": "BP_NPCOwl_A2_12",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005124,
@@ -5365,7 +5872,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_13"
+    "actor_name": "BP_NPCOwl_A2_13",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005125,
@@ -5397,7 +5907,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_14"
+    "actor_name": "BP_NPCOwl_A2_14",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005126,
@@ -5429,7 +5942,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_15"
+    "actor_name": "BP_NPCOwl_A2_15",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005127,
@@ -5461,7 +5977,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_16"
+    "actor_name": "BP_NPCOwl_A2_16",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005128,
@@ -5493,7 +6012,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_17"
+    "actor_name": "BP_NPCOwl_A2_17",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005129,
@@ -5525,7 +6047,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_18"
+    "actor_name": "BP_NPCOwl_A2_18",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005130,
@@ -5557,7 +6082,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_19"
+    "actor_name": "BP_NPCOwl_A2_19",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005131,
@@ -5587,7 +6115,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwlSanctuaryBase_A4"
+    "actor_name": "BP_NPCOwlSanctuaryBase_A4",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005132,
@@ -5617,7 +6148,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwlSanctuaryBase_A5"
+    "actor_name": "BP_NPCOwlSanctuaryBase_A5",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005133,
@@ -5647,7 +6181,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwlSanctuaryBase_A6"
+    "actor_name": "BP_NPCOwlSanctuaryBase_A6",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005134,
@@ -5679,7 +6216,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_23"
+    "actor_name": "BP_NPCOwl_A2_23",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005135,
@@ -5709,7 +6249,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_8"
+    "actor_name": "BP_NPCOwl_8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005136,
@@ -5739,7 +6282,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_007"
+    "actor_name": "BP_NPCOwl_007",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005137,
@@ -5769,7 +6315,10 @@
       122,
       122
     ],
-    "actor_name": "BP_NPCOwl_9"
+    "actor_name": "BP_NPCOwl_9",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005138,
@@ -5799,7 +6348,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_005"
+    "actor_name": "BP_NPCOwl_005",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005139,
@@ -5829,7 +6381,10 @@
       60,
       60
     ],
-    "actor_name": "BP_NPCOwl_14"
+    "actor_name": "BP_NPCOwl_14",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005140,
@@ -5861,7 +6416,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_09"
+    "actor_name": "BP_NPCOwl_A2_09",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005141,
@@ -5891,7 +6449,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_06"
+    "actor_name": "BP_NPCOwl_A2_06",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005142,
@@ -5923,7 +6484,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_20"
+    "actor_name": "BP_NPCOwl_A2_20",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005143,
@@ -5955,7 +6519,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_21"
+    "actor_name": "BP_NPCOwl_A2_21",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005144,
@@ -5987,7 +6554,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_22"
+    "actor_name": "BP_NPCOwl_A2_22",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005145,
@@ -6017,7 +6587,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal5"
+    "actor_name": "BP_NPCPortal5",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005146,
@@ -6047,7 +6620,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal8"
+    "actor_name": "BP_NPCPortal8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005147,
@@ -6077,7 +6653,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_8"
+    "actor_name": "BP_NPCOwl_8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005148,
@@ -6107,7 +6686,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_007"
+    "actor_name": "BP_NPCOwl_007",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005149,
@@ -6137,7 +6719,10 @@
       122,
       122
     ],
-    "actor_name": "BP_NPCOwl_9"
+    "actor_name": "BP_NPCOwl_9",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005150,
@@ -6167,7 +6752,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_005"
+    "actor_name": "BP_NPCOwl_005",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005151,
@@ -6197,7 +6785,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal5"
+    "actor_name": "BP_NPCPortal5",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005152,
@@ -6227,7 +6818,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal8"
+    "actor_name": "BP_NPCPortal8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005153,
@@ -6257,7 +6851,10 @@
       60,
       60
     ],
-    "actor_name": "BP_NPCOwl_14"
+    "actor_name": "BP_NPCOwl_14",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005154,
@@ -6287,7 +6884,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_8"
+    "actor_name": "BP_NPCOwl_8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005155,
@@ -6317,7 +6917,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_007"
+    "actor_name": "BP_NPCOwl_007",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005156,
@@ -6347,7 +6950,10 @@
       122,
       122
     ],
-    "actor_name": "BP_NPCOwl_9"
+    "actor_name": "BP_NPCOwl_9",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005157,
@@ -6377,7 +6983,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_005"
+    "actor_name": "BP_NPCOwl_005",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005158,
@@ -6407,7 +7016,10 @@
       60,
       60
     ],
-    "actor_name": "BP_NPCOwl_14"
+    "actor_name": "BP_NPCOwl_14",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005159,
@@ -6437,7 +7049,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal5"
+    "actor_name": "BP_NPCPortal5",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005160,
@@ -6467,7 +7082,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal8"
+    "actor_name": "BP_NPCPortal8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005161,
@@ -6497,7 +7115,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal32"
+    "actor_name": "BP_NPCPortal32",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005162,
@@ -6527,7 +7148,10 @@
       60,
       60
     ],
-    "actor_name": "BP_NPCOwl_14"
+    "actor_name": "BP_NPCOwl_14",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005163,
@@ -6557,7 +7181,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_8"
+    "actor_name": "BP_NPCOwl_8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005164,
@@ -6587,7 +7214,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_007"
+    "actor_name": "BP_NPCOwl_007",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005165,
@@ -6617,7 +7247,10 @@
       122,
       122
     ],
-    "actor_name": "BP_NPCOwl_9"
+    "actor_name": "BP_NPCOwl_9",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005166,
@@ -6647,7 +7280,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_005"
+    "actor_name": "BP_NPCOwl_005",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005167,
@@ -6677,7 +7313,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal5"
+    "actor_name": "BP_NPCPortal5",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005168,
@@ -6707,7 +7346,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal8"
+    "actor_name": "BP_NPCPortal8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005169,
@@ -6737,7 +7379,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal32"
+    "actor_name": "BP_NPCPortal32",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005170,
@@ -6767,7 +7412,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal5"
+    "actor_name": "BP_NPCPortal5",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005171,
@@ -6797,7 +7445,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal8"
+    "actor_name": "BP_NPCPortal8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005172,
@@ -6827,7 +7478,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_8"
+    "actor_name": "BP_NPCOwl_8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005173,
@@ -6857,7 +7511,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_007"
+    "actor_name": "BP_NPCOwl_007",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005174,
@@ -6887,7 +7544,10 @@
       122,
       122
     ],
-    "actor_name": "BP_NPCOwl_9"
+    "actor_name": "BP_NPCOwl_9",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005175,
@@ -6917,7 +7577,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_005"
+    "actor_name": "BP_NPCOwl_005",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005176,
@@ -6947,7 +7610,10 @@
       60,
       60
     ],
-    "actor_name": "BP_NPCOwl_14"
+    "actor_name": "BP_NPCOwl_14",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005177,
@@ -6977,7 +7643,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal32"
+    "actor_name": "BP_NPCPortal32",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005178,
@@ -7007,7 +7676,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal5"
+    "actor_name": "BP_NPCPortal5",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005179,
@@ -7037,7 +7709,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal8"
+    "actor_name": "BP_NPCPortal8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005180,
@@ -7067,7 +7742,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_8"
+    "actor_name": "BP_NPCOwl_8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005181,
@@ -7097,7 +7775,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_007"
+    "actor_name": "BP_NPCOwl_007",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005182,
@@ -7127,7 +7808,10 @@
       122,
       122
     ],
-    "actor_name": "BP_NPCOwl_9"
+    "actor_name": "BP_NPCOwl_9",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005183,
@@ -7157,7 +7841,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_005"
+    "actor_name": "BP_NPCOwl_005",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005184,
@@ -7187,7 +7874,10 @@
       60,
       60
     ],
-    "actor_name": "BP_NPCOwl_14"
+    "actor_name": "BP_NPCOwl_14",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005185,
@@ -7217,7 +7907,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal32"
+    "actor_name": "BP_NPCPortal32",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005186,
@@ -7247,7 +7940,10 @@
       60,
       60
     ],
-    "actor_name": "BP_NPCOwl_14"
+    "actor_name": "BP_NPCOwl_14",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005187,
@@ -7277,7 +7973,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal5"
+    "actor_name": "BP_NPCPortal5",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005188,
@@ -7307,7 +8006,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal8"
+    "actor_name": "BP_NPCPortal8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005189,
@@ -7337,7 +8039,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_8"
+    "actor_name": "BP_NPCOwl_8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005190,
@@ -7367,7 +8072,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_007"
+    "actor_name": "BP_NPCOwl_007",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005191,
@@ -7397,7 +8105,10 @@
       122,
       122
     ],
-    "actor_name": "BP_NPCOwl_9"
+    "actor_name": "BP_NPCOwl_9",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005192,
@@ -7427,7 +8138,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_005"
+    "actor_name": "BP_NPCOwl_005",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005193,
@@ -7457,7 +8171,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal32"
+    "actor_name": "BP_NPCPortal32",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005194,
@@ -7487,7 +8204,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_8"
+    "actor_name": "BP_NPCOwl_8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005195,
@@ -7517,7 +8237,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_007"
+    "actor_name": "BP_NPCOwl_007",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005196,
@@ -7547,7 +8270,10 @@
       122,
       122
     ],
-    "actor_name": "BP_NPCOwl_9"
+    "actor_name": "BP_NPCOwl_9",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005197,
@@ -7577,7 +8303,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_005"
+    "actor_name": "BP_NPCOwl_005",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005198,
@@ -7607,7 +8336,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal5"
+    "actor_name": "BP_NPCPortal5",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005199,
@@ -7637,7 +8369,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal8"
+    "actor_name": "BP_NPCPortal8",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005200,
@@ -7667,7 +8402,10 @@
       60,
       60
     ],
-    "actor_name": "BP_NPCOwl_14"
+    "actor_name": "BP_NPCOwl_14",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005201,
@@ -7697,7 +8435,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal37"
+    "actor_name": "BP_NPCPortal37",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005202,
@@ -7729,7 +8470,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal5"
+    "actor_name": "BP_NPCPortal5",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005203,
@@ -7761,7 +8505,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal12"
+    "actor_name": "BP_NPCPortal12",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005204,
@@ -7791,7 +8538,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal32"
+    "actor_name": "BP_NPCPortal32",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005205,
@@ -7823,7 +8573,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_01"
+    "actor_name": "BP_NPCOwl_A2_01",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005206,
@@ -7853,7 +8606,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal39"
+    "actor_name": "BP_NPCPortal39",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005207,
@@ -7885,7 +8641,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal22"
+    "actor_name": "BP_NPCPortal22",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005208,
@@ -7915,7 +8674,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal39"
+    "actor_name": "BP_NPCPortal39",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005209,
@@ -7945,7 +8707,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal21"
+    "actor_name": "BP_NPCPortal21",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005210,
@@ -7975,7 +8740,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal2_2"
+    "actor_name": "BP_NPCPortal2_2",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005211,
@@ -8005,7 +8773,10 @@
       106,
       106
     ],
-    "actor_name": "BP_NPCPortal37"
+    "actor_name": "BP_NPCPortal37",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005212,
@@ -8035,7 +8806,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal2"
+    "actor_name": "BP_NPCPortal2",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005213,
@@ -8065,7 +8839,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCWater_Outdoor2"
+    "actor_name": "BP_NPCWater_Outdoor2",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005214,
@@ -8095,7 +8872,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal20"
+    "actor_name": "BP_NPCPortal20",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005215,
@@ -8125,7 +8905,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal38"
+    "actor_name": "BP_NPCPortal38",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005216,
@@ -8155,7 +8938,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal20"
+    "actor_name": "BP_NPCPortal20",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005217,
@@ -8185,7 +8971,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal20"
+    "actor_name": "BP_NPCPortal20",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005218,
@@ -8215,7 +9004,10 @@
       111,
       111
     ],
-    "actor_name": "BP_NPCPortal39"
+    "actor_name": "BP_NPCPortal39",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005219,
@@ -8245,7 +9037,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal20"
+    "actor_name": "BP_NPCPortal20",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005220,
@@ -8275,7 +9070,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal20"
+    "actor_name": "BP_NPCPortal20",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005221,
@@ -8307,7 +9105,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_06"
+    "actor_name": "BP_NPCOwl_A2_06",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005222,
@@ -8339,7 +9140,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_24"
+    "actor_name": "BP_NPCOwl_A2_24",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005223,
@@ -8371,7 +9175,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_25"
+    "actor_name": "BP_NPCOwl_A2_25",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005224,
@@ -8401,7 +9208,10 @@
       111,
       111
     ],
-    "actor_name": "BP_NPCPortal39"
+    "actor_name": "BP_NPCPortal39",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005225,
@@ -8431,7 +9241,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal17"
+    "actor_name": "BP_NPCPortal17",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005226,
@@ -8461,7 +9274,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal19"
+    "actor_name": "BP_NPCPortal19",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005227,
@@ -8491,7 +9307,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal20"
+    "actor_name": "BP_NPCPortal20",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005228,
@@ -8521,7 +9340,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal20"
+    "actor_name": "BP_NPCPortal20",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005229,
@@ -8551,7 +9373,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal20"
+    "actor_name": "BP_NPCPortal20",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005230,
@@ -8581,7 +9406,10 @@
       114,
       94
     ],
-    "actor_name": "BP_NPCPortal39"
+    "actor_name": "BP_NPCPortal39",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005231,
@@ -8611,7 +9439,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCPortal20"
+    "actor_name": "BP_NPCPortal20",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005232,
@@ -8641,7 +9472,10 @@
       57,
       57
     ],
-    "actor_name": "BP_NPCPortal38"
+    "actor_name": "BP_NPCPortal38",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005233,
@@ -8673,7 +9507,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_A2_07"
+    "actor_name": "BP_NPCOwl_A2_07",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 108005234,
@@ -8705,7 +9542,10 @@
       0,
       0
     ],
-    "actor_name": "max"
+    "actor_name": "max",
+    "scene_res_conf_ids": [
+      10003
+    ]
   },
   {
     "id": 118489089,
@@ -8737,7 +9577,10 @@
       600,
       100
     ],
-    "actor_name": "BP_NPCWater"
+    "actor_name": "BP_NPCWater",
+    "scene_res_conf_ids": [
+      10013
+    ]
   },
   {
     "id": 118489090,
@@ -8769,7 +9612,66 @@
       0,
       0
     ],
-    "actor_name": "max"
+    "actor_name": "max",
+    "scene_res_conf_ids": [
+      10013
+    ]
+  },
+  {
+    "id": 212860928,
+    "editor_name": [
+      "203;0;0",
+      "0",
+      "max"
+    ],
+    "scene_cfg_id": 203,
+    "scene_res_conf_id": 20003,
+    "scene_export_id": 203,
+    "heightmap_xy": [
+      0,
+      0
+    ],
+    "position_xyz": [
+      0,
+      0,
+      0
+    ],
+    "rotation_xyz": [
+      0,
+      0,
+      0
+    ],
+    "scale_xyz": [
+      0,
+      0,
+      0
+    ],
+    "actor_name": "max",
+    "scene_res_conf_ids": [
+      20003,
+      20012,
+      20013,
+      20015,
+      20016,
+      20017,
+      20018,
+      20022,
+      20024,
+      20025,
+      20026,
+      20027,
+      20028,
+      20029,
+      20030,
+      20032,
+      20033,
+      20038,
+      20041,
+      20046,
+      20047,
+      20048,
+      20049
+    ]
   },
   {
     "id": 214958081,
@@ -8801,7 +9703,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCWater"
+    "actor_name": "BP_NPCWater",
+    "scene_res_conf_ids": [
+      20005
+    ]
   },
   {
     "id": 214958082,
@@ -8833,7 +9738,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCWater2"
+    "actor_name": "BP_NPCWater2",
+    "scene_res_conf_ids": [
+      20005
+    ]
   },
   {
     "id": 214958083,
@@ -8865,7 +9773,10 @@
       0,
       0
     ],
-    "actor_name": "max"
+    "actor_name": "max",
+    "scene_res_conf_ids": [
+      20005
+    ]
   },
   {
     "id": 220200961,
@@ -8897,7 +9808,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_001"
+    "actor_name": "BP_NPCOwl_001",
+    "scene_res_conf_ids": [
+      20010
+    ]
   },
   {
     "id": 220200962,
@@ -8929,7 +9843,10 @@
       0,
       0
     ],
-    "actor_name": "max"
+    "actor_name": "max",
+    "scene_res_conf_ids": [
+      20010
+    ]
   },
   {
     "id": 221249537,
@@ -8961,7 +9878,10 @@
       120,
       100
     ],
-    "actor_name": "BP_NPCWater"
+    "actor_name": "BP_NPCWater",
+    "scene_res_conf_ids": [
+      20011
+    ]
   },
   {
     "id": 221249538,
@@ -8993,7 +9913,10 @@
       0,
       0
     ],
-    "actor_name": "max"
+    "actor_name": "max",
+    "scene_res_conf_ids": [
+      20011
+    ]
   },
   {
     "id": 223346689,
@@ -9025,7 +9948,10 @@
       300,
       1200
     ],
-    "actor_name": "BP_NPCWater5"
+    "actor_name": "BP_NPCWater5",
+    "scene_res_conf_ids": [
+      20013
+    ]
   },
   {
     "id": 223346690,
@@ -9055,7 +9981,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCWater_Outdoor"
+    "actor_name": "BP_NPCWater_Outdoor",
+    "scene_res_conf_ids": [
+      20013
+    ]
   },
   {
     "id": 223346691,
@@ -9085,7 +10014,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCWater"
+    "actor_name": "BP_NPCWater",
+    "scene_res_conf_ids": [
+      20013
+    ]
   },
   {
     "id": 223346692,
@@ -9115,7 +10047,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCWater2"
+    "actor_name": "BP_NPCWater2",
+    "scene_res_conf_ids": [
+      20013
+    ]
   },
   {
     "id": 223346693,
@@ -9145,7 +10080,10 @@
       300,
       100
     ],
-    "actor_name": "BP_NPCWater"
+    "actor_name": "BP_NPCWater",
+    "scene_res_conf_ids": [
+      20013
+    ]
   },
   {
     "id": 223346694,
@@ -9177,7 +10115,10 @@
       600,
       1200
     ],
-    "actor_name": "BP_NPCWater"
+    "actor_name": "BP_NPCWater",
+    "scene_res_conf_ids": [
+      20013
+    ]
   },
   {
     "id": 223346695,
@@ -9209,7 +10150,10 @@
       400,
       1200
     ],
-    "actor_name": "BP_NPCWater2"
+    "actor_name": "BP_NPCWater2",
+    "scene_res_conf_ids": [
+      20013
+    ]
   },
   {
     "id": 223346696,
@@ -9241,7 +10185,10 @@
       400,
       1200
     ],
-    "actor_name": "BP_NPCWater3"
+    "actor_name": "BP_NPCWater3",
+    "scene_res_conf_ids": [
+      20013
+    ]
   },
   {
     "id": 223346697,
@@ -9273,7 +10220,10 @@
       0,
       0
     ],
-    "actor_name": "max"
+    "actor_name": "max",
+    "scene_res_conf_ids": [
+      20013
+    ]
   },
   {
     "id": 229638145,
@@ -9305,7 +10255,10 @@
       50,
       100
     ],
-    "actor_name": "BP_NPCWater3"
+    "actor_name": "BP_NPCWater3",
+    "scene_res_conf_ids": [
+      20019
+    ]
   },
   {
     "id": 229638146,
@@ -9337,7 +10290,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCWater2"
+    "actor_name": "BP_NPCWater2",
+    "scene_res_conf_ids": [
+      20019
+    ]
   },
   {
     "id": 229638147,
@@ -9369,7 +10325,10 @@
       0,
       0
     ],
-    "actor_name": "max"
+    "actor_name": "max",
+    "scene_res_conf_ids": [
+      20019
+    ]
   },
   {
     "id": 236978184,
@@ -9401,7 +10360,10 @@
       50,
       50
     ],
-    "actor_name": "BP_NPCWater2"
+    "actor_name": "BP_NPCWater2",
+    "scene_res_conf_ids": [
+      20026
+    ]
   },
   {
     "id": 236978185,
@@ -9433,7 +10395,10 @@
       80,
       80
     ],
-    "actor_name": "BP_NPCWater3"
+    "actor_name": "BP_NPCWater3",
+    "scene_res_conf_ids": [
+      20026
+    ]
   },
   {
     "id": 236978186,
@@ -9465,7 +10430,10 @@
       80,
       80
     ],
-    "actor_name": "BP_NPCWater4"
+    "actor_name": "BP_NPCWater4",
+    "scene_res_conf_ids": [
+      20026
+    ]
   },
   {
     "id": 236978187,
@@ -9497,7 +10465,10 @@
       50,
       50
     ],
-    "actor_name": "BP_NPCWater"
+    "actor_name": "BP_NPCWater",
+    "scene_res_conf_ids": [
+      20026
+    ]
   },
   {
     "id": 236978188,
@@ -9529,7 +10500,10 @@
       0,
       0
     ],
-    "actor_name": "max"
+    "actor_name": "max",
+    "scene_res_conf_ids": [
+      20026
+    ]
   },
   {
     "id": 238026753,
@@ -9561,7 +10535,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCWater2"
+    "actor_name": "BP_NPCWater2",
+    "scene_res_conf_ids": [
+      20027
+    ]
   },
   {
     "id": 238026754,
@@ -9593,7 +10570,10 @@
       200,
       200
     ],
-    "actor_name": "BP_NPCWater3"
+    "actor_name": "BP_NPCWater3",
+    "scene_res_conf_ids": [
+      20027
+    ]
   },
   {
     "id": 238026755,
@@ -9625,7 +10605,10 @@
       100,
       100
     ],
-    "actor_name": "BP_NPCOwl_0062"
+    "actor_name": "BP_NPCOwl_0062",
+    "scene_res_conf_ids": [
+      20027
+    ]
   },
   {
     "id": 238026756,
@@ -9657,7 +10640,10 @@
       0,
       0
     ],
-    "actor_name": "max"
+    "actor_name": "max",
+    "scene_res_conf_ids": [
+      20027
+    ]
   },
   {
     "id": 253755393,
@@ -9689,7 +10675,10 @@
       200,
       100
     ],
-    "actor_name": "BP_NPCWater"
+    "actor_name": "BP_NPCWater",
+    "scene_res_conf_ids": [
+      20042
+    ]
   },
   {
     "id": 253755394,
@@ -9721,7 +10710,10 @@
       40,
       40
     ],
-    "actor_name": "BP_NPCWater2"
+    "actor_name": "BP_NPCWater2",
+    "scene_res_conf_ids": [
+      20042
+    ]
   },
   {
     "id": 253755395,
@@ -9753,7 +10745,10 @@
       40,
       40
     ],
-    "actor_name": "BP_NPCWater3"
+    "actor_name": "BP_NPCWater3",
+    "scene_res_conf_ids": [
+      20042
+    ]
   },
   {
     "id": 253755396,
@@ -9785,6 +10780,79 @@
       0,
       0
     ],
-    "actor_name": "max"
+    "actor_name": "max",
+    "scene_res_conf_ids": [
+      20042
+    ]
+  },
+  {
+    "id": 2106589185,
+    "editor_name": [
+      "2009;-1;-1",
+      "1",
+      "BP_NPCWater_Poison"
+    ],
+    "scene_cfg_id": 509,
+    "scene_res_conf_id": 100009,
+    "scene_export_id": 2009,
+    "object_index": 1,
+    "heightmap_xy": [
+      -1,
+      -1
+    ],
+    "position_xyz": [
+      -241,
+      167,
+      310
+    ],
+    "rotation_xyz": [
+      0,
+      0,
+      0
+    ],
+    "scale_xyz": [
+      630,
+      630,
+      630
+    ],
+    "actor_name": "BP_NPCWater_Poison",
+    "scene_res_conf_ids": [
+      100009
+    ]
+  },
+  {
+    "id": 2106589186,
+    "editor_name": [
+      "2009;0;0",
+      "2",
+      "max"
+    ],
+    "scene_cfg_id": 509,
+    "scene_res_conf_id": 100009,
+    "scene_export_id": 2009,
+    "object_index": 2,
+    "heightmap_xy": [
+      0,
+      0
+    ],
+    "position_xyz": [
+      0,
+      0,
+      0
+    ],
+    "rotation_xyz": [
+      0,
+      0,
+      0
+    ],
+    "scale_xyz": [
+      0,
+      0,
+      0
+    ],
+    "actor_name": "max",
+    "scene_res_conf_ids": [
+      100009
+    ]
   }
 ]

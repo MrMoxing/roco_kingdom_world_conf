@@ -415,9 +415,6 @@
     ],
     "add_sub_status": 3,
     "remove_sub_status": 1,
-    "disable_env": [
-      4
-    ],
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.Magic.CreateAbilityHelper"
   },
   {
@@ -432,10 +429,7 @@
     "remove_status": [
       22
     ],
-    "remove_sub_status": 3,
-    "disable_env": [
-      4
-    ]
+    "remove_sub_status": 3
   },
   {
     "id": 1300090,
@@ -549,9 +543,6 @@
     ],
     "add_sub_status": 6,
     "remove_sub_status": 1,
-    "disable_env": [
-      4
-    ],
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.Magic.MessageAbilityHelper"
   },
   {
@@ -566,10 +557,7 @@
     "remove_status": [
       22
     ],
-    "remove_sub_status": 6,
-    "disable_env": [
-      4
-    ]
+    "remove_sub_status": 6
   },
   {
     "id": 1300122,
@@ -675,9 +663,6 @@
     ],
     "add_sub_status": 7,
     "remove_sub_status": 1,
-    "disable_env": [
-      4
-    ],
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.Magic.VideoAbilityHelper"
   },
   {
@@ -692,10 +677,7 @@
     "remove_status": [
       22
     ],
-    "remove_sub_status": 7,
-    "disable_env": [
-      4
-    ]
+    "remove_sub_status": 7
   },
   {
     "id": 1300131,

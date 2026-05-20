@@ -13,6 +13,16 @@
     "exchange_mail_id": 6000002
   },
   {
+    "id": 1003,
+    "exchange_time": "2026-07-16 04:00:01",
+    "need_exchange_goods_type": 1,
+    "need_exchange_goods_id": 320038,
+    "exchange_goods_type": 2,
+    "exchange_goods_id": 1,
+    "exchange_rate": 1000,
+    "exchange_mail_id": 200004
+  },
+  {
     "id": 1004,
     "exchange_time": "2026-05-21 04:00:01",
     "need_exchange_goods_type": 1,
@@ -21,5 +31,55 @@
     "exchange_goods_id": 1,
     "exchange_rate": 80000,
     "exchange_mail_id": 6000001
+  },
+  {
+    "id": 1005,
+    "exchange_time": "2026-07-10 04:00:01",
+    "need_exchange_goods_type": 2,
+    "need_exchange_goods_id": 51,
+    "exchange_goods_type": 2,
+    "exchange_goods_id": 1,
+    "exchange_rate": 1600,
+    "exchange_mail_id": 200005
+  },
+  {
+    "id": 1006,
+    "exchange_time": "2026-06-12 04:00:01",
+    "need_exchange_goods_type": 1,
+    "need_exchange_goods_id": 320037,
+    "exchange_goods_type": 2,
+    "exchange_goods_id": 1,
+    "exchange_rate": 1000,
+    "exchange_mail_id": 80077
+  },
+  {
+    "id": 1007,
+    "exchange_time": "2026-07-16 04:00:01",
+    "need_exchange_goods_type": 2,
+    "need_exchange_goods_id": 74,
+    "exchange_goods_type": 2,
+    "exchange_goods_id": 1,
+    "exchange_rate": 4000,
+    "exchange_mail_id": 6000004
+  },
+  {
+    "id": 1008,
+    "exchange_time": "2026-07-16 04:00:01",
+    "need_exchange_goods_type": 1,
+    "need_exchange_goods_id": 280005,
+    "exchange_goods_type": 2,
+    "exchange_goods_id": 1,
+    "exchange_rate": 80000,
+    "exchange_mail_id": 6000003
+  },
+  {
+    "id": 1009,
+    "exchange_time": "2026-07-16 04:00:01",
+    "need_exchange_goods_type": 1,
+    "need_exchange_goods_id": 320020,
+    "exchange_goods_type": 2,
+    "exchange_goods_id": 1,
+    "exchange_rate": 1000,
+    "exchange_mail_id": 80080
   }
 ]

@@ -12,6 +12,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 90,
     "capsule_radius": 63,
@@ -37,6 +40,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 95,
     "capsule_half_height": 95,
     "capsule_radius": 60,
@@ -59,6 +65,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 85,
     "capsule_half_height": 114,
@@ -85,6 +94,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 90,
@@ -205,6 +217,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 85,
     "capsule_half_height": 101,
     "capsule_radius": 65,
@@ -215,7 +230,7 @@
     "ride_throw_camera_offset_y": 35,
     "ride_throw_camera_offset_z": -50,
     "ride_foot_num": 3,
-    "selfie_takephoto_params": "0;27;0;124;68;0;136"
+    "selfie_takephoto_params": "0;27;0;175;68;0;136"
   },
   {
     "id": 3010,
@@ -354,6 +369,9 @@
     "active_skill_list": [
       90001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 108,
     "capsule_radius": 80,
@@ -439,6 +457,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 75,
     "capsule_half_height": 150,
     "capsule_radius": 50,
@@ -521,6 +542,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 70,
     "capsule_half_height": 122,
@@ -634,6 +658,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 100,
     "capsule_half_height": 86,
     "capsule_radius": 64,
@@ -655,6 +682,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 80,
     "capsule_half_height": 110,
@@ -734,6 +764,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 65,
     "capsule_half_height": 131,
     "capsule_radius": 60,
@@ -759,6 +792,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 63,
     "capsule_half_height": 135,
@@ -815,6 +851,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 95,
     "capsule_half_height": 92,
     "capsule_radius": 68,
@@ -838,6 +877,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 102,
     "capsule_half_height": 80,
     "capsule_radius": 70,
@@ -859,6 +901,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 81,
     "capsule_half_height": 110,
@@ -886,6 +931,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 100,
     "capsule_half_height": 87,
@@ -1020,6 +1068,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 74,
     "capsule_half_height": 116,
     "capsule_radius": 69,
@@ -1104,6 +1155,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 70,
     "capsule_half_height": 122,
     "capsule_radius": 70,
@@ -1151,6 +1205,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 72,
@@ -1237,6 +1294,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 108,
     "capsule_half_height": 95,
     "capsule_radius": 50,
@@ -1263,6 +1323,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 95,
     "capsule_half_height": 90,
@@ -1314,6 +1377,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 108,
     "capsule_half_height": 100,
     "capsule_radius": 50,
@@ -1338,6 +1404,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100
   },
@@ -1401,6 +1470,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 75,
     "capsule_half_height": 120,
     "capsule_radius": 60,
@@ -1408,7 +1480,7 @@
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
     "ride_foot_num": 3,
-    "selfie_takephoto_params": "0;27;0;116;68;0;136"
+    "selfie_takephoto_params": "0;46;0;183;68;0;136"
   },
   {
     "id": 3056,
@@ -1487,6 +1559,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 78,
     "capsule_half_height": 135,
     "capsule_radius": 90,
@@ -1509,6 +1584,9 @@
     ],
     "active_skill_list": [
       50004
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 90,
     "capsule_half_height": 150,
@@ -1536,6 +1614,9 @@
     "active_skill_list": [
       90003
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 90,
     "capsule_radius": 50,
@@ -1561,6 +1642,9 @@
     ],
     "active_skill_list": [
       90001
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 80,
     "capsule_half_height": 110,
@@ -1680,6 +1764,9 @@
     "active_skill_list": [
       90001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 106,
     "capsule_half_height": 105,
     "capsule_radius": 50,
@@ -1706,6 +1793,9 @@
     ],
     "active_skill_list": [
       90002
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 100,
     "capsule_half_height": 110,
@@ -1734,6 +1824,9 @@
     ],
     "active_skill_list": [
       90003
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 108,
     "capsule_half_height": 94,
@@ -1786,6 +1879,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 105,
     "capsule_half_height": 90,
@@ -1845,6 +1941,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 85,
     "capsule_half_height": 101,
@@ -1926,6 +2025,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 95,
     "capsule_half_height": 90,
     "capsule_radius": 60,
@@ -1973,7 +2075,8 @@
     ],
     "passive_skill": [
       2003,
-      5001
+      5001,
+      1001
     ],
     "active_skill_list": [
       60004
@@ -2008,6 +2111,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 110,
     "selfie_takephoto_params": "0;27;0;116;68;0;136"
   },
@@ -2024,6 +2130,9 @@
     ],
     "active_skill_list": [
       60105
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "model_scale": 105,
     "capsule_half_height": 82,
@@ -2047,6 +2156,9 @@
     "active_skill_list": [
       60005
     ],
+    "second_active_skill__list": [
+      40005
+    ],
     "model_scale": 110,
     "capsule_half_height": 91,
     "capsule_radius": 70,
@@ -2065,7 +2177,10 @@
       5002
     ],
     "active_skill_list": [
-      70002
+      70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 90,
     "capsule_half_height": 99,
@@ -2094,6 +2209,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 124,
     "capsule_half_height": 70,
     "capsule_radius": 57,
@@ -2115,6 +2233,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 86,
@@ -2195,6 +2316,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 89,
     "capsule_radius": 46,
@@ -2221,6 +2345,9 @@
     "active_skill_list": [
       90003
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 108,
     "capsule_half_height": 80,
     "capsule_radius": 62,
@@ -2240,7 +2367,8 @@
     ],
     "passive_skill": [
       2003,
-      5001
+      5001,
+      1001
     ],
     "active_skill_list": [
       160001
@@ -2267,7 +2395,8 @@
     ],
     "passive_skill": [
       2003,
-      5001
+      5001,
+      1001
     ],
     "active_skill_list": [
       140004
@@ -2298,6 +2427,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 115,
     "capsule_half_height": 80,
     "capsule_radius": 55,
@@ -2325,6 +2457,9 @@
     "active_skill_list": [
       90001
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 105,
     "capsule_half_height": 102,
     "capsule_radius": 80,
@@ -2349,6 +2484,9 @@
     "active_skill_list": [
       90002
     ],
+    "second_active_skill__list": [
+      40005
+    ],
     "model_scale": 103,
     "capsule_half_height": 110,
     "capsule_radius": 99,
@@ -2371,6 +2509,9 @@
     ],
     "active_skill_list": [
       90002
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 120,
     "capsule_half_height": 80,
@@ -2399,6 +2540,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 121,
     "capsule_half_height": 75,
@@ -2481,6 +2625,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 67,
     "capsule_half_height": 128,
@@ -2624,6 +2771,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 85,
     "capsule_half_height": 105,
     "capsule_radius": 60,
@@ -2648,6 +2798,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "model_scale": 105,
     "capsule_half_height": 81,
@@ -2798,7 +2951,10 @@
       5002
     ],
     "active_skill_list": [
-      70002
+      70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 85,
     "capsule_half_height": 109,
@@ -2825,6 +2981,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "capsule_half_height": 95,
     "capsule_radius": 80,
@@ -2874,7 +3033,10 @@
       5002
     ],
     "active_skill_list": [
-      70002
+      70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 85,
     "capsule_half_height": 105,
@@ -2901,6 +3063,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40003
     ],
     "model_scale": 100,
     "capsule_half_height": 90,
@@ -2953,7 +3118,10 @@
       5002
     ],
     "active_skill_list": [
-      70002
+      70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 90,
@@ -3048,6 +3216,10 @@
       70001,
       70001
     ],
+    "second_active_skill__list": [
+      40006,
+      70003
+    ],
     "model_scale": 100,
     "mesh_offset_z": -90,
     "not_use_for_ride": true,
@@ -3128,6 +3300,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 80,
     "capsule_half_height": 107,
     "capsule_radius": 50,
@@ -3153,6 +3328,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40004
+    ],
     "model_scale": 100,
     "capsule_half_height": 89,
     "capsule_radius": 50,
@@ -3175,10 +3353,14 @@
     "passive_skill": [
       3004,
       4009,
-      5002
+      5002,
+      1002
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40001
     ],
     "model_scale": 115,
     "capsule_half_height": 75,
@@ -3201,6 +3383,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 75,
     "capsule_half_height": 115,
@@ -3227,6 +3412,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40004
+    ],
     "model_scale": 100,
     "capsule_half_height": 95,
     "capsule_radius": 45,
@@ -3250,7 +3438,8 @@
       3004,
       4009,
       5001,
-      2016
+      2016,
+      1002
     ],
     "active_skill_list": [
       70001
@@ -3372,6 +3561,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 76,
     "capsule_half_height": 120,
@@ -3511,6 +3703,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 70,
     "capsule_half_height": 130,
     "capsule_radius": 70,
@@ -3590,7 +3785,10 @@
       5002
     ],
     "active_skill_list": [
-      70002
+      70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 75,
     "capsule_half_height": 120,
@@ -3616,7 +3814,10 @@
       5002
     ],
     "active_skill_list": [
-      70002
+      70001
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "model_scale": 84,
     "capsule_half_height": 110,
@@ -3670,6 +3871,9 @@
     "active_skill_list": [
       90001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 80,
     "capsule_half_height": 110,
     "capsule_radius": 45,
@@ -3696,6 +3900,9 @@
     ],
     "active_skill_list": [
       90004
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "model_scale": 112,
     "capsule_half_height": 77,
@@ -3750,6 +3957,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 110,
     "capsule_half_height": 100,
     "capsule_radius": 35,
@@ -3779,6 +3989,9 @@
     ],
     "active_skill_list": [
       90001
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "model_scale": 110,
     "capsule_half_height": 99,
@@ -3832,6 +4045,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40003
     ],
     "model_scale": 100,
     "capsule_half_height": 86,
@@ -3911,6 +4127,9 @@
     "active_skill_list": [
       90003
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 85,
     "capsule_half_height": 101,
     "capsule_radius": 50,
@@ -3937,6 +4156,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40004
+    ],
     "model_scale": 82,
     "capsule_half_height": 104,
     "capsule_radius": 79,
@@ -3960,6 +4182,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40005
+    ],
     "model_scale": 80,
     "capsule_half_height": 105,
     "capsule_radius": 89,
@@ -3981,6 +4206,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 86,
@@ -4170,6 +4398,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 90,
     "capsule_radius": 46,
@@ -4197,6 +4428,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40003
     ],
     "model_scale": 92,
     "capsule_half_height": 110,
@@ -4310,7 +4544,7 @@
     "start_swim_water_depth": 60,
     "ride_throw_camera_offset_x": -210,
     "ride_throw_camera_offset_y": 65,
-    "ride_throw_camera_offset_z": -100,
+    "ride_throw_camera_offset_z": -120,
     "ride_foot_num": 6,
     "selfie_takephoto_params": "0;0;0;200;0;0;150"
   },
@@ -4335,9 +4569,9 @@
     "mesh_offset_z": 33,
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
-    "ride_throw_camera_offset_x": -200,
+    "ride_throw_camera_offset_x": -210,
     "ride_throw_camera_offset_y": 65,
-    "ride_throw_camera_offset_z": -70,
+    "ride_throw_camera_offset_z": -120,
     "ride_foot_num": 6,
     "selfie_takephoto_params": "0;0;0;200;0;0;150"
   },
@@ -4353,6 +4587,9 @@
     ],
     "active_skill_list": [
       90001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 90,
     "capsule_half_height": 120,
@@ -4416,6 +4653,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 87,
     "capsule_radius": 69,
@@ -4442,6 +4682,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40004
+    ],
     "model_scale": 120,
     "capsule_half_height": 85,
     "capsule_radius": 75,
@@ -4462,13 +4705,14 @@
     "passive_skill": [
       3004,
       4009,
-      5001
+      5001,
+      1002
     ],
     "active_skill_list": [
       110005
     ],
     "second_active_skill__list": [
-      40004
+      40005
     ],
     "model_scale": 100,
     "capsule_half_height": 140,
@@ -4498,6 +4742,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 75,
     "capsule_half_height": 120,
     "capsule_radius": 75,
@@ -4526,6 +4773,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40004
+    ],
     "capsule_half_height": 90,
     "capsule_radius": 70,
     "mesh_offset_z": -90,
@@ -4551,6 +4801,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 105,
     "capsule_half_height": 90,
@@ -4637,6 +4890,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "capsule_half_height": 100,
     "capsule_radius": 60,
@@ -4841,6 +5097,9 @@
     "active_skill_list": [
       90001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 110,
     "capsule_half_height": 85,
     "capsule_radius": 43,
@@ -4859,6 +5118,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 90,
@@ -4887,6 +5149,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40001
+    ],
     "model_scale": 105,
     "capsule_half_height": 80,
     "capsule_radius": 70,
@@ -4910,7 +5175,7 @@
       60102
     ],
     "second_active_skill__list": [
-      40002
+      40006
     ],
     "model_scale": 91,
     "capsule_half_height": 95,
@@ -5064,6 +5329,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 62,
     "capsule_half_height": 138,
     "capsule_radius": 70,
@@ -5089,6 +5357,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "model_scale": 84,
     "capsule_half_height": 102,
@@ -5116,6 +5387,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40003
+    ],
     "model_scale": 75,
     "capsule_half_height": 114,
     "capsule_radius": 92,
@@ -5138,6 +5412,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 90,
     "capsule_half_height": 130,
@@ -5167,6 +5444,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40005
+    ],
     "model_scale": 80,
     "capsule_half_height": 109,
     "capsule_radius": 86,
@@ -5191,6 +5471,9 @@
     ],
     "active_skill_list": [
       90003
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 92,
     "capsule_half_height": 115,
@@ -5272,6 +5555,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 98,
     "capsule_half_height": 111,
     "capsule_radius": 47,
@@ -5307,7 +5593,7 @@
     "model_scale": 115,
     "capsule_half_height": 100,
     "capsule_radius": 75,
-    "mesh_offset_z": -100,
+    "mesh_offset_z": -102,
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
     "ride_throw_camera_offset_x": -210,
@@ -5358,6 +5644,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 79,
     "capsule_half_height": 110,
@@ -5540,6 +5829,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 86,
@@ -5762,9 +6054,16 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
+    "capsule_half_height": 90,
+    "capsule_radius": 50,
+    "mesh_offset_z": -90,
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
+    "ride_foot_num": 3,
     "selfie_takephoto_params": "0;27;0;124;68;0;136"
   },
   {
@@ -5781,6 +6080,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40004
+    ],
     "model_scale": 100,
     "capsule_half_height": 110,
     "capsule_radius": 50,
@@ -5796,7 +6098,7 @@
     "editor_name": "加尔",
     "animation_name": "Com_JiaLing3_001",
     "basic_movement_list": [
-      10002
+      10102
     ],
     "passive_skill": [
       4006,
@@ -5805,12 +6107,16 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 100,
     "capsule_half_height": 91,
     "capsule_radius": 77,
     "mesh_offset_z": -91,
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
+    "throw_switch": true,
     "ride_foot_num": 7,
     "selfie_takephoto_params": "20;18;25;168;50;0;75"
   },
@@ -5819,7 +6125,7 @@
     "editor_name": "加尔(黑化的样子)",
     "animation_name": "Gho_JiaLing3_001",
     "basic_movement_list": [
-      10002
+      10102
     ],
     "passive_skill": [
       4009,
@@ -5828,6 +6134,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 120,
     "capsule_half_height": 89,
@@ -5849,10 +6158,14 @@
       10104
     ],
     "passive_skill": [
-      5002
+      5002,
+      7004
     ],
     "active_skill_list": [
-      70002
+      70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 80,
     "capsule_half_height": 107,
@@ -5872,10 +6185,11 @@
       14001
     ],
     "passive_skill": [
-      5001
+      5001,
+      7001
     ],
     "active_skill_list": [
-      70002
+      160002
     ],
     "model_scale": 100,
     "capsule_half_height": 140,
@@ -5884,7 +6198,7 @@
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
     "ride_throw_camera_offset_x": -210,
-    "ride_throw_camera_offset_y": 65,
+    "ride_throw_camera_offset_y": 50,
     "ride_throw_camera_offset_z": -30,
     "ride_foot_num": 2,
     "selfie_takephoto_params": "0;42;0;283;63;0;150"
@@ -5901,6 +6215,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 110,
     "capsule_half_height": 95,
@@ -5920,6 +6237,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 90,
@@ -5973,6 +6293,9 @@
     ],
     "active_skill_list": [
       90003
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 60,
     "capsule_half_height": 89,
@@ -6065,6 +6388,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 90,
     "capsule_radius": 39,
@@ -6086,6 +6412,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "model_scale": 115,
     "capsule_half_height": 75,
@@ -6186,6 +6515,9 @@
     "active_skill_list": [
       90001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 75,
     "capsule_half_height": 115,
     "capsule_radius": 100,
@@ -6264,6 +6596,9 @@
     "active_skill_list": [
       60102
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 90,
     "capsule_half_height": 104,
     "capsule_radius": 56,
@@ -6284,6 +6619,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 115,
     "capsule_half_height": 76,
@@ -6310,6 +6648,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40004
+    ],
     "model_scale": 85,
     "capsule_half_height": 126,
     "capsule_radius": 115,
@@ -6335,6 +6676,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 120,
     "capsule_half_height": 78,
     "capsule_radius": 52,
@@ -6359,6 +6703,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "model_scale": 100,
     "capsule_half_height": 123,
@@ -6524,6 +6871,9 @@
     "active_skill_list": [
       90001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 90,
     "capsule_half_height": 100,
     "capsule_radius": 40,
@@ -6550,6 +6900,9 @@
     ],
     "active_skill_list": [
       90002
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "model_scale": 100,
     "capsule_half_height": 95,
@@ -6779,6 +7132,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 70,
     "capsule_half_height": 130,
     "capsule_radius": 80,
@@ -6803,6 +7159,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 70,
     "capsule_half_height": 130,
     "capsule_radius": 80,
@@ -6826,6 +7185,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 70,
     "capsule_half_height": 130,
@@ -7010,6 +7372,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 74,
     "ride_throw_camera_offset_x": -210,
     "ride_throw_camera_offset_y": 65,
@@ -7028,6 +7393,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 74,
     "capsule_half_height": 125,
@@ -7053,6 +7421,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 74,
     "capsule_half_height": 125,
@@ -7259,6 +7630,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 75,
     "capsule_half_height": 150,
     "capsule_radius": 50,
@@ -7288,6 +7662,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 75,
     "capsule_half_height": 150,
     "capsule_radius": 50,
@@ -7316,6 +7693,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 75,
     "capsule_half_height": 150,
@@ -7565,6 +7945,9 @@
     "active_skill_list": [
       90001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 115,
     "capsule_half_height": 73,
     "capsule_radius": 43,
@@ -7648,6 +8031,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 100,
     "eyes_view_point_offset_x": -10,
     "eyes_view_point_offset_y": 6,
@@ -7664,6 +8050,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 90
   },
   {
@@ -7678,6 +8067,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 120,
     "capsule_half_height": 75,
@@ -7771,6 +8163,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 120,
     "capsule_half_height": 70,
@@ -7880,6 +8275,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 110,
     "selfie_takephoto_params": "0;22;27;153;36;0;150"
   },
@@ -7897,6 +8295,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 115
   },
   {
@@ -7911,6 +8312,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 95,
     "capsule_half_height": 90,
@@ -7938,6 +8342,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "model_scale": 105,
     "capsule_half_height": 82,
@@ -7993,6 +8400,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "selfie_takephoto_params": "0;27;0;124;68;0;136"
   },
   {
@@ -8004,6 +8414,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 90
   },
@@ -8017,6 +8430,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 85,
     "capsule_half_height": 101,
     "capsule_radius": 70,
@@ -8027,6 +8443,45 @@
     "selfie_takephoto_params": "0;27;0;116;68;0;136"
   },
   {
+    "id": 3339,
+    "editor_name": "冰晶虎",
+    "animation_name": "Ice_BingHu2_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40002
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 86,
+    "capsule_radius": 66,
+    "mesh_offset_z": -86,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_foot_num": 4
+  },
+  {
+    "id": 3340,
+    "editor_name": "冰晶古齿虎",
+    "animation_name": "Ice_BingHu3_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "passive_skill": [
+      1002
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40002
+    ],
+    "model_scale": 110
+  },
+  {
     "id": 3341,
     "editor_name": "雪灵兽",
     "animation_name": "Ice_HuanXue1_001",
@@ -8035,6 +8490,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 100,
     "selfie_takephoto_params": "0;27;0;124;68;0;136"
@@ -8052,6 +8510,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 108,
     "selfie_takephoto_params": "20;18;25;168;50;0;75"
   },
@@ -8063,10 +8524,14 @@
       15001
     ],
     "passive_skill": [
-      5001
+      5001,
+      1002
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 105
   },
@@ -8082,6 +8547,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 116,
     "capsule_half_height": 75,
@@ -8251,10 +8719,14 @@
     "passive_skill": [
       3002,
       4002,
-      5001
+      5001,
+      1001
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 83,
     "capsule_half_height": 113,
@@ -8277,6 +8749,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 115,
     "capsule_half_height": 80,
@@ -8302,6 +8777,9 @@
     "active_skill_list": [
       110002
     ],
+    "second_active_skill__list": [
+      40004
+    ],
     "model_scale": 115,
     "capsule_half_height": 75,
     "capsule_radius": 75,
@@ -8314,7 +8792,7 @@
   },
   {
     "id": 3353,
-    "editor_name": "雷暴奔奔 ",
+    "editor_name": "雷神之子 ",
     "animation_name": "Ele_LeiShen3_001",
     "basic_movement_list": [
       10002
@@ -8343,6 +8821,27 @@
     "selfie_takephoto_params": "12;31;0;200;58;0;150"
   },
   {
+    "id": 3354,
+    "editor_name": "钻地小子",
+    "animation_name": "Ele_ZuanDiXiaoZi1_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40006
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 86,
+    "capsule_radius": 45,
+    "mesh_offset_z": -86,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_foot_num": 3
+  },
+  {
     "id": 3355,
     "editor_name": "闪电小子",
     "animation_name": "Ele_ZuanDiXiaoZi2_001",
@@ -8356,6 +8855,9 @@
     ],
     "active_skill_list": [
       60102
+    ],
+    "second_active_skill__list": [
+      40001
     ],
     "model_scale": 100,
     "capsule_half_height": 93,
@@ -8406,6 +8908,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 90,
     "capsule_half_height": 100,
@@ -8490,7 +8995,16 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 100,
+    "capsule_half_height": 94,
+    "capsule_radius": 52,
+    "mesh_offset_z": -94,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_foot_num": 3,
     "selfie_takephoto_params": "0;42;0;166;80;0;150"
   },
   {
@@ -8505,6 +9019,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 100,
     "capsule_half_height": 95,
@@ -8527,6 +9044,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 120,
     "capsule_half_height": 85,
@@ -8553,6 +9073,9 @@
     "active_skill_list": [
       60107
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 88,
     "capsule_half_height": 98,
     "capsule_radius": 49,
@@ -8574,6 +9097,9 @@
     "active_skill_list": [
       60007
     ],
+    "second_active_skill__list": [
+      40005
+    ],
     "model_scale": 105
   },
   {
@@ -8588,6 +9114,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 90,
     "capsule_half_height": 100,
@@ -8615,6 +9144,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40004
+    ],
     "model_scale": 90,
     "capsule_half_height": 90,
     "capsule_radius": 55,
@@ -8638,6 +9170,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 90,
@@ -8665,6 +9200,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 92,
     "capsule_radius": 92,
@@ -8688,6 +9226,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 90,
     "capsule_half_height": 157,
     "capsule_radius": 156,
@@ -8696,8 +9237,8 @@
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
     "ride_foot_num": 2,
-    "eyes_view_point_offset_x": 2,
-    "eyes_view_point_offset_y": -8,
+    "eyes_view_point_offset_x": -5,
+    "eyes_view_point_offset_y": -2,
     "eyes_view_point_offset_z": -13,
     "selfie_takephoto_params": "0;10;0;237;38;0;150"
   },
@@ -8713,6 +9254,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40001
     ],
     "model_scale": 110,
     "capsule_half_height": 96,
@@ -8735,6 +9279,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 79,
     "capsule_half_height": 110,
@@ -8818,6 +9365,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 120,
     "capsule_half_height": 80,
     "capsule_radius": 35,
@@ -8839,6 +9389,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "model_scale": 125,
     "capsule_half_height": 75,
@@ -8865,13 +9418,16 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 79,
     "capsule_half_height": 110,
     "capsule_radius": 80,
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
     "ride_foot_num": 3,
-    "eyes_view_point_offset_z": -16,
+    "eyes_view_point_offset_z": -17,
     "selfie_takephoto_params": "0;31;0;161;35;0;150"
   },
   {
@@ -8984,6 +9540,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 112,
     "capsule_half_height": 90,
     "capsule_radius": 56,
@@ -9038,6 +9597,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 105,
     "capsule_half_height": 85,
@@ -9129,6 +9691,9 @@
     "active_skill_list": [
       110001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 120,
     "capsule_half_height": 77,
     "capsule_radius": 70,
@@ -9151,6 +9716,9 @@
     ],
     "active_skill_list": [
       110002
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "model_scale": 115,
     "capsule_half_height": 109,
@@ -9176,6 +9744,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 70,
     "capsule_half_height": 125,
     "capsule_radius": 70,
@@ -9184,7 +9755,9 @@
     "start_swim_water_depth": 60,
     "throw_switch": true,
     "ride_foot_num": 3,
-    "eyes_view_point_offset_y": 16,
+    "eyes_view_point_offset_x": 1,
+    "eyes_view_point_offset_y": 4,
+    "eyes_view_point_offset_z": 1,
     "selfie_takephoto_params": "0;42;0;166;80;0;150"
   },
   {
@@ -9210,7 +9783,7 @@
     "start_swim_water_depth": 60,
     "ride_throw_camera_offset_x": -210,
     "ride_throw_camera_offset_y": 65,
-    "ride_throw_camera_offset_z": -100,
+    "ride_throw_camera_offset_z": -110,
     "ride_foot_num": 6,
     "selfie_takephoto_params": "0;0;0;200;0;0;150"
   },
@@ -9233,12 +9806,17 @@
       50001,
       50007
     ],
-    "model_scale": 96,
+    "model_scale": 120,
     "capsule_half_height": 113,
     "capsule_radius": 113,
     "mesh_offset_z": -113,
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
-    "start_swim_water_depth": 60,
+    "start_swim_water_depth": 140,
+    "ride_throw_camera_offset_x": -230,
+    "ride_throw_camera_offset_y": 50,
+    "ride_throw_camera_offset_z": -80,
+    "ride_foot_num": 6,
+    "eyes_view_point_offset_z": 17,
     "selfie_takephoto_params": "0;48;0;200;90;0;150"
   },
   {
@@ -9253,6 +9831,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 95,
@@ -9335,6 +9916,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 95,
     "capsule_radius": 45,
@@ -9357,6 +9941,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "model_scale": 100,
     "capsule_half_height": 90,
@@ -9396,31 +9983,6 @@
     "ride_throw_camera_offset_z": -50,
     "ride_foot_num": 4,
     "selfie_takephoto_params": "0;15;0;200;34;0;150"
-  },
-  {
-    "id": 3401,
-    "editor_name": "伊里斯",
-    "animation_name": "Lig_YiLiSi3_001",
-    "basic_movement_list": [
-      10003,
-      20001
-    ],
-    "passive_skill": [
-      4003,
-      5001,
-      2004
-    ],
-    "active_skill_list": [
-      50007,
-      50001
-    ],
-    "model_scale": 107,
-    "capsule_half_height": 143,
-    "capsule_radius": 143,
-    "mesh_offset_z": -143,
-    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
-    "start_swim_water_depth": 60,
-    "selfie_takephoto_params": "0;35;0;237;95;0;150"
   },
   {
     "id": 3402,
@@ -9533,6 +10095,9 @@
     "active_skill_list": [
       90002
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 79,
     "capsule_half_height": 110,
     "capsule_radius": 90,
@@ -9554,6 +10119,9 @@
     ],
     "active_skill_list": [
       90001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 79,
     "capsule_half_height": 130,
@@ -9610,6 +10178,9 @@
     "active_skill_list": [
       90002
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100
   },
   {
@@ -9645,6 +10216,9 @@
     ],
     "active_skill_list": [
       90003
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 79,
     "capsule_half_height": 108,
@@ -9809,6 +10383,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 79,
     "capsule_half_height": 119,
     "capsule_radius": 71,
@@ -9876,6 +10453,9 @@
       50002
     ],
     "model_scale": 100,
+    "capsule_half_height": 150,
+    "capsule_radius": 45,
+    "mesh_offset_z": 30,
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
     "ride_foot_num": 6,
@@ -9918,6 +10498,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 100
   },
   {
@@ -9932,6 +10515,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 110,
     "selfie_takephoto_params": "20;18;25;168;50;0;75"
@@ -9975,6 +10561,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 100,
     "eyes_view_point_offset_z": -24,
     "selfie_takephoto_params": "0;81;0;196;84;0;150"
@@ -9991,6 +10580,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 90,
     "eyes_view_point_offset_z": -17,
@@ -10132,6 +10724,9 @@
     "active_skill_list": [
       90001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 86,
     "capsule_radius": 50,
@@ -10156,6 +10751,9 @@
     "active_skill_list": [
       90002
     ],
+    "second_active_skill__list": [
+      40004
+    ],
     "model_scale": 100,
     "capsule_half_height": 86,
     "capsule_radius": 86,
@@ -10176,6 +10774,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 70,
     "capsule_half_height": 125,
@@ -10226,6 +10827,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 79,
     "capsule_half_height": 108,
@@ -10280,6 +10884,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 79,
     "capsule_half_height": 109,
@@ -10686,6 +11293,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 79,
     "capsule_half_height": 110,
     "capsule_radius": 60,
@@ -10801,7 +11411,8 @@
       3004,
       4009,
       5001,
-      2016
+      2016,
+      1002
     ],
     "active_skill_list": [
       70001
@@ -10832,7 +11443,8 @@
       3004,
       4009,
       5001,
-      2016
+      2016,
+      1002
     ],
     "active_skill_list": [
       70001
@@ -10863,7 +11475,8 @@
       3004,
       4009,
       5001,
-      2016
+      2016,
+      1002
     ],
     "active_skill_list": [
       70001
@@ -10894,7 +11507,8 @@
       3004,
       4009,
       5001,
-      2016
+      2016,
+      1002
     ],
     "active_skill_list": [
       70001
@@ -10928,7 +11542,8 @@
       3004,
       4009,
       5001,
-      2016
+      2016,
+      1002
     ],
     "active_skill_list": [
       70001
@@ -10959,7 +11574,8 @@
       3004,
       4009,
       5001,
-      2016
+      2016,
+      1002
     ],
     "active_skill_list": [
       70001
@@ -10990,7 +11606,8 @@
       3004,
       4009,
       5001,
-      2016
+      2016,
+      1002
     ],
     "active_skill_list": [
       70001
@@ -11021,7 +11638,8 @@
       3004,
       4009,
       5001,
-      2016
+      2016,
+      1002
     ],
     "active_skill_list": [
       70001
@@ -11247,6 +11865,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 90,
     "capsule_radius": 45,
@@ -11305,6 +11926,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40004
+    ],
     "model_scale": 100,
     "capsule_half_height": 95,
     "capsule_radius": 45,
@@ -11326,6 +11950,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "model_scale": 100,
     "capsule_half_height": 95,
@@ -11380,6 +12007,9 @@
     "active_skill_list": [
       90001
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 80,
     "capsule_half_height": 110,
     "capsule_radius": 95,
@@ -11404,6 +12034,9 @@
     "active_skill_list": [
       90002
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 79,
     "capsule_half_height": 110,
     "capsule_radius": 90,
@@ -11425,6 +12058,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 90,
@@ -11453,6 +12089,9 @@
     ],
     "active_skill_list": [
       90002
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 86,
@@ -11525,6 +12164,37 @@
     "selfie_takephoto_params": "0;23;0;200;49;0;150"
   },
   {
+    "id": 3487,
+    "editor_name": "小丑豆豆",
+    "animation_name": "Dem_XiaoChou1_001",
+    "basic_movement_list": [
+      11108
+    ],
+    "passive_skill": [
+      7003,
+      5002
+    ],
+    "active_skill_list": [
+      90001
+    ],
+    "second_active_skill__list": [
+      40006
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 94,
+    "capsule_radius": 56,
+    "mesh_offset_z": -94,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 40,
+    "ride_throw_camera_offset_z": -70,
+    "ride_foot_num": 3,
+    "eyes_view_point_offset_x": -5,
+    "eyes_view_point_offset_z": 8,
+    "selfie_takephoto_params": "0;44;0;116;45;0;150"
+  },
+  {
     "id": 3488,
     "editor_name": "小丑兔 ",
     "animation_name": "Dem_XiaoChou2_001",
@@ -11532,10 +12202,14 @@
       11008
     ],
     "passive_skill": [
-      5002
+      5002,
+      7004
     ],
     "active_skill_list": [
-      70002
+      90002
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "model_scale": 100,
     "capsule_half_height": 90,
@@ -11543,6 +12217,7 @@
     "mesh_offset_z": -90,
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
+    "throw_switch": true,
     "ride_foot_num": 7,
     "selfie_takephoto_params": "20;18;25;168;50;0;75"
   },
@@ -11551,17 +12226,25 @@
     "editor_name": "小丑公爵 ",
     "animation_name": "Dem_XiaoChou3_001",
     "basic_movement_list": [
-      15001
+      12101
+    ],
+    "passive_skill": [
+      7002,
+      5001,
+      2006,
+      4005
     ],
     "active_skill_list": [
-      70002
+      160002
     ],
     "model_scale": 100,
-    "capsule_half_height": 108,
-    "capsule_radius": 59,
-    "mesh_offset_z": -108,
+    "capsule_half_height": 132,
+    "capsule_radius": 85,
+    "mesh_offset_z": -132,
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_z": -30,
     "ride_foot_num": 2,
     "eyes_view_point_offset_y": -8,
     "eyes_view_point_offset_z": 7,
@@ -11579,6 +12262,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 90,
@@ -11635,6 +12321,9 @@
     "active_skill_list": [
       90001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 92,
     "capsule_radius": 64,
@@ -11660,6 +12349,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 110,
     "capsule_half_height": 79,
@@ -11692,7 +12384,7 @@
     "model_scale": 100,
     "capsule_half_height": 141,
     "capsule_radius": 141,
-    "mesh_offset_z": -141,
+    "mesh_offset_z": -142,
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
     "ride_foot_num": 2,
@@ -11712,6 +12404,9 @@
     ],
     "active_skill_list": [
       90001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 79,
     "capsule_half_height": 109,
@@ -11739,6 +12434,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 86,
     "capsule_radius": 40,
@@ -11760,6 +12458,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 90,
@@ -11783,6 +12484,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "model_scale": 100,
     "capsule_half_height": 80,
@@ -11922,6 +12626,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 100
   },
   {
@@ -11991,6 +12698,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 79,
     "capsule_half_height": 160,
     "capsule_radius": 45,
@@ -12041,6 +12751,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 86,
@@ -12129,6 +12842,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 86,
     "capsule_radius": 48,
@@ -12216,6 +12932,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 100,
     "capsule_radius": 40,
@@ -12240,6 +12959,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 108,
     "capsule_half_height": 90,
@@ -12266,6 +12988,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 75,
     "capsule_half_height": 120,
     "capsule_radius": 60,
@@ -12273,7 +12998,7 @@
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
     "ride_foot_num": 3,
-    "selfie_takephoto_params": "0;27;0;116;68;0;136"
+    "selfie_takephoto_params": "0;46;0;183;68;0;136"
   },
   {
     "id": 3517,
@@ -12379,6 +13104,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 90,
     "capsule_radius": 40,
@@ -12438,6 +13166,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 90,
     "capsule_radius": 52,
@@ -12461,6 +13192,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 90,
     "capsule_radius": 52,
@@ -12483,6 +13217,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 90,
     "capsule_radius": 50,
@@ -12504,6 +13241,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 90,
@@ -12552,22 +13292,51 @@
     "editor_name": "小雪人",
     "animation_name": "Ice_XueRen1_001",
     "basic_movement_list": [
-      15001
+      10203
+    ],
+    "passive_skill": [
+      2016,
+      5001,
+      7003
     ],
     "active_skill_list": [
-      70002
+      110001
     ],
-    "model_scale": 100
+    "second_active_skill__list": [
+      40004
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 87,
+    "capsule_radius": 60,
+    "mesh_offset_z": -87,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 65,
+    "ride_throw_camera_offset_z": -70,
+    "ride_foot_num": 4,
+    "selfie_takephoto_params": "0;18;0;189;41;0;150"
   },
   {
     "id": 3532,
     "editor_name": "雪怪",
     "animation_name": "Ice_XueRen2_001",
     "basic_movement_list": [
-      15001
+      10103,
+      210002
+    ],
+    "passive_skill": [
+      2016,
+      5001,
+      4009,
+      4010,
+      7004
     ],
     "active_skill_list": [
-      140001
+      210002
+    ],
+    "second_active_skill__list": [
+      40005
     ],
     "model_scale": 105,
     "capsule_half_height": 120,
@@ -12593,6 +13362,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 70,
     "capsule_half_height": 130,
@@ -12671,6 +13443,9 @@
     ],
     "active_skill_list": [
       90002
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 90,
@@ -12753,6 +13528,9 @@
     ],
     "active_skill_list": [
       90002
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 90,
@@ -13026,6 +13804,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 90,
     "capsule_radius": 50,
@@ -13160,6 +13941,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 90,
     "capsule_radius": 50,
@@ -13291,6 +14075,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 120
   },
   {
@@ -13302,6 +14089,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 100,
     "eyes_view_point_offset_y": -4,
@@ -13346,6 +14136,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 90,
     "capsule_radius": 60,
@@ -13365,6 +14158,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 110,
     "capsule_half_height": 89,
@@ -13391,6 +14187,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 90,
     "capsule_radius": 45,
@@ -13413,6 +14212,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "model_scale": 100,
     "capsule_half_height": 90,
@@ -13461,10 +14263,17 @@
     "editor_name": "爆焰仔",
     "animation_name": "Fir_LieYanLong1_001",
     "basic_movement_list": [
-      15001
+      11108
+    ],
+    "passive_skill": [
+      5002,
+      7004
     ],
     "active_skill_list": [
-      70002
+      70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 86,
@@ -13481,10 +14290,21 @@
     "editor_name": "爆焰喷喷",
     "animation_name": "Fir_LieYanLong2_001",
     "basic_movement_list": [
-      15001
+      11008,
+      210002
+    ],
+    "passive_skill": [
+      5001,
+      2003,
+      3002,
+      4002,
+      7004
     ],
     "active_skill_list": [
-      70002
+      210002
+    ],
+    "second_active_skill__list": [
+      70003
     ],
     "model_scale": 105,
     "capsule_half_height": 105,
@@ -13516,6 +14336,9 @@
     "active_skill_list": [
       90001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 89,
     "capsule_radius": 45,
@@ -13535,7 +14358,8 @@
     ],
     "passive_skill": [
       2003,
-      5001
+      5001,
+      1001
     ],
     "active_skill_list": [
       50001
@@ -13554,6 +14378,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40001
     ],
     "model_scale": 100,
     "capsule_half_height": 86,
@@ -13630,6 +14457,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 100
   },
   {
@@ -13644,6 +14474,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 90,
@@ -13696,6 +14529,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 90,
     "capsule_radius": 45,
@@ -13744,6 +14580,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 100
   },
   {
@@ -13756,6 +14595,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 100
   },
   {
@@ -13767,6 +14609,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 100,
     "capsule_half_height": 91,
@@ -13787,7 +14632,16 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 100,
+    "capsule_half_height": 89,
+    "capsule_radius": 50,
+    "mesh_offset_z": -89,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_foot_num": 3,
     "selfie_takephoto_params": "-5;47;-1;176;45;0;150"
   },
   {
@@ -13799,6 +14653,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 100,
     "capsule_half_height": 86,
@@ -13821,6 +14678,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 90,
     "capsule_half_height": 100,
@@ -13922,6 +14782,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 75,
     "capsule_half_height": 114,
     "capsule_radius": 55,
@@ -14015,6 +14878,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 95,
     "capsule_half_height": 95,
     "capsule_radius": 60,
@@ -14103,6 +14969,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 100,
     "capsule_half_height": 86,
     "capsule_radius": 40,
@@ -14170,6 +15039,9 @@
     "ride_throw_camera_offset_y": 65,
     "ride_throw_camera_offset_z": -90,
     "ride_foot_num": 4,
+    "use_custom_camera": true,
+    "custom_camera_x": 500,
+    "custom_camera_z": -50,
     "selfie_takephoto_params": "0;-18;0;200;0;0;150"
   },
   {
@@ -14184,6 +15056,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 93,
@@ -14404,6 +15279,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40006
+    ],
     "model_scale": 100,
     "capsule_half_height": 86,
     "capsule_radius": 55,
@@ -14445,6 +15323,9 @@
     ],
     "active_skill_list": [
       90001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 85,
     "capsule_half_height": 120,
@@ -14499,7 +15380,10 @@
       5002
     ],
     "active_skill_list": [
-      90003
+      70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 92,
@@ -14660,6 +15544,9 @@
       70002,
       150002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 100
   },
   {
@@ -14673,6 +15560,9 @@
     "active_skill_list": [
       70002,
       150002
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 100,
     "capsule_half_height": 115,
@@ -14696,6 +15586,9 @@
       70002,
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 75,
     "capsule_half_height": 155,
     "capsule_radius": 105,
@@ -14712,10 +15605,17 @@
     "editor_name": "加油海葵",
     "animation_name": "Wat_JiaYouHaiKui1_001",
     "basic_movement_list": [
-      15001
+      11001
+    ],
+    "passive_skill": [
+      7004,
+      5002
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 90,
@@ -14723,6 +15623,7 @@
     "mesh_offset_z": -90,
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
+    "throw_switch": true,
     "ride_foot_num": 3,
     "eyes_view_point_offset_x": 3,
     "eyes_view_point_offset_y": -12,
@@ -14733,12 +15634,80 @@
     "editor_name": "加油蟹",
     "animation_name": "Wat_JiaYouHaiKui3_001",
     "basic_movement_list": [
+      30001,
+      10102,
+      210001
+    ],
+    "passive_skill": [
+      7003,
+      5001,
+      2002,
+      4004
+    ],
+    "active_skill_list": [
+      80001,
+      210001
+    ],
+    "second_active_skill__list": [
+      150002,
+      40001
+    ],
+    "model_scale": 110,
+    "capsule_half_height": 99,
+    "capsule_radius": 99,
+    "mesh_offset_z": -99,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 20,
+    "ride_throw_camera_offset_z": -80,
+    "ride_foot_num": 4,
+    "selfie_takephoto_params": "11;8;-63;200;0;-50;150"
+  },
+  {
+    "id": 3663,
+    "editor_name": "量风碗",
+    "animation_name": "Win_LiangFengWan1_001",
+    "basic_movement_list": [
       15001
     ],
     "active_skill_list": [
       70002
     ],
-    "model_scale": 110
+    "second_active_skill__list": [
+      40002
+    ],
+    "model_scale": 100
+  },
+  {
+    "id": 3664,
+    "editor_name": "测风蝉",
+    "animation_name": "Win_LiangFengWan2_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40002
+    ],
+    "model_scale": 120
+  },
+  {
+    "id": 3675,
+    "editor_name": "守夜烛",
+    "animation_name": "Fir_ShouYeZhu1_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40002
+    ],
+    "model_scale": 100
   },
   {
     "id": 3677,
@@ -14748,10 +15717,14 @@
       11001
     ],
     "passive_skill": [
+      7003,
       5002
     ],
     "active_skill_list": [
-      70002
+      70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 80,
     "capsule_half_height": 108,
@@ -14759,6 +15732,7 @@
     "mesh_offset_z": -108,
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
+    "throw_switch": true,
     "ride_foot_num": 3,
     "selfie_takephoto_params": "0;31;0;183;38;0;150"
   },
@@ -14767,10 +15741,19 @@
     "editor_name": "烟花伯爵",
     "animation_name": "Fir_YanHuaTuan2_001",
     "basic_movement_list": [
-      15001
+      10106
+    ],
+    "passive_skill": [
+      7003,
+      5002,
+      2003,
+      4002
     ],
     "active_skill_list": [
-      70002
+      70001
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 100,
     "capsule_half_height": 89,
@@ -14778,12 +15761,14 @@
     "mesh_offset_z": -89,
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
+    "throw_switch": true,
     "ride_throw_camera_offset_x": -210,
     "ride_throw_camera_offset_y": 65,
     "ride_throw_camera_offset_z": -50,
     "ride_foot_num": 3,
     "eyes_view_point_offset_x": 4,
     "eyes_view_point_offset_y": -3,
+    "eyes_view_point_offset_z": 3,
     "selfie_takephoto_params": "0;27;0;124;68;0;136"
   },
   {
@@ -14791,10 +15776,17 @@
     "editor_name": "咕咕帽",
     "animation_name": "Gho_GuGuMao1_001",
     "basic_movement_list": [
-      15001
+      11001
+    ],
+    "passive_skill": [
+      5002,
+      7001
     ],
     "active_skill_list": [
-      70002
+      70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 100,
@@ -14802,6 +15794,9 @@
     "mesh_offset_z": -100,
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 50,
+    "ride_throw_camera_offset_z": -80,
     "ride_foot_num": 3,
     "eyes_view_point_offset_z": -14,
     "selfie_takephoto_params": "0;31;0;161;35;0;150"
@@ -14811,10 +15806,16 @@
     "editor_name": "咕德帽帽",
     "animation_name": "Gho_GuGuMao2_001",
     "basic_movement_list": [
-      15001
+      10101
+    ],
+    "passive_skill": [
+      7003,
+      5001,
+      2013,
+      4009
     ],
     "active_skill_list": [
-      70002
+      160003
     ],
     "model_scale": 100,
     "capsule_half_height": 105,
@@ -14822,6 +15823,9 @@
     "mesh_offset_z": -105,
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 50,
+    "ride_throw_camera_offset_z": -50,
     "selfie_takephoto_params": "0;47;0;200;92;0;150"
   },
   {
@@ -14833,6 +15837,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 100,
     "selfie_takephoto_params": "0;27;0;124;68;0;136"
@@ -14847,7 +15854,16 @@
     "active_skill_list": [
       70002
     ],
-    "model_scale": 100
+    "second_active_skill__list": [
+      40002
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 111,
+    "capsule_radius": 91,
+    "mesh_offset_z": -111,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_foot_num": 1
   },
   {
     "id": 3704,
@@ -14861,6 +15877,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 92,
@@ -14886,6 +15905,9 @@
     "active_skill_list": [
       70001
     ],
+    "second_active_skill__list": [
+      40004
+    ],
     "model_scale": 100,
     "capsule_half_height": 88,
     "capsule_radius": 54,
@@ -14897,17 +15919,64 @@
     "selfie_takephoto_params": "20;18;25;168;50;0;75"
   },
   {
+    "id": 3706,
+    "editor_name": "蜜果骸",
+    "animation_name": "Gho_MiGuoHai1_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40002
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 90,
+    "capsule_radius": 53,
+    "mesh_offset_z": -90,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_foot_num": 3
+  },
+  {
+    "id": 3707,
+    "editor_name": "半朽蜜果灵",
+    "animation_name": "Gho_MiGuoHai2_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40002
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 111,
+    "capsule_radius": 67,
+    "mesh_offset_z": -111,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60
+  },
+  {
     "id": 3708,
     "editor_name": "小鼓象",
     "animation_name": "Mac_GuXiang1_001",
     "basic_movement_list": [
-      11001
+      10202,
+      210001
     ],
     "passive_skill": [
-      5002
+      5001,
+      7001,
+      2014
     ],
     "active_skill_list": [
-      70002
+      210001
+    ],
+    "second_active_skill__list": [
+      40004
     ],
     "model_scale": 75,
     "capsule_half_height": 122,
@@ -14915,6 +15984,9 @@
     "mesh_offset_z": -122,
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 50,
+    "ride_throw_camera_offset_z": -60,
     "ride_foot_num": 4,
     "selfie_takephoto_params": "0;12;0;295;55;0;150"
   },
@@ -14923,13 +15995,20 @@
     "editor_name": "巨鼓象",
     "animation_name": "Mac_GuXiang3_001",
     "basic_movement_list": [
-      11001
+      10102,
+      210002
     ],
     "passive_skill": [
-      5002
+      5002,
+      7002,
+      2014,
+      3004
     ],
     "active_skill_list": [
-      70002
+      210002
+    ],
+    "second_active_skill__list": [
+      40005
     ],
     "model_scale": 120,
     "capsule_half_height": 87,
@@ -14937,8 +16016,32 @@
     "mesh_offset_z": -87,
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 65,
+    "ride_throw_camera_offset_z": -60,
     "ride_foot_num": 4,
     "selfie_takephoto_params": "0;6;0;206;38;0;150"
+  },
+  {
+    "id": 3710,
+    "editor_name": "咬咬小子",
+    "animation_name": "Mac_YaoYao2_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40002
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 119,
+    "capsule_radius": 84,
+    "mesh_offset_z": -119,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_foot_num": 2
   },
   {
     "id": 3711,
@@ -14949,6 +16052,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 85,
     "capsule_half_height": 127,
@@ -14968,6 +16074,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 100,
     "capsule_half_height": 89,
     "capsule_radius": 49,
@@ -14976,6 +16085,104 @@
     "start_swim_water_depth": 60,
     "ride_foot_num": 3,
     "selfie_takephoto_params": "0;31;0;183;38;0;150"
+  },
+  {
+    "id": 3717,
+    "editor_name": "可烤汪",
+    "animation_name": "Men_TangCC2_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40002
+    ],
+    "model_scale": 100
+  },
+  {
+    "id": 3718,
+    "editor_name": "足尖元件",
+    "animation_name": "Ill_ZuJianYJ1_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40002
+    ],
+    "model_scale": 100
+  },
+  {
+    "id": 3719,
+    "editor_name": "离心舞者",
+    "animation_name": "Ill_ZuJianYJ3_001",
+    "basic_movement_list": [
+      20001
+    ],
+    "active_skill_list": [
+      50005
+    ],
+    "model_scale": 100
+  },
+  {
+    "id": 3729,
+    "editor_name": "猴麦仔",
+    "animation_name": "Com_HouMaiZai1_001",
+    "basic_movement_list": [
+      11001
+    ],
+    "passive_skill": [
+      7003,
+      5002
+    ],
+    "active_skill_list": [
+      70001
+    ],
+    "second_active_skill__list": [
+      40006
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 88,
+    "capsule_radius": 51,
+    "mesh_offset_z": -88,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "throw_switch": true,
+    "ride_foot_num": 3,
+    "selfie_takephoto_params": "0;29;0;175;45;0;150"
+  },
+  {
+    "id": 3730,
+    "editor_name": "音碟吼",
+    "animation_name": "Com_HouMaiZai3_001",
+    "basic_movement_list": [
+      10105
+    ],
+    "passive_skill": [
+      7004,
+      5001,
+      4006,
+      2009
+    ],
+    "active_skill_list": [
+      70001
+    ],
+    "second_active_skill__list": [
+      40003
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 96,
+    "capsule_radius": 93,
+    "mesh_offset_z": -96,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "throw_switch": true,
+    "ride_foot_num": 7,
+    "selfie_takephoto_params": "18;16;29;212;17;-10;150"
   },
   {
     "id": 3731,
@@ -14987,6 +16194,9 @@
     "active_skill_list": [
       70002
     ],
+    "second_active_skill__list": [
+      40002
+    ],
     "model_scale": 100,
     "capsule_half_height": 86,
     "capsule_radius": 50,
@@ -14996,6 +16206,183 @@
     "eyes_view_point_offset_x": -6,
     "eyes_view_point_offset_y": 6,
     "selfie_takephoto_params": "-3;39;0;144;41;0;150"
+  },
+  {
+    "id": 3732,
+    "editor_name": "紫花雀",
+    "animation_name": "Poi_GuDuoNiao3_001",
+    "basic_movement_list": [
+      20001
+    ],
+    "active_skill_list": [
+      50005
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 165,
+    "capsule_radius": 90,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_foot_num": 6
+  },
+  {
+    "id": 3733,
+    "editor_name": "钨丝贝贝",
+    "animation_name": "Mac_WuSiBB1_001",
+    "basic_movement_list": [
+      11015,
+      210001
+    ],
+    "passive_skill": [
+      7004,
+      5002,
+      2014
+    ],
+    "active_skill_list": [
+      210001
+    ],
+    "second_active_skill__list": [
+      40002
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 115,
+    "capsule_radius": 80,
+    "mesh_offset_z": -115,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_foot_num": 1,
+    "selfie_takephoto_params": "8;3;11;200;21;-20;120"
+  },
+  {
+    "id": 3734,
+    "editor_name": "辉光幕机",
+    "animation_name": "Mac_WuSiBB2_001",
+    "basic_movement_list": [
+      11008,
+      210001
+    ],
+    "passive_skill": [
+      7001,
+      5002,
+      2014
+    ],
+    "active_skill_list": [
+      210001
+    ],
+    "second_active_skill__list": [
+      40004
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 135,
+    "capsule_radius": 135,
+    "mesh_offset_z": -135,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 50,
+    "ride_throw_camera_offset_z": -40,
+    "ride_foot_num": 1,
+    "selfie_takephoto_params": "0;50;0;285;36;-30;150"
+  },
+  {
+    "id": 3735,
+    "editor_name": "机幕方舟",
+    "animation_name": "Mac_WuSiBB3_001",
+    "basic_movement_list": [
+      11007,
+      210002
+    ],
+    "passive_skill": [
+      7004,
+      5001,
+      2014,
+      3004
+    ],
+    "active_skill_list": [
+      210002
+    ],
+    "second_active_skill__list": [
+      40005
+    ],
+    "model_scale": 90,
+    "capsule_half_height": 220,
+    "capsule_radius": 220,
+    "mesh_offset_z": -220,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "throw_switch": true,
+    "ride_foot_num": 2,
+    "use_custom_camera": true,
+    "custom_camera_x": 650,
+    "selfie_takephoto_params": "0;22;0;471;61;-30;150"
+  },
+  {
+    "id": 3736,
+    "editor_name": "炫光迪迪",
+    "animation_name": "Ele_XuanGuangDD1_001",
+    "basic_movement_list": [
+      10203,
+      210001
+    ],
+    "passive_skill": [
+      7001,
+      5001,
+      2015
+    ],
+    "active_skill_list": [
+      210001
+    ],
+    "second_active_skill__list": [
+      40006
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 136,
+    "capsule_radius": 63,
+    "mesh_offset_z": -136,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 50,
+    "ride_throw_camera_offset_z": -120,
+    "ride_foot_num": 5,
+    "use_custom_camera": true,
+    "custom_camera_x": 600,
+    "custom_camera_z": -20,
+    "selfie_takephoto_params": "0;-44;0;200;0;-40;120"
+  },
+  {
+    "id": 3737,
+    "editor_name": "​​霹雳迪迪",
+    "animation_name": "Ele_XuanGuangDD3_001",
+    "basic_movement_list": [
+      10103,
+      210002
+    ],
+    "passive_skill": [
+      7002,
+      5001,
+      2015,
+      3007
+    ],
+    "active_skill_list": [
+      210002
+    ],
+    "second_active_skill__list": [
+      40002
+    ],
+    "model_scale": 90,
+    "capsule_half_height": 139,
+    "capsule_radius": 113,
+    "mesh_offset_z": -139,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 50,
+    "ride_throw_camera_offset_z": -40,
+    "ride_foot_num": 4,
+    "use_custom_camera": true,
+    "custom_camera_x": 600,
+    "custom_camera_z": -25,
+    "selfie_takephoto_params": "0;36;0;278;36;0;150"
   },
   {
     "id": 3738,
@@ -15009,6 +16396,9 @@
     ],
     "active_skill_list": [
       70002
+    ],
+    "second_active_skill__list": [
+      40002
     ],
     "model_scale": 100,
     "capsule_half_height": 86,
@@ -15045,6 +16435,56 @@
     "selfie_takephoto_params": "0;32;0;209;55;0;150"
   },
   {
+    "id": 3740,
+    "editor_name": "宝藏小狐",
+    "animation_name": "Com_FangFangHu1_001",
+    "basic_movement_list": [
+      11015
+    ],
+    "passive_skill": [
+      5002
+    ],
+    "active_skill_list": [
+      70001
+    ],
+    "second_active_skill__list": [
+      40006
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 90,
+    "capsule_radius": 55,
+    "mesh_offset_z": -90,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_foot_num": 3
+  },
+  {
+    "id": 3741,
+    "editor_name": "宝藏沙狐",
+    "animation_name": "Com_FangFangHu3_001",
+    "basic_movement_list": [
+      10006
+    ],
+    "passive_skill": [
+      5001,
+      2009,
+      4006
+    ],
+    "active_skill_list": [
+      60004
+    ],
+    "second_active_skill__list": [
+      40001
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 90,
+    "capsule_radius": 81,
+    "mesh_offset_z": -90,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_foot_num": 4
+  },
+  {
     "id": 3742,
     "editor_name": "鸭吉吉（起来鸭）",
     "animation_name": "Com_YaJiJi1Ar_001",
@@ -15078,6 +16518,41 @@
     "selfie_takephoto_params": "1;7;0;134;67;0;140"
   },
   {
+    "id": 3743,
+    "editor_name": "加油蟹（单只海葵的样子）",
+    "animation_name": "Wat_JiaYouHaiKui3Ar_001",
+    "basic_movement_list": [
+      30001,
+      10102,
+      210001
+    ],
+    "passive_skill": [
+      7003,
+      5001,
+      2002,
+      4004
+    ],
+    "active_skill_list": [
+      80001,
+      210001
+    ],
+    "second_active_skill__list": [
+      150002,
+      40001
+    ],
+    "model_scale": 110,
+    "capsule_half_height": 99,
+    "capsule_radius": 99,
+    "mesh_offset_z": -99,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 20,
+    "ride_throw_camera_offset_z": -80,
+    "ride_foot_num": 4,
+    "selfie_takephoto_params": "11;8;-63;200;0;-50;150"
+  },
+  {
     "id": 3744,
     "editor_name": "火红尾",
     "animation_name": "Fir_HuoHongWei1_001",
@@ -15090,6 +16565,9 @@
     ],
     "active_skill_list": [
       70001
+    ],
+    "second_active_skill__list": [
+      40006
     ],
     "model_scale": 100,
     "capsule_half_height": 110,
@@ -15131,6 +16609,191 @@
     "selfie_takephoto_params": "0;36;0;220;50;0;150"
   },
   {
+    "id": 3761,
+    "editor_name": "诅咒狼灵",
+    "animation_name": "Wus_LangLing1_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40002
+    ]
+  },
+  {
+    "id": 3762,
+    "editor_name": "新月狼灵",
+    "animation_name": "Wus_LangLing2_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40002
+    ]
+  },
+  {
+    "id": 3763,
+    "editor_name": "银月狼王",
+    "animation_name": "Wus_LangLing3_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40002
+    ]
+  },
+  {
+    "id": 3767,
+    "editor_name": "章脑丸",
+    "animation_name": "Lig_ZhangNaoWan1_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40006
+    ],
+    "model_scale": 100
+  },
+  {
+    "id": 3768,
+    "editor_name": "智辉章脑",
+    "animation_name": "Lig_ZhangNaoWan3_001",
+    "basic_movement_list": [
+      20003
+    ],
+    "active_skill_list": [
+      50003
+    ],
+    "model_scale": 100
+  },
+  {
+    "id": 3769,
+    "editor_name": "乌头蝇",
+    "animation_name": "Wor_WuTouYing1_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40006
+    ],
+    "model_scale": 100
+  },
+  {
+    "id": 3770,
+    "editor_name": "乌蝇飞贼",
+    "animation_name": "Wor_WuTouYing2_001",
+    "basic_movement_list": [
+      20005
+    ],
+    "active_skill_list": [
+      50005
+    ],
+    "model_scale": 100
+  },
+  {
+    "id": 3771,
+    "editor_name": "小浣蛋",
+    "animation_name": "Dem_XiaoHuanDan1_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40006
+    ],
+    "model_scale": 100
+  },
+  {
+    "id": 3772,
+    "editor_name": "黑手浣熊",
+    "animation_name": "Dem_XiaoHuanDan2_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40006
+    ],
+    "model_scale": 100
+  },
+  {
+    "id": 3773,
+    "editor_name": "幽铃",
+    "animation_name": "Gho_YouLing1_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40006
+    ],
+    "model_scale": 100
+  },
+  {
+    "id": 3774,
+    "editor_name": "摇铃魔偶",
+    "animation_name": "Gho_YouLing3_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40002
+    ]
+  },
+  {
+    "id": 3775,
+    "editor_name": "布灵",
+    "animation_name": "Ill_BuLing1_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40006
+    ],
+    "model_scale": 100
+  },
+  {
+    "id": 3776,
+    "editor_name": "布灵布灵",
+    "animation_name": "Ill_BuLing2_001",
+    "basic_movement_list": [
+      15001
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40006
+    ],
+    "model_scale": 100
+  },
+  {
     "id": 9801,
     "editor_name": "鸭吉吉（蓬松的样子）",
     "animation_name": "Com_YaJiJi1_001",
@@ -15146,6 +16809,10 @@
     "active_skill_list": [
       60108,
       80001
+    ],
+    "second_active_skill__list": [
+      40002,
+      150002
     ],
     "model_scale": 90,
     "capsule_half_height": 96,
@@ -15199,6 +16866,18 @@
     "ride_throw_camera_offset_z": -100,
     "ride_foot_num": 6,
     "selfie_takephoto_params": "0;0;0;200;0;0;150"
+  },
+  {
+    "id": 14000003,
+    "editor_name": "果冻-剧情变身专用",
+    "animation_name": "Wat_BuDing1_001",
+    "basic_movement_list": [
+      200004
+    ],
+    "model_scale": 180,
+    "mesh_offset_z": -90,
+    "not_use_for_ride": true,
+    "start_swim_water_depth": 43
   },
   {
     "id": 16000001,
@@ -15263,6 +16942,62 @@
     "ride_throw_camera_offset_x": -250,
     "ride_throw_camera_offset_y": 65,
     "ride_throw_camera_offset_z": -30,
+    "ride_foot_num": 3,
+    "selfie_takephoto_params": "0;27;0;124;68;0;136"
+  },
+  {
+    "id": 16000004,
+    "editor_name": "迪莫-A2-1变形",
+    "animation_name": "Lig_DiMo1_001",
+    "basic_movement_list": [
+      11001
+    ],
+    "passive_skill": [
+      5002
+    ],
+    "active_skill_list": [
+      70001
+    ],
+    "second_active_skill__list": [
+      40002
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 90,
+    "capsule_radius": 40,
+    "mesh_offset_z": -90,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 65,
+    "ride_throw_camera_offset_z": -50,
+    "ride_foot_num": 3,
+    "selfie_takephoto_params": "0;27;0;124;68;0;136"
+  },
+  {
+    "id": 16000007,
+    "editor_name": "迪莫-A2-1变形",
+    "animation_name": "Lig_DiMo1_001",
+    "basic_movement_list": [
+      11001
+    ],
+    "passive_skill": [
+      5002
+    ],
+    "active_skill_list": [
+      70001
+    ],
+    "second_active_skill__list": [
+      40002
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 90,
+    "capsule_radius": 40,
+    "mesh_offset_z": -90,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 65,
+    "ride_throw_camera_offset_z": -50,
     "ride_foot_num": 3,
     "selfie_takephoto_params": "0;27;0;124;68;0;136"
   },
@@ -15395,7 +17130,9 @@
       60005
     ],
     "model_scale": 100,
-    "mesh_offset_z": -82,
+    "capsule_half_height": 140,
+    "capsule_radius": 140,
+    "mesh_offset_z": -140,
     "not_use_for_ride": true,
     "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
     "start_swim_water_depth": 60,
@@ -15455,5 +17192,164 @@
     "ride_throw_camera_offset_z": -70,
     "ride_foot_num": 3,
     "selfie_takephoto_params": "0;27;0;124;68;0;136"
+  },
+  {
+    "id": 19000001,
+    "editor_name": "可立鸡-变形测试用",
+    "animation_name": "Fir_KeLeJi1_001",
+    "basic_movement_list": [
+      11001
+    ],
+    "passive_skill": [
+      5002
+    ],
+    "active_skill_list": [
+      70001
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 89,
+    "capsule_radius": 46,
+    "mesh_offset_z": -89,
+    "not_use_for_ride": true,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 35,
+    "ride_throw_camera_offset_z": -50,
+    "ride_foot_num": 3,
+    "selfie_takephoto_params": "0;27;0;116;68;0;136"
+  },
+  {
+    "id": 19000002,
+    "editor_name": "紫翎鹰-变形测试用",
+    "animation_name": "Win_FanQue2_001",
+    "basic_movement_list": [
+      20002
+    ],
+    "passive_skill": [
+      4007,
+      2010,
+      5001
+    ],
+    "active_skill_list": [
+      50002
+    ],
+    "model_scale": 79,
+    "capsule_half_height": 180,
+    "capsule_radius": 50,
+    "mesh_offset_z": 30,
+    "not_use_for_ride": true,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 65,
+    "ride_throw_camera_offset_z": -100,
+    "ride_foot_num": 6,
+    "selfie_takephoto_params": "0;0;0;200;0;0;150"
+  },
+  {
+    "id": 19000003,
+    "editor_name": "果冻-变形测试用",
+    "animation_name": "Wat_BuDing1_001",
+    "basic_movement_list": [
+      11112,
+      30101
+    ],
+    "passive_skill": [
+      5002
+    ],
+    "active_skill_list": [
+      70001,
+      70001
+    ],
+    "model_scale": 100,
+    "mesh_offset_z": -90,
+    "not_use_for_ride": true,
+    "start_swim_water_depth": 43
+  },
+  {
+    "id": 19000004,
+    "editor_name": "紫翎鹰-变形用",
+    "animation_name": "Win_FanQue2_001",
+    "basic_movement_list": [
+      20009
+    ],
+    "active_skill_list": [
+      110008
+    ],
+    "model_scale": 79,
+    "mesh_offset_z": -105,
+    "not_use_for_ride": true,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 65,
+    "ride_throw_camera_offset_z": -100,
+    "ride_foot_num": 6,
+    "selfie_takephoto_params": "0;0;0;200;0;0;150"
+  },
+  {
+    "id": 19000005,
+    "editor_name": "可立鸡-变形用",
+    "animation_name": "Fir_KeLeJi1_001",
+    "basic_movement_list": [
+      11001
+    ],
+    "active_skill_list": [
+      110007
+    ],
+    "second_active_skill__list": [
+      40002
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 89,
+    "capsule_radius": 46,
+    "mesh_offset_z": -89,
+    "not_use_for_ride": true,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 35,
+    "ride_throw_camera_offset_z": -50,
+    "ride_foot_num": 3,
+    "selfie_takephoto_params": "0;27;0;116;68;0;136"
+  },
+  {
+    "id": 19000006,
+    "editor_name": "果冻-变形用",
+    "animation_name": "Wat_BuDing1_001",
+    "basic_movement_list": [
+      11112,
+      30101
+    ],
+    "model_scale": 100,
+    "mesh_offset_z": -90,
+    "not_use_for_ride": true,
+    "start_swim_water_depth": 43
+  },
+  {
+    "id": 19000008,
+    "editor_name": "钨丝贝贝",
+    "animation_name": "Mac_WuSiBB1_001",
+    "basic_movement_list": [
+      11015,
+      210001
+    ],
+    "passive_skill": [
+      7001,
+      5002,
+      2014
+    ],
+    "active_skill_list": [
+      210001
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 115,
+    "capsule_radius": 80,
+    "mesh_offset_z": -115,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "ride_foot_num": 1,
+    "selfie_takephoto_params": "8;3;11;200;21;-20;120"
   }
 ]

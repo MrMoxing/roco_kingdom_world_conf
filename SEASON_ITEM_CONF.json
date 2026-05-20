@@ -88,5 +88,99 @@
     "jump_type": 3,
     "jump_param": "MagicManualModuleCmd.OpenMagicManualByIndex",
     "param1": "MMT_PVP"
+  },
+  {
+    "id": 2001,
+    "item_name": "通行证",
+    "textbox": "PaperSprite'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S2SeasonIntegration/Frames/img_tongxingzheng_png.img_tongxingzheng_png'",
+    "jump_type": 3,
+    "jump_param": "BattlePassModuleCmd.OpenBattlePassActivity",
+    "additional_show": 3
+  },
+  {
+    "id": 2002,
+    "item_name": "赛季作业",
+    "textbox": "PaperSprite'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S2SeasonIntegration/Frames/img_saijizuoye_png.img_saijizuoye_png'",
+    "textbox_disable": "PaperSprite'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S2SeasonIntegration/Frames/img_saijizuoye_weikaiqi_png.img_saijizuoye_weikaiqi_png'",
+    "unlock_tips": "完成「赛季大厅」首次委托解锁",
+    "lock_flag": [
+      1728
+    ],
+    "jump_type": 3,
+    "jump_param": "MagicManualModuleCmd.OpenMagicManualByIndex",
+    "param1": "MMT_MAGIC_SEASON"
+  },
+  {
+    "id": 2003,
+    "item_name": "代币商店",
+    "textbox": "PaperSprite'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S2SeasonIntegration/Frames/img_duihuanshangdian_png.img_duihuanshangdian_png'",
+    "textbox_disable": "PaperSprite'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S2SeasonIntegration/Frames/img_duihuanshangdian_weikaiqi_png.img_duihuanshangdian_weikaiqi_png'",
+    "unlock_tips": "完成「赛季大厅」首次委托解锁",
+    "lock_flag": [
+      1728
+    ],
+    "jump_type": 3,
+    "jump_param": "NPCShopUIModuleCmd.OpenShopById",
+    "param1": "2008",
+    "additional_show": 1,
+    "additional_param": "74"
+  },
+  {
+    "id": 2004,
+    "item_name": "传说精灵",
+    "textbox": "PaperSprite'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S2SeasonIntegration/Frames/img_chuanshuojingling_png.img_chuanshuojingling_png'",
+    "textbox_disable": "PaperSprite'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S2SeasonIntegration/Frames/img_chuanshuojingling_weikaiqi_png.img_chuanshuojingling_weikaiqi_png'",
+    "unlock_tips": "30级晋升「精灵研究员」解锁",
+    "lock_flag": [
+      10003
+    ],
+    "jump_type": 4,
+    "jump_param": "600004",
+    "param1": "完成6月5日4:00更新的赛季委托「胡闹演出」后解锁",
+    "time_show_type": 2,
+    "time_show_param": "2026-06-05 04:00:00"
+  },
+  {
+    "id": 2005,
+    "item_name": "赛季大厅",
+    "textbox": "PaperSprite'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S2SeasonIntegration/Frames/img_saijidating_png.img_saijidating_png'",
+    "textbox_disable": "PaperSprite'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S2SeasonIntegration/Frames/img_saijidating_weikaiqi_png.img_saijidating_weikaiqi_png'",
+    "unlock_tips": "30级晋升「精灵研究员」解锁",
+    "lock_flag": [
+      10003
+    ],
+    "jump_type": 3,
+    "jump_param": "TaskModuleCmd.OpenSeasonTaskPanel",
+    "param1": "10000101",
+    "time_show_type": 3,
+    "time_show_param3": [
+      53503,
+      70006,
+      70007,
+      70008,
+      70009
+    ],
+    "additional_show": 2,
+    "additional_param": "机幕方舟马戏团"
+  },
+  {
+    "id": 2006,
+    "item_name": "闪耀大赛",
+    "textbox": "PaperSprite'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S2SeasonIntegration/Frames/img_xunhuitianti_png.img_xunhuitianti_png'",
+    "textbox_disable": "PaperSprite'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S2SeasonIntegration/Frames/img_xunhuitianti_weikaiqi_png.img_xunhuitianti_weikaiqi_png'",
+    "unlock_tips": "30级晋升「精灵研究员」解锁",
+    "lock_flag": [
+      10003
+    ],
+    "jump_type": 3,
+    "jump_param": "MagicManualModuleCmd.OpenMagicManualByIndex",
+    "param1": "MMT_PVP"
+  },
+  {
+    "id": 2007,
+    "item_name": "赛季天赋",
+    "textbox": "PaperSprite'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S2SeasonIntegration/Frames/img_tianfuyongxian_png.img_tianfuyongxian_png'",
+    "jump_type": 3,
+    "jump_param": "PVEModuleCmd.OpenPveTalentPanel"
   }
 ]

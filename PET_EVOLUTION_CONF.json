@@ -6123,7 +6123,7 @@
       {
         "petbase_id": 3474,
         "pet_name": "上岸蛙",
-        "stage": 1,
+        "stage": 2,
         "level": 33,
         "unit_type": [
           20
@@ -9385,8 +9385,8 @@
       99
     ],
     "pvp_mute_group": 193,
-    "evolution_group": 162,
-    "handbook_evolution_group": 162,
+    "evolution_group": 2014,
+    "handbook_evolution_group": 2014,
     "statistics_evolution_group": 258,
     "evolution_chain": [
       {
@@ -10396,7 +10396,7 @@
   },
   {
     "id": 294,
-    "name": "猴唛仔进化链",
+    "name": "猴麦仔进化链",
     "allow_show_team_battle_star_array": [
       99,
       99
@@ -10408,7 +10408,7 @@
     "evolution_chain": [
       {
         "petbase_id": 3729,
-        "pet_name": "猴唛仔",
+        "pet_name": "猴麦仔",
         "stage": 1,
         "unit_type": [
           2,
@@ -10493,7 +10493,7 @@
       },
       {
         "petbase_id": 3735,
-        "pet_name": "机墓方舟",
+        "pet_name": "机幕方舟",
         "stage": 3,
         "unit_type": [
           19
@@ -10991,7 +10991,8 @@
         "pet_name": "铆钉毛毛",
         "stage": 2,
         "unit_type": [
-          16
+          16,
+          12
         ]
       },
       {
@@ -10999,7 +11000,8 @@
         "pet_name": "徘徊爪爪",
         "stage": 3,
         "unit_type": [
-          16
+          16,
+          12
         ]
       }
     ],
@@ -11088,5 +11090,241 @@
         ]
       }
     ]
+  },
+  {
+    "id": 314,
+    "name": "莫比乌乌进化链",
+    "allow_show_team_battle_star_array": [
+      99,
+      99
+    ],
+    "pvp_mute_group": 233,
+    "evolution_group": 197,
+    "handbook_evolution_group": 197,
+    "statistics_evolution_group": 298,
+    "evolution_chain": [
+      {
+        "petbase_id": 3747,
+        "pet_name": "莫比乌乌",
+        "stage": 1,
+        "unit_type": [
+          10,
+          16
+        ]
+      },
+      {
+        "petbase_id": 3748,
+        "pet_name": "克莱因龙",
+        "stage": 2,
+        "unit_type": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "name": "森豆丁进化链",
+    "allow_show_team_battle_star_array": [
+      99,
+      99
+    ],
+    "pvp_mute_group": 234,
+    "evolution_group": 197,
+    "handbook_evolution_group": 197,
+    "statistics_evolution_group": 299,
+    "evolution_chain": [
+      {
+        "petbase_id": 3749,
+        "pet_name": "森豆丁",
+        "stage": 1,
+        "unit_type": [
+          3
+        ]
+      },
+      {
+        "petbase_id": 3750,
+        "pet_name": "森蛮人",
+        "stage": 2,
+        "unit_type": [
+          3
+        ]
+      },
+      {
+        "petbase_id": 3751,
+        "pet_name": "森巨人",
+        "stage": 3,
+        "unit_type": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "name": "丁丁卯进化链",
+    "allow_show_team_battle_star_array": [
+      99,
+      99
+    ],
+    "pvp_mute_group": 235,
+    "evolution_group": 197,
+    "handbook_evolution_group": 197,
+    "statistics_evolution_group": 300,
+    "evolution_chain": [
+      {
+        "petbase_id": 3752,
+        "pet_name": "丁丁卯",
+        "stage": 1,
+        "unit_type": [
+          19,
+          13
+        ]
+      },
+      {
+        "petbase_id": 3753,
+        "pet_name": "卯山咪钥",
+        "stage": 2,
+        "unit_type": [
+          19,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "name": "火豆丁进化链",
+    "allow_show_team_battle_star_array": [
+      99,
+      99
+    ],
+    "pvp_mute_group": 236,
+    "evolution_group": 197,
+    "handbook_evolution_group": 197,
+    "statistics_evolution_group": 301,
+    "evolution_chain": [
+      {
+        "petbase_id": 3754,
+        "pet_name": "火豆丁",
+        "stage": 1,
+        "unit_type": [
+          4
+        ]
+      },
+      {
+        "petbase_id": 3755,
+        "pet_name": "火蛮人",
+        "stage": 2,
+        "unit_type": [
+          4
+        ]
+      },
+      {
+        "petbase_id": 3756,
+        "pet_name": "火巨人",
+        "stage": 3,
+        "unit_type": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "name": "点点进化链",
+    "allow_show_team_battle_star_array": [
+      99,
+      99
+    ],
+    "pvp_mute_group": 237,
+    "evolution_group": 197,
+    "handbook_evolution_group": 197,
+    "statistics_evolution_group": 302,
+    "evolution_chain": [
+      {
+        "petbase_id": 3757,
+        "pet_name": "点点",
+        "stage": 1,
+        "unit_type": [
+          16
+        ]
+      },
+      {
+        "petbase_id": 3758,
+        "pet_name": "珀尔鼬",
+        "stage": 2,
+        "unit_type": [
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "name": "加油海葵进化链（单只海葵的样子）",
+    "allow_show_team_battle_star_array": [
+      99,
+      99
+    ],
+    "pvp_mute_group": 193,
+    "evolution_group": 2014,
+    "handbook_evolution_group": 2014,
+    "statistics_evolution_group": 258,
+    "evolution_chain": [
+      {
+        "petbase_id": 3659,
+        "pet_name": "加油海葵",
+        "stage": 1,
+        "unit_type": [
+          5,
+          16
+        ]
+      },
+      {
+        "petbase_id": 3743,
+        "pet_name": "加油蟹",
+        "stage": 2,
+        "level": 32,
+        "unit_type": [
+          5,
+          16
+        ]
+      }
+    ],
+    "talent_random_id": 2
+  },
+  {
+    "id": 320,
+    "name": "宝藏小狐进化链",
+    "allow_show_team_battle_star_array": [
+      99,
+      99
+    ],
+    "pvp_mute_group": 238,
+    "evolution_group": 162,
+    "handbook_evolution_group": 162,
+    "statistics_evolution_group": 303,
+    "evolution_chain": [
+      {
+        "petbase_id": 3740,
+        "pet_name": "宝藏小狐",
+        "stage": 1,
+        "unit_type": [
+          2
+        ]
+      },
+      {
+        "petbase_id": 3741,
+        "pet_name": "宝藏沙狐",
+        "stage": 2,
+        "level": 33,
+        "unit_type": [
+          2
+        ]
+      }
+    ],
+    "talent_random_id": 2
   }
 ]

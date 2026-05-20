@@ -610,14 +610,14 @@
   },
   {
     "id": 2000013,
-    "editor_name": "潜行状态",
+    "editor_name": "变身状态",
     "sense_event_type": 1,
     "event_sub_type": 13,
     "spread_dis": [
       2000
     ],
     "percep_effect_val": [
-      -12
+      -30
     ]
   },
   {
@@ -690,6 +690,18 @@
     ],
     "percep_effect_val": [
       10
+    ]
+  },
+  {
+    "id": 2000030,
+    "editor_name": "变身状态",
+    "sense_event_type": 1,
+    "event_sub_type": 30,
+    "spread_dis": [
+      2000
+    ],
+    "percep_effect_val": [
+      -10
     ]
   },
   {

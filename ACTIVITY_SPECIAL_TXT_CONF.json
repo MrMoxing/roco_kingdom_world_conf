@@ -3,7 +3,16 @@
     "id": 201,
     "explain_group": [
       {
-        "image_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_314_1.img_314_1'"
+        "txt": "按照藏宝图的指示前往指定地区，骑乘藏宝图指引上要求的某种精灵，精灵会做出对应的反应。",
+        "image_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_treasurehunt_02.img_treasurehunt_02'"
+      },
+      {
+        "txt": "精灵会有四种不同的反应，随着越接近宝藏会有越明显的反应，可以仔细留意一下精灵情绪变化！",
+        "image_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_treasurehunt_03.img_treasurehunt_03'"
+      },
+      {
+        "txt": "宝藏会散发蓝色的亮光，当找到宝藏后，你就可以把宝藏挖出来了！",
+        "image_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_treasurehunt_01.img_treasurehunt_01'"
       }
     ]
   },
@@ -24,6 +33,38 @@
       {
         "txt": "宝藏会散发蓝色的亮光，当找到宝藏后，你就可以把宝藏挖出来了！",
         "image_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_treasurehunt_01.img_treasurehunt_01'"
+      }
+    ]
+  },
+  {
+    "id": 201001,
+    "explain_group": [
+      {
+        "txt": "欢迎回家，小洛克！几日不见，我和大家已经想你啦～"
+      }
+    ]
+  },
+  {
+    "id": 201002,
+    "explain_group": [
+      {
+        "txt": "欢迎回家，小洛克！好久不见，你的精灵们都在想念你！我和学院还为你准备了专属补给，拿上他们重启冒险吧～"
+      }
+    ]
+  },
+  {
+    "id": 201003,
+    "explain_group": [
+      {
+        "txt": "你终于回来了！王国的新篇章，正需要像你这样勇敢的小洛克一同书写。去和你的精灵们打个招呼，重启冒险吧！"
+      }
+    ]
+  },
+  {
+    "id": 201004,
+    "explain_group": [
+      {
+        "txt": "欢迎回家，小洛克！你不在的日子里，王国发生了很多变化，无论你离开多久，这里永远是你最温馨的港湾！"
       }
     ]
   }

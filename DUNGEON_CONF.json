@@ -1,15 +1,5 @@
 [
   {
-    "id": 120107,
-    "name": "室内-月牙镇小屋（废弃）",
-    "region_name": "独立室内",
-    "scene_id": 238,
-    "world_scene_id": 103,
-    "type": 1,
-    "type_name": "月牙镇温暖的家",
-    "hide_tag": 3
-  },
-  {
     "id": 120108,
     "name": "风眠圣所",
     "sub_name": "探寻翼王的秘密",
@@ -144,7 +134,7 @@
     "scene_id": 132,
     "type": 1,
     "type_name": "天地正反颠倒的广场",
-    "hide_tag": 3
+    "hide_tag": 4
   },
   {
     "id": 120308,
@@ -162,7 +152,7 @@
     "name": "灵镜世界",
     "sub_name": "灵镜世界",
     "region_name": "B1",
-    "scene_id": 131,
+    "scene_id": 134,
     "type": 1,
     "type_name": "一次仪典学课堂上的意外，误入了这个神秘的空间。",
     "hide_tag": 3,
@@ -215,6 +205,66 @@
     "main_exit": true
   },
   {
+    "id": 150006,
+    "name": "高空钢索表演",
+    "region_name": "A2",
+    "scene_id": 506,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true
+  },
+  {
+    "id": 150007,
+    "name": "大排练室",
+    "sub_name": "失序的演习场",
+    "region_name": "A2",
+    "scene_id": 507,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "神秘的后台，吵吵闹闹的大排练室，马戏团内所有创造性的节目都由此孕育。",
+    "main_exit": true,
+    "collection": [
+      {
+        "collect_type": 1,
+        "collect_content_id": [
+          5501964,
+          5501962,
+          5501963
+        ]
+      }
+    ]
+  },
+  {
+    "id": 150008,
+    "name": "绒雪盛典",
+    "region_name": "A2",
+    "scene_id": 508,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true
+  },
+  {
+    "id": 150009,
+    "name": "供电室",
+    "sub_name": "受阻的电光",
+    "region_name": "A2",
+    "scene_id": 509,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "控制着整个马戏团电力供应的小房间，如今却被溢出的污水淹没，电力机关也已尽数失效……",
+    "main_exit": true,
+    "collection": [
+      {
+        "collect_type": 1,
+        "collect_content_id": [
+          5501939,
+          5501940,
+          5501941
+        ]
+      }
+    ]
+  },
+  {
     "id": 210101,
     "name": "九幽菇的守护地",
     "sub_name": "对抗额外的能量",
@@ -250,6 +300,9 @@
         "reward_id": 70,
         "reward_count": 150
       }
+    ],
+    "enemy_id": [
+      1300324
     ],
     "finish_stage": [
       21010101
@@ -347,7 +400,9 @@
         "reward_count": 150
       }
     ],
-    "battle_starlevel": 3,
+    "enemy_id": [
+      1300331
+    ],
     "finish_stage": [
       21010201
     ],
@@ -522,6 +577,9 @@
         "reward_count": 150
       }
     ],
+    "enemy_id": [
+      1300458
+    ],
     "finish_stage": [
       21010501
     ],
@@ -613,7 +671,9 @@
         "reward_count": 150
       }
     ],
-    "battle_starlevel": 2,
+    "enemy_id": [
+      1300471
+    ],
     "finish_stage": [
       21010601
     ],
@@ -697,7 +757,9 @@
         "reward_count": 150
       }
     ],
-    "battle_starlevel": 2,
+    "enemy_id": [
+      1300486
+    ],
     "finish_stage": [
       21010701
     ],
@@ -779,7 +841,9 @@
         "reward_count": 150
       }
     ],
-    "battle_starlevel": 5,
+    "enemy_id": [
+      1300499
+    ],
     "reward_bagitem_id": [
       0
     ],
@@ -1037,9 +1101,6 @@
     "type": 1,
     "main_exit": true,
     "has_enter_ui": true,
-    "finish_stage": [
-      21011301
-    ],
     "has_finish_ui": true
   },
   {
@@ -1202,7 +1263,9 @@
         "reward_count": 150
       }
     ],
-    "battle_starlevel": 3,
+    "enemy_id": [
+      2900958
+    ],
     "finish_stage": [
       21011901
     ],
@@ -1642,7 +1705,9 @@
         "reward_count": 150
       }
     ],
-    "battle_starlevel": 3,
+    "enemy_id": [
+      5100253
+    ],
     "finish_stage": [
       21013101
     ],
@@ -2481,6 +2546,30 @@
     "type": 1,
     "main_exit": true,
     "has_enter_ui": true
+  },
+  {
+    "id": 600001,
+    "name": "草系徽章-野外研究院",
+    "sub_name": "草系徽章-野外研究院",
+    "scene_id": 601,
+    "type": 1,
+    "main_exit": true
+  },
+  {
+    "id": 600002,
+    "name": "草系徽章-横版场景",
+    "sub_name": "草系徽章-横版场景",
+    "scene_id": 603,
+    "type": 1,
+    "main_exit": true
+  },
+  {
+    "id": 600003,
+    "name": "草系徽章-野外研究院-战斗",
+    "sub_name": "草系徽章-野外研究院-战斗",
+    "scene_id": 602,
+    "type": 1,
+    "main_exit": true
   },
   {
     "id": 800001,

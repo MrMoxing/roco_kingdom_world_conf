@@ -541,6 +541,19 @@
     "hide_blackscreen": true
   },
   {
+    "id": 4250101,
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3406.3406'",
+    "npc_name": "声波缇塔",
+    "npc_config_group_id": 4250101,
+    "npc_follow_areas": [
+      641030010
+    ],
+    "memo": "S2赛季-跟随声波缇塔",
+    "hide_start_tips": true,
+    "hide_end_tips": true,
+    "hide_blackscreen": true
+  },
+  {
     "id": 5201011,
     "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10062.10062'",
     "npc_name": "恩佐",

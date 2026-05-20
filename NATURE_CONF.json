@@ -268,7 +268,7 @@
     "morph_target_data": [
       {
         "morph_target_name": "Xi",
-        "morph_target_value": 80
+        "morph_target_value": 100
       }
     ]
   },
@@ -313,7 +313,7 @@
     "morph_target_data": [
       {
         "morph_target_name": "Shui",
-        "morph_target_value": 80
+        "morph_target_value": 100
       }
     ]
   },
@@ -358,7 +358,7 @@
     "morph_target_data": [
       {
         "morph_target_name": "Shui",
-        "morph_target_value": 80
+        "morph_target_value": 100
       }
     ]
   },
@@ -820,8 +820,8 @@
     ],
     "morph_target_data": [
       {
-        "morph_target_name": "Jing",
-        "morph_target_value": 80
+        "morph_target_name": "Ai",
+        "morph_target_value": 100
       }
     ]
   },
@@ -866,7 +866,7 @@
     "morph_target_data": [
       {
         "morph_target_name": "Nu",
-        "morph_target_value": 80
+        "morph_target_value": 100
       }
     ]
   },
@@ -911,7 +911,7 @@
     "morph_target_data": [
       {
         "morph_target_name": "Xi",
-        "morph_target_value": 80
+        "morph_target_value": 100
       }
     ]
   },
