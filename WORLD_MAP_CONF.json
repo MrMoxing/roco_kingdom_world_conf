@@ -14977,6 +14977,9 @@
   {
     "id": 10000100,
     "map_show_type": 1,
+    "npc_refresh_ids": [
+      6400006
+    ],
     "name_area_id": 641030001,
     "unexplored_in_compass": 1,
     "explored_in_compass": 1,
