@@ -6912,7 +6912,7 @@
     "gender": 2,
     "suits_id": "142",
     "item_quality": 3,
-    "fashion_bottoms_tag": 2,
+    "fashion_bottoms_tag": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20999901.20999901'",
     "launch_item": true,
     "is_free_item": true,
@@ -6926,7 +6926,7 @@
     "gender": 2,
     "suits_id": "10",
     "item_quality": 3,
-    "fashion_bottoms_tag": 2,
+    "fashion_bottoms_tag": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20999902.20999902'",
     "launch_item": true
   },
@@ -6938,7 +6938,7 @@
     "gender": 2,
     "suits_id": "11",
     "item_quality": 3,
-    "fashion_bottoms_tag": 2,
+    "fashion_bottoms_tag": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20999903.20999903'",
     "launch_item": true
   },
@@ -6949,7 +6949,7 @@
     "type_name": "下装",
     "gender": 2,
     "item_quality": 3,
-    "fashion_bottoms_tag": 2,
+    "fashion_bottoms_tag": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20999904.20999904'",
     "launch_item": true
   },
@@ -6961,7 +6961,7 @@
     "gender": 2,
     "suits_id": "13",
     "item_quality": 3,
-    "fashion_bottoms_tag": 2,
+    "fashion_bottoms_tag": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20999905.20999905'",
     "launch_item": true
   },
@@ -6972,7 +6972,7 @@
     "type_name": "下装",
     "gender": 2,
     "item_quality": 3,
-    "fashion_bottoms_tag": 2,
+    "fashion_bottoms_tag": 1,
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20999906.20999906'",
     "launch_item": true
   },

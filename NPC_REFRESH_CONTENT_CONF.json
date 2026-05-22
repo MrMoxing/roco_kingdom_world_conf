@@ -426338,6 +426338,7 @@
       "A2-贵族餐厅-入口",
       "gameliu"
     ],
+    "disable": true,
     "overlap_processing_type": 3,
     "refresh_type": 1,
     "refresh_param": 201031416,
@@ -426361,6 +426362,7 @@
       "A2-贵族餐厅-出口",
       "gameliu"
     ],
+    "disable": true,
     "overlap_processing_type": 3,
     "refresh_type": 1,
     "refresh_param": 201031417,
@@ -426384,6 +426386,7 @@
       "A2-温馨小屋-入口",
       "gameliu"
     ],
+    "disable": true,
     "overlap_processing_type": 3,
     "refresh_type": 1,
     "refresh_param": 201031418,
@@ -426407,6 +426410,7 @@
       "A2-温馨小屋-出口",
       "gameliu"
     ],
+    "disable": true,
     "overlap_processing_type": 3,
     "refresh_type": 1,
     "refresh_param": 201031419,
@@ -426430,6 +426434,7 @@
       "A2-舒适餐厅-入口",
       "gameliu"
     ],
+    "disable": true,
     "overlap_processing_type": 3,
     "refresh_type": 1,
     "refresh_param": 201031420,
@@ -426453,6 +426458,7 @@
       "A2-舒适餐厅-出口",
       "gameliu"
     ],
+    "disable": true,
     "overlap_processing_type": 3,
     "refresh_type": 1,
     "refresh_param": 201031421,
@@ -426476,6 +426482,7 @@
       "A2-书店-入口",
       "gameliu"
     ],
+    "disable": true,
     "overlap_processing_type": 3,
     "refresh_type": 1,
     "refresh_param": 201031422,
@@ -426499,6 +426506,7 @@
       "A2-书店-出口",
       "gameliu"
     ],
+    "disable": true,
     "overlap_processing_type": 3,
     "refresh_type": 1,
     "refresh_param": 201031423,
@@ -468491,6 +468499,9 @@
       "zhaoqigao",
       "地编自动生成"
     ],
+    "disable": true,
+    "version": 2026052101,
+    "refresh_update_type": 2,
     "refresh_type": 1,
     "refresh_param": 241030060,
     "refresh_rule": 2,

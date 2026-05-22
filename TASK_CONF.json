@@ -736,6 +736,42 @@
     ]
   },
   {
+    "id": 100017,
+    "name": "【隐藏任务】安妮商店NPC丢失",
+    "task_class": 1,
+    "paragraph_id": 60026,
+    "task_des": "【隐藏任务】安妮商店NPC丢失",
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          30046008
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "瞬间完成",
+        "type": 204,
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "finish_action": [
+      {
+        "type": 37,
+        "data1": [
+          506001
+        ]
+      }
+    ]
+  },
+  {
     "id": 100300,
     "name": "【内部测试】黑屏case1",
     "task_class": 1,
