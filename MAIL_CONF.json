@@ -179,7 +179,7 @@
   {
     "id": 70014,
     "mail_platform": 2,
-    "start_time": "2026/05/08/21/00",
+    "start_time": "2026/05/08/23/00",
     "end_time": "2026/05/21/04/00",
     "level_type": 1,
     "level": [
@@ -191,7 +191,7 @@
     "mail_sender": "王国工程部",
     "mail_content": "亲爱的小洛克：\n“奇丽草大量出没”活动异常已修复，详细信息请关注游戏公告。现为您发送补偿「光合球」*500、「分光水晶」*200。给您带来的不便深表歉意，感谢各位小洛克的理解与支持。",
     "use_svr_data": 1,
-    "reg_to_date": "2026/05/08/17/00",
+    "reg_to_date": "2026/05/09/04/00",
     "reward_group": [
       {
         "goods_type": 1,
@@ -236,6 +236,59 @@
         "goods_type": 1,
         "goods_id": 600005,
         "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 70016,
+    "mail_platform": 2,
+    "start_time": "2026/05/22/22/00",
+    "end_time": "2026/07/16/03/00",
+    "level_type": 1,
+    "level": [
+      20,
+      999
+    ],
+    "validity": 30,
+    "mail_title": "S2赛季延迟开服补偿",
+    "mail_sender": "王国工程部",
+    "mail_content": "亲爱的小洛克：\n\n感谢各位小洛克对S2赛季「狂欢怪谈」维护期间的耐心等待。\n延迟开服补偿为「分光水晶」*300、「许愿星」*20，感谢您的支持与理解。",
+    "use_svr_data": 1,
+    "reg_to_date": "2026/05/25/00/00",
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100699,
+        "goods_count": 300
+      },
+      {
+        "goods_type": 2,
+        "goods_id": 3,
+        "goods_count": 20
+      }
+    ]
+  },
+  {
+    "id": 70017,
+    "mail_platform": 2,
+    "start_time": "2026/05/22/22/00",
+    "end_time": "2026/07/16/03/00",
+    "level_type": 1,
+    "level": [
+      20,
+      999
+    ],
+    "validity": 30,
+    "mail_title": "关于近期问题补偿",
+    "mail_sender": "王国工程部",
+    "mail_content": "亲爱的小洛克：\n\n针对近期调整，因我们的沟通方式存在不足，导致大家产生困惑，并对我们的信息透明度产生疑虑，我们对此深表歉意。相关问题及后续改进计划详见官方公告。\n\n随信向全服小洛克发放补偿：「棱镜球」*2。\n\n再次为此事郑重致歉，感谢大家长久以来的支持和陪伴。",
+    "use_svr_data": 1,
+    "reg_to_date": "2026/05/31/00/00",
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100286,
+        "goods_count": 2
       }
     ]
   },

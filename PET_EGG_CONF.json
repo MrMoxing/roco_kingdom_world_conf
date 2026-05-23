@@ -14026,16 +14026,7 @@
     "voice_percent": [
       0,
       100
-    ],
-    "egg_base_glass_prob_array": [
-      8,
-      1125
-    ],
-    "egg_add_glass_prob_array": [
-      1,
-      50
-    ],
-    "is_contact_add_glass_prob": true
+    ]
   },
   {
     "id": 3620002,
@@ -14051,16 +14042,7 @@
       0,
       100
     ],
-    "precious_egg_type": 5,
-    "egg_base_glass_prob_array": [
-      8,
-      1125
-    ],
-    "egg_add_glass_prob_array": [
-      1,
-      50
-    ],
-    "is_contact_add_glass_prob": true
+    "precious_egg_type": 5
   },
   {
     "id": 3621001,

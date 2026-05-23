@@ -50542,12 +50542,19 @@
       {
         "effect_id": 1004008,
         "result_target_type": 2,
-        "cast_moment": 11,
+        "cast_moment": 12,
         "success_rate": 10000,
         "buff_group_level": 1
       },
       {
         "effect_id": 1053009,
+        "result_target_type": 2,
+        "cast_moment": 11,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      },
+      {
+        "effect_id": 1042018,
         "result_target_type": 2,
         "cast_moment": 6,
         "success_rate": 10000,

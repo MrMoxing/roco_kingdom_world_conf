@@ -24000,7 +24000,7 @@
       26
     ],
     "hp_max_talent": 8,
-    "phy_attack_talent": 8,
+    "spe_attack_talent": 8,
     "spe_defence_talent": 8,
     "talent_id": 1
   },
@@ -24084,7 +24084,7 @@
       23
     ],
     "hp_max_talent": 8,
-    "spe_attack_talent": 8,
+    "phy_attack_talent": 8,
     "speed_talent": 8,
     "talent_id": 1
   },
