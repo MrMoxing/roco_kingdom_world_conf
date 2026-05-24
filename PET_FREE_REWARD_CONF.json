@@ -880,5 +880,17 @@
     "free_reward_type": 4,
     "free_unlock_data": 3735,
     "free_reward_id": 969012
+  },
+  {
+    "id": 152,
+    "free_reward_type": 9,
+    "free_unlock_data": 5003,
+    "free_reward_id": 966112
+  },
+  {
+    "id": 153,
+    "free_reward_type": 9,
+    "free_unlock_data": 5004,
+    "free_reward_id": 966113
   }
 ]
