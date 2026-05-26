@@ -67,5 +67,83 @@
         "txt": "欢迎回家，小洛克！你不在的日子里，王国发生了很多变化，无论你离开多久，这里永远是你最温馨的港湾！"
       }
     ]
+  },
+  {
+    "id": 600001,
+    "explain_group": [
+      {
+        "txt": "可以用于炼金造物完成。",
+        "image_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/set_lianjin_b1.set_lianjin_b1'"
+      },
+      {
+        "txt": "可以用于炼金造物完成。",
+        "image_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/set_lianjin_b2.set_lianjin_b2'"
+      }
+    ]
+  },
+  {
+    "id": 600002,
+    "explain_group": [
+      {
+        "txt": "可以用于炼金造物完成。",
+        "image_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/set_lianjin_g1.set_lianjin_g1'"
+      },
+      {
+        "txt": "可以用于炼金造物完成。",
+        "image_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/set_lianjin_g2.set_lianjin_g2'"
+      }
+    ]
+  },
+  {
+    "id": 600003,
+    "explain_group": [
+      {
+        "txt": "可以用于露天对战、部分任务中魔法师对战、黑巫团对战。",
+        "image_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/set_pve_b1.set_pve_b1'"
+      },
+      {
+        "txt": "可以用于露天对战、部分任务中魔法师对战、黑巫团对战。",
+        "image_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/set_pve_b2.set_pve_b2'"
+      }
+    ]
+  },
+  {
+    "id": 600004,
+    "explain_group": [
+      {
+        "txt": "可以用于露天对战、部分任务中魔法师对战、黑巫团对战。",
+        "image_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/set_pve_g1.set_pve_g1'"
+      },
+      {
+        "txt": "可以用于露天对战、部分任务中魔法师对战、黑巫团对战。",
+        "image_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/set_pve_g2.set_pve_g2'"
+      }
+    ]
+  },
+  {
+    "id": 600005,
+    "explain_group": [
+      {
+        "txt": "可以用于切磋、闪耀大赛。",
+        "image_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/pvpb1.pvpb1'"
+      },
+      {
+        "txt": "可以用于切磋、闪耀大赛。",
+        "image_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/pvpb2.pvpb2'"
+      }
+    ]
+  },
+  {
+    "id": 600006,
+    "explain_group": [
+      {
+        "txt": "可以用于切磋、闪耀大赛。",
+        "image_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/pvpg1.pvpg1'"
+      },
+      {
+        "txt": "可以用于切磋、闪耀大赛。",
+        "image_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/pvpg2.pvpg2'"
+      }
+    ]
   }
 ]

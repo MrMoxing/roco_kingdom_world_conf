@@ -1128,5 +1128,20 @@
     "key": "fashion_bagcharm_normal_effect",
     "str": "SkillBlueprint'/Game/ArtRes/Effects/Particle/Scene/Avatar/BaoGua/G6_BaoGua_Common.G6_BaoGua_Common'",
     "is_loc": 2
+  },
+  {
+    "id": 293,
+    "key": "player_pact_alchemy_panel_default",
+    "num": 1
+  },
+  {
+    "id": 294,
+    "key": "player_pact_pvp_lose_normal_default",
+    "num": 1
+  },
+  {
+    "id": 295,
+    "key": "player_pact_pve_win_normal_default",
+    "num": 1
   }
 ]

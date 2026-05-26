@@ -21475,6 +21475,10 @@
     "msg": "关闭日志"
   },
   {
+    "id": "player_animation_customize_title",
+    "msg": "动作详情"
+  },
+  {
     "id": "map_shop_item_marker_text4",
     "msg": "未获得"
   }
