@@ -128,7 +128,7 @@
   {
     "id": 10015,
     "exchange_periodic_limit": 1,
-    "exchange_manufacture_times": 1,
+    "exchange_manufacture_times": 6,
     "refresh_reset_type": 5,
     "refresh_reset_param1": "1 4:00:00",
     "refresh_reset_param2": "2025-02-24 04:00:00",
@@ -137,7 +137,7 @@
   {
     "id": 10016,
     "exchange_periodic_limit": 1,
-    "exchange_manufacture_times": 1,
+    "exchange_manufacture_times": 6,
     "refresh_reset_type": 5,
     "refresh_reset_param1": "1 4:00:00",
     "refresh_reset_param2": "2025-02-24 04:00:00",

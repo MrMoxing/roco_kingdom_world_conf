@@ -87930,7 +87930,7 @@
     "item_quality": 3,
     "acquire_struct": [
       {
-        "acquire_way_text": "「鼠于你的解忧时刻」活动获得",
+        "acquire_way_text": "「解忧扭蛋机」活动获得",
         "text": "ActivityModuleCmd.OpenMainPanel",
         "param3": "4000003"
       }
@@ -88108,7 +88108,7 @@
     "item_quality": 1,
     "acquire_struct": [
       {
-        "acquire_way_text": "「鼠于你的解忧时刻」活动获得"
+        "acquire_way_text": "「解忧扭蛋机」活动获得"
       }
     ]
   },
@@ -88507,7 +88507,7 @@
     "item_quality": 1,
     "acquire_struct": [
       {
-        "acquire_way_text": "「鼠于你的解忧时刻」活动获得",
+        "acquire_way_text": "「解忧扭蛋机」活动获得",
         "text": "ActivityModuleCmd.OpenMainPanel",
         "param3": "4000003"
       }
@@ -88532,7 +88532,7 @@
     "item_quality": 1,
     "acquire_struct": [
       {
-        "acquire_way_text": "「鼠于你的解忧时刻」活动获得",
+        "acquire_way_text": "「解忧扭蛋机」活动获得",
         "text": "ActivityModuleCmd.OpenMainPanel",
         "param3": "4000003"
       }
@@ -88564,7 +88564,7 @@
     "item_quality": 5,
     "acquire_struct": [
       {
-        "acquire_way_text": "「鼠于你的解忧时刻」活动获得",
+        "acquire_way_text": "「解忧扭蛋机」活动获得",
         "text": "ActivityModuleCmd.OpenMainPanel",
         "param3": "4000003"
       }
@@ -107993,7 +107993,7 @@
     "id": 720064,
     "name": "快乐的果实",
     "is_release": true,
-    "description": "在限时活动“鼠于你的解忧时刻”获得的纪念时装，在万事通那里也许也能有发现。",
+    "description": "在限时活动“解忧扭蛋机”获得的纪念时装，在万事通那里也许也能有发现。",
     "flavor_text": "通过观察其花纹可以看出，这不是果实，是调皮的小洛克。",
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Suits/suits1_111.suits1_111'",
     "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Suits/suits1_111.suits1_111'",
@@ -108021,7 +108021,7 @@
     "id": 720065,
     "name": "快乐的果实",
     "is_release": true,
-    "description": "在限时活动“鼠于你的解忧时刻”获得的纪念时装，在万事通那里也许也能有发现。",
+    "description": "在限时活动“解忧扭蛋机”获得的纪念时装，在万事通那里也许也能有发现。",
     "flavor_text": "通过观察其花纹可以看出，这不是果实，是调皮的小洛克。",
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Suits/suits2_111.suits2_111'",
     "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Suits/suits2_111.suits2_111'",

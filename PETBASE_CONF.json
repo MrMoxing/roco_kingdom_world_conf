@@ -39802,7 +39802,10 @@
     "show_area": 10003,
     "npc_id": 50540,
     "world_nature": 1,
-    "world_hide": 3,
+    "world_hide": 5,
+    "world_hide_param": [
+      1
+    ],
     "mimic_target": 20037,
     "substitute_random_skill": 2000,
     "Catch_Threshold_Bonustime": 1,
@@ -40015,6 +40018,11 @@
     "show_area": 10003,
     "npc_id": 50541,
     "world_nature": 1,
+    "world_hide": 5,
+    "world_hide_param": [
+      1
+    ],
+    "mimic_target": 20037,
     "substitute_random_skill": 2000,
     "Catch_Threshold_Bonustime": 1,
     "Catch_Threshold_Bonus": 10000,

@@ -460,6 +460,17 @@
     "channel": 1
   },
   {
+    "id": 63,
+    "editor_name": "家园编辑",
+    "is_open": 1,
+    "is_audit": 1,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
     "id": 65,
     "editor_name": "潘多拉活动功能",
     "is_open": 1,
@@ -620,6 +631,17 @@
     "channel": 1
   },
   {
+    "id": 92,
+    "editor_name": "名片入口",
+    "is_open": 1,
+    "is_audit": 1,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
     "id": 1010000,
     "editor_name": "精灵喂养",
     "parent_id": 1,
@@ -706,6 +728,42 @@
   {
     "id": 1080000,
     "editor_name": "能力砥石修改",
+    "parent_id": 1,
+    "is_open": 1,
+    "is_audit": 1,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
+    "id": 1090000,
+    "editor_name": "精灵昵称（精灵改名",
+    "parent_id": 1,
+    "is_open": 1,
+    "is_audit": 1,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
+    "id": 1100000,
+    "editor_name": "精灵编队改名",
+    "parent_id": 1,
+    "is_open": 1,
+    "is_audit": 1,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
+    "id": 1110000,
+    "editor_name": "精灵盒子名称",
     "parent_id": 1,
     "is_open": 1,
     "is_audit": 1,
@@ -803,6 +861,18 @@
     "id": 3010000,
     "editor_name": "精灵旅行入口",
     "parent_id": 3,
+    "is_audit": 1,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
+    "id": 3020000,
+    "editor_name": "地图标点名称",
+    "parent_id": 3,
+    "is_open": 1,
     "is_audit": 1,
     "login_plat_limit": [
       0
@@ -1549,6 +1619,18 @@
     "channel": 1
   },
   {
+    "id": 10040000,
+    "editor_name": "玩家好友备注",
+    "parent_id": 10,
+    "is_open": 1,
+    "is_audit": 1,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
     "id": 11010000,
     "editor_name": "学院补给",
     "parent_id": 11,
@@ -1671,6 +1753,18 @@
     "id": 14020000,
     "editor_name": "孵化取出入口",
     "parent_id": 14,
+    "is_open": 1,
+    "is_audit": 1,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
+    "id": 18010000,
+    "editor_name": "时装自定义搭配改名",
+    "parent_id": 18,
     "is_open": 1,
     "is_audit": 1,
     "login_plat_limit": [
@@ -2378,6 +2472,29 @@
     "channel": 1
   },
   {
+    "id": 58010000,
+    "editor_name": "家园房间命名",
+    "parent_id": 58,
+    "is_open": 1,
+    "is_audit": 1,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
+    "id": 63010000,
+    "editor_name": "家园布局",
+    "parent_id": 63,
+    "is_audit": 1,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
     "id": 66010000,
     "editor_name": "孵蛋提醒",
     "parent_id": 66,
@@ -2698,6 +2815,30 @@
     "editor_name": "闪耀周末阵容相关界面",
     "parent_id": 81,
     "is_open": 1,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
+    "id": 92000001,
+    "editor_name": "个人昵称",
+    "parent_id": 92,
+    "is_open": 1,
+    "is_audit": 1,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
+    "id": 92000002,
+    "editor_name": "个人签名",
+    "parent_id": 92,
+    "is_open": 1,
+    "is_audit": 1,
     "login_plat_limit": [
       0
     ],

@@ -98907,16 +98907,19 @@
         "data": 2
       },
       {
-        "blackboard_name": "[BB_Stun]_SkipStateEnd",
-        "annotation": "跳过状态结束#选中后不会执行状态结束",
-        "data_type": 3,
-        "data": 1
+        "blackboard_name": "[BB_Rest]_AnimChance3",
+        "annotation": "Show概率#百分数，注意流程为瀑布式，后顺位实际概率低于标称",
+        "data_type": 2,
+        "data": 5000,
+        "additional_para": [
+          100
+        ]
       },
       {
-        "blackboard_name": "[BB_Stun]_Duration",
-        "annotation": "晕眩时长#单位为秒",
+        "blackboard_name": "[BB_Rest]_AnimChance2",
+        "annotation": "Happy概率#百分数，注意流程为瀑布式，后顺位实际概率低于标称",
         "data_type": 2,
-        "data": 300,
+        "data": 3300,
         "additional_para": [
           100
         ]
@@ -98972,10 +98975,10 @@
         ]
       },
       {
-        "blackboard_name": "[BB_Flee]_ReleaseDis",
-        "annotation": "逃跑距离#超过此设置时删除Npc。单位为cm",
+        "blackboard_name": "[BB_Sleep]_Duration",
+        "annotation": "睡眠持续时间#单位为秒",
         "data_type": 2,
-        "data": 250000,
+        "data": 6000,
         "additional_para": [
           100
         ]
@@ -99005,10 +99008,10 @@
         "data": 1
       },
       {
-        "blackboard_name": "[BB_Flee]_ReleaseTime",
-        "annotation": "逃跑时间#超过此设置时删除Npc。单位为秒",
+        "blackboard_name": "[BB_Rest]_AnimChance1",
+        "annotation": "Relax概率#百分数，注意流程为瀑布式，后顺位实际概率低于标称",
         "data_type": 2,
-        "data": 750,
+        "data": 2500,
         "additional_para": [
           100
         ]
@@ -99068,6 +99071,39 @@
         ]
       },
       {
+        "blackboard_name": "[BB_Flee]_ReleaseDis",
+        "annotation": "逃跑距离#超过此设置时删除Npc。单位为cm",
+        "data_type": 2,
+        "data": 250000,
+        "additional_para": [
+          100
+        ]
+      },
+      {
+        "blackboard_name": "[BB_Flee]_ReleaseTime",
+        "annotation": "逃跑时间#超过此设置时删除Npc。单位为秒",
+        "data_type": 2,
+        "data": 750,
+        "additional_para": [
+          100
+        ]
+      },
+      {
+        "blackboard_name": "[BB_Stun]_Duration",
+        "annotation": "晕眩时长#单位为秒",
+        "data_type": 2,
+        "data": 500,
+        "additional_para": [
+          100
+        ]
+      },
+      {
+        "blackboard_name": "[BB_Stun]_SkipStateEnd",
+        "annotation": "跳过状态结束#选中后不会执行状态结束",
+        "data_type": 3,
+        "data": 1
+      },
+      {
         "blackboard_name": "[BB_ApproachNew]_FollowDistance",
         "annotation": "追随距离",
         "data_type": 2,
@@ -99082,34 +99118,16 @@
         "data_type": 3
       },
       {
-        "blackboard_name": "[BB_Rest]_AnimChance1",
-        "annotation": "概率1",
-        "data_type": 2,
-        "data": 3300,
-        "additional_para": [
-          100
-        ]
+        "blackboard_name": "[BB_BeforeHidden_Flee]_MovType",
+        "annotation": "移动方式#0-根据配置速度自适应，1-走路，2-奔跑",
+        "data_type": 1,
+        "data": 2
       },
       {
-        "blackboard_name": "[BB_BeforeHidden_Flee]_SkipEnd",
-        "annotation": "跳过状态结束",
-        "data_type": 3,
-        "data": 1
-      },
-      {
-        "blackboard_name": "[BB_BeforeHidden_Flee]_MinFleeRange",
-        "annotation": "最小逃跑距离",
+        "blackboard_name": "[BB_BeforeHidden_Flee]_Spd",
+        "annotation": "移动速度#仅在移动方式为自适应时生效",
         "data_type": 2,
-        "data": 100000,
-        "additional_para": [
-          100
-        ]
-      },
-      {
-        "blackboard_name": "[BB_Rest]_AnimChance2",
-        "annotation": "概率2",
-        "data_type": 2,
-        "data": 5000,
+        "data": 50000,
         "additional_para": [
           100
         ]
@@ -99124,14 +99142,23 @@
         ]
       },
       {
-        "blackboard_name": "[BB_RoarUI]_Skip10005",
-        "annotation": "跳过发送群组事件“动手”",
+        "blackboard_name": "[BB_BeforeHidden_Flee]_MinFleeRange",
+        "annotation": "最小逃跑距离",
+        "data_type": 2,
+        "data": 100000,
+        "additional_para": [
+          100
+        ]
+      },
+      {
+        "blackboard_name": "[BB_BeforeHidden_Flee]_Skip",
+        "annotation": "跳过吃惊",
         "data_type": 3,
         "data": 1
       },
       {
-        "blackboard_name": "[BB_RoarUI]_Time",
-        "annotation": "时间",
+        "blackboard_name": "[BB_BeforeHidden_Flee]_Duration",
+        "annotation": "惊了时间",
         "data_type": 2,
         "data": 100,
         "additional_para": [
@@ -99139,105 +99166,20 @@
         ]
       },
       {
-        "blackboard_name": "[BB_RoarUI]_skip",
+        "blackboard_name": "[BB_BeforeHidden_Flee]_SkipEnd",
         "annotation": "跳过状态结束",
         "data_type": 3,
         "data": 1
       },
       {
-        "blackboard_name": "[BB_QuickAttack]_Dmg",
-        "annotation": "魔力伤害",
-        "data_type": 1,
-        "data": 1
-      },
-      {
-        "blackboard_name": "[BB_QuickAttack]_IsHeavy",
-        "annotation": "是否重击",
-        "data_type": 3
-      },
-      {
-        "blackboard_name": "[BB_QuickAttack]_HitBoxRange",
-        "annotation": "判定范围",
-        "data_type": 2,
-        "data": 5000,
-        "additional_para": [
-          100
-        ]
-      },
-      {
-        "blackboard_name": "[BB_QuickAttack]_HitStrength",
-        "annotation": "撞击力度",
-        "data_type": 2,
-        "data": 2500,
-        "additional_para": [
-          100
-        ]
-      },
-      {
-        "blackboard_name": "[BB_QuickAttack]_ChaseDistance",
-        "annotation": "追击距离--与追击起点的距离",
-        "data_type": 2,
-        "data": 200000,
-        "additional_para": [
-          100
-        ]
-      },
-      {
-        "blackboard_name": "[BB_QuickAttack]_ToDistance",
-        "annotation": "远离出生点距离",
-        "data_type": 2,
-        "data": 250000,
-        "additional_para": [
-          100
-        ]
-      },
-      {
-        "blackboard_name": "[BB_QuickAttack]_SkipClear",
-        "annotation": "跳过清空感知状态切换",
-        "data_type": 3,
-        "data": 1
-      },
-      {
-        "blackboard_name": "[BB_RoarUI]_SkipTurn",
-        "annotation": "跳过转向玩家",
+        "blackboard_name": "[BB_Rest]_SkipHappy",
+        "annotation": "跳过快乐",
         "data_type": 3
       },
       {
         "blackboard_name": "[BB_Patrol]_Group_Type",
         "annotation": "寻找群组成员，从而倾向群组成员巡逻#1-首领，2-打手，3-小弟，4-宿敌A，5-宿敌B，6-亲友A，7-亲友B",
         "data_type": 1
-      },
-      {
-        "blackboard_name": "[BB_QuickAttack]_SkipClearCon",
-        "annotation": "跳过清空攻击状态切换次数",
-        "data_type": 3,
-        "data": 1
-      },
-      {
-        "blackboard_name": "[BB_QuickAttack]_ToPlayerDistance",
-        "annotation": "追击距离--与玩家的距离",
-        "data_type": 2,
-        "data": 250000,
-        "additional_para": [
-          100
-        ]
-      },
-      {
-        "blackboard_name": "[BB_QuickAttack]_SkipGroup10010",
-        "annotation": "跳过发送群落事件10010",
-        "data_type": 3,
-        "data": 1
-      },
-      {
-        "blackboard_name": "[BB_QuickAttack]_SkipChase",
-        "annotation": "跳过攻击追击",
-        "data_type": 3,
-        "data": 1
-      },
-      {
-        "blackboard_name": "[BB_QuickAttack]_SkipShow",
-        "annotation": "跳过战后小表演",
-        "data_type": 3
       },
       {
         "blackboard_name": "[BB_ForceLeave]_ForceDistance",
@@ -99255,28 +99197,9 @@
         "data": 1
       },
       {
-        "blackboard_name": "[BB_Roar]_skip",
-        "annotation": "跳过状态结束",
-        "data_type": 3
-      },
-      {
         "blackboard_name": "[BB_LittleStun]_SkipStateEnd",
         "annotation": "跳过状态结束",
         "data_type": 3
-      },
-      {
-        "blackboard_name": "[BB_Rest]_SkipHappy",
-        "annotation": "跳过音符",
-        "data_type": 3
-      },
-      {
-        "blackboard_name": "[BB_Rest]_AnimChance3",
-        "annotation": "概率3",
-        "data_type": 2,
-        "data": 5000,
-        "additional_para": [
-          100
-        ]
       },
       {
         "blackboard_name": "[BB_PreAttack_Called_PartnerSheep]_Skill",
@@ -99285,11 +99208,6 @@
       {
         "blackboard_name": "[BB_PreAttack_Called_Suit_Kaluoer]_Skill",
         "data_type": 1
-      },
-      {
-        "blackboard_name": "[BB_RoarUI]_Random",
-        "annotation": "是否随机",
-        "data_type": 3
       }
     ]
   },
@@ -268480,7 +268398,6 @@
   },
   {
     "id": 5199,
-    "editor_name": "饮雪狂兽",
     "blackboard_input": [
       {
         "blackboard_name": "Global_PatrolCount",

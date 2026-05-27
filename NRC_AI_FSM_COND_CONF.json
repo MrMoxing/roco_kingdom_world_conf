@@ -16067,11 +16067,6 @@
         "cond_type": 52,
         "cond_op": 6,
         "cond_value": 1
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -16136,11 +16131,6 @@
         "cond_type": 59,
         "cond_op": 2,
         "cond_value": 1401
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -16200,11 +16190,6 @@
         "cond_type": 52,
         "cond_op": 6,
         "cond_value": 1
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -16247,11 +16232,6 @@
         "cond_type": 52,
         "cond_op": 6,
         "cond_value": 1
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -16304,11 +16284,6 @@
         "cond_type": 59,
         "cond_op": 2,
         "cond_value": 1401
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 1001,
-        "cond_value": 60000
       }
     ]
   },
@@ -16384,11 +16359,6 @@
         "cond_type": 52,
         "cond_op": 6,
         "cond_value": 1
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -16464,11 +16434,6 @@
         "cond_type": 52,
         "cond_op": 6,
         "cond_value": 1
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -16534,11 +16499,6 @@
         "cond_type": 59,
         "cond_op": 2,
         "cond_value": 1401
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -16631,11 +16591,6 @@
         "cond_type": 59,
         "cond_op": 2,
         "cond_value": 1401
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -16701,11 +16656,6 @@
         "cond_type": 59,
         "cond_op": 2,
         "cond_value": 1401
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 1001,
-        "cond_value": 60000
       }
     ]
   },
@@ -16771,11 +16721,6 @@
         "cond_type": 59,
         "cond_op": 2,
         "cond_value": 1401
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -16841,11 +16786,6 @@
         "cond_type": 59,
         "cond_op": 2,
         "cond_value": 1401
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -16911,11 +16851,6 @@
         "cond_type": 59,
         "cond_op": 2,
         "cond_value": 1401
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -16994,11 +16929,6 @@
         "cond_type": 59,
         "cond_op": 2,
         "cond_value": 1401
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -17144,11 +17074,6 @@
         "cond_type": 59,
         "cond_op": 2,
         "cond_value": 1401
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -18058,11 +17983,6 @@
         "cond_type": 13,
         "cond_op": 2,
         "cond_value": 30
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -18133,11 +18053,6 @@
         "cond_type": 13,
         "cond_op": 2,
         "cond_value": 30
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -18208,11 +18123,6 @@
         "cond_type": 13,
         "cond_op": 2,
         "cond_value": 30
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -18283,11 +18193,6 @@
         "cond_type": 13,
         "cond_op": 2,
         "cond_value": 30
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -18358,11 +18263,6 @@
         "cond_type": 13,
         "cond_op": 2,
         "cond_value": 30
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -18433,11 +18333,6 @@
         "cond_type": 13,
         "cond_op": 2,
         "cond_value": 30
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 1001,
-        "cond_value": 60000
       }
     ]
   },
@@ -18508,11 +18403,6 @@
         "cond_type": 13,
         "cond_op": 2,
         "cond_value": 30
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -18580,11 +18470,6 @@
         "cond_type": 13,
         "cond_op": 2,
         "cond_value": 30
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -18657,11 +18542,6 @@
         "cond_type": 13,
         "cond_op": 2,
         "cond_value": 30
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -18734,11 +18614,6 @@
         "cond_type": 13,
         "cond_op": 2,
         "cond_value": 30
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },
@@ -18811,11 +18686,6 @@
         "cond_type": 13,
         "cond_op": 2,
         "cond_value": 30
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 2002,
-        "cond_value": 60000
       }
     ]
   },

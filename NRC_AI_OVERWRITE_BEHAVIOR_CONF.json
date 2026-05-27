@@ -7493,7 +7493,8 @@
         "editor_name": "跳跃",
         "state_in_cond_id": 30116,
         "overwrite_state": [
-          8
+          8,
+          7
         ],
         "behavior_id": 3008978,
         "state_out_cond_id": 1,
@@ -11398,21 +11399,52 @@
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "behavior_id": 2302772,
+        "overwrite_state": [
+          6,
+          5,
+          4,
+          3,
+          1,
+          2,
+          9,
+          11,
+          12,
+          10,
+          13,
+          15,
+          14,
+          8,
+          7
+        ],
+        "behavior_id": 2304059,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
-        "state_out_return_num": 187,
+        "state_out_return_num": 186,
         "overwrite_group_behavior": true
       },
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "behavior_id": 2304059,
+        "behavior_id": 2306676,
         "state_out_cond_id": 1,
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
       },
       {
+        "editor_name": "咕噜球保底交互",
+        "state_in_cond_id": 38010,
+        "overwrite_state": [
+          8,
+          7,
+          3,
+          6,
+          5
+        ],
+        "behavior_id": 2306739,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 183,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
       {
@@ -11421,8 +11453,10 @@
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "behavior_id": 2303415,
+        "behavior_id": 2306964,
         "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 186,
         "overwrite_group_behavior": true
       },
       {},
@@ -11431,7 +11465,7 @@
       {
         "editor_name": "被绝缘球捕捉",
         "state_in_cond_id": 23113,
-        "behavior_id": 2306676,
+        "behavior_id": 2306965,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_priority": 1,
@@ -11441,7 +11475,7 @@
       {
         "editor_name": "被变幻球捕捉",
         "state_in_cond_id": 23115,
-        "behavior_id": 2306739,
+        "behavior_id": 2306966,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_priority": 1,
@@ -13897,19 +13931,6 @@
         "overwrite_priority": 1,
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "新的覆写",
-        "state_in_cond_id": 90,
-        "behavior_id": 2306962,
-        "state_out_cond_id": 1,
-        "state_out_return_type": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
       }
     ]
   },
@@ -13953,19 +13974,6 @@
         "overwrite_priority": 1,
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "新的覆写",
-        "state_in_cond_id": 90,
-        "behavior_id": 2306963,
-        "state_out_cond_id": 1,
-        "state_out_return_type": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
       }
     ]
   },
@@ -14006,19 +14014,6 @@
         "state_in_cond_id": 23110,
         "behavior_id": 2305747,
         "state_out_cond_id": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "新的覆写",
-        "state_in_cond_id": 90,
-        "behavior_id": 2306964,
-        "state_out_cond_id": 1,
-        "state_out_return_type": 1,
         "overwrite_priority": 1,
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
@@ -24631,19 +24626,6 @@
         "overwrite_priority": 1,
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "新的覆写",
-        "state_in_cond_id": 90,
-        "behavior_id": 2306965,
-        "state_out_cond_id": 1,
-        "state_out_return_type": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
       }
     ]
   },
@@ -24683,19 +24665,6 @@
         "state_in_cond_id": 23110,
         "behavior_id": 2305775,
         "state_out_cond_id": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "新的覆写",
-        "state_in_cond_id": 90,
-        "behavior_id": 2306966,
-        "state_out_cond_id": 1,
-        "state_out_return_type": 1,
         "overwrite_priority": 1,
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
@@ -30124,6 +30093,54 @@
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_priority": 3,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 5198,
+    "behavior_group": [
+      {},
+      {},
+      {
+        "editor_name": "咕噜球保底交互",
+        "state_in_cond_id": 38010,
+        "overwrite_state": [
+          8,
+          7,
+          3,
+          6,
+          5
+        ],
+        "behavior_id": 2306963,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 55,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 5199,
+    "behavior_group": [
+      {},
+      {},
+      {
+        "editor_name": "咕噜球保底交互",
+        "state_in_cond_id": 38010,
+        "overwrite_state": [
+          8,
+          7,
+          3,
+          6,
+          5
+        ],
+        "behavior_id": 2309024,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 55,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       }
     ]

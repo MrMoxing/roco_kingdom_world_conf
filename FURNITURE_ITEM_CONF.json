@@ -15,7 +15,7 @@
     "Funiture_ui_percentage": 10000,
     "Funiture_ui_init_location": "0;0;250",
     "Funiture_ui_init_rotation": "0;0;0",
-    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1000013.1000013'"
+    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1000013.1000013';1686;633"
   },
   {
     "id": 1000014,
@@ -33,7 +33,7 @@
     "Funiture_ui_percentage": 10000,
     "Funiture_ui_init_location": "0;0;250",
     "Funiture_ui_init_rotation": "0;0;0",
-    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1000014.1000014'"
+    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1000014.1000014';1686;633"
   },
   {
     "id": 1001011,
@@ -1983,7 +1983,7 @@
     "Funiture_ui_percentage": 10000,
     "Funiture_ui_init_location": "-1;0;1000",
     "Funiture_ui_init_rotation": "7998;0;0",
-    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1002142.1002142'"
+    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1002142.1002142';945;648"
   },
   {
     "id": 1002143,
@@ -2001,7 +2001,7 @@
     "Funiture_ui_percentage": 10000,
     "Funiture_ui_init_location": "-1;0;1000",
     "Funiture_ui_init_rotation": "7998;0;0",
-    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1002143.1002143'"
+    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1002143.1002143';945;648"
   },
   {
     "id": 1002144,
@@ -2018,7 +2018,7 @@
     "Funiture_ui_percentage": 10000,
     "Funiture_ui_init_location": "-1;0;1000",
     "Funiture_ui_init_rotation": "7998;0;0",
-    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1002144.1002144'"
+    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1002144.1002144';945;648"
   },
   {
     "id": 1002145,
@@ -2036,7 +2036,7 @@
     "Funiture_ui_percentage": 10000,
     "Funiture_ui_init_location": "-1;0;1000",
     "Funiture_ui_init_rotation": "7998;0;0",
-    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1002145.1002145'"
+    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1002145.1002145';945;648"
   },
   {
     "id": 1002146,
@@ -2054,7 +2054,7 @@
     "Funiture_ui_percentage": 10000,
     "Funiture_ui_init_location": "-1;0;1000",
     "Funiture_ui_init_rotation": "7998;0;0",
-    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1002146.1002146'"
+    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1002146.1002146';945;648"
   },
   {
     "id": 1002147,
@@ -2072,7 +2072,7 @@
     "Funiture_ui_percentage": 10000,
     "Funiture_ui_init_location": "-1;0;1000",
     "Funiture_ui_init_rotation": "7998;0;0",
-    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1002147.1002147'"
+    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1002147.1002147';945;648"
   },
   {
     "id": 1002148,
@@ -2090,7 +2090,7 @@
     "Funiture_ui_percentage": 10000,
     "Funiture_ui_init_location": "-1;0;1000",
     "Funiture_ui_init_rotation": "7998;0;0",
-    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1002148.1002148'"
+    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1002148.1002148';945;648"
   },
   {
     "id": 1002149,
@@ -2108,7 +2108,7 @@
     "Funiture_ui_percentage": 10000,
     "Funiture_ui_init_location": "-1;0;1000",
     "Funiture_ui_init_rotation": "7998;0;0",
-    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1002149.1002149'"
+    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1002149.1002149';945;648"
   },
   {
     "id": 1002150,
@@ -2126,7 +2126,7 @@
     "Funiture_ui_percentage": 10000,
     "Funiture_ui_init_location": "-1;0;1000",
     "Funiture_ui_init_rotation": "7998;0;0",
-    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1002150.1002150'"
+    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1002150.1002150';945;648"
   },
   {
     "id": 1002151,
@@ -3122,7 +3122,7 @@
     "Funiture_ui_percentage": 10000,
     "Funiture_ui_init_location": "-1;0;1000",
     "Funiture_ui_init_rotation": "7998;0;0",
-    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1003261.1003261'"
+    "parameter": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Textures/1003261.1003261';945;648"
   },
   {
     "id": 1003271,

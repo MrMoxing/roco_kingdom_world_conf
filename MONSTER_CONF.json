@@ -135524,6 +135524,9 @@
       60
     ],
     "defeat_award": 970118,
+    "exp_award_throwcatch_stage": [
+      60
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_friend",
     "pre_type": 1,
     "pre_num": [
@@ -135579,6 +135582,9 @@
       150
     ],
     "defeat_award": 970318,
+    "exp_award_throwcatch_stage": [
+      150
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_friend",
     "pre_type": 1,
     "pre_num": [
@@ -143169,6 +143175,9 @@
       160
     ],
     "defeat_award": 970115,
+    "exp_award_throwcatch_stage": [
+      160
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Damage_friend",
     "pre_type": 1,
     "pre_num": [
@@ -143224,6 +143233,9 @@
       160
     ],
     "defeat_award": 970215,
+    "exp_award_throwcatch_stage": [
+      160
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Damage_friend",
     "pre_type": 1,
     "pre_num": [
@@ -143279,6 +143291,9 @@
       160
     ],
     "defeat_award": 970315,
+    "exp_award_throwcatch_stage": [
+      160
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Damage_friend",
     "pre_type": 1,
     "pre_num": [
@@ -148208,6 +148223,9 @@
       70
     ],
     "defeat_award": 970105,
+    "exp_award_throwcatch_stage": [
+      70
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_enemy",
     "pre_type": 1,
     "pre_num": [
@@ -148261,6 +148279,9 @@
       120
     ],
     "defeat_award": 970205,
+    "exp_award_throwcatch_stage": [
+      120
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_enemy",
     "pre_type": 1,
     "pre_num": [
@@ -148314,6 +148335,9 @@
       160
     ],
     "defeat_award": 970305,
+    "exp_award_throwcatch_stage": [
+      160
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_enemy",
     "pre_type": 1,
     "pre_num": [
@@ -150534,6 +150558,9 @@
       70
     ],
     "defeat_award": 970109,
+    "exp_award_throwcatch_stage": [
+      70
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Damage_enemy",
     "pre_type": 1,
     "pre_num": [
@@ -150587,6 +150614,9 @@
       160
     ],
     "defeat_award": 970309,
+    "exp_award_throwcatch_stage": [
+      160
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Damage_enemy",
     "pre_type": 1,
     "pre_num": [
@@ -152722,6 +152752,9 @@
       70
     ],
     "defeat_award": 970102,
+    "exp_award_throwcatch_stage": [
+      70
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Defend_enemy",
     "pre_type": 1,
     "pre_num": [
@@ -152775,6 +152808,9 @@
       160
     ],
     "defeat_award": 970302,
+    "exp_award_throwcatch_stage": [
+      160
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Defend_enemy",
     "pre_type": 1,
     "pre_num": [
@@ -157043,6 +157079,9 @@
       60
     ],
     "defeat_award": 970103,
+    "exp_award_throwcatch_stage": [
+      60
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_friend",
     "pre_type": 1,
     "pre_num": [
@@ -157097,6 +157136,9 @@
       110
     ],
     "defeat_award": 970203,
+    "exp_award_throwcatch_stage": [
+      110
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_friend",
     "pre_type": 1,
     "pre_num": [
@@ -157871,6 +157913,9 @@
       70
     ],
     "defeat_award": 970102,
+    "exp_award_throwcatch_stage": [
+      70
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_friend",
     "pre_type": 1,
     "pre_num": [
@@ -157925,6 +157970,9 @@
       160
     ],
     "defeat_award": 970302,
+    "exp_award_throwcatch_stage": [
+      160
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_friend",
     "pre_type": 1,
     "pre_num": [
@@ -158159,6 +158207,9 @@
       60
     ],
     "defeat_award": 970106,
+    "exp_award_throwcatch_stage": [
+      60
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_ignore",
     "pre_type": 1,
     "pre_num": [
@@ -158213,6 +158264,9 @@
       150
     ],
     "defeat_award": 970306,
+    "exp_award_throwcatch_stage": [
+      150
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_ignore",
     "pre_type": 1,
     "pre_num": [
@@ -159326,6 +159380,9 @@
       60
     ],
     "defeat_award": 970117,
+    "exp_award_throwcatch_stage": [
+      60
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_friend",
     "pre_type": 1,
     "pre_num": [
@@ -159380,6 +159437,9 @@
       150
     ],
     "defeat_award": 970317,
+    "exp_award_throwcatch_stage": [
+      150
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_friend",
     "pre_type": 1,
     "pre_num": [
@@ -160397,6 +160457,9 @@
       60
     ],
     "defeat_award": 970107,
+    "exp_award_throwcatch_stage": [
+      60
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Defend_ignore",
     "pre_type": 1,
     "pre_num": [
@@ -160451,6 +160514,9 @@
       110
     ],
     "defeat_award": 970207,
+    "exp_award_throwcatch_stage": [
+      110
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Defend_ignore",
     "pre_type": 1,
     "pre_num": [
@@ -160595,6 +160661,9 @@
       160
     ],
     "defeat_award": 970117,
+    "exp_award_throwcatch_stage": [
+      160
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Defend_friend",
     "pre_type": 1,
     "pre_num": [
@@ -160649,6 +160718,9 @@
       160
     ],
     "defeat_award": 970217,
+    "exp_award_throwcatch_stage": [
+      160
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Defend_friend",
     "pre_type": 1,
     "pre_num": [
@@ -160703,6 +160775,9 @@
       160
     ],
     "defeat_award": 970317,
+    "exp_award_throwcatch_stage": [
+      160
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Defend_friend",
     "pre_type": 1,
     "pre_num": [
@@ -160757,6 +160832,9 @@
       70
     ],
     "defeat_award": 970118,
+    "exp_award_throwcatch_stage": [
+      70
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_friend",
     "pre_type": 1,
     "pre_num": [
@@ -160811,6 +160889,9 @@
       160
     ],
     "defeat_award": 970318,
+    "exp_award_throwcatch_stage": [
+      160
+    ],
     "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_friend",
     "pre_type": 1,
     "pre_num": [
@@ -161948,6 +162029,9 @@
       110
     ],
     "defeat_award": 970203,
+    "exp_award_throwcatch_stage": [
+      110
+    ],
     "mf_behavior_tree_fight": "MFBT_BattleAI_Skill_PVE",
     "pre_type": 1,
     "pre_num": [

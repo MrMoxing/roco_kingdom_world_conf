@@ -1105,6 +1105,10 @@
       {
         "next_state_id": 72,
         "state_cond_id": 23117
+      },
+      {
+        "next_state_id": 121,
+        "state_cond_id": 5
       }
     ]
   },
@@ -1471,7 +1475,7 @@
     "editor_name": [
       "拍照互动",
       "【上线版本】跟随日常内层",
-      "1128874470"
+      "1132675583"
     ],
     "state_type": 10,
     "level": 2,
@@ -1495,7 +1499,7 @@
     "editor_name": [
       "外部互动",
       "【上线版本】跟随日常内层",
-      "1107771662"
+      "1102070013"
     ],
     "state_type": 3,
     "level": 2,
@@ -1510,6 +1514,10 @@
       },
       {
         "next_state_id": 62,
+        "state_cond_id": 5
+      },
+      {
+        "next_state_id": 121,
         "state_cond_id": 5
       }
     ]
@@ -2414,6 +2422,30 @@
       {
         "next_state_id": 88,
         "state_cond_id": 1
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "editor_name": [
+      "特殊互动",
+      "【上线版本】跟随日常内层",
+      "1131495706"
+    ],
+    "state_type": 7,
+    "level": 2,
+    "fsm_state": [
+      {
+        "next_state_id": 73,
+        "state_cond_id": 5
+      },
+      {
+        "next_state_id": 55,
+        "state_cond_id": 5
+      },
+      {
+        "next_state_id": 62,
+        "state_cond_id": 5
       }
     ]
   },

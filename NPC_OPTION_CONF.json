@@ -180250,8 +180250,10 @@
   {
     "id": 220339,
     "editor_name": "S2-马戏团-奇趣球商店",
-    "online_process": 2,
+    "online_process": 3,
     "monitor_data_version": 100,
+    "online_process_same_time": 1,
+    "IgnoreTaskVisitRules": true,
     "option_priority": 1,
     "option_auto": 1,
     "dialogue_transmission_2P": true,

@@ -91,27 +91,47 @@
     "point_reward": [
       {
         "point_required": 500,
-        "reward": 88000207,
+        "reward": 88000215,
         "reward_text": "认可度达到500"
       },
       {
         "point_required": 1000,
-        "reward": 88000209,
+        "reward": 88000227,
         "reward_text": "认可度达到1000"
       },
       {
         "point_required": 1500,
-        "reward": 88000210,
+        "reward": 88000228,
         "reward_text": "认可度达到1500"
       },
       {
         "point_required": 2000,
-        "reward": 88000211,
+        "reward": 88000229,
         "reward_text": "认可度达到2000"
       },
       {
+        "point_required": 2100,
+        "reward": 88000222,
+        "reward_text": "认可度达到2100"
+      },
+      {
+        "point_required": 2200,
+        "reward": 88000223,
+        "reward_text": "认可度达到2200"
+      },
+      {
+        "point_required": 2300,
+        "reward": 88000224,
+        "reward_text": "认可度达到2300"
+      },
+      {
+        "point_required": 2400,
+        "reward": 88000225,
+        "reward_text": "认可度达到2400"
+      },
+      {
         "point_required": 2500,
-        "reward": 88000212,
+        "reward": 88000226,
         "reward_text": "认可度达到2500"
       }
     ]
@@ -130,27 +150,47 @@
     "point_reward": [
       {
         "point_required": 500,
-        "reward": 88000208,
+        "reward": 88000216,
         "reward_text": "认可度达到500"
       },
       {
         "point_required": 1000,
-        "reward": 88000209,
+        "reward": 88000219,
         "reward_text": "认可度达到1000"
       },
       {
         "point_required": 1500,
-        "reward": 88000210,
+        "reward": 88000220,
         "reward_text": "认可度达到1500"
       },
       {
         "point_required": 2000,
-        "reward": 88000211,
+        "reward": 88000221,
         "reward_text": "认可度达到2000"
       },
       {
+        "point_required": 2100,
+        "reward": 88000222,
+        "reward_text": "认可度达到2100"
+      },
+      {
+        "point_required": 2200,
+        "reward": 88000223,
+        "reward_text": "认可度达到2200"
+      },
+      {
+        "point_required": 2300,
+        "reward": 88000224,
+        "reward_text": "认可度达到2300"
+      },
+      {
+        "point_required": 2400,
+        "reward": 88000225,
+        "reward_text": "认可度达到2400"
+      },
+      {
         "point_required": 2500,
-        "reward": 88000212,
+        "reward": 88000226,
         "reward_text": "认可度达到2500"
       }
     ]

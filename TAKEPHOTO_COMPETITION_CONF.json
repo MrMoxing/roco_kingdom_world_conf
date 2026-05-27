@@ -32,7 +32,7 @@
   },
   {
     "id": 10012,
-    "name": "孩子王大作战",
+    "name": "小游戏大冒险",
     "desc": "主题情景：力量仪、竞速赛，卡洛西亚大陆欢乐多。好伙伴、小精灵，争做小游戏王中王。",
     "poster": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityTakePhotoCompetition/Textures/img_S2Bg.img_S2Bg'",
     "card": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityTakePhotoCompetition/Textures/img_CardS2.img_CardS2'",
@@ -40,7 +40,7 @@
     "end_time": "2026-06-06 03:59:59",
     "preparation_start_time": "2026-05-30 04:00:00",
     "preparation_end_time": "2026-06-01 00:00:00",
-    "competition_start_time": "2026-06-01 10:00:00",
+    "competition_start_time": "2026-06-01 06:00:00",
     "competition_end_time": "2026-06-06 00:00:00",
     "judge_reward_id": [
       1001,
@@ -71,7 +71,7 @@
     "end_time": "2026-06-13 03:59:59",
     "preparation_start_time": "2026-06-06 04:00:00",
     "preparation_end_time": "2026-06-08 00:00:00",
-    "competition_start_time": "2026-06-08 10:00:00",
+    "competition_start_time": "2026-06-08 06:00:00",
     "competition_end_time": "2026-06-13 00:00:00",
     "judge_reward_id": [
       1001,
@@ -102,7 +102,7 @@
     "end_time": "2026-06-20 03:59:59",
     "preparation_start_time": "2026-06-13 04:00:00",
     "preparation_end_time": "2026-06-15 00:00:00",
-    "competition_start_time": "2026-06-15 10:00:00",
+    "competition_start_time": "2026-06-15 06:00:00",
     "competition_end_time": "2026-06-20 00:00:00",
     "judge_reward_id": [
       1001,
@@ -133,7 +133,7 @@
     "end_time": "2026-06-27 03:59:59",
     "preparation_start_time": "2026-06-20 04:00:00",
     "preparation_end_time": "2026-06-22 00:00:00",
-    "competition_start_time": "2026-06-22 10:00:00",
+    "competition_start_time": "2026-06-22 06:00:00",
     "competition_end_time": "2026-06-27 00:00:00",
     "judge_reward_id": [
       1001,
@@ -164,7 +164,7 @@
     "end_time": "2026-07-04 03:59:59",
     "preparation_start_time": "2026-06-27 04:00:00",
     "preparation_end_time": "2026-06-29 00:00:00",
-    "competition_start_time": "2026-06-29 10:00:00",
+    "competition_start_time": "2026-06-29 06:00:00",
     "competition_end_time": "2026-07-04 00:00:00",
     "judge_reward_id": [
       1001,
@@ -195,7 +195,7 @@
     "end_time": "2026-07-11 03:59:59",
     "preparation_start_time": "2026-07-04 04:00:00",
     "preparation_end_time": "2026-07-06 00:00:00",
-    "competition_start_time": "2026-07-06 10:00:00",
+    "competition_start_time": "2026-07-06 06:00:00",
     "competition_end_time": "2026-07-11 00:00:00",
     "judge_reward_id": [
       1001,
